@@ -22,6 +22,7 @@ from pagebot.conditions import *
 # Path to markdown file, including Python code blocks.
 MD_PATH = u"DesignDesignSpace.md"
 NAME = 'designdesignspace'
+DOMAIN = 'designdesign.space'
 
 # Create an unbound Typesetter instance (trying to find a Poster
 # (inheriting from Document) instance in one of the codeblock results. 
@@ -72,14 +73,20 @@ if 1:
     view.style['viewGridStroke'] = (0, 0, 1)
     view.style['viewGridStrokeWidth'] = 0.5
 
-view = t.doc.getView('Mamp')
+if 0:
+    view = t.doc.getView('Mamp')
 
-if not os.path.exists(view.EXPORT_PATH):
-    print 'The local MAMP server application does not exist. Download and in stall from %s.' % view.MAMP_SHOP_URL 
-    os.system(u'open %s' % view.MAMP_SHOP_URL)
+    if not os.path.exists(view.EXPORT_PATH):
+        print 'The local MAMP server application does not exist. Download and in stall from %s.' % view.MAMP_SHOP_URL 
+        os.system(u'open %s' % view.MAMP_SHOP_URL)
+    else:
+        t.doc.build(NAME, viewId='Mamp')
+        os.system(u'open "%s"' % view.getUrl(NAME))
 else:
-    t.doc.build(NAME)
+    view = t.doc.getView('Git')
+    print 'assasas', view
+    t.doc.build(NAME, viewId='Git')
     # Open the css file in the default editor of your local system.
-    os.system(u'open "%s"' % view.getUrl(NAME))
-    print 'Done' 
+    os.system(u'open "%s"' % view.getUrl(DOMAIN))
+print 'Done' 
 

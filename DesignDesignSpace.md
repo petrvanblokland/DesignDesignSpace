@@ -6,8 +6,8 @@ from pagebot.publications import Website
 doc = Website(autoPages=0, template='Home', title='Design Design Space')
 
 page = doc.newPage()
-#page.htmlPath = 'sources/DesignDesignSpace.html'
-#page.cssPath = 'sources/DesignDesignSpace.css'
+page.htmlPath = 'sources/DesignDesignSpace.html'
+page.cssPath = 'sources/DesignDesignSpace.css'
 box = page['Main']
 
 ~~~

@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document><h1>designdesign.space</h1>
+<document><pre><code class="Python">cid = 'Website'
+
+from pagebot.publications import Website
+
+doc = Website(autoPages=0, template='Home', title='Design Design Space')
+
+page = doc.newPage()
+page.htmlPath = 'sources/DesignDesignSpace.html'
+page.cssPath = 'sources/DesignDesignSpace.css'
+box = page['Main']
+
+</code></pre>
+
+<h1>designdesign.space</h1>
 <p>Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.</p>
 <p>Teachers/coaches/designers: Petr van Blokland + Claudia Mens and others</p>
 <h3>What designdesign.space is not</h3>
