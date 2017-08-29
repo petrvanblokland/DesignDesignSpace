@@ -87,7 +87,7 @@ else:
     print 'assasas', view
     t.doc.build(NAME, viewId='Git')
     # Open the css file in the default editor of your local system.
-    os.system(u'open "%s"' % view.getUrl(DOMAIN))
     os.system('git pull; git add *;git commit -m "Updating website changes.";git pull; git push')
+    os.system(u'open "%s"' % view.getUrl(DOMAIN))
 print 'Done' 
 
