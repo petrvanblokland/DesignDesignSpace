@@ -32,7 +32,7 @@ DO_MAMP = not DO_GIT
 # If no Galley instance is supplied to the Typesetter, it will create one.
 t = Typesetter()
 # Parse the markdown content and execute the embedded Python code blocks.
-# The blocks, global defined variables and text content are in the 
+# The blocks, global definedfeedback variables and text content are in the 
 # typesetter t.galley.
 t.typesetFile(MD_PATH)
 #print t.codeBlocks
