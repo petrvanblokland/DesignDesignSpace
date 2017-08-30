@@ -41,6 +41,8 @@ t.typesetFile(MD_PATH)
 # Takes a galley as soruce and a document for target pages. 
 Composer().compose(t.galley, t.doc)
 
+print '#@@#@#@', t.doc
+
 if 0: # Print some results of the typesetter
     # Typesetter found document definition inside content.
     print 'Book title:', t.doc.title, round(t.doc.w), round(t.doc.h)
@@ -87,7 +89,7 @@ if DO_MAMP:
         os.system(u'open "%s"' % view.getUrl(NAME))
 elif DO_GIT:
     view = t.doc.getView('Git')
-    t.doc.build(NAME, view='Git')
+    t.doc.build(NAME, view=view)
     # Open the css file in the default editor of your local system.
     os.system('git pull; git add *;git commit -m "Updating website changes.";git pull; git push')
     os.system(u'open "%s"' % view.getUrl(DOMAIN))
