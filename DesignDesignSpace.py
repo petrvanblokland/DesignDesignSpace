@@ -61,7 +61,7 @@ if 0: # Debugging, show the pages with their names.
             print '\t', page, page.w, page.h, len(page.elements), page.template.name
             #page.isLeft(), page.isRight(), page.getGridColumns()
 
-if 1:
+if 0:
     # Views define the way documents are exported.
     # Add space for cropmarks and registrations marks
     view = t.doc.getView()

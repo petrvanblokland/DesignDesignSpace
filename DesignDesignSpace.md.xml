@@ -17,6 +17,7 @@ box = page['Main']
 <p>Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. </p>
 <p>In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.</p>
 <p>Teachers/coaches/designers: Petr van Blokland + Claudia Mens and others</p>
+<p><img alt="docs/images/HowToWearAGGShawl.png" src="docs/images/HowToWearAGGShawl.png" /></p>
 <h3>What designdesign.space is not</h3>
 <ul>
 <li>It is not a course</li>
@@ -25,14 +26,16 @@ box = page['Main']
 <li>It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training</li>
 <li>It is not a series of slides, presentations or a stack of books (although these can be part of it).</li>
 </ul>
+<p><img alt="docs/images/HowToApplyForArtSchool.png" src="docs/images/HowToApplyForArtSchool.png" /></p>
 <h3>What designdesign.space is</h3>
 <ul>
 <li>It is a personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.</li>
 <li>The design of personal space (time, topic, skills) as tool to be designer for the rest of your life</li>
 <li>The focus is on design students. Not on predefined course content.</li>
 </ul>
-<pre><code class="Python">page = doc.newPage()
-box = page['Footer']
+<p><img alt="docs/images/DoYouReallyNeedADesigner.png" src="docs/images/DoYouReallyNeedADesigner.png" /></p>
+<pre><code class="Python">page = doc.newPage(template='blog')
+box = page['Main']
 
 </code></pre>
 

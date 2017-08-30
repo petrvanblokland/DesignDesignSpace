@@ -20,6 +20,8 @@ In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your pract
 
 Teachers/coaches/designers: Petr van Blokland + Claudia Mens and others
 
+![docs/images/HowToWearAGGShawl.png](docs/images/HowToWearAGGShawl.png)
+
 ### What designdesign.space is not
 
 * It is not a course
@@ -28,15 +30,22 @@ Teachers/coaches/designers: Petr van Blokland + Claudia Mens and others
 * It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training
 * It is not a series of slides, presentations or a stack of books (although these can be part of it).
 
+![docs/images/HowToApplyForArtSchool.png](docs/images/HowToApplyForArtSchool.png)
+
+
+
 ### What designdesign.space is
 
 * It is a personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.
 * The design of personal space (time, topic, skills) as tool to be designer for the rest of your life
 * The focus is on design students. Not on predefined course content.
 
+![docs/images/DoYouReallyNeedADesigner.png](docs/images/DoYouReallyNeedADesigner.png)
+
+
 ~~~Python
-page = doc.newPage()
-box = page['Footer']
+page = doc.newPage(template='blog')
+box = page['Main']
 
 ~~~
 
