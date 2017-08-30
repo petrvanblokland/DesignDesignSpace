@@ -24,8 +24,8 @@ MD_PATH = u"DesignDesignSpace.md"
 NAME = 'designdesignspace'
 DOMAIN = 'designdesign.space'
 
-DO_MAMP = False
-DO_GIT = not DO_MAMP
+DO_GIT = True
+DO_MAMP = not DO_GIT
 
 # Create an unbound Typesetter instance (trying to find a Poster
 # (inheriting from Document) instance in one of the codeblock results. 
