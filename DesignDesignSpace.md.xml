@@ -9,6 +9,7 @@ page = doc.newPage()
 page.info.cssPath = 'sources/pagebot.css'
 page.info.headPath = 'sources/head.html'
 page.info.bodyPath = 'sources/body.html'
+page.info.mediaQueriesUrl = None
 box = page['Main']
 
 </code></pre>
