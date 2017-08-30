@@ -240,7 +240,7 @@ input[type=submit] {
   padding-top: 2em;
   padding-bottom: 2em;
   background-color: #323a47;
-  background-image: url("/assets/images/homepage/background_image_homepage.jpg"); }
+  background-image: url("images/background.png"); }
   .featured h2 {
     font-family: "Bree Serif", serif;
     font-style: Normal;

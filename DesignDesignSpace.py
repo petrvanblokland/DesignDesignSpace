@@ -41,8 +41,6 @@ t.typesetFile(MD_PATH)
 # Takes a galley as soruce and a document for target pages. 
 Composer().compose(t.galley, t.doc)
 
-print '#@@#@#@', t.doc
-
 if 0: # Print some results of the typesetter
     # Typesetter found document definition inside content.
     print 'Book title:', t.doc.title, round(t.doc.w), round(t.doc.h)
