@@ -7,7 +7,7 @@ doc = Website(autoPages=0, title='Design Design Space')
 
 page = doc.newPage()
 page.cssPath = 'sources/pagebot.css'
-page.headPath = 'sources/head.html'
+#page.headPath = 'sources/head.html'
 page.bodyPath = 'sources/body.html'
 box = page['Main']
 
