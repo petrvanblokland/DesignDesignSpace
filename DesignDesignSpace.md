@@ -13,7 +13,9 @@ box = page['Main']
 ~~~
 
 # designdesign.space
-Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.
+Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. 
+
+In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.
 
 Teachers/coaches/designers: Petr van Blokland + Claudia Mens and others
 
