@@ -24,6 +24,9 @@ MD_PATH = u"DesignDesignSpace.md"
 NAME = 'designdesignspace'
 DOMAIN = 'designdesign.space'
 
+DO_MAMP = False
+DO_GIT = not DO_MAMP
+
 # Create an unbound Typesetter instance (trying to find a Poster
 # (inheriting from Document) instance in one of the codeblock results. 
 # If no Galley instance is supplied to the Typesetter, it will create one.
@@ -73,21 +76,22 @@ if 1:
     view.style['viewGridStroke'] = (0, 0, 1)
     view.style['viewGridStrokeWidth'] = 0.5
 
-if 0:
+if DO_MAMP:
     view = t.doc.getView('Mamp')
 
     if not os.path.exists(view.EXPORT_PATH):
         print 'The local MAMP server application does not exist. Download and in stall from %s.' % view.MAMP_SHOP_URL 
         os.system(u'open %s' % view.MAMP_SHOP_URL)
     else:
-        t.doc.build(NAME, viewId='Mamp')
+        t.doc.build(NAME, view='Mamp')
         os.system(u'open "%s"' % view.getUrl(NAME))
-else:
+elif DO_GIT:
     view = t.doc.getView('Git')
-    print 'assasas', view
-    t.doc.build(NAME, viewId='Git')
+    t.doc.build(NAME, view='Git')
     # Open the css file in the default editor of your local system.
     os.system('git pull; git add *;git commit -m "Updating website changes.";git pull; git push')
     os.system(u'open "%s"' % view.getUrl(DOMAIN))
+else:
+    print 'Select DO_MAMP or DO_GIT'
 print 'Done' 
 
