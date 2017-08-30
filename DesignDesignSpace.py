@@ -39,7 +39,7 @@ t.typesetFile(MD_PATH)
 # The typesetter produced a single Galley with content and code blocks.
 # Now use a composer (automatic "designer") to fit the pieces together.
 # Takes a galley as soruce and a document for target pages. 
-Composer().compose(t.galley, t.doc)
+#Composer().compose(t.galley, t.doc)
 
 if 0: # Print some results of the typesetter
     # Typesetter found document definition inside content.
