@@ -802,7 +802,7 @@ input[type=submit] {
     margin-right: 0;
     padding-bottom: 0.5em;
     background-color: #323a47;
-    background-image: url("/assets/images/homepage/background_image_homepage.jpg"); }
+    background-image: url("../images/background.png"); }
     .featured h3 {
       font-family: "Bree Serif", serif;
       color: #66696c;
