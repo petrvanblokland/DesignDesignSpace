@@ -34,6 +34,12 @@ Teachers/coaches/designers: Petr van Blokland + Claudia Mens and others
 * The design of personal space (time, topic, skills) as tool to be designer for the rest of your life
 * The focus is on design students. Not on predefined course content.
 
+~~~Python
+page = doc.newPage()
+box = page['Footer']
+
+~~~
+
 ### What is designdesign.space for
 
 * Graduated design students

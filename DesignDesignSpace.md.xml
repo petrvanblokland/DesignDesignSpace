@@ -31,6 +31,11 @@ box = page['Main']
 <li>The design of personal space (time, topic, skills) as tool to be designer for the rest of your life</li>
 <li>The focus is on design students. Not on predefined course content.</li>
 </ul>
+<pre><code class="Python">page = doc.newPage()
+box = page['Footer']
+
+</code></pre>
+
 <h3>What is designdesign.space for</h3>
 <ul>
 <li>Graduated design students</li>
