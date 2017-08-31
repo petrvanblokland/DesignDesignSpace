@@ -13,7 +13,7 @@
 /* ! Layout for desktop version   */
 /* ============================== */
 body {
-  font-family: 'Droid Sans';
+  font-family: "Upgrade-Regular", sans;
   font-style: normal;
   font-weight: normal;
   font-size: 19px;
@@ -75,7 +75,7 @@ a[rel="footnote"]:after {
   content: ")"; }
 
 input, textarea, select {
-  font-family: "Droid Sans";
+  font-family: "Upgrade-Regular", sans;
   padding: 0.1em;
   font-size: 1em;
   line-height: 1em;
@@ -242,7 +242,7 @@ input[type=submit] {
   background-color: #323a47;
   /*background-image: url("../images/background.png"); */}
   .featured h2 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Regular", sans;
     font-style: Normal;
     font-weight: Normal;
     font-size: 2.4em;
@@ -250,7 +250,7 @@ input[type=submit] {
     line-height: 1.2em;
     margin-bottom: 0.2em; }
   .featured h3 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Regular", sans;
     font-style: Normal;
     font-weight: Normal;
     color: #e1e1e1;
@@ -291,14 +291,14 @@ input[type=submit] {
   .section img {
     padding-top: 0.5em; }
   .section h1 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Regular", sans;
     font-size: 3.2em;
     color: #66696c;
     line-height: 1.2em;
     margin-top:1em;
     }
   .section h2 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Regular", sans;
     font-size: 2.4em;
     color: #828487;
     line-height: 1.2em;
@@ -306,12 +306,12 @@ input[type=submit] {
     margin-top:1em;
     }
   .section h3 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Regular", sans;
     font-size: 1.4em;
     line-height: 1.2em;
     color: #4890be; }
   .section h4 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Regular", sans;
     font-size: 1em;
     line-height: 1.2em;
     color: #4890be; }
@@ -378,7 +378,7 @@ input[type=submit] {
   margin-bottom: 2em; }
 
 .mainContent h1 {
-  font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Semibold", sans;
   font-size: 2.5em;
   line-height: 1.3em;
   color: #323a47;
@@ -386,14 +386,14 @@ input[type=submit] {
   margin-bottom: 0.2em; }
 
 .mainContent h2 {
-  font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Semibold-Italic", sans;
   font-size: 2.4em;
   color: #828487;
   line-height: 1.2em;
   margin-bottom: 0.2em; }
 
 .mainContent h3 {
-  font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Semibold", sans;
   color: #828487;
   font-weight: Normal;
   margin-top: 0.6em;
@@ -402,7 +402,7 @@ input[type=submit] {
   line-height: 1.3em; }
 
 .mainContent h4 {
-  font-family: "Bree Serif", serif;
+  font-family: "Upgrade-Semibold", sans;
   font-size: 1em;
   line-height: 1.3em;
   color: #828487;
@@ -606,7 +606,7 @@ input[type=submit] {
   color: #4890be; }
 
 .footer h2 {
-  font-family: "Bree Serif", serif;
+  font-family: "Upgrade-Semibold", sans;
   color: #66696c;
   line-height: 1.3em;
   padding-bottom: 0.8em; }
@@ -805,7 +805,7 @@ input[type=submit] {
     /*background-image: url("../images/background.png"); */
     }
     .featured h3 {
-      font-family: "Bree Serif", serif;
+      font-family: "Upgrade-Semibold", sans;
       color: #66696c;
       line-height: 1.4em; }
     .featured h5 {
@@ -833,7 +833,7 @@ input[type=submit] {
     text-align: left; }
 
   .mainContent h1 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Semibold", sans;
     font-size: 2em;
     line-height: 1.2em;
     color: #323a47;
@@ -842,7 +842,7 @@ input[type=submit] {
     text-align: left; }
 
   .mainContent h2 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Semibold", sans;
     font-size: 1.6em;
     font-weight: Normal;
     line-height: 1.3em;
@@ -851,7 +851,7 @@ input[type=submit] {
     text-align: left; }
 
   .mainContent h3 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Semibold", sans;
     font-weight: Normal;
     margin-top: 0.3em;
     margin-bottom: 0.6em;
@@ -860,7 +860,7 @@ input[type=submit] {
     text-align: left; }
 
   .mainContent h4 {
-    font-family: "Bree Serif", serif;
+    font-family: "Upgrade-Semibold", sans;
     font-size: 0.8em;
     line-height: 1.2em;
     margin-top: 2em; }
