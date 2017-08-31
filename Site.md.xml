@@ -10,21 +10,6 @@ page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
 
-page.info.webFonts = (
-    ('Upgrade-Regular-Italic',
-        ('fonts/Upgrade-Regular_Italic.eot',
-         'fonts/Upgrade-Regular_Italic.woff')),
-    ('Upgrade-Regular',
-        ('fonts/Upgrade-Regular.eot',
-         'fonts/Upgrade-Regular.woff')),
-    ('Upgrade-Semibold-Italic',
-        ('fonts/Upgrade-Semibold_Italic.eot',
-         'fonts/Upgrade-Semibold_Italic.woff')),
-    ('Upgrade-Semibold',
-        ('fonts/Upgrade-Semibold.eot',
-         'fonts/Upgrade-Semibold.woff'))
-)
-
 page.info.description = &quot;&quot;&quot;Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting the practical limits of students.&quot;&quot;&quot;
 
 page.info.keyWords = 'design education skill coaching training stody development typography iteration research presentation planning'
