@@ -42,7 +42,7 @@ box = page['Main']
 </ul>
 <p><img alt="docs/images/DoYouReallyNeedADesigner.png" src="docs/images/DoYouReallyNeedADesigner.png" /></p>
 <pre><code class="Python">page = doc.newPage(template='blog')
-box = page['Main']
+box = page['Main2']
 
 </code></pre>
 
