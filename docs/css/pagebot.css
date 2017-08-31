@@ -196,7 +196,7 @@ input[type=submit] {
     line-height: 1.2em;
     padding: 0.3em; }
     .top .logo a a:hover {
-      font-size: 1.4em;
+      font-size: 1.5em;
       line-height: 1.2em;
       padding: 0.3em; }
   .top a {
@@ -900,7 +900,7 @@ input[type=submit] {
 /* ========================================== */
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
   .header .logo {
-    background: url(../img/logo@2x.jpg) no-repeat;
+    background: url(../images/logo@2x.jpg) no-repeat;
     background-size: 212px 303px; } }
 /* _reset.scss */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, q, small, strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
