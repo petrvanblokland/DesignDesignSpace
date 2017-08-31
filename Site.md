@@ -15,6 +15,7 @@ page.info.description = """Develop your skills. Query your questions. Improve yo
 page.info.keyWords = 'design education skill coaching training stody development typography iteration research presentation planning'
 
 box = page['Main']
+box = page['OtherMain']
 
 ~~~
 
