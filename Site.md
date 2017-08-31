@@ -69,7 +69,7 @@ box = page['OtherMain']
 
 In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.
 
-### For which designers does designdesign.space best?
+### For which designers does designdesign.space work best?
 
 * Open minded and willing to get valuable feed-back on their work
 * Interested to improve and change
