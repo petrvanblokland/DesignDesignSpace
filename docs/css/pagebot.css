@@ -189,9 +189,10 @@ input[type=submit] {
   .top .logo a {
     color: #323a47;
     font-family: "Upgrade-Bold", sans;
+    letter-spacing: 0;
     font-style: normal;
     font-weight: bold;
-    font-size: 1.4em;
+    font-size: 2em;
     line-height: 1.2em;
     padding: 0.3em; }
     .top .logo a a:hover {
