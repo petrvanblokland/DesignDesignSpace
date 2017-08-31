@@ -38,8 +38,8 @@ Teachers/coaches/designers: Petr van Blokland + Claudia Mens and others
 
 ### What designdesign.space is
 
-* It is a personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.
-* The design of personal space (time, topic, skills) as tool to be designer for the rest of your life
+* A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.
+* The design of personal space (time, topic and skills) profession preparation for the rest of your life.
 * The focus is on design students. Not on predefined course content.
 
 ![docs/images/DoYouReallyNeedADesigner.png](docs/images/DoYouReallyNeedADesigner.png)
