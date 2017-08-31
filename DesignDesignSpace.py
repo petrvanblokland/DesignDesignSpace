@@ -20,7 +20,7 @@ from pagebot.elements import *
 from pagebot.conditions import *
 
 # Path to markdown file, including Python code blocks.
-MD_PATH = u"DesignDesignSpace.md"
+MD_PATH = u"Site.md"
 NAME = 'designdesignspace'
 DOMAIN = 'designdesign.space'
 
