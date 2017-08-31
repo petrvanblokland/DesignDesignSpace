@@ -9,6 +9,8 @@ page = doc.newPage()
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 page.info.bodyPath = 'sources/body.html'
+
+page.info.title = 'designdesign.space | Home'
 page.info.favIconUrl = 'images/favicon.gif'
 page.info.mediaQueriesUrl = None
 
