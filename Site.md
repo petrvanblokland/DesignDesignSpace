@@ -10,6 +10,7 @@ page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 page.info.bodyPath = 'sources/body.html'
 page.info.favIconUrl = 'images/favicon.gif'
+page.info.mediaQueriesUrl = None
 
 page.info.description = """Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting the practical limits of students."""
 
