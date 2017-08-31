@@ -54,7 +54,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 ~~~Python
 #page = doc.newPage(template='blog')
-box = page['Main2']
+box = page['OtherMain']
 
 ~~~
 
