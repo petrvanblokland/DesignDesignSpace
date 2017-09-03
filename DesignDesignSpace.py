@@ -40,7 +40,6 @@ t.typesetFile(MD_PATH)
 # Now use a composer (automatic "designer") to fit the pieces together.
 # Takes a galley as soruce and a document for target pages. 
 #Composer().compose(t.galley, t.doc)
-print t.tagged
 
 if 0: # Print some results of the typesetter
     # Typesetter found document definition inside content.
