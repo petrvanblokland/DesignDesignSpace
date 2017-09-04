@@ -5,22 +5,17 @@ from pagebot.publications import Website
 
 doc = Website(autoPages=0, title='Design Design Space')
 
-page = doc.newPage(title='designdesign.space | Home')
+page = doc.newPage(name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
-
-page.info.description = &quot;&quot;&quot;Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting the practical limits of students.&quot;&quot;&quot;
-
-page.info.keyWords = 'design education skill coaching training stody development typography iteration research presentation planning'
-
 box = page['Main']
 
 </code></pre>
 
 <h1>designdesign.space</h1>
 <p>Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. </p>
-<p>In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting the practical limits of students.</p>
+<p>In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.</p>
 <p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
 <h2>http://designdesign.space</h2>
 <h2>designdesignspace.com</h2>
@@ -41,8 +36,9 @@ box = page['Main']
 <li>The focus is on design students. Not on predefined course content.</li>
 </ul>
 <p><img alt="docs/images/DoYouReallyNeedADesigner.png" src="docs/images/DoYouReallyNeedADesigner.png" /></p>
-<pre><code class="Python">#page = doc.newPage(template='blog')
-box = page['OtherMain']
+<pre><code class="Python">page = doc.newPage(name='about.html', template='home')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']
 
 </code></pre>
 
@@ -56,7 +52,7 @@ box = page['OtherMain']
 <li>Designers who would like to do a follow-up/refresh study, but are lacking time, finance or geographic location to make it work.</li>
 </ul>
 <p>In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.</p>
-<h3>For which designers does designdesign.space work best?</h3>
+<h3>For which designers does designdesign.space best?</h3>
 <ul>
 <li>Open minded and willing to get valuable feed-back on their work</li>
 <li>Interested to improve and change</li>
@@ -75,6 +71,11 @@ box = page['OtherMain']
 <li>The study finishes with a valued certificate on “graduation”, signed by external designers of statue. </li>
 <li>Short term visible value for students, even with the longer time frames.</li>
 </ul>
+<pre><code class="Python">page = doc.newPage(name='schedule.html', template='home')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']
+</code></pre>
+
 <h3>What is the time frame?</h3>
 <p>There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all offering the same process. The difference is the level of details, development of skill and amount of specialization in specific topcis.</p>
 <h3>What does it cost?</h3>
@@ -104,6 +105,11 @@ In exceptional situations payment in portions can be discussed.</p>
 If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. <br />
 The volume this depends on the length of the of the training that students apply for.</p>
 <p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
+<pre><code class="Python">page = doc.newPage(name='articles.html')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']
+</code></pre>
+
 <h3>How does it work?</h3>
 <ul>
 <li>Design students meet online with each other and the coaches in regular intervals.</li>
@@ -141,6 +147,11 @@ Of course the required time and level of details are subject of choice, but that
 <li>Return; bringing home the Holy Grail</li>
 </ul>
 <p><em>Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books</em></p>
+<pre><code class="Python">page = doc.newPage(name='projects.html')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']
+</code></pre>
+
 <h3>Specialization topics</h3>
 <p>In all of the four time frames of a sequence (day, week, month, year) students can select a combination of specializations (where this selection process also is part of the design skills to be developed).<br />
 The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of itself.</p>
