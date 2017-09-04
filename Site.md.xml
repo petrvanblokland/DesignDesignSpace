@@ -9,17 +9,25 @@ page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
-box = page['Main']
-
+box = page['Featured']['Image']
 </code></pre>
 
-<h1>designdesign.space</h1>
-<p>Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. </p>
-<p>In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.</p>
+<p><img alt="DesignModels2-91-1.png" src="docs/images/DesignModels2-91-1.png" /></p>
+<pre><code class="Python">box = page['Featured']['Side']
+</code></pre>
+
+<h2>Better to repeat</h2>
+<pre><code class="Python">box = page['Main']
+</code></pre>
+
+<h1>What is it?</h1>
+<p>It is an online coaching space to develop your design skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. In short, design your design process. </p>
+<p>Working with experienced designers and collegue students, <br />
+In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting best your practical and financial limits. </p>
 <p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
 <h2>http://designdesign.space</h2>
 <h2>designdesignspace.com</h2>
-<p><img alt="docs/images/HowToWearAGGShawl.png" src="docs/images/HowToWearAGGShawl.png" /></p>
+<p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /></p>
 <h3>What designdesign.space is not</h3>
 <ul>
 <li>It is not a course</li>

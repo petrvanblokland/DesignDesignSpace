@@ -9,14 +9,26 @@ page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
-box = page['Main']
-
+box = page['Featured']['Image']
 ~~~
 
-# designdesign.space
-Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. 
+![DesignModels2-91-1.png](docs/images/DesignModels2-91-1.png)
 
-In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.
+~~~Python
+box = page['Featured']['Side']
+~~~
+
+## Better to repeat
+
+~~~Python
+box = page['Main']
+~~~
+
+# What is it?
+It is an online coaching space to develop your design skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. In short, design your design process. 
+
+Working with experienced designers and collegue students, 
+In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting best your practical and financial limits. 
 
 Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
@@ -24,7 +36,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 ## designdesignspace.com
 
 
-![docs/images/HowToWearAGGShawl.png](docs/images/HowToWearAGGShawl.png)
+![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
 
 ### What designdesign.space is not
 

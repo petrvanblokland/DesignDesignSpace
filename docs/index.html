@@ -11,23 +11,12 @@
 		<link media="all" href="css/pagebot.css" type="text/css" rel="stylesheet"/>
 		<link href="images/favicon.gif" type="image/gif" rel="icon"/>
 	</head>
-	<body><div class="page" id="2307D72DA811CA79490"><div class="container mobilenavigation"><div class="row"><div class="twelvecol last"><nav id="nav-wrap">
+	<body><div class="page" id="2307DB8560117761E50"><div class="container mobilenavigation"><div class="row"><div class="twelvecol last"><nav id="nav-wrap">
 		<ul id="nav"><li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="schedule.html">Schedule</a></li><li><a href="how.html">How?</a></li><li><a href="projects.html">Projects</a></li>
 		</ul></nav><a href="index.html">Design Design Space</a></div></div></div><div class="container top"><div class="row"><div class="fivecol"><div class="logo"><a href="index.html">Design Design Space</a></div></div><div class="sevencol last"><nav id="navigation-wrap">
 		<ol><li><a href="projects.html">Projects</a></li><li><a href="how.html">How?</a></li><li><a href="schedule.html">Schedule</a></li><li><a href="about.html">About</a></li><li><a href="index.html">Home</a></li>
-		</ol></nav></div></div></div><div class="container featured"><div class="row"><div class="eightcol">  <a href="http://designdesign.space"> <img src="images/HowToWearAGGShawl.png" alt="Design Design Space" /> </a> 
-        </div><div class="fourcol last">
-                <h2>
-                    Featured projects 
-                </h2>
-                <h5>
-                    Level 1 month 
-                </h5>
-                <h3>
-                    How to wear a generous gesture shawl 
-                </h3>
-                Donec ligula turpis, sodales vitae varius id, posuere id mauris. Mauris semper bibendum elit, elementum ultrices nisl pulvinar sed. Praesent suscipit purus id felis posuere consectetur. Morbi ultricies, justo ac lobortis mattis, nisl elit gravida sapien, non ornare ante augue vitae turpis. 
-            </div></div></div><div class="container mainContent"><div class="row"><div class="eightcol"><code class="Python">cid = 'Website'
+		</ol></nav></div></div></div><div class="container featured"><div class="row"><div class="eightcol">			<div id="2307DB8560117767290" class="featuredimage">
+<code class="Python">cid = 'Website'
 
 from pagebot.publications import Website
 
@@ -37,17 +26,28 @@ page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
-box = page['Main']
-
+box = page['Featured']['Image']
 </code></pre>
 
-<h1>designdesign.space</h1>
-<p>Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. </p>
-<p>In extendable studies of 1 day, 1 week, 1 month or 1 year, as it fits your practical limits. As a start.</p>
+<p><img src="images/DesignModels2-91-1.png" alt="DesignModels2-91-1.png"/></p>
+<pre>			</div> <!-- FeaturedImage -->
+</div><div class="fourcol last">			<div id="2307DB85601177672D0" class="featuredside">
+<code class="Python">box = page['Featured']['Side']
+</code></pre>
+
+<h2>Better to repeat</h2>
+<pre>			</div> <!-- FeaturedSide -->
+</div></div></div><div class="container mainContent"><div class="row"><div class="eightcol"><code class="Python">box = page['Main']
+</code></pre>
+
+<h1>What is it?</h1>
+<p>It is an online coaching space to develop your design skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. In short, design your design process. </p>
+<p>Working with experienced designers and collegue students, 
+In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting best your practical and financial limits. </p>
 <p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
 <h2>http://designdesign.space</h2>
 <h2>designdesignspace.com</h2>
-<p><img src="images/HowToWearAGGShawl.png" alt="docs/images/HowToWearAGGShawl.png"/></p>
+<p><img src="images/DSGNWK_0582BW.jpg" alt="DSGNWK_0582BW.jpg"/></p>
 <h3>What designdesign.space is not</h3>
 <ul>
 <li>It is not a course</li>
