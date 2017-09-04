@@ -9,16 +9,21 @@ page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
+
+# Focus on the left featured box to place the image.
 box = page['Featured']['Image']
 ~~~
 
 ![DesignModels2-91-1.png](docs/images/DesignModels2-91-1.png)
 
 ~~~Python
+# Focus on the side of the feature, to add the description.
 box = page['Featured']['Side']
 ~~~
 
 ## Repeat and improve
+What makes a design proces fundamental different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring details, next steps take more time. 
+
 
 ~~~Python
 box = page['Main']
