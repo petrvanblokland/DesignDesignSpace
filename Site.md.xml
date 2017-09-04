@@ -16,7 +16,7 @@ box = page['Featured']['Image']
 <pre><code class="Python">box = page['Featured']['Side']
 </code></pre>
 
-<h2>Better to repeat</h2>
+<h2>Repeat and improve</h2>
 <pre><code class="Python">box = page['Main']
 </code></pre>
 

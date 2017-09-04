@@ -18,7 +18,7 @@ box = page['Featured']['Image']
 box = page['Featured']['Side']
 ~~~
 
-## Better to repeat
+## Repeat and improve
 
 ~~~Python
 box = page['Main']
