@@ -5,7 +5,7 @@ from pagebot.publications import Website
 
 doc = Website(autoPages=0, title='Design Design Space')
 
-page = doc.newPage(name='index.html', template='home')
+page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
@@ -48,7 +48,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 
 ~~~Python
-page = doc.newPage(name='about.html', template='home')
+page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 
@@ -85,7 +85,7 @@ In general the aim is to get graduated students as well as experienced designers
 * Short term visible value for students, even with the longer time frames.
 
 ~~~Python
-page = doc.newPage(name='schedule.html', template='home')
+page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 ~~~
@@ -129,7 +129,7 @@ The volume this depends on the length of the of the training that students apply
 Students finishing one training level adequately, automatically get admitions for a next level.
 
 ~~~Python
-page = doc.newPage(name='articles.html')
+page = doc.newPage(title='Article', name='articles.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 ~~~
@@ -172,7 +172,7 @@ From the personal experience for the designer, such a journey has always had con
 * Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
 
 ~~~Python
-page = doc.newPage(name='projects.html')
+page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 ~~~

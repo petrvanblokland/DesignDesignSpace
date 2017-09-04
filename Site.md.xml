@@ -5,7 +5,7 @@ from pagebot.publications import Website
 
 doc = Website(autoPages=0, title='Design Design Space')
 
-page = doc.newPage(name='index.html', template='home')
+page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
@@ -36,7 +36,7 @@ box = page['Main']
 <li>The focus is on design students. Not on predefined course content.</li>
 </ul>
 <p><img alt="docs/images/DoYouReallyNeedADesigner.png" src="docs/images/DoYouReallyNeedADesigner.png" /></p>
-<pre><code class="Python">page = doc.newPage(name='about.html', template='home')
+<pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 
@@ -71,7 +71,7 @@ box = page['Main']
 <li>The study finishes with a valued certificate on “graduation”, signed by external designers of statue. </li>
 <li>Short term visible value for students, even with the longer time frames.</li>
 </ul>
-<pre><code class="Python">page = doc.newPage(name='schedule.html', template='home')
+<pre><code class="Python">page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 </code></pre>
@@ -105,7 +105,7 @@ In exceptional situations payment in portions can be discussed.</p>
 If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. <br />
 The volume this depends on the length of the of the training that students apply for.</p>
 <p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
-<pre><code class="Python">page = doc.newPage(name='articles.html')
+<pre><code class="Python">page = doc.newPage(title='Article', name='articles.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 </code></pre>
@@ -147,7 +147,7 @@ Of course the required time and level of details are subject of choice, but that
 <li>Return; bringing home the Holy Grail</li>
 </ul>
 <p><em>Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books</em></p>
-<pre><code class="Python">page = doc.newPage(name='projects.html')
+<pre><code class="Python">page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 </code></pre>
