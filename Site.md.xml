@@ -19,7 +19,7 @@ box = page['Featured']['Image']
 box = page['Featured']['Side']
 </code></pre>
 
-<h2>Repeat and improve</h2>
+<h2>Repeat to improve</h2>
 <p>What makes a design proces fundamental different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring details, next steps take more time. </p>
 <pre><code class="Python">box = page['Main']
 </code></pre>

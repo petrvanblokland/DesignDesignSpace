@@ -21,7 +21,7 @@ box = page['Featured']['Image']
 box = page['Featured']['Side']
 ~~~
 
-## Repeat and improve
+## Repeat to improve
 What makes a design proces fundamental different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring details, next steps take more time. 
 
 
