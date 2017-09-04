@@ -48,7 +48,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 
 ~~~Python
-page = doc.newPage(name=students.html', template='home')
+page = doc.newPage(name=about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 
@@ -129,7 +129,7 @@ The volume this depends on the length of the of the training that students apply
 Students finishing one training level adequately, automatically get admitions for a next level.
 
 ~~~Python
-page = doc.newPage(name=how.html')
+page = doc.newPage(name=articles.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 ~~~
@@ -156,12 +156,6 @@ box = page['Main']
 * Flexible in pricing for special cases.
 * Focus is on design students, not on buildings, organizations and degrees.
 
-~~~Python
-page = doc.newPage(name=design-process.html')
-page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']
-~~~
-
 ### The design process
 
 The idea behind the training is that every design process can be divided into three phases: research, design and presentation.
@@ -178,7 +172,7 @@ From the personal experience for the designer, such a journey has always had con
 * Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
 
 ~~~Python
-page = doc.newPage(name=topics.html')
+page = doc.newPage(name=projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 ~~~
@@ -240,11 +234,6 @@ Programming Structure, hierarchy, design or algorithms, …)
 * **Device Measurements** resolution, distortion, proportion, memory usage, …
 * **Storage techniques** File, database, formats, git, JSON, plist, XML, UFO, …
 
-~~~Python
-page = doc.newPage(name=cases.html')
-page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']
-~~~
 
 ## Cases
 What we plan to do can best be describe in some cases.
