@@ -8,7 +8,7 @@ doc = Website(autoPages=0, title='Design Design Space')
 page = doc.newPage()
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
-page.info.bodyPath = 'sources/body.html'
+#page.info.bodyPath = 'sources/body.html'
 page.info.mediaQueriesUrl = None
 page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
