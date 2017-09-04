@@ -9,8 +9,6 @@ page = doc.newPage(name='index.html')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 
 ~~~
@@ -52,8 +50,6 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 ~~~Python
 page = doc.newPage(name=students.html')
 page.info.cssPath = 'sources/pagebot.css'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 
 ~~~
@@ -91,8 +87,6 @@ In general the aim is to get graduated students as well as experienced designers
 ~~~Python
 page = doc.newPage(name=schedule.html')
 page.info.cssPath = 'sources/pagebot.css'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 ~~~
 
@@ -137,8 +131,6 @@ Students finishing one training level adequately, automatically get admitions fo
 ~~~Python
 page = doc.newPage(name=how.html')
 page.info.cssPath = 'sources/pagebot.css'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 ~~~
 
@@ -167,8 +159,6 @@ box = page['Main']
 ~~~Python
 page = doc.newPage(name=design-process.html')
 page.info.cssPath = 'sources/pagebot.css'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 ~~~
 
@@ -190,8 +180,6 @@ From the personal experience for the designer, such a journey has always had con
 ~~~Python
 page = doc.newPage(name=topics.html')
 page.info.cssPath = 'sources/pagebot.css'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 ~~~
 
@@ -225,8 +213,6 @@ The combination of any 2 or 3 topics from the list below gives each students a u
 ~~~Python
 page = doc.newPage(name=specializations.html')
 page.info.cssPath = 'sources/pagebot.css'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 ~~~
 
@@ -257,8 +243,6 @@ Programming Structure, hierarchy, design or algorithms, …)
 ~~~Python
 page = doc.newPage(name=cases.html')
 page.info.cssPath = 'sources/pagebot.css'
-page.info.mediaQueriesUrl = None
-page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 ~~~
 
