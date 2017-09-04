@@ -5,7 +5,7 @@ from pagebot.publications import Website
 
 doc = Website(autoPages=0, title='Design Design Space')
 
-page = doc.newPage()
+page = doc.newPage(name='index.html')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
@@ -50,7 +50,10 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 
 ~~~Python
-page = doc.newPage(template='blog')
+page = doc.newPage(name=students.html')
+page.info.cssPath = 'sources/pagebot.css'
+page.info.mediaQueriesUrl = None
+page.info.favIconUrl = 'images/favicon.gif'
 box = page['Main']
 
 ~~~
@@ -84,6 +87,14 @@ In general the aim is to get graduated students as well as experienced designers
 * Each design student defines length, speed of study and select specialization topics.
 * The study finishes with a valued certificate on “graduation”, signed by external designers of statue. 
 * Short term visible value for students, even with the longer time frames.
+
+~~~Python
+page = doc.newPage(name=schedule.html')
+page.info.cssPath = 'sources/pagebot.css'
+page.info.mediaQueriesUrl = None
+page.info.favIconUrl = 'images/favicon.gif'
+box = page['Main']
+~~~
 
 ### What is the time frame?
 There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all offering the same process. The difference is the level of details, development of skill and amount of specialization in specific topcis.
@@ -123,6 +134,14 @@ The volume this depends on the length of the of the training that students apply
 
 Students finishing one training level adequately, automatically get admitions for a next level.
 
+~~~Python
+page = doc.newPage(name=how.html')
+page.info.cssPath = 'sources/pagebot.css'
+page.info.mediaQueriesUrl = None
+page.info.favIconUrl = 'images/favicon.gif'
+box = page['Main']
+~~~
+
 ### How does it work?
 
 * Design students meet online with each other and the coaches in regular intervals.
@@ -145,6 +164,14 @@ Students finishing one training level adequately, automatically get admitions fo
 * Flexible in pricing for special cases.
 * Focus is on design students, not on buildings, organizations and degrees.
 
+~~~Python
+page = doc.newPage(name=design-process.html')
+page.info.cssPath = 'sources/pagebot.css'
+page.info.mediaQueriesUrl = None
+page.info.favIconUrl = 'images/favicon.gif'
+box = page['Main']
+~~~
+
 ### The design process
 
 The idea behind the training is that every design process can be divided into three phases: research, design and presentation.
@@ -159,6 +186,14 @@ From the personal experience for the designer, such a journey has always had con
 
 * Calling; dreams, plans, goals and knowing yourself* Fellowship; the social fabric, the environment of the designer* Dragon; where you stumble, the treasure lies* Performance; stepping into the middle of the moment 
 * Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
+
+~~~Python
+page = doc.newPage(name=topics.html')
+page.info.cssPath = 'sources/pagebot.css'
+page.info.mediaQueriesUrl = None
+page.info.favIconUrl = 'images/favicon.gif'
+box = page['Main']
+~~~
 
 ### Specialization topics
 
@@ -187,6 +222,14 @@ The combination of any 2 or 3 topics from the list below gives each students a u
 * Design of feedback and evaluation techniques
 * Design of testing methods
 
+~~~Python
+page = doc.newPage(name=specializations.html')
+page.info.cssPath = 'sources/pagebot.css'
+page.info.mediaQueriesUrl = None
+page.info.favIconUrl = 'images/favicon.gif'
+box = page['Main']
+~~~
+
 #### Contexts
 
 * Design education
@@ -210,6 +253,14 @@ Programming Structure, hierarchy, design or algorithms, …)
 * **Tools** Deepest of Adobe applications, scripting, OSX-terminal tools, design of information conversion flows, research on raw data, …
 * **Device Measurements** resolution, distortion, proportion, memory usage, …
 * **Storage techniques** File, database, formats, git, JSON, plist, XML, UFO, …
+
+~~~Python
+page = doc.newPage(name=cases.html')
+page.info.cssPath = 'sources/pagebot.css'
+page.info.mediaQueriesUrl = None
+page.info.favIconUrl = 'images/favicon.gif'
+box = page['Main']
+~~~
 
 ## Cases
 What we plan to do can best be describe in some cases.
