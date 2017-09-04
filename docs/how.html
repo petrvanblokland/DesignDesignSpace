@@ -11,7 +11,7 @@
 		<link media="all" href="css/pagebot.css" type="text/css" rel="stylesheet"/>
 		<link href="images/favicon.gif" type="image/gif" rel="icon"/>
 	</head>
-	<body><div class="page" id="2307D718F411ECF9F10"><div class="container mobilenavigation"><div class="row"><div class="twelvecol last"><nav id="nav-wrap">
+	<body><div class="page" id="2307D72E0C11CABB290"><div class="container mobilenavigation"><div class="row"><div class="twelvecol last"><nav id="nav-wrap">
 		<ul id="nav"><li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="schedule.html">Schedule</a></li><li><a href="how.html">How?</a></li><li><a href="projects.html">Projects</a></li>
 		</ul></nav><a href="index.html">Design Design Space</a></div></div></div><div class="container top"><div class="row"><div class="fivecol"><div class="logo"><a href="index.html">Design Design Space</a></div></div><div class="sevencol last"><nav id="navigation-wrap">
 		<ol><li><a href="projects.html">Projects</a></li><li><a href="how.html">How?</a></li><li><a href="schedule.html">Schedule</a></li><li><a href="about.html">About</a></li><li><a href="index.html">Home</a></li>
@@ -126,6 +126,19 @@ Of course the required time and level of details are subject of choice, but that
                 Cras vitae urna porta 
             </h3>
             Ut ultrices enim vitae nunc consequat aliquet. Phasellus cursus felis eros, et lobortis augue luctus et. Curabitur metus metus, auctor eget arcu vel. 
-        </div></div></div></div>
+        </div></div></div><div class="container footer"><div class="row"><div class="eightcol"><nav id="navigation-wrap">
+		<ol><li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="schedule.html">Schedule</a></li><li><a href="how.html">How?</a></li><li><a href="projects.html">Projects</a></li>
+		</ol></nav></div><div class="fourcol last">Ut ultrices enim vitae nunc consequat aliquet. Phasellus cursus felis eros, et lobortis augue luctus et. Curabitur metus metus, auctor eget arcu vel. </div></div></div><script type="text/javascript">
+    jQuery(document).ready(function($){
+      /* prepend menu icon */
+      $('#nav-wrap').prepend('<div id="menu-icon"><img src="images/menu_icon.png"/></div>');
+      
+      /* toggle nav */
+      $("#menu-icon").on("click", function(){
+        $("#nav").slideToggle();
+        $(this).toggleClass("active");
+      });
+    });
+  </script></div>
 	</body>
 </html>
