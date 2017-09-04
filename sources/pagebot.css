@@ -22,7 +22,7 @@ body {
   color: #66696c;
   background: white; }
 
-pre {display: none;}
+pre, code {display: None;}
 a {
   color: #828487;
   text-decoration: none;
