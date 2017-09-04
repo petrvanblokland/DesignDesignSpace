@@ -105,7 +105,7 @@ In exceptional situations payment in portions can be discussed.</p>
 If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. <br />
 The volume this depends on the length of the of the training that students apply for.</p>
 <p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
-<pre><code class="Python">page = doc.newPage(title='Article', name='articles.html')
+<pre><code class="Python">page = doc.newPage(title='How?', name='how.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 </code></pre>
