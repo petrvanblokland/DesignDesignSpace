@@ -5,7 +5,7 @@ from pagebot.publications import Website
 
 doc = Website(autoPages=0, title='Design Design Space')
 
-page = doc.newPage(name='index.html')
+page = doc.newPage(name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 #page.info.headPath = 'sources/head.html'
 #page.info.bodyPath = 'sources/body.html'
@@ -48,7 +48,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 
 ~~~Python
-page = doc.newPage(name=students.html')
+page = doc.newPage(name=students.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 
@@ -85,7 +85,7 @@ In general the aim is to get graduated students as well as experienced designers
 * Short term visible value for students, even with the longer time frames.
 
 ~~~Python
-page = doc.newPage(name=schedule.html')
+page = doc.newPage(name=schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']
 ~~~
