@@ -13,7 +13,7 @@
 		<meta content="Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting the practical limits of students." name="description"/>
 		<meta content="design education skill coaching training stody development typography iteration research presentation planning" name="keywords"/>
 	</head>
-	<body><div class="page" id="23079725141142BFB10"><div class="container mobilenavigation">
+	<body><div class="page" id="2307979FBC119028DD0"><div class="container mobilenavigation">
         <div class="row">
             <div class="twelvecol last">
                 <nav id="nav-wrap">
@@ -109,7 +109,24 @@ In exceptional situations payment in portions can be discussed.</p>
 <p>Students are submitted after showing their portfolios and the result of a given assignment. They have to write a motivation and development plan, which will be presented in a Google Hangout.<br />
 If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. <br />
 The volume this depends on the length of the of the training that students apply for.</p>
-<p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
+<p>Students finishing one training level adequately, automatically get admitions for a next level.</p>cid = 'Website'
+
+from pagebot.publications import Website
+
+doc = Website(autoPages=0, title='Design Design Space')
+
+page = doc.newPage(title='designdesign.space | Home')
+page.info.cssPath = 'sources/pagebot.css'
+#page.info.headPath = 'sources/head.html'
+#page.info.bodyPath = 'sources/body.html'
+
+page.info.description = """Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting the practical limits of students."""
+
+page.info.keyWords = 'design education skill coaching training stody development typography iteration research presentation planning'
+
+box = page['Main']
+
+
 
 designdesign.space
 Develop your skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. Design your design process. 
@@ -198,7 +215,10 @@ The focus is on design students. Not on predefined course content.
             <li>Designers who would like to do a follow-up/refresh study, but are lacking time, finance or geographic location to make it work.</li>
             </ul>
             <p>In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.</p>
-        
+        #page = doc.newPage(template='blog')
+box = page['OtherMain']
+
+
 
 What is designdesign.space for
 
