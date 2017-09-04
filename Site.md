@@ -29,7 +29,7 @@ What makes a design proces fundamental different from a production process, is t
 box = page['Main']
 ~~~
 
-# What is it?
+## What is it?
 It is an online coaching space to develop your design skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. In short, design your design process. 
 
 Working with experienced designers and collegue students, 
