@@ -243,16 +243,17 @@ input[type=submit] {
   margin-right: 0;
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color: #323a47;
-  /*background-image: url("../images/background.png"); */}
+  background-color: None;
+}
   .introduction h2 {
     font-family: "Upgrade-Regular", sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 3em;
+    font-size: 5em;
     color: #101010;
     line-height: 1.2em;
-    margin-bottom: 0.2em; }
+    margin-bottom: 0.2em; 
+}
 
 /* ============================== */
 /* ! Homepage Featured Courses   */

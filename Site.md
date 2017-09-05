@@ -30,7 +30,7 @@ What makes a design proces fundamental different from a production process, is t
 
 
 ~~~Python
-box = page['Main']['Main']
+box = page['Main']['Content']
 ~~~
 
 ## What is it?
@@ -110,7 +110,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 ~~~Python
 page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 
 ~~~
 
@@ -147,7 +147,7 @@ In general the aim is to get graduated students as well as experienced designers
 ~~~Python
 page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 ~~~
 
 ### What is the time frame?
@@ -191,7 +191,7 @@ Students finishing one training level adequately, automatically get admitions fo
 ~~~Python
 page = doc.newPage(title='How?', name='how.html')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 ~~~
 
 ### How does it work?
@@ -234,7 +234,7 @@ From the personal experience for the designer, such a journey has always had con
 ~~~Python
 page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 ~~~
 
 ### Specialization topics

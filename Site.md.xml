@@ -23,7 +23,7 @@ box = page['Introduction']
 
 <h2>Repeat to improve</h2>
 <p>What makes a design proces fundamental different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. </p>
-<pre><code class="Python">box = page['Main']['Main']
+<pre><code class="Python">box = page['Main']['Content']
 </code></pre>
 
 <h2>What is it?</h2>
@@ -69,7 +69,7 @@ You may recognize that in your current design practice.</p>
 <p><img alt="docs/images/DoYouReallyNeedADesigner.png" src="docs/images/DoYouReallyNeedADesigner.png" /></p>
 <pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 
 </code></pre>
 
@@ -104,7 +104,7 @@ box = page['Main']['Main']
 </ul>
 <pre><code class="Python">page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 </code></pre>
 
 <h3>What is the time frame?</h3>
@@ -138,7 +138,7 @@ The volume this depends on the length of the of the training that students apply
 <p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
 <pre><code class="Python">page = doc.newPage(title='How?', name='how.html')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 </code></pre>
 
 <h3>How does it work?</h3>
@@ -180,7 +180,7 @@ Of course the required time and level of details are subject of choice, but that
 <p><em>Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books</em></p>
 <pre><code class="Python">page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Main']
+box = page['Main']['Content']
 </code></pre>
 
 <h3>Specialization topics</h3>
