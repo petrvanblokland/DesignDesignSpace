@@ -357,8 +357,6 @@ Van Blokland has taught graphic design, typography, and type design for many yea
 
 As cofounder and partner of Type Network, Van Blokland is a dedicated contributor and developer of new type and tools for type design. He currently teaches in the Master’s program in Graphic Design at AKV|St.Joost in Breda and at Type and Media, the postgraduate type design program at KABK in The Hague. Read more about his thoughts on design and education in this interview and in his Lubalin lecture, <a href="https://vimeo.com/133052206" target="External">Words</a> delivered at Cooper Union in 2015.
 
-### Claudia Mens
-
 ~~~Python
 box = page['OtherMain']['Side']
 ~~~
@@ -368,6 +366,8 @@ box = page['OtherMain']['Side']
 ~~~Python
 box = page['OtherMain']['Content']
 ~~~
+
+### Claudia Mens
 
 I am the child of the woods.
 We lived in a wooden house. At a dirt road.
@@ -387,4 +387,4 @@ She designed a series of scarves with type and motifs of leafs, produced by NGO 
 Besides the products of Pepper+Tom, similar to work in all of the photo's on this website, design can be made by Claudia as a special custom assignment. Ask her: claudia@petr.com
 
 ### and others…
-Depending on required domain knowlegdge, other designers and other professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are availabe if that is necessary.
+Depending on required domain knowlegdge, other designers and other professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are available if necessary.
