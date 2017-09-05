@@ -107,11 +107,22 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 
 
+<!--
 ## http://designdesign.space
 ## designdesignspace.com
-
+-->
 
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
+
+
+### What designdesign.space can be
+
+* A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.
+* The design of personal space (time, topic and skills) profession preparation for the rest of your life.
+* a part-time sabbatical or a virtual internship
+* a place to train design skills and tools.
+
+![docs/images/HowToApplyForArtSchool.png](docs/images/HowToApplyForArtSchool.png)
 
 ### What Design Design Space is not
 
@@ -120,16 +131,6 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 * It is not an (online) school
 * It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training
 * It is not a series of slides, presentations or a stack of books (although these can be part of it).
-
-![docs/images/HowToApplyForArtSchool.png](docs/images/HowToApplyForArtSchool.png)
-
-
-
-### What designdesign.space is
-
-* A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.
-* The design of personal space (time, topic and skills) profession preparation for the rest of your life.
-* The focus is on design students. Not on predefined course content.
 
 ![docs/images/DoYouReallyNeedADesigner.png](docs/images/DoYouReallyNeedADesigner.png)
 
@@ -151,6 +152,9 @@ box = page['Main']['Content']
 * Designers who would like to do a follow-up/refresh study, but are lacking time, finance or geographic location to make it work.
 
 In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.
+
+
+Focus is on design students and their individual goals. Not on predefined course content.
 
 ### For which designers does designdesign.space best?
 

@@ -85,9 +85,20 @@ box = page['Main']['Content']
 </code></pre>
 
 <p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
-<h2>http://designdesign.space</h2>
-<h2>designdesignspace.com</h2>
+<!--
+## http://designdesign.space
+## designdesignspace.com
+-->
+
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /></p>
+<h3>What designdesign.space can be</h3>
+<ul>
+<li>A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.</li>
+<li>The design of personal space (time, topic and skills) profession preparation for the rest of your life.</li>
+<li>a part-time sabbatical or a virtual internship</li>
+<li>a place to train design skills and tools.</li>
+</ul>
+<p><img alt="docs/images/HowToApplyForArtSchool.png" src="docs/images/HowToApplyForArtSchool.png" /></p>
 <h3>What Design Design Space is not</h3>
 <ul>
 <li>It is not a course</li>
@@ -95,13 +106,6 @@ box = page['Main']['Content']
 <li>It is not an (online) school</li>
 <li>It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training</li>
 <li>It is not a series of slides, presentations or a stack of books (although these can be part of it).</li>
-</ul>
-<p><img alt="docs/images/HowToApplyForArtSchool.png" src="docs/images/HowToApplyForArtSchool.png" /></p>
-<h3>What designdesign.space is</h3>
-<ul>
-<li>A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.</li>
-<li>The design of personal space (time, topic and skills) profession preparation for the rest of your life.</li>
-<li>The focus is on design students. Not on predefined course content.</li>
 </ul>
 <p><img alt="docs/images/DoYouReallyNeedADesigner.png" src="docs/images/DoYouReallyNeedADesigner.png" /></p>
 <pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
@@ -120,6 +124,7 @@ box = page['Main']['Content']
 <li>Designers who would like to do a follow-up/refresh study, but are lacking time, finance or geographic location to make it work.</li>
 </ul>
 <p>In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.</p>
+<p>Focus is on design students and their individual goals. Not on predefined course content.</p>
 <h3>For which designers does designdesign.space best?</h3>
 <ul>
 <li>Open minded and willing to get valuable feed-back on their work</li>
