@@ -863,10 +863,14 @@ input[type=submit] {
     }
     .featured h3 {
       font-family: "Upgrade-Semibold", sans;
-      color: #66696c;
+      color: #BBB;
       line-height: 1.4em; }
     .featured h5 {
-      color: #4890be;
+      color: #BBB;
+      line-height: 1.4em;
+      margin-top: 1.5em; }
+    .featured p {
+      color: #BBB;
       line-height: 1.4em;
       margin-top: 1.5em; }
     .featured img {
@@ -900,7 +904,7 @@ input[type=submit] {
 
   .mainContent h2 {
     font-family: "Upgrade-Semibold", sans;
-    font-size: 1.6em;
+    font-size: 1.2em;
     font-weight: Normal;
     line-height: 1.3em;
     margin-top: 0.5em;
