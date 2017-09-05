@@ -63,7 +63,7 @@ box = page['Main']['Side']
 * Design a model exhibition space
 * Sketch the basics of a corporate identity
 * Design a gridded page or a scripted info-graphic
-* Draw couple of <a href="typecooker.com" targer="External">TypeCooker</a> words with feedback
+* Draw couple of <a href="http://typecooker.com" targer="External">TypeCooker</a> words with feedback
 * Write code for a DrawBot animation
 * Examine how to select one of the above.
 
