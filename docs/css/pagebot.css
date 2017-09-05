@@ -228,6 +228,33 @@ input[type=submit] {
     transition: all 0.8s ease-in-out; }
 
 /* ============================== */
+/* ! Homepage Introduction  */
+/* ============================== */
+.introduction {
+  font-size: 1.5em;
+  font-family: "Upgrade-Regular", sans;
+  font-style: normal;
+  line-height: 1.4em;
+  font-weight: normal;
+  position: relative;
+  display: block;
+  height: auto;
+  padding-right: 0;
+  margin-right: 0;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: #323a47;
+  /*background-image: url("../images/background.png"); */}
+  .introduction h2 {
+    font-family: "Upgrade-Regular", sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3em;
+    color: #101010;
+    line-height: 1.2em;
+    margin-bottom: 0.2em; }
+}
+/* ============================== */
 /* ! Homepage Featured Courses   */
 /* ============================== */
 .featured {
@@ -235,7 +262,6 @@ input[type=submit] {
   font-style: normal;
   line-height: 1.4em;
   font-weight: normal;
-  font-style: normal;
   position: relative;
   display: block;
   height: auto;
@@ -247,16 +273,16 @@ input[type=submit] {
   /*background-image: url("../images/background.png"); */}
   .featured h2 {
     font-family: "Upgrade-Regular", sans;
-    font-style: Normal;
-    font-weight: Normal;
+    font-style: normal;
+    font-weight: normal;
     font-size: 2.4em;
     color: #828487;
     line-height: 1.2em;
     margin-bottom: 0.2em; }
   .featured h3 {
     font-family: "Upgrade-Regular", sans;
-    font-style: Normal;
-    font-weight: Normal;
+    font-style: normal;
+    font-weight: normal;
     color: #e1e1e1;
     line-height: 1.4em; }
   .featured h5 {

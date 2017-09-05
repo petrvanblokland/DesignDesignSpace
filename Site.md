@@ -7,35 +7,78 @@ doc = Website(autoPages=0, title='Design Design Space')
 
 page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-#page.info.headPath = 'sources/head.html'
-#page.info.bodyPath = 'sources/body.html'
 
-# Focus on the left featured box to place the image.
+# H O M E 
+
+#box = page['Introduction']
+~~~
+
+### What are the dreams and dragons in your design process? How do your change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?
+
+~~~Python
 box = page['Featured']['Image']
 ~~~
 
 ![DesignModels2-91-1.png](docs/images/DesignModels2-91-1.png)
 
 ~~~Python
-# Focus on the side of the feature, to add the description.
 box = page['Featured']['Side']
 ~~~
 
 ## Repeat to improve
-What makes a design proces fundamental different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring details, next steps take more time. 
+What makes a design proces fundamental different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. 
 
 
 ~~~Python
-box = page['Main']
+box = page['Main']['Main']
 ~~~
 
 ## What is it?
-It is an online coaching space to develop your design skills. Query your questions. Improve your sketching. Acquire new techniques. Research your presentations. In short, design your design process. 
+Design Design Space is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, design your design process. 
 
-Working with experienced designers and collegue students, 
-In extendable studies of 1 day, 1 week, 1 month or 1 year, fitting best your practical and financial limits. 
+Working closely together online with experienced designers and a group of collegue students, there is space to define your own study topics and challenges. In fact, selection and planning is an integral part of the study itself. You tell us what you want, and together we’ll find a way how to get there.
+
+Study path lengths vary from 1 day, 1 week, 1 month and 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
+ 
+## 1 day • 1 week • 1 month • 1 year
+The core idea behind designing the design process, is that it doesn’t make a difference how long you do it. A project of 1 hour, basically goes through the same stages (resarch – design – presentation) as a project of 1 year. Where in practice 80% of the work is done in the last 20% (or less) of the time.
+
+That mismatch is fundamental to design. Too optimistic in the beginning, the next one always will be better. A design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.
+
+### Design methods
+Over the years a magnitude of design method have been developed, but they all have in common that to reach the deadline with with an optimum of available functions.
+You may recognize that in your current design practice.
+
+What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. To spend time on acquiring skills without predefined purpose.
+
+Design Design Space offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are made for your development.
+
+~~~Python
+box = page['Main']['Side']
+~~~
+
+### What can your do in 1 day?
+A design game • A model exhibition space • Sketching the basics of a corporate identity • The design and presentation of a page • Or an info-graphic • A couple of TypeCooker words with feed back • Writing code for a DrawBot animation.
+
+### In 1 week?
+Research specific aspect of typographic parameters • Research, write, design and present a mini-thesis • Design a simple corporate identity and program all applications in PageBot • Design an exhibition • Simulate a graphic design studio • Fill a Moleskine with 100 sketch pages.
+
+### In 1 month?
+
+### In 1 year?
+
 
 Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
+
+
+
+
+
+
+
+
+
+
 
 ## http://designdesign.space
 ## designdesignspace.com
@@ -43,7 +86,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
 
-### What designdesign.space is not
+### What Design Design Space is not
 
 * It is not a course
 * It is not an (academic) education, leading to Master or PhD
@@ -67,11 +110,11 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 ~~~Python
 page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']
+box = page['Main']['Main']
 
 ~~~
 
-### What is designdesign.space for
+### For whom is it intended
 
 * Graduated design students
 * Designers with experience, working in practice
@@ -104,7 +147,7 @@ In general the aim is to get graduated students as well as experienced designers
 ~~~Python
 page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']
+box = page['Main']['Main']
 ~~~
 
 ### What is the time frame?
@@ -148,7 +191,7 @@ Students finishing one training level adequately, automatically get admitions fo
 ~~~Python
 page = doc.newPage(title='How?', name='how.html')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']
+box = page['Main']['Main']
 ~~~
 
 ### How does it work?
@@ -191,7 +234,7 @@ From the personal experience for the designer, such a journey has always had con
 ~~~Python
 page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']
+box = page['Main']['Main']
 ~~~
 
 ### Specialization topics
