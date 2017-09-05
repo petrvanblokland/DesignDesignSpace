@@ -93,6 +93,11 @@ box = page['Main']['Side']
 * Design deep spaces.
 
 ~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
+
+~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -168,6 +173,11 @@ Focus is on design students and their individual goals. Not on predefined course
 * Each design student defines length, speed of study and select specialization topics.
 * The study finishes with a valued certificate on “graduation”, signed by external designers of statue. 
 * Short term visible value for students, even with the longer time frames.
+
+~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='Schedule', name='schedule.html', template='home')
@@ -256,6 +266,11 @@ From the personal experience for the designer, such a journey has always had con
 * Calling; dreams, plans, goals and knowing yourself* Fellowship; the social fabric, the environment of the designer* Dragon; where you stumble, the treasure lies* Performance; stepping into the middle of the moment 
 * Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
 
+~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
+
 
 ~~~Python
 page = doc.newPage(title='Projects', name='projects.html')
@@ -336,6 +351,11 @@ This is the integral assignment for TypeMedia 2017 students at the end of their 
 ### Case 6 Design of corporate identity models
 
 ~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
+
+~~~Python
 page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Side']
@@ -369,17 +389,6 @@ box = page['OtherMain']['Content']
 
 ### Claudia Mens
 
-I am the child of the woods.
-We lived in a wooden house. At a dirt road.
-Endlessly tinker with acorns.
-Myself hiding under the ferns.
-Preferably in a sweater and pants.
-Wow, what a freedom, what a space.
-Always together with other kids.
-
-“Watching is a verb,” my mother would say “look at the world. Look how beautiful that portrait has been painted.”
-I drew notebooks. Making atmospheres and environments, little peepshows. Then crept behind my mom’s Husqvarna sewing machine and sewed a wide comfy skirt. To climb into trees.
-
 After three decades, running a studio from 1980 till 2010, it was time for something else. Claudia went looking and longing for the woods of her childhood. She found that feeling back on Martha's Vineyard in the USA, where she began drawing with childlike pleasure and painting. Arose leafs and fern motifs, inspired by her travels in Africa, South America and Asia.
 
 She designed a series of scarves with type and motifs of leafs, produced by NGO Kumudini Welfare Trust in Bangladesh. In 2016, she started with a lot of spirit and fun <a href="peppertom.com" target="External">Pepper+Tom</a>.
@@ -387,4 +396,4 @@ She designed a series of scarves with type and motifs of leafs, produced by NGO 
 Besides the products of Pepper+Tom, similar to work in all of the photo's on this website, design can be made by Claudia as a special custom assignment. Ask her: claudia@petr.com
 
 ### and others…
-Depending on required domain knowlegdge, other designers and other professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are available if necessary.
+Depending on required domain knowlegdge, other designers and professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are available if necessary.

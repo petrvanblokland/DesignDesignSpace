@@ -78,6 +78,10 @@ You may recognize that in your current design practice.</p>
 <li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time.</li>
 <li>Design deep spaces.</li>
 </ul>
+<pre><code class="Python">box = page['Footer']
+</code></pre>
+
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -138,6 +142,10 @@ box = page['Main']['Content']
 <li>The study finishes with a valued certificate on “graduation”, signed by external designers of statue. </li>
 <li>Short term visible value for students, even with the longer time frames.</li>
 </ul>
+<pre><code class="Python">box = page['Footer']
+</code></pre>
+
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -212,6 +220,10 @@ Of course the required time and level of details are subject of choice, but that
 <li>Return; bringing home the Holy Grail</li>
 </ul>
 <p><em>Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books</em></p>
+<pre><code class="Python">box = page['Footer']
+</code></pre>
+
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -278,6 +290,10 @@ The presentation is about 5 best pages in combination with validation criteria.<
 <p>This is the integral assignment for TypeMedia 2017 students at the end of their Master year. They have a limited time to write and design 3 mini-thesis document of one page each.</p>
 <h3>Case 5 Design interactive poster</h3>
 <h3>Case 6 Design of corporate identity models</h3>
+<pre><code class="Python">box = page['Footer']
+</code></pre>
+
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Side']
@@ -300,17 +316,8 @@ box = page['Main']['Side']
 </code></pre>
 
 <h3>Claudia Mens</h3>
-<p>I am the child of the woods.<br />
-We lived in a wooden house. At a dirt road.<br />
-Endlessly tinker with acorns.<br />
-Myself hiding under the ferns.<br />
-Preferably in a sweater and pants.<br />
-Wow, what a freedom, what a space.<br />
-Always together with other kids.</p>
-<p>“Watching is a verb,” my mother would say “look at the world. Look how beautiful that portrait has been painted.”<br />
-I drew notebooks. Making atmospheres and environments, little peepshows. Then crept behind my mom’s Husqvarna sewing machine and sewed a wide comfy skirt. To climb into trees.</p>
 <p>After three decades, running a studio from 1980 till 2010, it was time for something else. Claudia went looking and longing for the woods of her childhood. She found that feeling back on Martha's Vineyard in the USA, where she began drawing with childlike pleasure and painting. Arose leafs and fern motifs, inspired by her travels in Africa, South America and Asia.</p>
 <p>She designed a series of scarves with type and motifs of leafs, produced by NGO Kumudini Welfare Trust in Bangladesh. In 2016, she started with a lot of spirit and fun <a href="peppertom.com" target="External">Pepper+Tom</a>.</p>
 <p>Besides the products of Pepper+Tom, similar to work in all of the photo's on this website, design can be made by Claudia as a special custom assignment. Ask her: claudia@petr.com</p>
 <h3>and others…</h3>
-<p>Depending on required domain knowlegdge, other designers and other professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are available if necessary.</p></document>
+<p>Depending on required domain knowlegdge, other designers and professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are available if necessary.</p></document>
