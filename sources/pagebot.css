@@ -555,11 +555,11 @@ input[type=submit] {
 
 #navigation-wrap ol li {
   float: right;
-  padding: 10px 10px; }
+  padding: 8px 8px; }
 
 #navigation-wrap {
   width: 100%;
-  font-size: 70%;
+  font-size: 80%;
   float: right;
   display: inline;
   margin-right: 0; }
