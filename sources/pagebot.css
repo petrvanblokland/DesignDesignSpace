@@ -848,7 +848,6 @@ input[type=submit] {
     font-style: normal;
     line-height: 1.4em;
     font-weight: normal;
-    font-style: normal;
     position: relative;
     display: block;
     height: auto;
@@ -871,6 +870,7 @@ input[type=submit] {
       margin-top: 1.5em; }
     .featured p {
       color: #BBB;
+      font-size: 1em;
       line-height: 1.4em;
       margin-top: 1.5em; }
     .featured img {
