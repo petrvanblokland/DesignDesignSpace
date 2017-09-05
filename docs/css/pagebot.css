@@ -250,7 +250,7 @@ input[type=submit] {
     font-style: normal;
     font-weight: normal;
     font-size: 4em;
-    color: #101010;
+    color: #111;
     line-height: 1.2em;
     margin-bottom: 0; 
 }
@@ -259,7 +259,7 @@ input[type=submit] {
     font-style: normal;
     font-weight: normal;
     font-size: 3em;
-    color: #101010;
+    color: #111;
     line-height: 1.2em;
     margin-bottom: 0; 
 }
@@ -268,7 +268,7 @@ input[type=submit] {
     font-style: normal;
     font-weight: normal;
     font-size: 2em;
-    color: #22222;
+    color: #111;
     line-height: 1.2em;
     margin-bottom: 0; 
 }
