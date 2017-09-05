@@ -344,7 +344,7 @@ Painting of color/gray ranges. Material, proportions, ratio, contrast.
 The presentation is about 5 best pages in combination with validation criteria.
 
 ### Case 4 Design research methods inside the design process
-This is the integral assignment for TypeMedia 2017 students at the end of their Master year. They have a limited time to write and design 3 mini-thesis document of one page each.
+This is the integral assignment for TypeMedia 2017 students at the end of their Master year. They have limited time of 2 weeks to write and design 3 mini-thesis document of one page each. Illustrated and documented.
 
 ### Case 5 Design interactive poster
 
