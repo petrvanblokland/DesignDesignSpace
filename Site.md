@@ -40,7 +40,7 @@ Working closely together online with experienced designers and a group of colleg
 
 Study path lengths vary from 1 day, 1 week, 1 month and 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
  
-## 1 day • 1 week • 1 month • 1 year
+## 1 day • 1 week • 1 month • 1&nbsp;year
 The core idea behind designing the design process, is that it doesn’t make a difference how long you do it. A project of 1 hour, basically goes through the same stages (resarch – design – presentation) as a project of 1 year. Where in practice 80% of the work is done in the last 20% (or less) of the time.
 
 That mismatch is fundamental to design. Too optimistic in the beginning, the next one always will be better. A design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.
