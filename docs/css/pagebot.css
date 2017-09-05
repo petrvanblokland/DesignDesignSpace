@@ -249,25 +249,25 @@ input[type=submit] {
     font-family: "Upgrade-Semibold", sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 5em;
-    color: #101010;
-    line-height: 1.2em;
-    margin-bottom: 0.2em; 
-}
-  .introduction h2 {
-    font-family: "Upgrade-Regular", sans;
-    font-style: normal;
-    font-weight: normal;
     font-size: 4em;
     color: #101010;
     line-height: 1.2em;
     margin-bottom: 0.2em; 
 }
-  .introduction h3 {
-    font-family: "Upgrade-Regular", sans;
+  .introduction h2 {
+    font-family: "Upgrade-Semibold", sans;
     font-style: normal;
     font-weight: normal;
     font-size: 3em;
+    color: #101010;
+    line-height: 1.2em;
+    margin-bottom: 0.2em; 
+}
+  .introduction h3 {
+    font-family: "Upgrade-Semibold", sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2em;
     color: #101010;
     line-height: 1.2em;
     margin-bottom: 0.2em; 
