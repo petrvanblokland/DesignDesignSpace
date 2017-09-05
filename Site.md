@@ -58,7 +58,16 @@ box = page['Main']['Side']
 ~~~
 
 #### What can you do in 1 day?
-**And how to select?** A design game • A model exhibition space • Sketching the basics of a corporate identity • The design a gridded page • Or a scripted info-graphic • A couple of TypeCooker words with feedback • Writing code for a DrawBot animation.
+**And how to select from...** 
+
+* A design game 
+* A model exhibition space
+* Sketching the basics of a corporate identity
+* The design a gridded page
+* Or a scripted info-graphic
+* A couple of TypeCooker words with feedback
+* Writing code for a DrawBot animation.
+* ...
 
 #### In 1 week?
 Research specific aspect of typographic parameters • Research, write, design and present a mini-thesis • Design a simple corporate identity and program all applications in PageBot • Design an exhibition • Simulate a graphic design studio • Fill a Moleskine with 100 sketch pages.
