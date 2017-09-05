@@ -57,16 +57,16 @@ Design Design Space offers that environment. To study a specific topic for a def
 box = page['Main']['Side']
 ~~~
 
-### What you do in 1 day?
+#### What you do in 1 day?
 **And how to select?** A design game • A model exhibition space • Sketching the basics of a corporate identity • The design a gridded page • Or a scripted info-graphic • A couple of TypeCooker words with feedback • Writing code for a DrawBot animation.
 
-### In 1 week?
+#### In 1 week?
 Research specific aspect of typographic parameters • Research, write, design and present a mini-thesis • Design a simple corporate identity and program all applications in PageBot • Design an exhibition • Simulate a graphic design studio • Fill a Moleskine with 100 sketch pages.
 
-### In 1 month?
+#### In 1 month?
 Develop a PageBot publication • Improve your sketching skills.
 
-### In 1 year?
+#### In 1 year?
 Become an experienced typographyer. Or type designer. Or design educator. Or a designer knowing how to write code.
 
 
