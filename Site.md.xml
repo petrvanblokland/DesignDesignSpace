@@ -48,6 +48,12 @@ You may recognize that in your current design practice.</p>
 <h3>In 1 month?</h3>
 <h3>In 1 year?</h3>
 <p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
+<pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']['Content']
+
+</code></pre>
+
 <h2>http://designdesign.space</h2>
 <h2>designdesignspace.com</h2>
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /></p>

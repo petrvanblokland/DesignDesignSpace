@@ -71,8 +71,12 @@ Research specific aspect of typographic parameters • Research, write, design a
 Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 
+~~~Python
+page = doc.newPage(title='How', name='how.html', template='home')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']['Content']
 
-
+~~~
 
 
 
