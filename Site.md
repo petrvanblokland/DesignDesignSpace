@@ -355,4 +355,36 @@ With his partner Claudia Mens, Van Blokland worked for over thirty-five years as
 
 Van Blokland has taught graphic design, typography, and type design for many years at the Royal Academy of Fine Arts (KABK) in The Hague and at the Academy of Fine Arts, Arnhem. His first typeface was Proforma, a large series commissioned by Purup, a Danish manufacturer of form-preparation systems. Proforma has now been released for general use through Type Network. In 1988, Van Blokland’s work brought him ATypI’s coveted Charles Peignot Prize.
 
-As cofounder and partner of Type Network, Van Blokland is a dedicated contributor and developer of new type and tools for type design. He currently teaches in the Master’s program in Graphic Design at AKV|St.Joost in Breda and at Type and Media, the postgraduate type design program at KABK in The Hague. Read more about his thoughts on design and education in this interview and in his Lubalin lecture, <a href="https://vimeo.com/133052206" target="External">“Words,”</a> delivered at Cooper Union in 2015.
+As cofounder and partner of Type Network, Van Blokland is a dedicated contributor and developer of new type and tools for type design. He currently teaches in the Master’s program in Graphic Design at AKV|St.Joost in Breda and at Type and Media, the postgraduate type design program at KABK in The Hague. Read more about his thoughts on design and education in this interview and in his Lubalin lecture, <a href="https://vimeo.com/133052206" target="External">Words</a> delivered at Cooper Union in 2015.
+
+### Claudia Mens
+
+~~~Python
+box = page['OtherMain']['Side']
+~~~
+
+![docs/images/claudiamens.jpg](docs/images/claudiamens.jpg)
+
+~~~Python
+box = page['OtherMain']['Content']
+~~~
+
+I am the child of the woods.
+We lived in a wooden house. At a dirt road.
+Endlessly tinker with acorns.
+Myself hiding under the ferns.
+Preferably in a sweater and pants.
+Wow, what a freedom, what a space.
+Always together with other kids.
+
+“Watching is a verb,” my mother would say “look at the world. Look how beautiful that portrait has been painted.”
+I drew notebooks. Making atmospheres and environments, little peepshows. Then crept behind my mom’s Husqvarna sewing machine and sewed a wide comfy skirt. To climb into trees.
+
+After three decades, running a studio from 1980 till 2010, it was time for something else. Claudia went looking and longing for the woods of her childhood. She found that feeling back on Martha's Vineyard in the USA, where she began drawing with childlike pleasure and painting. Arose leafs and fern motifs, inspired by her travels in Africa, South America and Asia.
+
+She designed a series of scarves with type and motifs of leafs, produced by NGO Kumudini Welfare Trust in Bangladesh. In 2016, she started with a lot of spirit and fun <a href="peppertom.com" target="External">Pepper+Tom</a>.
+
+Besides the products of Pepper+Tom, similar to work in all of the photo's on this website, design can be made by Claudia as a special custom assignment. Ask her: claudia@petr.com
+
+### and others…
+Depending on required domain knowlegdge, other designers and other professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are availabe if that is necessary.
