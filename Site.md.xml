@@ -148,7 +148,8 @@ box = page['Main']['Content']
 <p>There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all offering the same process. The difference is the level of details, development of skill and amount of specialization in specific topcis.</p>
 <h3>What does it cost?</h3>
 <p>There are 4 possible training levels.</p>
-<pre><code>* 1 day $150
+<pre><code class="Python">&quot;&quot;&quot;
+* 1 day $150
 * 1 week $800 (7 days)
 * 1 month $2000 (calendar month)
 * 1 year $6000
@@ -160,6 +161,8 @@ For students who whish to extend one time frame into another, the payed amount w
 * 1 day extending into 1 week extending into 1 month: 1/2 $800 + $2000 = $2400
 * 1 month extending into one year: 1/2 $2000 + $6000 = $7000
 * 1 week extending into 1 month extending into 1 year: 1/2 $2400 + $6000 = $7200
+
+&quot;&quot;&quot;
 </code></pre>
 
 <p>Tuition needs to be payed before the training starts. <br />
