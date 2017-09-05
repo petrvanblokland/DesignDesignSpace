@@ -240,9 +240,10 @@ input[type=submit] {
   position: relative;
   display: block;
   height: auto;
-  padding-right: 0;
+  padding-right: 2em;
   margin-right: 0;
-  padding-top: 2em;
+  padding-left: 1em;
+  padding-top: 1em;
   padding-bottom: 1em;
   background-color: #EEE;
 }
@@ -952,9 +953,9 @@ input[type=submit] {
 /* ! Provide higher res assets for iPhone 4   */
 /* ========================================== */
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
-  /*.header .logo {
+  .header .logo {
     background: url(../images/logo@2x.jpg) no-repeat;
-    background-size: 212px 303px; } }*/
+    background-size: 212px 303px; } }
 /* _reset.scss */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, q, small, strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   border: 0;
