@@ -267,7 +267,7 @@ input[type=submit] {
     margin-bottom: 0; 
 }
   .introduction h3 {
-    font-family: "Upgrade-Semibold", sans;
+    font-family: "Upgrade-Regular", sans;
     letter-spacing: 0.01em;
     font-style: normal;
     font-weight: normal;
@@ -936,7 +936,7 @@ input[type=submit] {
 
   /* Logo in header not showing; logo in navigationsub container */
   .header .logo {
-    display: None; }
+    display: none; }
 
   .footernav {
     margin-bottom: 1em;
@@ -952,9 +952,9 @@ input[type=submit] {
 /* ! Provide higher res assets for iPhone 4   */
 /* ========================================== */
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
-  .header .logo {
+  /*.header .logo {
     background: url(../images/logo@2x.jpg) no-repeat;
-    background-size: 212px 303px; } }
+    background-size: 212px 303px; } }*/
 /* _reset.scss */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, q, small, strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   border: 0;
@@ -1051,7 +1051,7 @@ img {
     font-size: 16px;
     -webkit-text-size-adjust: none; }
 
-  .row, body, .container, .top, .title, .featured, .featured_item, .header, .navigation, .mobilenavigation, .navigationsub, .mainContent, .banners, .footer {
+  .row, body, .container, .top, .title, .introduction, .featured, .featured_item, .header, .navigation, .mobilenavigation, .navigationsub, .mainContent, .banners, .footer {
     width: 100%;
     min-width: 0;
     margin-left: 0px;
@@ -1059,7 +1059,7 @@ img {
     padding-left: 0px;
     padding-right: 0px; }
 
-  .row .onecol, .row .twocol, .row .navigation, .row mobilenavigation, .row top, .row featured, .row .navigationsub, .row .header, .row .threecol, .row .fourcol, .row .fivecol, .row .sixcol, .row .sevencol, .row .eightcol, .row .ninecol, .row .tencol, .row .elevencol, .row .twelvecol {
+  .row .onecol, .row .twocol, .row .navigation, .introduction, .row mobilenavigation, .row top, .row featured, .row .navigationsub, .row .header, .row .threecol, .row .fourcol, .row .fivecol, .row .sixcol, .row .sevencol, .row .eightcol, .row .ninecol, .row .tencol, .row .elevencol, .row .twelvecol {
     width: auto;
     float: none;
     margin-left: 0px;
