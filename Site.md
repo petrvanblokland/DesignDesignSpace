@@ -184,6 +184,7 @@ There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all o
 
 There are 4 possible training levels.
 
+~~~
 * 1 day $150
 * 1 week $800 (7 days)
 * 1 month $2000 (calendar month)
@@ -196,6 +197,7 @@ For students who whish to extend one time frame into another, the payed amount w
 * 1 day extending into 1 week extending into 1 month: 1/2 $800 + $2000 = $2400
 * 1 month extending into one year: 1/2 $2000 + $6000 = $7000
 * 1 week extending into 1 month extending into 1 year: 1/2 $2400 + $6000 = $7200
+~~~
 
 Tuition needs to be payed before the training starts. 
 No refunding is possible, but students have the right to build in breaks for some period of time, if that is discussed before hand. 

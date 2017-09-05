@@ -148,20 +148,20 @@ box = page['Main']['Content']
 <p>There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all offering the same process. The difference is the level of details, development of skill and amount of specialization in specific topcis.</p>
 <h3>What does it cost?</h3>
 <p>There are 4 possible training levels.</p>
-<ul>
-<li>1 day $150</li>
-<li>1 week $800 (7 days)</li>
-<li>1 month $2000 (calendar month)</li>
-<li>1 year $6000</li>
-</ul>
-<p>For students who whish to extend one time frame into another, the payed amount will be deducted by 50%.</p>
-<ul>
-<li>1 day extending into 1 week: 1/2 $150 + $800 = $875</li>
-<li>1 week extending into 1 month: 1/2 $800 + $2000 = $2400</li>
-<li>1 day extending into 1 week extending into 1 month: 1/2 $800 + $2000 = $2400</li>
-<li>1 month extending into one year: 1/2 $2000 + $6000 = $7000</li>
-<li>1 week extending into 1 month extending into 1 year: 1/2 $2400 + $6000 = $7200</li>
-</ul>
+<pre><code>* 1 day $150
+* 1 week $800 (7 days)
+* 1 month $2000 (calendar month)
+* 1 year $6000
+
+For students who whish to extend one time frame into another, the payed amount will be deducted by 50%.
+
+* 1 day extending into 1 week: 1/2 $150 + $800 = $875
+* 1 week extending into 1 month: 1/2 $800 + $2000 = $2400
+* 1 day extending into 1 week extending into 1 month: 1/2 $800 + $2000 = $2400
+* 1 month extending into one year: 1/2 $2000 + $6000 = $7000
+* 1 week extending into 1 month extending into 1 year: 1/2 $2400 + $6000 = $7200
+</code></pre>
+
 <p>Tuition needs to be payed before the training starts. <br />
 No refunding is possible, but students have the right to build in breaks for some period of time, if that is discussed before hand. <br />
 In exceptional situations payment in portions can be discussed.</p>
