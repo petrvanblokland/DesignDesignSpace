@@ -243,7 +243,7 @@ input[type=submit] {
   margin-right: 0;
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color: none;
+  background-color: #F0F0F0;
 }
   .introduction h2 {
     font-family: "Upgrade-Semibold", sans;
@@ -268,7 +268,7 @@ input[type=submit] {
     font-style: normal;
     font-weight: normal;
     font-size: 2em;
-    color: #101010;
+    color: #22222;
     line-height: 1.2em;
     margin-bottom: 0.2em; 
 }
