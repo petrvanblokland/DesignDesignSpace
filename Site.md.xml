@@ -13,9 +13,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Introduction']
 </code></pre>
 
-<h3>What are the dreams and dragons in your design process?</h3>
-<h3>How do your change a plan into a planning and mistakes into treasures?</h3>
-<h3>Where can you find the design space to develop?</h3>
+<h3>What are the dreams and dragons in your design process? How do your change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?</h3>
 <pre><code class="Python">box = page['Featured']['Image']
 </code></pre>
 
