@@ -59,24 +59,24 @@ You may recognize that in your current design practice.</p>
 <li>Or program the manual in PageBot</li>
 <li>Simulate a graphic design studio</li>
 <li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
-<li>…</li>
 </ul>
 <h4>In 1 month?</h4>
 <ul>
 <li>Develop a PageBot publication</li>
 <li>Improve your sketching skills</li>
-<li>Design design education tools</li>
+<li>Make some RoboFont tools</li>
+<li>Design design education tools, such as games and feedback models</li>
 <li>Do almost any design project that can be done in a month.</li>
-<li>…</li>
 </ul>
 <h4>In 1 year?</h4>
 <ul>
 <li>Become an independent typographer with some experience. </li>
-<li>Improve experience as type designer</li>
-<li>Or design educator</li>
-<li>Or a designer knowing how to write code.</li>
-<li>Or know how to communicatie with professional programmers</li>
-<li>You can ask a lot of relevant questions to your self. Accepting that the answers take some more time.</li>
+<li>Improve experience as type designer. Or design educator.</li>
+<li>Design Variable Font design spaces.</li>
+<li>Become a designer, who knows how to write code.</li>
+<li>Or how to communicatie with professional programmers</li>
+<li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time.</li>
+<li>Design deep spaces.</li>
 </ul>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
@@ -84,7 +84,7 @@ box = page['Main']['Content']
 
 </code></pre>
 
-<p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
+<p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and a crew of others</p>
 <!--
 ## http://designdesign.space
 ## designdesignspace.com
@@ -101,27 +101,21 @@ box = page['Main']['Content']
 <p><img alt="docs/images/HowToApplyForArtSchool.png" src="docs/images/HowToApplyForArtSchool.png" /></p>
 <h3>What Design Design Space is not</h3>
 <ul>
-<li>It is not a course</li>
+<li>It is not an (online) course</li>
 <li>It is not an (academic) education, leading to Master or PhD</li>
-<li>It is not an (online) school</li>
+<li>It is not a school</li>
 <li>It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training</li>
 <li>It is not a series of slides, presentations or a stack of books (although these can be part of it).</li>
 </ul>
 <p><img alt="docs/images/DoYouReallyNeedADesigner.png" src="docs/images/DoYouReallyNeedADesigner.png" /></p>
-<pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
-page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Content']
-
-</code></pre>
-
-<h3>For whom is it intended</h3>
+<h3>For whom is it intended?</h3>
 <ul>
 <li>Graduated design students</li>
 <li>Designers with experience, working in practice</li>
 <li>Designers interested in improving their process</li>
 <li>Designers interested in specializing a specific topic</li>
 <li>Designers interested to develop skill that make them independent from future developments.</li>
-<li>Designers who would like to do a follow-up/refresh study, but are lacking time, finance or geographic location to make it work.</li>
+<li>Designers who would like to do a follow-up refresh study, but are lacking time, finance or geographic location to make that work.</li>
 </ul>
 <p>In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.</p>
 <p>Focus is on design students and their individual goals. Not on predefined course content.</p>
@@ -224,7 +218,7 @@ box = page['Main']['Content']
 </code></pre>
 
 <h3>Specialization topics</h3>
-<p>In all of the four time frames of a sequence (day, week, month, year) students can select a combination of specializations (where this selection process also is part of the design skills to be developed).<br />
+<p>In all of the four time frames (1 day, 1 week, 1 month or 1 year) students can select a combination of specializations (where this selection process also is part of the design skills to be developed).<br />
 The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of itself.</p>
 <p>The combination of any 2 or 3 topics from the list below gives each students a unique personal research environment to develop.</p>
 <h4>Topics</h4>
@@ -283,4 +277,18 @@ The presentation is about 5 best pages in combination with validation criteria.<
 <h3>Case 4 Design research methods inside the design process</h3>
 <p>This is the integral assignment for TypeMedia 2017 students at the end of their Master year. They have a limited time to write and design 3 mini-thesis document of one page each.</p>
 <h3>Case 5 Design interactive poster</h3>
-<h3>Case 6 Design of corporate identity models</h3></document>
+<h3>Case 6 Design of corporate identity models</h3>
+<pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']['Side']
+</code></pre>
+
+<p><img alt="docs/images/petrvanblokland.png" src="docs/images/petrvanblokland.png" /></p>
+<pre><code class="Python">box = page['Main']['Content']
+</code></pre>
+
+<h3>Petr van Blokland</h3>
+<p>Petr van Blokland (1956, Netherlands) graduated cum laude from the graphic arts program at the Royal Academy of Fine Arts (KABK) in The Hague in 1980.</p>
+<p>With his partner Claudia Mens, Van Blokland worked for over thirty-five years as a designer in the studio they cofounded. His output ranged from sketching and model-making to programming in various languages. He specialized in systematic design: corporate identities, form systems, online publications, and tools for type design.</p>
+<p>Van Blokland has taught graphic design, typography, and type design for many years at the Royal Academy of Fine Arts (KABK) in The Hague and at the Academy of Fine Arts, Arnhem. His first typeface was Proforma, a large series commissioned by Purup, a Danish manufacturer of form-preparation systems. Proforma has now been released for general use through Type Network. In 1988, Van Blokland’s work brought him ATypI’s coveted Charles Peignot Prize.</p>
+<p>As cofounder and partner of Type Network, Van Blokland is a dedicated contributor and developer of new type and tools for type design. He currently teaches in the Master’s program in Graphic Design at AKV|St.Joost in Breda and at Type and Media, the postgraduate type design program at KABK in The Hague. Read more about his thoughts on design and education in this interview and in his Lubalin lecture, <a href="https://vimeo.com/133052206" target="External">“Words,”</a> delivered at Cooper Union in 2015.</p></document>

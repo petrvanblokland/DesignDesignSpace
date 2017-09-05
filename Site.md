@@ -75,22 +75,22 @@ box = page['Main']['Side']
 * Or program the manual in PageBot
 * Simulate a graphic design studio
 * Fill a Moleskine with 100 sketch pages. Then select the best.
-* …
 
 #### In 1 month?
 * Develop a PageBot publication
 * Improve your sketching skills
-* Design design education tools
+* Make some RoboFont tools
+* Design design education tools, such as games and feedback models
 * Do almost any design project that can be done in a month.
-* …
 
 #### In 1 year?
 * Become an independent typographer with some experience. 
-* Improve experience as type designer
-* Or design educator
-* Or a designer knowing how to write code.
-* Or know how to communicatie with professional programmers
-* You can ask a lot of relevant questions to your self. Accepting that the answers take some more time.
+* Improve experience as type designer. Or design educator.
+* Design Variable Font design spaces.
+* Become a designer, who knows how to write code.
+* Or how to communicatie with professional programmers
+* You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time.
+* Design deep spaces.
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
@@ -100,7 +100,7 @@ box = page['Main']['Content']
 ~~~
 
 
-Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
+Teachers/coaches/designers: Petr van Blokland, Claudia Mens and a crew of others
 
 
 
@@ -126,30 +126,24 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others
 
 ### What Design Design Space is not
 
-* It is not a course
+* It is not an (online) course
 * It is not an (academic) education, leading to Master or PhD
-* It is not an (online) school
+* It is not a school
 * It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training
 * It is not a series of slides, presentations or a stack of books (although these can be part of it).
 
 ![docs/images/DoYouReallyNeedADesigner.png](docs/images/DoYouReallyNeedADesigner.png)
 
 
-~~~Python
-page = doc.newPage(title='About', name='about.html', template='home')
-page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Content']
 
-~~~
-
-### For whom is it intended
+### For whom is it intended?
 
 * Graduated design students
 * Designers with experience, working in practice
 * Designers interested in improving their process
 * Designers interested in specializing a specific topic
 * Designers interested to develop skill that make them independent from future developments.
-* Designers who would like to do a follow-up/refresh study, but are lacking time, finance or geographic location to make it work.
+* Designers who would like to do a follow-up refresh study, but are lacking time, finance or geographic location to make that work.
 
 In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.
 
@@ -262,6 +256,7 @@ From the personal experience for the designer, such a journey has always had con
 * Calling; dreams, plans, goals and knowing yourself* Fellowship; the social fabric, the environment of the designer* Dragon; where you stumble, the treasure lies* Performance; stepping into the middle of the moment 
 * Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
 
+
 ~~~Python
 page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
@@ -270,7 +265,7 @@ box = page['Main']['Content']
 
 ### Specialization topics
 
-In all of the four time frames of a sequence (day, week, month, year) students can select a combination of specializations (where this selection process also is part of the design skills to be developed).
+In all of the four time frames (1 day, 1 week, 1 month or 1 year) students can select a combination of specializations (where this selection process also is part of the design skills to be developed).
 The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of itself.
 
 The combination of any 2 or 3 topics from the list below gives each students a unique personal research environment to develop.
@@ -340,3 +335,24 @@ This is the integral assignment for TypeMedia 2017 students at the end of their 
 
 ### Case 6 Design of corporate identity models
 
+~~~Python
+page = doc.newPage(title='About', name='about.html', template='home')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']['Side']
+~~~
+
+![docs/images/petrvanblokland.png](docs/images/petrvanblokland.png)
+
+~~~Python
+box = page['Main']['Content']
+~~~
+
+### Petr van Blokland
+
+Petr van Blokland (1956, Netherlands) graduated cum laude from the graphic arts program at the Royal Academy of Fine Arts (KABK) in The Hague in 1980.
+
+With his partner Claudia Mens, Van Blokland worked for over thirty-five years as a designer in the studio they cofounded. His output ranged from sketching and model-making to programming in various languages. He specialized in systematic design: corporate identities, form systems, online publications, and tools for type design.
+
+Van Blokland has taught graphic design, typography, and type design for many years at the Royal Academy of Fine Arts (KABK) in The Hague and at the Academy of Fine Arts, Arnhem. His first typeface was Proforma, a large series commissioned by Purup, a Danish manufacturer of form-preparation systems. Proforma has now been released for general use through Type Network. In 1988, Van Blokland’s work brought him ATypI’s coveted Charles Peignot Prize.
+
+As cofounder and partner of Type Network, Van Blokland is a dedicated contributor and developer of new type and tools for type design. He currently teaches in the Master’s program in Graphic Design at AKV|St.Joost in Breda and at Type and Media, the postgraduate type design program at KABK in The Hague. Read more about his thoughts on design and education in this interview and in his Lubalin lecture, <a href="https://vimeo.com/133052206" target="External">“Words,”</a> delivered at Cooper Union in 2015.
