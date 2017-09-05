@@ -42,24 +42,42 @@ You may recognize that in your current design practice.</p>
 </code></pre>
 
 <h4>What can you do in 1 day?</h4>
-<p><strong>And how to select from...</strong> </p>
 <ul>
-<li>A design game </li>
-<li>A model exhibition space</li>
-<li>Sketching the basics of a corporate identity</li>
-<li>The design a gridded page</li>
-<li>Or a scripted info-graphic</li>
-<li>A couple of TypeCooker words with feedback</li>
-<li>Writing code for a DrawBot animation.</li>
-<li>...</li>
+<li>Play a design game</li>
+<li>Design a model exhibition space</li>
+<li>Sketch the basics of a corporate identity</li>
+<li>Design a gridded page or a scripted info-graphic</li>
+<li>Draw couple of <a href="typecooker.com" targer="External">TypeCooker</a> words with feedback</li>
+<li>Write code for a DrawBot animation</li>
+<li>Examine how to select one of the above.</li>
 </ul>
-<p>(How would you select one?)</p>
 <h4>In 1 week?</h4>
-<p>Research specific aspect of typographic parameters • Research, write, design and present a mini-thesis • Design a simple corporate identity and program all applications in PageBot • Design an exhibition • Simulate a graphic design studio • Fill a Moleskine with 100 sketch pages.</p>
+<ul>
+<li>Study typographic parameters</li>
+<li>Research, write, design and present a mini-thesis about…</li>
+<li>Design a simple corporate identity</li>
+<li>Or program the manual in PageBot</li>
+<li>Simulate a graphic design studio</li>
+<li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
+<li>…</li>
+</ul>
 <h4>In 1 month?</h4>
-<p>Develop a PageBot publication • Improve your sketching skills.</p>
+<ul>
+<li>Develop a PageBot publication</li>
+<li>Improve your sketching skills</li>
+<li>Design design education tools</li>
+<li>Do almost any design project that can be done in a month.</li>
+<li>…</li>
+</ul>
 <h4>In 1 year?</h4>
-<p>Become an experienced typographyer. Or type designer. Or design educator. Or a designer knowing how to write code.</p>
+<ul>
+<li>Become an independent typographer with some experience. </li>
+<li>Improve experience as type designer</li>
+<li>Or design educator</li>
+<li>Or a designer knowing how to write code.</li>
+<li>Or know how to communicatie with professional programmers</li>
+<li>You can ask a lot of relevant questions to your self. Accepting that the answers take some more time.</li>
+</ul>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']

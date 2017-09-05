@@ -58,30 +58,39 @@ box = page['Main']['Side']
 ~~~
 
 #### What can you do in 1 day?
-**And how to select from...** 
 
-* A design game 
-* A model exhibition space
-* Sketching the basics of a corporate identity
-* The design a gridded page
-* Or a scripted info-graphic
-* A couple of TypeCooker words with feedback
-* Writing code for a DrawBot animation.
-* ...
-
-(How would you select one?)
+* Play a design game
+* Design a model exhibition space
+* Sketch the basics of a corporate identity
+* Design a gridded page or a scripted info-graphic
+* Draw couple of <a href="typecooker.com" targer="External">TypeCooker</a> words with feedback
+* Write code for a DrawBot animation
+* Examine how to select one of the above.
 
 #### In 1 week?
-Research specific aspect of typographic parameters • Research, write, design and present a mini-thesis • Design a simple corporate identity and program all applications in PageBot • Design an exhibition • Simulate a graphic design studio • Fill a Moleskine with 100 sketch pages.
+
+* Study typographic parameters
+* Research, write, design and present a mini-thesis about…
+* Design a simple corporate identity
+* Or program the manual in PageBot
+* Simulate a graphic design studio
+* Fill a Moleskine with 100 sketch pages. Then select the best.
+* …
 
 #### In 1 month?
-Develop a PageBot publication • Improve your sketching skills.
+* Develop a PageBot publication
+* Improve your sketching skills
+* Design design education tools
+* Do almost any design project that can be done in a month.
+* …
 
 #### In 1 year?
-Become an experienced typographyer. Or type designer. Or design educator. Or a designer knowing how to write code.
-
-
-
+* Become an independent typographer with some experience. 
+* Improve experience as type designer
+* Or design educator
+* Or a designer knowing how to write code.
+* Or know how to communicatie with professional programmers
+* You can ask a lot of relevant questions to your self. Accepting that the answers take some more time.
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
