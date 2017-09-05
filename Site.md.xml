@@ -41,19 +41,20 @@ You may recognize that in your current design practice.</p>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 
-<h3>What can your do in 1 day?</h3>
-<p>A design game • A model exhibition space • Sketching the basics of a corporate identity • The design and presentation of a page • Or an info-graphic • A couple of TypeCooker words with feed back • Writing code for a DrawBot animation.</p>
+<h3>What you do in 1 day.</h3>
+<p><strong>Which one do you select?</strong> A design game • A model exhibition space • Sketching the basics of a corporate identity • The design a gridded page • Or a scripted info-graphic • A couple of TypeCooker words with feedback • Writing code for a DrawBot animation.</p>
 <h3>In 1 week?</h3>
 <p>Research specific aspect of typographic parameters • Research, write, design and present a mini-thesis • Design a simple corporate identity and program all applications in PageBot • Design an exhibition • Simulate a graphic design studio • Fill a Moleskine with 100 sketch pages.</p>
 <h3>In 1 month?</h3>
 <h3>In 1 year?</h3>
-<p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
+<p>Become an experienced typographyer. Or type designer. Or design educator. Or a designer knowing how to write code.</p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 
 </code></pre>
 
+<p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and others</p>
 <h2>http://designdesign.space</h2>
 <h2>designdesignspace.com</h2>
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /></p>
