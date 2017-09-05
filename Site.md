@@ -215,11 +215,6 @@ The volume this depends on the length of the of the training that students apply
 
 Students finishing one training level adequately, automatically get admitions for a next level.
 
-~~~Python
-page = doc.newPage(title='How?', name='how.html')
-page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Content']
-~~~
 
 ### How does it work?
 
