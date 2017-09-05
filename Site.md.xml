@@ -81,7 +81,7 @@ You may recognize that in your current design practice.</p>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -145,7 +145,7 @@ box = page['Main']['Content']
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -223,7 +223,7 @@ Of course the required time and level of details are subject of choice, but that
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -293,7 +293,7 @@ The presentation is about 5 best pages in combination with validation criteria.<
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a></p>
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Side']

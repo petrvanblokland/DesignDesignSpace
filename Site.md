@@ -95,7 +95,7 @@ box = page['Main']['Side']
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
@@ -177,7 +177,7 @@ Focus is on design students and their individual goals. Not on predefined course
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='Schedule', name='schedule.html', template='home')
@@ -269,7 +269,7 @@ From the personal experience for the designer, such a journey has always had con
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 
 ~~~Python
@@ -353,7 +353,7 @@ This is the integral assignment for TypeMedia 2017 students at the end of their 
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto://buro@petr.com">buro@petr.com</a>
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='About', name='about.html', template='home')
