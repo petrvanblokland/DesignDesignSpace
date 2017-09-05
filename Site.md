@@ -57,7 +57,7 @@ Design Design Space offers that environment. To study a specific topic for a def
 box = page['Main']['Side']
 ~~~
 
-#### What you do in 1 day?
+#### What can you do in 1 day?
 **And how to select?** A design game • A model exhibition space • Sketching the basics of a corporate identity • The design a gridded page • Or a scripted info-graphic • A couple of TypeCooker words with feedback • Writing code for a DrawBot animation.
 
 #### In 1 week?
