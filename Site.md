@@ -69,6 +69,8 @@ box = page['Main']['Side']
 * Writing code for a DrawBot animation.
 * ...
 
+(How would you select one?)
+
 #### In 1 week?
 Research specific aspect of typographic parameters • Research, write, design and present a mini-thesis • Design a simple corporate identity and program all applications in PageBot • Design an exhibition • Simulate a graphic design studio • Fill a Moleskine with 100 sketch pages.
 
