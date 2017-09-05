@@ -233,6 +233,7 @@ input[type=submit] {
 .introduction {
   font-size: 1.5em;
   font-family: "Upgrade-Regular", sans;
+  letter-spacing: 0.01em;
   font-style: normal;
   line-height: 1.4em;
   font-weight: normal;
@@ -248,6 +249,7 @@ input[type=submit] {
   .introduction h2 {
     font-family: "Upgrade-Semibold", sans;
     font-style: normal;
+    letter-spacing: 0.01em;
     font-weight: normal;
     font-size: 4em;
     color: #111;
@@ -256,6 +258,7 @@ input[type=submit] {
 }
   .introduction h2 {
     font-family: "Upgrade-Semibold", sans;
+    letter-spacing: 0.01em;
     font-style: normal;
     font-weight: normal;
     font-size: 3em;
@@ -265,6 +268,7 @@ input[type=submit] {
 }
   .introduction h3 {
     font-family: "Upgrade-Semibold", sans;
+    letter-spacing: 0.01em;
     font-style: normal;
     font-weight: normal;
     font-size: 2em;
@@ -427,24 +431,27 @@ input[type=submit] {
   margin-bottom: 2em; }
 
 .mainContent h1 {
-    font-family: "Upgrade-Bold", sans;
+  font-family: "Upgrade-Bold", sans;
   font-size: 2.5em;
+  letter-spacing: 0;
   line-height: 1.3em;
   color: #323a47;
   margin-top: 0.2em;
   margin-bottom: 0.2em; }
 
 .mainContent h2 {
-    font-family: "Upgrade-SemiboldItalic", sans;
+  font-family: "Upgrade-SemiboldItalic", sans;
   font-size: 2.4em;
+  letter-spacing: 0;
   color: #828487;
   line-height: 1.2em;
   margin-bottom: 0.2em; }
 
 .mainContent h3 {
-    font-family: "Upgrade-Semibold", sans;
+  font-family: "Upgrade-Semibold", sans;
   color: #828487;
-  font-weight: Normal;
+  font-weight: normal;
+  letter-spacing: 0;
   margin-top: 0.6em;
   margin-bottom: 0.6em;
   font-size: 1.2em;
