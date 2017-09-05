@@ -33,7 +33,7 @@ What makes a design proces fundamental different from a production process, is t
 box = page['Main']['Content']
 ~~~
 
-## What is it?
+## Design Design Space: what is it?
 Design Design Space is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, design your design process. 
 
 Working closely together online with experienced designers and a group of collegue students, there is space to define your own study topics and challenges. In fact, selection and planning is an integral part of the study itself. You tell us what you want, and together we’ll find a way how to get there.
