@@ -43,45 +43,46 @@ You may recognize that in your current design practice.</p>
 
 <h4>What can you do in 1 day?</h4>
 <ul>
-<li>Play a design game</li>
-<li>Design a model exhibition space</li>
-<li>Sketch the basics of a corporate identity</li>
+<li>Play a design game;</li>
+<li>Design a model exhibition space;</li>
+<li>Sketch the basics of a corporate identity;</li>
 <li>Design a gridded page or a scripted info-graphic</li>
-<li>Draw couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback</li>
-<li>Write code for a DrawBot animation</li>
+<li>Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;</li>
+<li>Write code for a DrawBot animation;</li>
 <li>Examine how to select one of the above.</li>
 </ul>
 <h4>In 1 week?</h4>
 <ul>
-<li>Study typographic parameters</li>
-<li>Research, write, design and present a mini-thesis about…</li>
-<li>Design a simple corporate identity</li>
-<li>Or program the manual in PageBot</li>
-<li>Simulate a graphic design studio</li>
+<li>Study typographic parameters;</li>
+<li>Research, write, design and present a mini-thesis about a topic of your choice;</li>
+<li>Design a simple corporate identity;</li>
+<li>Or program the manual in PageBot;</li>
+<li>Simulate a graphic design studio;</li>
+<li>Design a design game and run it;</li>
 <li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
 </ul>
 <h4>In 1 month?</h4>
 <ul>
-<li>Develop a PageBot publication</li>
-<li>Improve your sketching skills</li>
-<li>Make some RoboFont tools</li>
-<li>Design design education tools, such as games and feedback models</li>
+<li>Develop a PageBot publication;</li>
+<li>Improve your sketching skills;</li>
+<li>Make some RoboFont tools;</li>
+<li>Design design education tools, such as games and feedback models;</li>
 <li>Do almost any design project that can be done in a month.</li>
 </ul>
 <h4>In 1 year?</h4>
 <ul>
-<li>Become an independent typographer with some experience. </li>
-<li>Improve experience as type designer. Or design educator.</li>
-<li>Design Variable Font design spaces.</li>
-<li>Become a designer, who knows how to write code.</li>
-<li>Or how to communicatie with professional programmers</li>
-<li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time.</li>
+<li>Become an independent typographer with noticable experience;</li>
+<li>Improve your experience as type designer. Or as design educator;</li>
+<li>Design Variable Font design spaces;</li>
+<li>Become a designer, who knows how to write code;</li>
+<li>Or how to communicatie with professional programmers;</li>
+<li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;</li>
 <li>Design deep spaces.</li>
 </ul>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
+<p>Let us know that you think. What questions do you have for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']

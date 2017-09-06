@@ -59,43 +59,44 @@ box = page['Main']['Side']
 
 #### What can you do in 1 day?
 
-* Play a design game
-* Design a model exhibition space
-* Sketch the basics of a corporate identity
+* Play a design game;
+* Design a model exhibition space;
+* Sketch the basics of a corporate identity;
 * Design a gridded page or a scripted info-graphic
-* Draw couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback
-* Write code for a DrawBot animation
+* Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;
+* Write code for a DrawBot animation;
 * Examine how to select one of the above.
 
 #### In 1 week?
 
-* Study typographic parameters
-* Research, write, design and present a mini-thesis about…
-* Design a simple corporate identity
-* Or program the manual in PageBot
-* Simulate a graphic design studio
+* Study typographic parameters;
+* Research, write, design and present a mini-thesis about a topic of your choice;
+* Design a simple corporate identity;
+* Or program the manual in PageBot;
+* Simulate a graphic design studio;
+* Design a design game and run it;
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
 #### In 1 month?
-* Develop a PageBot publication
-* Improve your sketching skills
-* Make some RoboFont tools
-* Design design education tools, such as games and feedback models
+* Develop a PageBot publication;
+* Improve your sketching skills;
+* Make some RoboFont tools;
+* Design design education tools, such as games and feedback models;
 * Do almost any design project that can be done in a month.
 
 #### In 1 year?
-* Become an independent typographer with some experience. 
-* Improve experience as type designer. Or design educator.
-* Design Variable Font design spaces.
-* Become a designer, who knows how to write code.
-* Or how to communicatie with professional programmers
-* You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time.
+* Become an independent typographer with noticable experience;
+* Improve your experience as type designer. Or as design educator;
+* Design Variable Font design spaces;
+* Become a designer, who knows how to write code;
+* Or how to communicatie with professional programmers;
+* You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;
 * Design deep spaces.
 
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+Let us know that you think. What questions do you have for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
