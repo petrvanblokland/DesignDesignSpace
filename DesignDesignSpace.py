@@ -84,7 +84,7 @@ if DO_MAMP:
         os.system(u'open %s' % view.MAMP_SHOP_URL)
     else:
         t.doc.build(NAME, view='Mamp')
-        print 'Open', view.getUrl(NAME)
+        #t.doc.export('_export/%s.pdf' % NAME, multiPages=True)
         os.system(u'open "%s"' % view.getUrl(NAME))
 elif DO_GIT:
     view = t.doc.getView('Git')

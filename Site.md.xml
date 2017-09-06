@@ -22,22 +22,25 @@ box = page['Introduction']
 </code></pre>
 
 <h2>Repeat to improve</h2>
-<p>What makes a design proces fundamental different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. </p>
+<p>What makes a design proces fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. </p>
 <pre><code class="Python">box = page['Main']['Content']
 </code></pre>
 
-<h2>Design Design Space: what is it?</h2>
-<p>Design Design Space is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, a space where you can design your design process. </p>
-<p>Working closely together online with experienced designers and a group of collegue students, there is space to define your own study topics and challenges. In fact, selection and planning is an integral part of the study itself. You tell us what you want, and together we’ll find a way how to get there.</p>
+<h2><em>Design Design Space</em>: what is it?</h2>
+<p><em>Design Design Space</em> is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, a space where you can design your design process. </p>
+<p>Working closely together online with experienced designers and a group of collegue students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.</p>
 <p>Study path lengths vary from 1 day, 1 week, 1 month and 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.</p>
 <h2>1 day • 1 week • 1 month • 1 year</h2>
-<p>The core idea behind designing the design process, is that it doesn’t make a difference how long you do it. A project of 1 hour, basically goes through the same stages (resarch – design – presentation) as a project of 1 year. Where in practice 80% of the work is done in the last 20% (or less) of the time.</p>
-<p>That mismatch is fundamental to design. Too optimistic in the beginning, the next one always will be better. A design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.</p>
+<p>The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (resarch – design – presentation) as a project of 1 year. Where in practice 80% of the work is done in the last 20% (or less) of the available time.</p>
+<p>That mismatch is fundamental to design. Too optimistic in the beginning – the next one always will be better – a design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.</p>
 <h3>Design methods</h3>
-<p>Over the years a magnitude of design method have been developed, but they all have in common that to reach the deadline with with an optimum of available functions.<br />
+<p>Over the years a magnitude of design methods have been developed, but unformtunately they all share the common goal to meet the deadline with an optimum of available functions.<br />
 You may recognize that in your current design practice.</p>
-<p>What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. To spend time on acquiring skills without predefined purpose.</p>
-<p>Design Design Space offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are made for your development.</p>
+<p>What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. Cuddle solutions that don’t seem to be porfitable right away. To spend time on acquiring skills without predefined purpose.</p>
+<p>Yet, for the development of skill, such an approach is essential. </p>
+<p><em>Design Design Space</em> offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are customized to your development.</p>
+<h3>Experience</h3>
+<p><em>Design Design Space</em> taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running design games.</p>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 
@@ -79,10 +82,29 @@ You may recognize that in your current design practice.</p>
 <li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;</li>
 <li>Design deep spaces.</li>
 </ul>
+<pre><code class="Python">box = page['Section']['Title']
+</code></pre>
+
+<h2>Example projects</h2>
+<pre><code class="Python">box = page['Section']['0']
+</code></pre>
+
+<p><img alt="docs/images/DesignModels2.092.png" src="docs/images/DesignModels2.092.png" /></p>
+<h3>Flow control</h3>
+<p>Staging a project into small chunks gives better control on every aspect. Popular scrum techniques are a good example of that technique. Yet, they are mostyl oriented towards time management, function implementation and linear development.</p>
+<p>If the design process is more implemented as a sequence of repetitions, with increasing length and detail level, there is more space for improvement, if requirements are new and untested. </p>
+<p>If a project will last for 6 months, what is it that you are really busy with tomorrow?</p>
+<pre><code class="Python">box = page['Section']['1']
+</code></pre>
+
+<p><img alt="docs/images/DesignModels2.037.png" src="docs/images/DesignModels2.037.png" /></p>
+<h3>Detail managment</h3>
+<p>Sketching is the process of eliminating unwanted options from the tree of all possibilities, without visualizing every single one of them. </p>
+<p>Sketching is the process of managing the level of details, throughout the process. One method is reduce the scale of drawings, as the resolution of tools (pencil or screen) automatically will hide irrelevant details. </p>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. What questions do you have for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
+<p>Let us know that you think. What questions do you have for us? <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -96,7 +118,7 @@ box = page['Main']['Content']
 -->
 
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /></p>
-<h3>What designdesign.space can be</h3>
+<h3>What <em>Design Design Space</em> can be</h3>
 <ul>
 <li>A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.</li>
 <li>The design of personal space (time, topic and skills) profession preparation for the rest of your life.</li>
@@ -104,7 +126,7 @@ box = page['Main']['Content']
 <li>a place to train design skills and tools.</li>
 </ul>
 <p><img alt="docs/images/HowToApplyForArtSchool.png" src="docs/images/HowToApplyForArtSchool.png" /></p>
-<h3>What Design Design Space is not</h3>
+<h3>What <em>Design Design Space</em> is not</h3>
 <ul>
 <li>It is not an (online) course</li>
 <li>It is not an (academic) education, leading to Master or PhD</li>
@@ -124,7 +146,7 @@ box = page['Main']['Content']
 </ul>
 <p>In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.</p>
 <p>Focus is on design students and their individual goals. Not on predefined course content.</p>
-<h3>For which designers does designdesign.space best?</h3>
+<h3>For which designers does <em>Design Design Space</em> works best?</h3>
 <ul>
 <li>Open minded and willing to get valuable feed-back on their work</li>
 <li>Interested to improve and change</li>
@@ -132,7 +154,7 @@ box = page['Main']['Content']
 <li>Disciplined to work hard between online sessions</li>
 <li>More interested in the development of skills and challenging assignments than assessed diploma’s.</li>
 </ul>
-<h3>What designdesign.space offers</h3>
+<h3>What <em>Design Design Space</em> offers</h3>
 <ul>
 <li>Learning how to create an environment and context to design and develop.</li>
 <li>Developing the skill to design the design process.</li>
@@ -143,10 +165,26 @@ box = page['Main']['Content']
 <li>The study finishes with a valued certificate on “graduation”, signed by external designers of statue. </li>
 <li>Short term visible value for students, even with the longer time frames.</li>
 </ul>
+<pre><code class="Python">box = page['Section']['Title']
+</code></pre>
+
+<h2>Example projects</h2>
+<pre><code class="Python">box = page['Section']['0']
+</code></pre>
+
+<p><img alt="docs/images/DesignModels2.048.png" src="docs/images/DesignModels2.048.png" /></p>
+<h3>How does Design relate to Art?</h3>
+<p>Design can be seen as position between Art (0% defined) and Production (100% defined). But what that percentage is – and if this is a relevant model at all – needs to be defined for every project. How would you do that? How would you balance between being a creative artist and making sure that the design is finished in time, to full user satisfaction? What would your process be for such a task?</p>
+<pre><code class="Python">box = page['Section']['1']
+</code></pre>
+
+<p><img alt="docs/images/DesignModels2.077.png" src="docs/images/DesignModels2.077.png" /></p>
+<h3>Design a food poster.</h3>
+<p>How would you approach such a project? What is the assignment runs for 2 days? Or 2 weeks? Or 2 months? What would be different in you process? And what is always the same?</p>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
+<p>Let us know that you think. Or if you have any questions for us? <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='Schedule', name='schedule.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -189,25 +227,28 @@ The volume this depends on the length of the of the training that students apply
 <li>Design students meet online with each other and the coaches in regular intervals.</li>
 <li>Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which specific topics can be filled by the individual students.</li>
 <li>Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of the assignment. </li>
-<li>With regular intervals (ranging from hours to weeks) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.</li>
+<li>With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.</li>
 <li>The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.</li>
 <li>In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. </li>
 </ul>
-<h3>Biggest advantage of this activity for us</h3>
-<ul>
-<li>Not bound to any accreditation or institution</li>
-<li>No startup cost</li>
-<li>Highly scalable in volume of students</li>
-<li>Highly scalable in contributing teachers</li>
-<li>Very flexible in focus, content and directions</li>
-<li>Works anywhere, anytime, any language, country and culture, as long as people get online.</li>
-<li>Large “touch base” of students who already have similar experience in our regular lessons</li>
-<li>A lot of this we already have available as assignments, examples, etc.</li>
-<li>Flexible in pricing for special cases.</li>
-<li>Focus is on design students, not on buildings, organizations and degrees.</li>
-</ul>
+<pre><code class="Python">&quot;&quot;&quot;
+### Biggest advantage of this activity for us
+
+* Not bound to any accreditation or institution
+* No startup cost
+* Highly scalable in volume of students
+* Highly scalable in contributing teachers
+* Very flexible in focus, content and directions
+* Works anywhere, anytime, any language, country and culture, as long as people get online.
+* Large “touch base” of students who already have similar experience in our regular lessons
+* A lot of this we already have available as assignments, examples, etc.
+* Flexible in pricing for special cases.
+* Focus is on design students, not on buildings, organizations and degrees.
+&quot;&quot;&quot;
+</code></pre>
+
 <h3>The design process</h3>
-<p>The idea behind the training is that every design process can be divided into three phases: research, design and presentation.<br />
+<p>The idea behind every <em>Design Design Space</em> training is that every design process can be divided into three phases: research, design and presentation.<br />
 As e.g. the research phase by definition has design and presentation aspects (answering questions such as “How am I going to do the research” and “How am I going to present the research results?”), every phase has this division in three, making a recursive structure.<br />
 Of course the required time and level of details are subject of choice, but that itself is a design question to be answered.</p>
 <h3>Personal design space</h3>
@@ -221,6 +262,25 @@ Of course the required time and level of details are subject of choice, but that
 <li>Return; bringing home the Holy Grail</li>
 </ul>
 <p><em>Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books</em></p>
+<pre><code class="Python">box = page['Section']['Title']
+</code></pre>
+
+<h2>Example projects</h2>
+<pre><code class="Python">box = page['Section']['0']
+</code></pre>
+
+<p><img alt="docs/images/DesignModels2.009.png" src="docs/images/DesignModels2.009.png" /></p>
+<h3>What will you design 10 years from now?</h3>
+<p>With increasing speed, values and skills of 10 years ago have become obsolete. What do you need to do, to be a professional designer 10 years from now? Or 20? Or 30? </p>
+<p>How do you prepare for a future where basic skills are taken over by AI. How can your train yourself to learn to adapt. </p>
+<p>Instead of following the future developments, how can you participate in defining and designing them?</p>
+<pre><code class="Python">box = page['Section']['1']
+</code></pre>
+
+<p><img alt="docs/images/DesignModels2.030.png" src="docs/images/DesignModels2.030.png" /></p>
+<h3>Design is a cycle</h3>
+<p>If design is a cycle, then where does it end? When that is up to the designer to decide – until it’s good enough – that will never happen (right). <br />
+Reality is that the design process ends if all time is used. BUt how to make sure that the design is complete, with enough details to be appreciated by a user?</p>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
@@ -281,16 +341,20 @@ Programming Structure, hierarchy, design or algorithms, …)</li>
 <h2>Cases</h2>
 <p>What we plan to do can best be describe in some cases.</p>
 <h3>Case 1 Design of selection and feedback</h3>
-<p>3 posters, different in one series. Assignemnt is how to judge the result and how to select different judging methods</p>
+<p>3 posters, similar and different in one series, for a topic of your choice. Assignemnt is how to judge the result and how to select from various judging methods.<br />
+*How to develop criteria </p>
 <h3>Case 2 Basic skills</h3>
-<p>Painting of color/gray ranges. Material, proportions, ratio, contrast.</p>
+<p>Painting of color/gray ranges. Material, proportions, ratio and contrast.</p>
 <h3>Case 3 Sketching methods</h3>
-<p>2 weeks to fill a 100 page Moleskine sketchbook, design for a specific subject, context or design challenge.<br />
-The presentation is about 5 best pages in combination with validation criteria.</p>
+<p>One week to fill a 100 page Moleskine sketchbook, design for a specific subject, context or design challenge.<br />
+The presentation is showing 5 best pages in combination with validation criteria used.</p>
 <h3>Case 4 Design research methods inside the design process</h3>
 <p>This is the integral assignment for TypeMedia 2017 students at the end of their Master year. They have limited time of 2 weeks to write and design 3 mini-thesis document of one page each. Illustrated and documented.</p>
 <h3>Case 5 Design interactive poster</h3>
+<p>What is a relevant set of parameters for a poster? And how does interaction play a role in that? What is the design process? How do you test the intermediate result? What needs to happen to guearantee success?</p>
 <h3>Case 6 Design of corporate identity models</h3>
+<p>Research models where applications can have different usage, technique and message, and still belong to the same brand? What are parameters and what freedom do designers later in the process have?<br />
+Which of these parameters need to be documented? And which can be automated?</p>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
