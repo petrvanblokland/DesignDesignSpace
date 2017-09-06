@@ -1,4 +1,4 @@
-
+/*
 
 @font-face {
   font-family: "Upgrade-Regular-Italic";
@@ -26,3 +26,25 @@ src: url("fonts/Upgrade-Bold_Italic.eot") format("eot"),
   font-family: "Upgrade-Bold";
 src: url("fonts/Upgrade-Bold.eot") format("eot"),
   url("fonts/Upgrade-Bold.woff") format("woff");}
+  
+*/
+@font-face {
+  font-family: "Upgrade-Regular-Italic";
+src: url("fonts/Upgrade-Regular_Italic.ttf") format("ttf");}
+@font-face {
+  font-family: "Upgrade-Regular";
+src: url("fonts/Upgrade-Regular.ttf") format("ttf");}
+
+@font-face {
+  font-family: "Upgrade-Semibold-Italic";
+src: url("fonts/Upgrade-Semibold_Italic.ttf") format("ttf");}
+@font-face {
+  font-family: "Upgrade-Semibold";
+src: url("fonts/Upgrade-Semibold.ttf") format("ttf");}
+
+@font-face {
+  font-family: "Upgrade-Bold-Italic";
+src: url("fonts/Upgrade-Bold_Italic.ttf") format("ttf");}
+@font-face {
+  font-family: "Upgrade-Bold";
+src: url("fonts/Upgrade-Bold.ttf") format("ttf");}
