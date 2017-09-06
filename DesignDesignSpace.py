@@ -79,11 +79,12 @@ if 0:
 if DO_MAMP:
     view = t.doc.getView('Mamp')
 
-    if not os.path.exists(view.EXPORT_PATH):
+    if not os.path.exists(view.MAMP_PATH):
         print 'The local MAMP server application does not exist. Download and in stall from %s.' % view.MAMP_SHOP_URL 
         os.system(u'open %s' % view.MAMP_SHOP_URL)
     else:
         t.doc.build(NAME, view='Mamp')
+        print 'Open', view.getUrl(NAME)
         os.system(u'open "%s"' % view.getUrl(NAME))
 elif DO_GIT:
     view = t.doc.getView('Git')
