@@ -1,0 +1,29 @@
+
+
+@font-face {
+  font-family: "Upgrade-Regular-Italic";
+src: url("Upgrade-Regular_Italic.eot") format("eot"),
+  url("Upgrade-Regular_Italic.woff") format("woff");}
+@font-face {
+  font-family: "Upgrade-Regular";
+src: url("Upgrade-Regular.eot") format("eot"),
+  url("Upgrade-Regular.woff") format("woff");}
+
+@font-face {
+  font-family: "Upgrade-Semibold-Italic";
+src: url("Upgrade-Semibold_Italic.eot") format("eot"),
+  url("Upgrade-Semibold_Italic.woff") format("woff");}
+@font-face {
+  font-family: "Upgrade-Semibold";
+src: url("Upgrade-Semibold.eot") format("eot"),
+  url("Upgrade-Semibold.woff") format("woff");}
+
+@font-face {
+  font-family: "Upgrade-Bold-Italic";
+src: url("Upgrade-Bold_Italic.eot") format("eot"),
+  url("Upgrade-Bold_Italic.woff") format("woff");}
+@font-face {
+  font-family: "Upgrade-Bold";
+src: url("Upgrade-Bold.eot") format("eot"),
+  url("Upgrade-Bold.woff") format("woff");}
+ 
