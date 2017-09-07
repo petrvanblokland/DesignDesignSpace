@@ -13,7 +13,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Introduction']
 </code></pre>
 
-<h3>What are the dreams and dragons in your design process? How do your change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?</h3>
+<h3>(Website is in draft) What are the dreams and dragons in your design process? How do your change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?</h3>
 <pre><code class="Python">box = page['Featured']['Image']
 </code></pre>
 
@@ -291,8 +291,8 @@ box = page['Main']['Content']
 </code></pre>
 
 <h3>Specialization topics</h3>
-<p>In all of the four time frames (1 day, 1 week, 1 month or 1 year) students can select a combination of specializations (where this selection process also is part of the design skills to be developed).<br />
-The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of itself.</p>
+<p>In all of the four time frames (1 day, 1 week, 1 month or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).<br />
+The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of one of the others.</p>
 <p>The combination of any 2 or 3 topics from the list below gives each students a unique personal research environment to develop.</p>
 <h4>Topics</h4>
 <ul>
@@ -303,7 +303,7 @@ The difference between the time frames is the level of details and the amount of
 <li>Interior and exhibition design</li>
 <li>Design for multiple media from single source</li>
 <li>Parametric design, programming and coding</li>
-<li>Corporate design</li>
+<li>Corporate identity design</li>
 </ul>
 <h4>Process</h4>
 <ul>
@@ -321,7 +321,7 @@ The difference between the time frames is the level of details and the amount of
 <li>Dealing with customers</li>
 <li>Design for users</li>
 </ul>
-<p>Each of these items contain a world of detailed knowledge and design parameters that can be developed with students who select such a topic. As example, for typography (and with reference to adjacent topics) this next level could contain a selection of:</p>
+<p>Each of these items contains a world of detailed knowledge and design parameters that can be developed with other students who select such a topic. As example, for typography (and with reference to adjacent topics) this next level could contain a selection of:</p>
 <ul>
 <li><strong>Typographic parameters</strong> Categories, bandwidth of possible values, presentation examples, …</li>
 <li><strong>Typographic layout</strong> Principles, transformation of historic examples, whitespace, aesthetics, …</li>
@@ -331,8 +331,8 @@ The difference between the time frames is the level of details and the amount of
 <li><strong>Type design</strong> Variation axes, design of parameters, design of selection criteria, design of the process, …</li>
 <li><strong>Images as typographic elements</strong> Illustration, photography, info-graphics, ...</li>
 <li><strong>Target areas</strong> Culture, fashion, politics, international relation, trade, education, …</li>
-<li><strong>Educating typography</strong> Educating bachelor students, customers, users, yourself inside design cycles, presenting, writing about…<br />
-Programming Structure, hierarchy, design or algorithms, …)</li>
+<li><strong>Educating typography</strong> Educating bachelor students, customers, users, yourself inside design cycles, presenting, writing about…</li>
+<li><strong>Programming</strong> Structure, hierarchy, design of algorithms, …</li>
 <li><strong>Coding</strong> All relevant languages related to typography: deepest relevant of Processing, Python, JS, PHP, CSS, HTML, XML, Objective-C, …</li>
 <li><strong>Tools</strong> Deepest of Adobe applications, scripting, OSX-terminal tools, design of information conversion flows, research on raw data, …</li>
 <li><strong>Device Measurements</strong> resolution, distortion, proportion, memory usage, …</li>
@@ -344,7 +344,8 @@ Programming Structure, hierarchy, design or algorithms, …)</li>
 <p>3 posters, similar and different in one series, for a topic of your choice. Assignemnt is how to judge the result and how to select from various judging methods.<br />
 *How to develop criteria </p>
 <h3>Case 2 Basic skills</h3>
-<p>Painting of color/gray ranges. Material, proportions, ratio and contrast.</p>
+<p>Painting of color/gray ranges. Sketching with materials, proportions, ratio and contrast.</p>
+<p>Although much of your work may have digital outcome, actually making stuff opens up new directions, other points of view.</p>
 <h3>Case 3 Sketching methods</h3>
 <p>One week to fill a 100 page Moleskine sketchbook, design for a specific subject, context or design challenge.<br />
 The presentation is showing 5 best pages in combination with validation criteria used.</p>

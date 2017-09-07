@@ -13,7 +13,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Introduction']
 ~~~
 
-### What are the dreams and dragons in your design process? How do your change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?
+### (Website is in draft) What are the dreams and dragons in your design process? How do your change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?
 
 ~~~Python
 box = page['Featured']['Image']
@@ -359,8 +359,8 @@ box = page['Main']['Content']
 
 ### Specialization topics
 
-In all of the four time frames (1 day, 1 week, 1 month or 1 year) students can select a combination of specializations (where this selection process also is part of the design skills to be developed).
-The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of itself.
+In all of the four time frames (1 day, 1 week, 1 month or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).
+The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of one of the others.
 
 The combination of any 2 or 3 topics from the list below gives each students a unique personal research environment to develop.
 
@@ -373,7 +373,7 @@ The combination of any 2 or 3 topics from the list below gives each students a u
 * Interior and exhibition design
 * Design for multiple media from single source
 * Parametric design, programming and coding
-* Corporate design
+* Corporate identity design
 
 #### Process
 
@@ -391,7 +391,7 @@ The combination of any 2 or 3 topics from the list below gives each students a u
 * Dealing with customers
 * Design for users
 
-Each of these items contain a world of detailed knowledge and design parameters that can be developed with students who select such a topic. As example, for typography (and with reference to adjacent topics) this next level could contain a selection of:
+Each of these items contains a world of detailed knowledge and design parameters that can be developed with other students who select such a topic. As example, for typography (and with reference to adjacent topics) this next level could contain a selection of:
 
 * **Typographic parameters** Categories, bandwidth of possible values, presentation examples, …
 * **Typographic layout** Principles, transformation of historic examples, whitespace, aesthetics, …
@@ -402,7 +402,7 @@ Each of these items contain a world of detailed knowledge and design parameters 
 * **Images as typographic elements** Illustration, photography, info-graphics, ...
 * **Target areas** Culture, fashion, politics, international relation, trade, education, …
 * **Educating typography** Educating bachelor students, customers, users, yourself inside design cycles, presenting, writing about…
-Programming Structure, hierarchy, design or algorithms, …)
+* **Programming** Structure, hierarchy, design of algorithms, …
 * **Coding** All relevant languages related to typography: deepest relevant of Processing, Python, JS, PHP, CSS, HTML, XML, Objective-C, …
 * **Tools** Deepest of Adobe applications, scripting, OSX-terminal tools, design of information conversion flows, research on raw data, …
 * **Device Measurements** resolution, distortion, proportion, memory usage, …
@@ -417,7 +417,9 @@ What we plan to do can best be describe in some cases.
 *How to develop criteria 
 
 ### Case 2 Basic skills
-Painting of color/gray ranges. Material, proportions, ratio and contrast.
+Painting of color/gray ranges. Sketching with materials, proportions, ratio and contrast.
+
+Although much of your work may have digital outcome, actually making stuff opens up new directions, other points of view.
 
 ### Case 3 Sketching methods
 One week to fill a 100 page Moleskine sketchbook, design for a specific subject, context or design challenge.
