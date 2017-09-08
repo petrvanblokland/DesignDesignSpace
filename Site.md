@@ -64,7 +64,10 @@ box = page['Main']['Side']
 
 #### What can you do in 1 day?
 
-* Play a design game;
+* Play an online design game, with a program described <a href="game.html">here</a>.
+
+#### In 1 week
+
 * Design a model exhibition space;
 * Sketch the basics of a corporate identity;
 * Design a gridded page or a scripted info-graphic
@@ -72,7 +75,7 @@ box = page['Main']['Side']
 * Write code for a DrawBot animation;
 * Examine how to select one of the above.
 
-#### In 1 week?
+#### In 1 month?
 
 * Study typographic parameters;
 * Research, write, design and present a mini-thesis about a topic of your choice;
@@ -82,7 +85,7 @@ box = page['Main']['Side']
 * Design a design game and run it;
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
-#### In 1 month?
+#### In 1 season?
 * Develop a PageBot publication;
 * Improve your sketching skills;
 * Make some RoboFont tools;
@@ -129,6 +132,72 @@ Sketching is the process of managing the level of details, throughout the proces
 box = page['Footer']
 ~~~
 Let us know that you think. What questions do you have for us? <a href="mailto:buro@petr.com">buro@petr.com</a>
+
+~~~Python
+page = doc.newPage(title='Game', name='game.html', template='home')
+page.info.cssPath = 'sources/pagebot.css'
+box = page['Main']['Content']
+~~~
+
+## Online design game of 1 day
+
+For those who ever did an physical Design Game, you’ll get the same experience. Though this is an updated version, that runs online.
+
+For those who never did a Design Game, this is a good way to start thinking about your design profession in a totally different way. 
+
+### Preparation
+The time frame of online Design Games, depends on the time zones of the participants. We’ll try to make that as convenient as possible, yet it could be that your starts at early dawn or late evening. 
+Just like working for international customers would direct you to work on flexible parts of the day.
+
+Virtual studios are formed from 3 or more designers. Since you are likely not in the same physical place or time zone, it is part of the game to find a way of working together. Improvisation is a form of design.
+As studio you may want to consider dividing tasks depending on experience and interests.
+
+Design Design Space is a transparant learning environment, where the online Design Game is the most condensed example.
+
+There will be several studios working in a pitch for the same assignment for the same customer. At the end of each round the design get approval points.
+
+The aim is that the best performing studio after 4 rounds wins the game.
+
+In each round a new assignment is given, where the formation of the studios stays the same. This way experience on what went right or wrong in the previous rounds can be used to improve the next result.
+
+### Round 1: Corporate Identity
+The first round takes 2 hours to design and present a corporate identity. Details and requirements are given at the start of each round. 
+
+Studios have the possibility to present to their customer through digital media, e.g. by e-mail and hangout, asking questions, showing intermediate sketches.
+
+At the end of each round, the final design of every studio is presented to their customers and the other studios. The customers will judge the process and the result and give feedback.
+
+Scores of each round are visible to the group in an online document.
+
+### Round 2: Another corporate Identity
+The second round is similar to the first round – a new corporate identity, different requirements for another customer – but in shorter time.
+
+### Round 3: Magazine
+Design and present different types of pages of a magazine. The challenge with working in an virtual environment, is to divide the work between the designers of the studio. What visual parameters define the difference between the types of pages and which parameters make the visual coherence?
+
+### Round 4: Exhibition
+Design and present an exhibition space, that fits the given requirements. With photos and video a physical scale model is presented to the customer and the other studios.
+
+In this round all studios will judge and comment the result of all other studios. That feedback is used as part of the final score.
+ 
+### Presentations and feedback
+In a presentation where are designs can be compared, a winner is selected. 
+
+### Conclusions
+Concluding the 1 day of Design Design Space, feedback is given to the studios and individual designers. What went well? What were challenges? 
+
+#### Trained skills
+During the Design Game, several design skills are addressed. 
+
+* Organizing, time management, asking interventions
+* Management of detail levels
+* Development of sketching techniques
+* Communication between designers in a virtual studio
+* Asking the right questions to the customer
+* Selection of presentation media
+* Judging and formulating feedback to other studios
+
+Particpating in the Design Game is required for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
