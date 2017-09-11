@@ -60,7 +60,7 @@ box = page['Introduction']
 </code></pre>
 
 <p><img alt="DesignModels2.009.png" src="docs/images/DesignModels2.009.png" /><br />
-<em>What does your design profession look like 5 years from now? Or 20 years? Will your current skill set still be sufficient? What space is there to develop yourself? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?</em></p>
+<em>What does your design profession look like 5 years from now? Or 20 years? Will your current skill set still be sufficient? What space is there to develop yourself? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?</em> Read what <em>Design Design Space</em> has to offer.</p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
