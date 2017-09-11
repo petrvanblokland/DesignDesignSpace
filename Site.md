@@ -78,7 +78,7 @@ Season and year-students are submitted after showing their portfolios and the re
 Students finishing a training adequately, automatically get accepted for a next.
 
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
-*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space.*
+*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.*
 
 ~~~Python
 box = page['Main']['Side']
@@ -178,8 +178,9 @@ box = page['Main']['Side']
 ~~~
 
 ![DSGNWK_0468BW.jpg](docs/images/DSGNWK_0468BW.jpg)
+*Many of the assignments need collaborating with other online students, who – throughout the process – can have different roles, ranging from colleague and client to user.*
 ![DSGNWK_0665BW.jpg](docs/images/DSGNWK_0665BW.jpg)
-*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>*. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.
+*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study*
 
 ~~~Python
 box = page['Footer']

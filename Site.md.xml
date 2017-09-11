@@ -55,7 +55,7 @@ box = page['Introduction']
 <p>Season and year-students are submitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.</p>
 <p>Students finishing a training adequately, automatically get accepted for a next.</p>
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /><br />
-<em>Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space.</em></p>
+<em>Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.</em></p>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 
@@ -142,8 +142,9 @@ No refunding is possible, but participants have the right to build in breaks for
 </code></pre>
 
 <p><img alt="DSGNWK_0468BW.jpg" src="docs/images/DSGNWK_0468BW.jpg" /><br />
+<em>Many of the assignments need collaborating with other online students, who – throughout the process – can have different roles, ranging from colleague and client to user.</em><br />
 <img alt="DSGNWK_0665BW.jpg" src="docs/images/DSGNWK_0665BW.jpg" /><br />
-<em>Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a></em>. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.</p>
+<em>Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study</em></p>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
