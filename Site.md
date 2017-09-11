@@ -189,15 +189,15 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 ~~~
 
-## Online Design Game of 1 day
+## Online Design Game
+### Duration 8 hours
 
-For those who ever did an physical Design Game, you’ll get the same experience. Though this is an updated version, that runs online.
+For those who ever did an physical Design Game, you’ll recognize the idea behind it. Doing one online will be a new experience.
 
 For those who never did a Design Game, this is a good way to start thinking about your design profession in a totally different way. 
 
 ### Preparation
-The time frame of online Design Games, depends on the time zones of the participants. We’ll try to make that as convenient as possible, yet it could be that your starts at early dawn or late evening. 
-Just like working for international customers would direct you to work on flexible parts of the day.
+The time frame of an online Design Game, depends on the time zones of the participants. We’ll try to make it as convenient as possible, yet it could be that yours starts at early dawn or late evening. Isn’t that just like working for international customers, expecting you to work on flexible parts of the day?
 
 Virtual studios are formed from 3 or more designers. Since you are likely not in the same physical place or time zone, it is part of the game to find a way of working together. Improvisation is a form of design.
 As studio you may want to consider dividing tasks depending on experience and interests.
