@@ -59,27 +59,21 @@ Study path lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 ye
 * 1 season $3900 (3 calendar months)
 * 1 year $7900
 
-Discount or split payment for the month, season and year training can be discussed, depending on personal situation.
+Discount or split payment for the month, season and year training can be discussed, depending on your personal situation.
 
-For designers who whish to extend one training level into another, a 50% discount applies to previous payed tuition.
-
-* 1 day followed by 1 week: 1/2 $150 + $900 = $975
-* 1 week followed by 1 month: 1/2 $900 + $1900 = $2350
-
+For students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1900 = $2350. Or 1 week followed by 1 season: 1/2 $900 + $3900 = $4350
 
 ### What is the schedule & how to submit?
 
-Every 6 months, starting in March and September, a new day-week-month-season-year sequence starts, under the condition that there are at least 3 participants. 
+Every 6 months, starting in March and September, a new day-week-month-season-year sequence starts, under the condition that there are at least 3 participating students. 
 
-Day-week sequences or single day Design Games can take place on other date during the year, if the amount oof participants allows that.
-
-The Design Design Space* organization mayd decide to postpone the start of a new sequence, if not enough students submitted and group them together.
+Day-week sequences or single day Design Games can take place on other dates during the year, if the amount of participants makes it possible.
 
 Since working as a team of students a minimum amount of 3 is required, and also a mininum level of quality, motivation, dedication and experience. 
 
-Season and year-students are submitted after showing their portfolios and the result of a given assignment. They are asked to write a motivation and development plan.
+Season and year-students are submitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.
 
-Students finishing one training level adequately, automatically get accepted for a next level.
+Students finishing a training adequately, automatically get accepted for a next.
 
 ~~~Python
 box = page['Main']['Side']
@@ -95,9 +89,10 @@ box = page['Main']['Content']
 
 ### How does it work?
 
-* Design students meet online with each other and the coaches in regular intervals. 
-* Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which the  specific topics can be filled by the individual students.
-* Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of the assignment. 
+* Design students meet online with each other and the coaches in regular intervals.
+* For interaction and exchanging documents a range of techniques are available, e.g. Skype, Google Hangout, Google Docs, offline video, Dropbox, Github, FaceTime and Second Life. Selection and usage is topic of one of the assignments.
+* Students get assignments for imaginary design projects with time frames ranging from several hours to several months. The assignments are challenges, where the specific topics can be filled by the individual students.
+* Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of assignments. 
 * With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.
 * The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.
 * In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. 
