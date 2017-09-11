@@ -47,7 +47,7 @@ box = page['Introduction']
 </ul>
 <p>Discount or split payment for the month, season and year training can be discussed, depending on your personal situation.</p>
 <p>Students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1900 = $2350. Or 1 week followed by 1 season: 1/2 $900 + $3900 = $4350</p>
-<p>Pricing is for individual designers. For corporate trainings or groups, <a href="mailto:buro@petr.com">contact us</a>.</p>
+<p>Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.</p>
 <h3>What is the schedule &amp; how to submit?</h3>
 <p>Every 6 months, in March and September, a new day-week-month-season-year sequence starts, most likely if there are at least 3 participating students. </p>
 <p>Day-week sequences or single day Design Games can take place on other dates during the year, if the amount of participants makes it possible.</p>
@@ -61,6 +61,10 @@ box = page['Introduction']
 
 <p><img alt="DesignModels2.009.png" src="docs/images/DesignModels2.009.png" /><br />
 <em>What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?</em> Read what <em>Design Design Space</em> has to offer.</p>
+<pre><code class="Python">box = page['Footer']
+</code></pre>
+
+<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']

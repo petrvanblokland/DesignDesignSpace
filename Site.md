@@ -63,7 +63,7 @@ Discount or split payment for the month, season and year training can be discuss
 
 Students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1900 = $2350. Or 1 week followed by 1 season: 1/2 $900 + $3900 = $4350
 
-Pricing is for individual designers. For corporate trainings or groups, <a href="mailto:buro@petr.com">contact us</a>.
+Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.
 
 ### What is the schedule & how to submit?
 
@@ -86,6 +86,11 @@ box = page['Main']['Side']
 
 ![DesignModels2.009.png](docs/images/DesignModels2.009.png)
 *What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?* Read what *Design Design Space* has to offer.
+
+~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
