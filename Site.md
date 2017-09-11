@@ -58,13 +58,13 @@ Study path lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 ye
 
 * 1 day $150
 * 1 week $900 (7 days)
-* 1 month $1900 (calendar month)
-* 1 season $3900 (3 calendar months)
-* 1 year $7900
+* 1 month $1.900 (calendar month)
+* 1 season $3.900 (3 calendar months)
+* 1 year $7.900
 
 Discount or split payment for the month, season and year training can be discussed, depending on your personal situation.
 
-Students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1900 = $2350. Or 1 week followed by 1 season: 1/2 $900 + $3900 = $4350
+Students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2.350. Or 1 week followed by 1 season: 1/2 $900 + $3.900 = $4.350
 
 Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.
 
