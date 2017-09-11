@@ -95,13 +95,19 @@ box = page['Main']['Content']
 
 ### How does it work?
 
-* Design students meet online with each other and the coaches in regular intervals.
-* For interaction and exchanging documents a range of techniques are available, e.g. Skype, Google Hangout, Google Docs, offline video, Dropbox, Github, FaceTime and Second Life. Selection and usage is topic of one of the assignments.
-* Students get assignments for imaginary design projects with time frames ranging from several hours to several months. The assignments are challenges, where the specific topics can be filled by the individual students.
-* Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of assignments. 
-* With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.
-* The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.
-* In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. 
+Design students meet online with each other and the coaches in regular intervals.
+
+For interaction and exchanging documents a range of techniques are available, e.g. Skype, Google Hangout, Google Docs, offline video, Dropbox, Github, FaceTime and Second Life, to name a few. Selection and usage is topic of one of the assignments.
+
+Students get assignments for imaginary design projects, with time frames ranging from several hours to several months. The assignments are challenges, where the specific topics can be filled by the individual students.
+
+Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of assignments. 
+
+With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.
+
+The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.
+
+In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. 
 
 <!--
 ## http://designdesign.space
