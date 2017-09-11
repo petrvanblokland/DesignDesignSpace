@@ -85,7 +85,7 @@ box = page['Main']['Side']
 ~~~
 
 ![DesignModels2.009.png](docs/images/DesignModels2.009.png)
-*What does your design profession look like in the next 5 year? Or the next 20 years? What space is there to develop yourself and your skills? How can you make yourself independent from the changes in design that are likely to happens? Or better: how can you use them to our advantage?*
+*What does your design profession look like 5 from now? Or 20 years from now? Will your current skill set be sufficient? What space is there to develop yourself? How can you make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?*
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
