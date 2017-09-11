@@ -324,6 +324,7 @@ input[type=submit] {
   .featured h2 em {
     font-family: "Upgrade-RegularItalic", sans;
     font-style: normal;
+    color:#EEE;
 }
   .featured h3 {
     font-family: "Upgrade-Regular", sans;
@@ -341,6 +342,9 @@ input[type=submit] {
   .featured img {
     max-width: 100%;
     height: auto; }
+  .featured p {
+    color: #EEE;
+   }
 
 .contentpart {
   border: 1px dotted gray;
