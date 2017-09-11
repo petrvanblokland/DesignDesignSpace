@@ -106,6 +106,8 @@ box = page['Main']['Content']
 ## http://designdesign.space
 ## designdesignspace.com
 -->
+![DesignModels2.048.png](docs/images/DesignModels2.048.png)
+Students are offered models for what the design process can be. And they are encouraged to created their own, and apply them to their designs.
 
 ### Design methods
 In the past a magnitude of design methods have been developed, but unformtunately most of them focus on production techniques and deadlines.
@@ -131,8 +133,6 @@ No refunding is possible, but participants have the right to build in breaks for
 * a part-time sabbatical or a virtual internship
 * a place to train design skills and tools.
 
-![docs/images/HowToApplyForArtSchool.png](docs/images/HowToApplyForArtSchool.png)
-
 ### What *Design Design Space* is not
 
 * It is not an (online) course
@@ -140,8 +140,6 @@ No refunding is possible, but participants have the right to build in breaks for
 * It is not a school
 * It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training
 * It is not a series of slides, presentations or a stack of books (although these can be part of it).
-
-![docs/images/DoYouReallyNeedADesigner.png](docs/images/DoYouReallyNeedADesigner.png)
 
 ### For whom is it intended?
 
@@ -153,7 +151,6 @@ No refunding is possible, but participants have the right to build in breaks for
 * Designers who would like to do a follow-up refresh study, but are lacking time, finance or geographic location to make that work.
 
 In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.
-
 
 Focus is on design students and their individual goals. Not on predefined course content.
 
