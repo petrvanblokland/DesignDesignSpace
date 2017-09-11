@@ -85,50 +85,8 @@ Students finishing one training level adequately, automatically get accepted for
 box = page['Main']['Side']
 ~~~
 
-#### What can you do in 1 day?
+AAA
 
-* Play an online Design Game, with a schedule described <a href="game.html">here</a>.
-
-#### In 1 week
-One or more of these examples. How much can you fit in a week?
-
-* Design a model exhibition space;
-* Sketch the basics of a corporate identity;
-* Design a gridded page or a scripted info-graphic
-* Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;
-* Write code for a DrawBot animation;
-* Examine how to select one of the above.
-
-#### In 1 month?
-A selection of these examples. Or one of your own topics?
-
-* Study typographic parameters;
-* Research, write, design and present a mini-thesis about a topic of your choice;
-* Design a simple corporate identity;
-* Or program the manual in PageBot;
-* Simulate a graphic design studio;
-* Design a Design Game and run it;
-* Fill a Moleskine with 100 sketch pages. Then select the best.
-
-#### In 1 season?
-A selection of these examples. Or what would you like to do?
-
-* Develop a PageBot publication;
-* Improve your sketching skills;
-* Make some RoboFont tools;
-* Design design education tools, such as games and feedback models;
-* Do almost any design project that can be done in a month.
-
-#### In 1 year?
-A selection of these examples. Or maybe all? 
-
-* Become an independent typographer with noticable experience;
-* Improve your experience as type designer. Or as design educator;
-* Design Variable Font design spaces;
-* Become a designer, who knows how to write code;
-* Or how to communicatie with professional programmers;
-* You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;
-* Design deep spaces.
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
@@ -297,6 +255,53 @@ page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 ~~~
+
+
+#### What can you do in 1 day?
+
+* Play an online Design Game, with a schedule described <a href="game.html">here</a>.
+
+#### In 1 week
+One or more of these examples. How much can you fit in a week?
+
+* Design a model exhibition space;
+* Sketch the basics of a corporate identity;
+* Design a gridded page or a scripted info-graphic
+* Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;
+* Write code for a DrawBot animation;
+* Examine how to select one of the above.
+
+#### In 1 month?
+A selection of these examples. Or one of your own topics?
+
+* Study typographic parameters;
+* Research, write, design and present a mini-thesis about a topic of your choice;
+* Design a simple corporate identity;
+* Or program the manual in PageBot;
+* Simulate a graphic design studio;
+* Design a Design Game and run it;
+* Fill a Moleskine with 100 sketch pages. Then select the best.
+
+#### In 1 season?
+A selection of these examples. Or what would you like to do?
+
+* Develop a PageBot publication;
+* Improve your sketching skills;
+* Make some RoboFont tools;
+* Design design education tools, such as games and feedback models;
+* Do almost any design project that can be done in a month.
+
+#### In 1 year?
+A selection of these examples. Or maybe all? 
+
+* Become an independent typographer with noticable experience;
+* Improve your experience as type designer. Or as design educator;
+* Design Variable Font design spaces;
+* Become a designer, who knows how to write code;
+* Or how to communicatie with professional programmers;
+* You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;
+* Design deep spaces.
+
 
 ### Specialization topics
 
