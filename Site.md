@@ -85,8 +85,6 @@ Students finishing one training level adequately, automatically get accepted for
 box = page['Main']['Side']
 ~~~
 
-AAA
-
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
@@ -426,7 +424,7 @@ With her partner Petr van Blokland, she worked and ran the studio van Blokland +
 
 Before she became a designer, she worked as a school and career counselor for a couple of years. In the recent years she has developed as a trainer coach.
 
-Besides her studio work, she has thaught at the KABK for over twenty years at the Graphic Design department.
+Besides her studio work, she has taught at the KABK for over twenty years at the Graphic Design department.
 
 In 2016 she initiated <a href="peppertom.com" target="External">Pepper+Tom</a>, a self initiated project. P+T is “a playing ground” where she presents her series of designed and produced skirts and scarfs. 
 
