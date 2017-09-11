@@ -37,14 +37,45 @@ box = page['Introduction']
 <p>This mismatch – how time is spent on what – is fundamental to design. Too optimistic in the beginning (“the next one always will be better”), a design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.</p>
 <h3>1 day • 1 week • 1 month • 1 season • 1 year</h3>
 <p>Study path lengths vary from 1 day, 1 week, 1 month, 1 season and possibly 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.</p>
-<h3>Design methods</h3>
-<p>In magnitude of design methods have been developed, but unformtunately they all share the common goal to meet the deadline with an optimum of available functions.<br />
-You may recognize that in your current design practice.</p>
-<p>What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. Cuddle solutions that don’t seem to be porfitable right away. To spend time on acquiring skills without predefined purpose.</p>
-<p>Yet, for the development of skill, such an approach is essential. </p>
-<p><em>Design Design Space</em> offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are customized to your development.</p>
-<h3>Experience</h3>
-<p><em>Design Design Space</em> taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.</p>
+<h3>What does it cost?</h3>
+<p>There are 5 possible training levels.</p>
+<pre><code class="Python">&quot;&quot;&quot;
+* 1 day $150
+* 1 week $900 (7 days)
+* 1 month $1900 (calendar month)
+* 1 season $3900 (3 calendar months)
+* 1 year $7900
+
+Discount or split payment for the month, season and year training can be discussed, depending on personal situation.
+
+For designers who whish to extend one training level into another, a 50% discount applies to previous payed tuition.
+
+* 1 day followed by 1 week: 1/2 $150 + $900 = $975
+* 1 week followed by 1 month: 1/2 $900 + $1900 = $2350
+
+&quot;&quot;&quot;
+</code></pre>
+
+<p>Tuition needs to be payed before the training starts. <br />
+No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. </p>
+<h3>What is the schedule &amp; how to submit?</h3>
+<p>Every 6 months, starting in March and September, a new day-week-month-season-year sequence starts, under the condition that there are at least 3 participants. </p>
+<p>Day-week sequences or single day Design Games can take place on other date during the year, if the amount oof participants allows that.</p>
+<p>The Design Design Space* organization mayd decide to postpone the start of a new sequence, if not enough students submitted and group them together.</p>
+<p>Since working as a team of students a minimum amount of 3 is required, and also a mininum level of quality, motivation, dedication and experience. </p>
+<p>Students are submitted after showing their portfolios and the result of a given assignment. They have to write a motivation and development plan, which will be presented in a Google Hangout.<br />
+If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. <br />
+The volume this depends on the length of the of the training that students apply for.</p>
+<p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
+<h3>How does it work?</h3>
+<ul>
+<li>Design students meet online with each other and the coaches in regular intervals. </li>
+<li>Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which the  specific topics can be filled by the individual students.</li>
+<li>Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of the assignment. </li>
+<li>With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.</li>
+<li>The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.</li>
+<li>In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. </li>
+</ul>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 
@@ -174,6 +205,14 @@ box = page['Main']['Content']
 -->
 
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /></p>
+<h3>Design methods</h3>
+<p>In magnitude of design methods have been developed, but unformtunately they all share the common goal to meet the deadline with an optimum of available functions.<br />
+You may recognize that in your current design practice.</p>
+<p>What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. Cuddle solutions that don’t seem to be porfitable right away. To spend time on acquiring skills without predefined purpose.</p>
+<p>Yet, for the development of skill, such an approach is essential. </p>
+<p><em>Design Design Space</em> offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are customized to your development.</p>
+<h3>Experience</h3>
+<p><em>Design Design Space</em> taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.</p>
 <h3>What <em>Design Design Space</em> can be</h3>
 <ul>
 <li>A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.</li>
@@ -248,45 +287,6 @@ box = page['Main']['Content']
 
 <h3>What is the time frame?</h3>
 <p>There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all offering the same process. The difference is the level of details, development of skill and amount of specialization in specific topcis.</p>
-<h3>What does it cost?</h3>
-<p>There are 5 possible training levels.</p>
-<pre><code class="Python">&quot;&quot;&quot;
-* 1 day $150
-* 1 week $900 (7 days)
-* 1 month $1900 (calendar month)
-* 1 season $3900 (3 calendar months)
-* 1 year $7900
-
-Discount or split payment for the month, season and year training can be discussed, depending on personal situation.
-
-For designers who whish to extend one training level into another, a 50% discount applies to previous payed tuition.
-
-* 1 day followed by 1 week: 1/2 $150 + $900 = $975
-* 1 week followed by 1 month: 1/2 $900 + $1900 = $2350
-
-&quot;&quot;&quot;
-</code></pre>
-
-<p>Tuition needs to be payed before the training starts. <br />
-No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. </p>
-<h3>What is the schedule &amp; how to submit?</h3>
-<p>Every 6 months, starting in March and September, a new day-week-month-season-year sequence starts, under the condition that there are at least 3 participants. </p>
-<p>Day-week sequences or single day Design Games can take place on other date during the year, if the amount oof participants allows that.</p>
-<p>The Design Design Space* organization mayd decide to postpone the start of a new sequence, if not enough students submitted and group them together.</p>
-<p>Since working as a team of students a minimum amount of 3 is required, and also a mininum level of quality, motivation, dedication and experience. </p>
-<p>Students are submitted after showing their portfolios and the result of a given assignment. They have to write a motivation and development plan, which will be presented in a Google Hangout.<br />
-If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. <br />
-The volume this depends on the length of the of the training that students apply for.</p>
-<p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
-<h3>How does it work?</h3>
-<ul>
-<li>Design students meet online with each other and the coaches in regular intervals. </li>
-<li>Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which the  specific topics can be filled by the individual students.</li>
-<li>Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of the assignment. </li>
-<li>With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.</li>
-<li>The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.</li>
-<li>In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. </li>
-</ul>
 <pre><code class="Python">&quot;&quot;&quot;
 ### Biggest advantage of this activity for us
 
