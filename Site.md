@@ -78,6 +78,7 @@ Season and year-students are submitted after showing their portfolios and the re
 Students finishing a training adequately, automatically get accepted for a next.
 
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
+*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>*. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.
 
 ~~~Python
 box = page['Main']['Side']
@@ -105,9 +106,6 @@ box = page['Main']['Content']
 ## http://designdesign.space
 ## designdesignspace.com
 -->
-
-![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
-*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>*. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.
 
 ### Design methods
 In the past a magnitude of design methods have been developed, but unformtunately most of them focus on production techniques and deadlines.
@@ -178,6 +176,13 @@ Focus is on design students and their individual goals. Not on predefined course
 * The study finishes with a valued certificate on “graduation”, signed by external designers of statue. 
 * Short term visible value for students, even with the longer time frames.
 
+~~~Python
+box = page['Main']['Side']
+~~~
+
+![DSGNWK_0468BW.jpg](docs/images/DSGNWK_0468BW.jpg)
+![DSGNWK_0665BW.jpg](docs/images/DSGNWK_0665BW.jpg)
+*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>*. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.
 
 ~~~Python
 page = doc.newPage(title='Game', name='game.html', template='home')
