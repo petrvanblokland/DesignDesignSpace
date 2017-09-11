@@ -182,7 +182,7 @@ box = page['Main']['Side']
 
 
 ![DSGNWK_0665BW.jpg](docs/images/DSGNWK_0665BW.jpg)
-*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study*
+*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study*
 
 ~~~Python
 box = page['Footer']
@@ -198,7 +198,7 @@ box = page['Main']['Content']
 ## Online Design Game
 ### Duration 8 hours
 
-For those who ever did a Design Game on location, you’ll recognize the idea behind it. Doing one online will be a new experience.
+For those who ever did a Design Game on location, you’ll recognize the idea behind it. Doing one online, however, will be a new experience.
 
 For those who never did a Design Game, this is a good way to start thinking about your design profession in a totally different way. 
 
