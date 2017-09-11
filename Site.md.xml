@@ -44,13 +44,13 @@ You may recognize that in your current design practice.</p>
 <p>Yet, for the development of skill, such an approach is essential. </p>
 <p><em>Design Design Space</em> offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are customized to your development.</p>
 <h3>Experience</h3>
-<p><em>Design Design Space</em> taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running design games.</p>
+<p><em>Design Design Space</em> taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.</p>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 
 <h4>What can you do in 1 day?</h4>
 <ul>
-<li>Play an online design game, with a program described <a href="game.html">here</a>.</li>
+<li>Play an online Design Game, with a program described <a href="game.html">here</a>.</li>
 </ul>
 <h4>In 1 week</h4>
 <ul>
@@ -68,7 +68,7 @@ You may recognize that in your current design practice.</p>
 <li>Design a simple corporate identity;</li>
 <li>Or program the manual in PageBot;</li>
 <li>Simulate a graphic design studio;</li>
-<li>Design a design game and run it;</li>
+<li>Design a Design Game and run it;</li>
 <li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
 </ul>
 <h4>In 1 season?</h4>
@@ -117,7 +117,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 </code></pre>
 
-<h2>Online design game of 1 day</h2>
+<h2>Online Design Game of 1 day</h2>
 <p>For those who ever did an physical Design Game, you’ll get the same experience. Though this is an updated version, that runs online.</p>
 <p>For those who never did a Design Game, this is a good way to start thinking about your design profession in a totally different way. </p>
 <h3>Preparation</h3>

@@ -62,7 +62,7 @@ Yet, for the development of skill, such an approach is essential.
 *Design Design Space* offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are customized to your development.
 
 ### Experience
-*Design Design Space* taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running design games.
+*Design Design Space* taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
 ~~~Python
 box = page['Main']['Side']
@@ -70,7 +70,7 @@ box = page['Main']['Side']
 
 #### What can you do in 1 day?
 
-* Play an online design game, with a program described <a href="game.html">here</a>.
+* Play an online Design Game, with a program described <a href="game.html">here</a>.
 
 #### In 1 week
 
@@ -88,7 +88,7 @@ box = page['Main']['Side']
 * Design a simple corporate identity;
 * Or program the manual in PageBot;
 * Simulate a graphic design studio;
-* Design a design game and run it;
+* Design a Design Game and run it;
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
 #### In 1 season?
@@ -145,7 +145,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 ~~~
 
-## Online design game of 1 day
+## Online Design Game of 1 day
 
 For those who ever did an physical Design Game, you’ll get the same experience. Though this is an updated version, that runs online.
 
