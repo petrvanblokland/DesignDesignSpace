@@ -198,7 +198,7 @@ box = page['Main']['Side']
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='Game', name='game.html', template='home')
@@ -269,8 +269,7 @@ Particpating in the Design Game is required for the extending studies at Design 
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
-
+Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='Projects', name='projects.html')
@@ -408,7 +407,7 @@ Which of these parameters need to be documented? And which can be automated?
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='About', name='about.html', template='home')
@@ -462,5 +461,5 @@ Depending on necessary domain knowlegdge, other designers and professionals can 
 ~~~Python
 box = page['Footer']
 ~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 

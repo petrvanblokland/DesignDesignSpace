@@ -150,7 +150,7 @@ No refunding is possible, but participants have the right to build in breaks for
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
+<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='Game', name='game.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -199,7 +199,7 @@ As studio you may want to consider dividing tasks depending on experience and in
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
+<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -321,7 +321,7 @@ Which of these parameters need to be documented? And which can be automated?</p>
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
+<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
 <pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Side']
@@ -355,4 +355,4 @@ box = page['Main']['Side']
 <pre><code class="Python">box = page['Footer']
 </code></pre>
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p></document>
+<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p></document>
