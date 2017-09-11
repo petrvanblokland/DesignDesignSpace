@@ -32,7 +32,8 @@ What makes a design proces fundamentally different from a production process, is
 box = page['Main']['Content']
 ~~~
 
-## *Design Design Space*: what is it?
+## *Design Design Space*
+### What is it?
 *Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, a space where you can design your design process. 
 
 What kind of challenges do you experience in your daily work as a designer?
