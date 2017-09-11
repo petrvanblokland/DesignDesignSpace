@@ -420,119 +420,17 @@ box = page['OtherMain']['Content']
 
 ### Claudia Mens
 
-Claudia Mens (1957, Netherlands) graduated from the graphic arts program at the Royal Academy of Fine Arts (KABK) in The Hague in 1980.
+Claudia Mens (1957, Netherlands) graduated from the Interior Design program at the Royal Academy of Fine Arts (KABK) in The Hague in 1985. Then she studied at the Master Environmental Design and graduated in 1989 at the KABK as well. 
 
-With her partner Petr van Blokland, Van Blokland worked for over thirty years as a designer in the studio they cofounded. 
+With her partner Petr van Blokland, she worked and ran the studio van Blokland + Mens for over twenty five years as designer. 
 
-~~~Python 
-"""
-Let me first introduce myself.
-I'm Claudia Mens from the Netherlands.
-I'm a designer I studied at the Royal Academy of Art in The Hague at the Interior Design Depart and after I graduation I studied at the post study Environmental Design for two years.
-At that time, I'm speaking of medio 1980, I was the co-founder of the Design Buro
-PvB + CM.
-Petr and I are partners as well in business as in private. We have our work/studio in our house with three other designers through all the years and we got three sons.
-This year we celebrate our 25th year aniversary of the studio.
+Before she became a designer, she worked as a school and career counselor for a couple of years. In the recent years she has developed as a trainer coach.
 
-About my work
-First of all, as a designer I'm interested in people and not really in design by itself.
-Before I went to the RA of A I was a school and career counselor for a couple of years.
-Which is for me quit familiar with my work now; I'm designing a place for some one,
-mental or physical.
-I prefer my work as a designer, I love drawing, playing with design principles as color, materials, texture, type, images and so on.
+Besides her studio work, she has thaught at the KABK for over twenty years at the Graphic Design department.
 
-In our studio it's important even it's a need to have our own projects without an inital customer.
-Studying and working on something we are interested in and which we want to develop to something we don't know in advance.
-This lecture is about Generous Gesture, after two years of playing in my atelier in Delft, outside our studio,  the idea of this project became something 'serious'.
+In 2016 she initiated <a href="peppertom.com" target="External">Pepper+Tom</a>, a self initiated project. P+T is “a playing ground” where she presents her series of designed and produced skirts and scarfs. 
 
-Roots
-After several journeys in the recent years to South America, Africa and Asia
-I became very aware of my roots.
-I'm raised in the south of Holland in a very romantic wooden house in a wood.
-As a kid I played in our wood and in the fields around our house all day.
-I could lay and hide myself under the ferns for days, for me it was a pleasant and comfortable place.
+Both products are “people’s projects”: working together with a group of professionals under sustainable circumstances, with eco friendly fabrics, under the conditions of “slow fashion”. 
 
-From this my idea for Generous Gesture was born.
-In my atelier I made drawings inspired by my journeys. Working on this gave me a lot of joy.
-And I thought of finding a way to share my drawing with others. How to make a product for some one else.Since I'm working as a designer I made various of personal gifts for friends and my family. Silk shawls with type and ornaments using in a batik technique.
-
-Because of this experience I was thinking of a fair trade product in a batik technique,
-by producing a series of shawls.
-But I didn't know where to go.
-
-At this point I have to tell you a little story of my dad;
-He worked as an engineer for Philips and he was travelling for his company all over the world. 
-In the 1960 he was connected with a Japanese company and he flew up and down
-to Japan for ten years. And after that time, doing business with the Japanese for so long, he told us; 'From this moment, maybe a have a little bit of feeling how a Japanese might be thinking.........'
-And he learned/did teach us we have to be carefull and respectfull to other cultures. As arrogant Europeans we have to try very hard to be cooperative and be humble!
-
-So with his lesson I noticed I had to find some one who could be helpfull with my project.
-as almost every good things in life, by coinsident I found Elizabeth Visser.
-She is a Dutch development-aid worker and she lived and worked for years in Bangladesh with the poorest women in the rural areas of Bangladesh.
-Nowadays, besides her work as a development-aid consultant she has her own business named Strawberries Fabrics, selling exclusive, traditional fabrics. All hand-made by local crafts people and women groups from different parts of the world. 
-We met each other for the first time about two years ago and she was the perfect match as the important link between me and the producers, between two different cultures.
-The contact between me and the people in Bangladesh passes off smoothly thanks to Elizabeth Visser.
-
-Work in Process
-Via Elizabeth I got connected with the non governemental organization Kumudini Welfare Trust in Dhaka BD. This Bengali fair trade company has an excellent reputation and is a part of the World Fair Trade Forum. The received the Award of Excellence for Handicrafts south Asia from Unesco in 2008.
-Besides work, they give thousand and thousand women (25,000) also health care, workshops and they are sending their kids to school. All those women can earn a living.
-
-My first step with this trust was to make samples in a batik technique. I sent them my first idea about a shawl and after a couple of weeks the first samples came to Delft.
-They made it as precisely as possible but we saw that it was to difficult for them to draw the latin type in the batik technique. There were a lot of difficulties about the contrast of the letters they have to make. 
-After a few talks we realized what their profession really is; they are the best wood carvers in the world and their Nakshi Kantha embroidery technique is appreciated worldwide. And they are very proud of making and showing this.
-
-So after a long year of hard work, sending ideas, samples, advices to each other
-whe developed a series of shawls together, which I couldn't have made without them!
-The shawls changed from a square batik silk shawl with personal handwriting by the producer, to a long rectangular silk shawl, block printed and embroidered in the Nakshi Kanthi technique. In the block printing we repeated the text four times. The four different orientations make it readable from any direction.
-
-Generous Gesture as a gift.
-Every shawl has a text like Wonderful Woman, Lovely Lover, Fabulous Friend, Marvellous Mother and has an ornamentations of fern leaves as a reminiscence to our  distant past as a roof of foliage, which gave us the natural protection whe needed.
-
-The shawl is a special gift. 
-The giver shows what he or she feels to the receiver.
-And a little booklet is included by the shawl, you can read that many people helped making this special gift. 
-Generous Gesture is in every way a people project.
-This project is so special because of the generous gestures people make to each other.
-Like the craftsmen in BD by making these beautiful shawls for us.
-And Kumudini Welfare trust makes the generouse gesture by providing these people work, healtcare and education. 
-A Fair trade certificate is also part of the gift.
-and every shawl is unique, all handmade and produced in a limited edition.
-
-I'm very happy with the opportunity I got and I took.
-Three weeks ago we received the Bronze Prize of self initiated projects in the European Desig award 2010. And of course except us, the involved people in the Netherlands, this prize is a reward for the people in Bangladesh.
-
-
-The typography on this series of shawls is made by my partner Petr van Blokland.
-Productus the name of this font is...... by the Fontbureau in Boston.
-And the Fontbureau, by name of David Berlow, is so generous to support this project. 
- 
-FB asked me for a men scarfs on which we are working at this moment.
-This scarf, made by double layed fabrics of silk and cotton, will be embroired.
-The design is a combination of latin and bengoli script; Gentle Gent, also in a alliteration like the omen shawls.
-
-Another project for Generous Gesture is in my sketchbook. I'm leaving for my atelier
-within a month. 
-Since a while I'm working in a nice place on Marha's Vineyard in the US where I am staying a couple of times times a year. Where a live and work as a monk, in a wooden house in a wood with ferns all over the place.
-So it feels like being back on my roots.
-
-For me this excercise of Generous Gesture is about
-- my personal project
-- a project of pleasure
-- a project of patient
-- a peoples' project
- 
-I want to finish my talk by wishing you all the best in your own work.
-Make your dreams come through, what ever it is.
-It's our mission to show ourselfs who we are, than the rest of the world will notice and enjoy it too.
-Thank you for your attention.
-"""
-~~~
-
-After three decades, running a studio from 1980 till 2010, it was time for something else. Claudia went looking and longing for the woods of her childhood. She found that feeling back on Martha's Vineyard in the USA, where she began drawing with childlike pleasure and painting. Arose leafs and fern motifs, inspired by her travels in Africa, South America and Asia.
-
-She designed a series of scarves with type and motifs of leafs, produced by NGO Kumudini Welfare Trust in Bangladesh. In 2016, she started with a lot of spirit and fun <a href="peppertom.com" target="External">Pepper+Tom</a>.
-
-Besides the products of Pepper+Tom, similar to work in all of the photo's on this website, design can be made by Claudia as a special custom assignment. Ask her: claudia@petr.com
-
-### and others…
-Depending on required domain knowlegdge, other designers and professionals can be added to the team. Former students, collegue designers and lectureres and relations of the studio are available if necessary.
+### Crew of others…
+Depending on necessary domain knowlegdge, other designers and professionals can be added to the team. Former students, collegue designers, lectureres and relations of the studio are available if that fits the topics at hand.
