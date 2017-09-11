@@ -91,7 +91,6 @@ box = page['Main']['Side']
 page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
-
 ~~~
 
 ### How does it work?
@@ -126,7 +125,6 @@ Yet, for the development of skill, such an approach is essential.
 
 Tuition needs to be payed before the training starts. 
 No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
-
 
 ### What *Design Design Space* can be
 
@@ -182,6 +180,11 @@ box = page['Main']['Side']
 ![DSGNWK_0468BW.jpg](docs/images/DSGNWK_0468BW.jpg)
 ![DSGNWK_0665BW.jpg](docs/images/DSGNWK_0665BW.jpg)
 *Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>*. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.
+
+~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
 ~~~Python
 page = doc.newPage(title='Game', name='game.html', template='home')
@@ -249,6 +252,11 @@ During the Design Game, several design skills are addressed.
 
 Particpating in the Design Game is required for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.
 
+~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+
 
 ~~~Python
 page = doc.newPage(title='Projects', name='projects.html')
@@ -305,10 +313,12 @@ A selection of these examples. Or maybe all?
 
 ### Specialization topics
 
-In all of the four time frames (1 day, 1 week, 1 month or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).
-The difference between the time frames is the level of details and the amount of skill training. For the rest each phase in the process is a recursive copy of one of the others.
+In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).
+Essentially each time frame is a recursive copy of one of the others.
+The difference between is the number of topics that can be addressed and the level of details possible.
 
-The combination of any 2 or 3 topics from the list below gives each students a unique personal research environment to develop.
+### Applying topics, process and context
+A combination of two or more topics from the list below, in combination with process and context selection, gives students a unique personal research environment for development.
 
 #### Topics
 
@@ -343,7 +353,7 @@ Each of these items contains a world of detailed knowledge and design parameters
 * **Typographic layout** Principles, transformation of historic examples, whitespace, aesthetics, …
 * **Typographic tools** Grid, type, size, leading, spacing, kerning, width, hyphenation, orientation, contrast, color, pattern, proportion, ratio, interaction, position, meaning, language, any combination and addition to the parameters of Bertin, …
 * **Design the process** Base requirements, testing, planning, cooperation with other disciplines, research, marketing, promotion, difference between single solution and generative rules, selection and design of research methods, …
-* **Mathematics for designers** Sin/cos/tan/atan, position, rotation, transformation matrices, column calculation, statistics, logarithmic, ranges, light game theory, principles of AI, neural networks and machine learning, …
+* **Mathematics for designers** Trigonometry, position, rotation, transformation matrices, column calculation, statistics, logarithmic, ranges, light game theory, principles of AI, neural networks and machine learning, …
 * **Type design** Variation axes, design of parameters, design of selection criteria, design of the process, …
 * **Images as typographic elements** Illustration, photography, info-graphics, ...
 * **Target areas** Culture, fashion, politics, international relation, trade, education, …
@@ -355,30 +365,30 @@ Each of these items contains a world of detailed knowledge and design parameters
 * **Storage techniques** File, database, formats, git, JSON, plist, XML, UFO, …
 
 
-## Cases
-What we plan to do can best be describe in some cases.
+## Assignments
+Below some example assignments.
 
-### Case 1 Design of selection and feedback
+### Design of methods for selection and feedback 
 3 posters, similar and different in one series, for a topic of your choice. Assignemnt is how to judge the result and how to select from various judging methods.
 *How to develop criteria 
 
-### Case 2 Basic skills
+### Basic skills
 Painting of color/gray ranges. Sketching with materials, proportions, ratio and contrast.
 
-Although much of your work may have digital outcome, actually making stuff opens up new directions, other points of view.
+Although much of your work may have digital outcome, actually making stuff with real materials opens up new directions, other points of view.
 
-### Case 3 Sketching methods
+### Sketching techniques
 One week to fill a 100 page Moleskine sketchbook, design for a specific subject, context or design challenge.
 The presentation is showing 5 best pages in combination with validation criteria used.
 
-### Case 4 Design research methods inside the design process
+### Design of research methods inside the design process
 This is the integral assignment for TypeMedia 2017 students at the end of their Master year. They have limited time of 2 weeks to write and design 3 mini-thesis document of one page each. Illustrated and documented.
 
-### Case 5 Design interactive poster
+### Design of an interactive poster
 What is a relevant set of parameters for a poster? And how does interaction play a role in that? What is the design process? How do you test the intermediate result? What needs to happen to guearantee success?
 
-### Case 6 Design of corporate identity models
-Research models where applications can have different usage, technique and message, and still belong to the same brand? What are parameters and what freedom do designers later in the process have?
+### Design of models for corporate identities
+Research models where publications within a corporate identity can have different usage, technique and message, and still visually belong to the same brand. What are parameters and what freedom do designers have later in the process?
 Which of these parameters need to be documented? And which can be automated?
 
 ~~~Python
@@ -434,3 +444,9 @@ Both products are “people’s projects”: working together with a group of pr
 
 ### Crew of others…
 Depending on necessary domain knowlegdge, other designers and professionals can be added to the team. Former students, collegue designers, lectureres and relations of the studio are available if that fits the topics at hand.
+
+~~~Python
+box = page['Footer']
+~~~
+Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+
