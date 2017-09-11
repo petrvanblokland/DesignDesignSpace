@@ -49,14 +49,10 @@ This mismatch – how time is spent on what – is fundamental to design. Too o
 
 ### 1 day • 1 week • 1 month • 1 season • 1 year
 
-Study path lengths vary from 1 day, 1 week, 1 month, 1 season and possibly 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
+Study path lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
 
 ### What does it cost?
 
-There are 5 possible training levels.
-
-~~~Python
-"""
 * 1 day $150
 * 1 week $900 (7 days)
 * 1 month $1900 (calendar month)
@@ -70,11 +66,6 @@ For designers who whish to extend one training level into another, a 50% discoun
 * 1 day followed by 1 week: 1/2 $150 + $900 = $975
 * 1 week followed by 1 month: 1/2 $900 + $1900 = $2350
 
-"""
-~~~
-
-Tuition needs to be payed before the training starts. 
-No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
 
 ### What is the schedule & how to submit?
 
@@ -284,6 +275,8 @@ Yet, for the development of skill, such an approach is essential.
 ### Experience
 *Design Design Space* taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
+Tuition needs to be payed before the training starts. 
+No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
 
 
 ### What *Design Design Space* can be
