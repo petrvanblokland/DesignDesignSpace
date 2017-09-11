@@ -333,8 +333,6 @@ input[type=submit] {
     font-weight: normal;
     color: #e1e1e1;
     line-height: 1.4em; }
-  .featured h3 {
-    font-family: "Upgrade-RegularItalic", sans;}
   .featured h5 {
     color: #4890be;
     line-height: 1.4em;
@@ -344,6 +342,10 @@ input[type=submit] {
     height: auto; }
   .featured p {
     color: #EEE;
+    letter-spacing: 0.05em;
+    font-size:1.2em;
+    font-style: normal;
+    font-weight: normal;
    }
 
 .contentpart {
