@@ -8,6 +8,9 @@ doc = Website(autoPages=0, title='Design Design Space')
 page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 
+doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:buro@petr.com">buro@petr.com</a>
+"""
+
 # H O M E 
 
 box = page['Introduction']
@@ -89,10 +92,8 @@ box = page['Main']['Side']
 
 ~~~Python
 box = page['Footer']
-~~~
-Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+box.html = doc.footerHtml
 
-~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -197,10 +198,8 @@ box = page['Main']['Side']
 
 ~~~Python
 box = page['Footer']
-~~~
-Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+box.html = doc.footerHtml
 
-~~~Python
 page = doc.newPage(title='Game', name='game.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -268,10 +267,8 @@ Particpating in the Design Game is required for the extending studies at Design 
 
 ~~~Python
 box = page['Footer']
-~~~
-Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+box.html = doc.footerHtml
 
-~~~Python
 page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
@@ -406,10 +403,8 @@ Which of these parameters need to be documented? And which can be automated?
 
 ~~~Python
 box = page['Footer']
-~~~
-Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
+box.html = doc.footerHtml
 
-~~~Python
 page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Side']
@@ -460,6 +455,6 @@ Depending on necessary domain knowlegdge, other designers and professionals can 
 
 ~~~Python
 box = page['Footer']
+box.html = doc.footerHtml
 ~~~
-Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 

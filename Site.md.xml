@@ -8,6 +8,9 @@ doc = Website(autoPages=0, title='Design Design Space')
 page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 
+doc.footerHtml = &quot;&quot;&quot;Let us know what you think. Do you have any questions for us? &lt;a href=&quot;mailto:buro@petr.com&quot;&gt;buro@petr.com&lt;/a&gt;
+&quot;&quot;&quot;
+
 # H O M E 
 
 box = page['Introduction']
@@ -62,10 +65,9 @@ box = page['Introduction']
 <p><img alt="DesignModels2.009.png" src="docs/images/DesignModels2.009.png" /><br />
 <em>What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?</em> Read what <em>Design Design Space</em> has to offer.</p>
 <pre><code class="Python">box = page['Footer']
-</code></pre>
+box.html = doc.footerHtml
 
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
-<pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
+page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 </code></pre>
@@ -148,10 +150,9 @@ No refunding is possible, but participants have the right to build in breaks for
 <p><img alt="DSGNWK_0665BW.jpg" src="docs/images/DSGNWK_0665BW.jpg" /><br />
 <em>Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study</em></p>
 <pre><code class="Python">box = page['Footer']
-</code></pre>
+box.html = doc.footerHtml
 
-<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
-<pre><code class="Python">page = doc.newPage(title='Game', name='game.html', template='home')
+page = doc.newPage(title='Game', name='game.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 </code></pre>
@@ -197,10 +198,9 @@ As studio you may want to consider dividing tasks depending on experience and in
 </ul>
 <p>Particpating in the Design Game is required for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.</p>
 <pre><code class="Python">box = page['Footer']
-</code></pre>
+box.html = doc.footerHtml
 
-<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
-<pre><code class="Python">page = doc.newPage(title='Projects', name='projects.html')
+page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 </code></pre>
@@ -319,10 +319,9 @@ The presentation is showing 5 best pages in combination with validation criteria
 <p>Research models where publications within a corporate identity can have different usage, technique and message, and still visually belong to the same brand. What are parameters and what freedom do designers have later in the process?<br />
 Which of these parameters need to be documented? And which can be automated?</p>
 <pre><code class="Python">box = page['Footer']
-</code></pre>
+box.html = doc.footerHtml
 
-<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
-<pre><code class="Python">page = doc.newPage(title='About', name='about.html', template='home')
+page = doc.newPage(title='About', name='about.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Side']
 </code></pre>
@@ -353,6 +352,5 @@ box = page['Main']['Side']
 <h3>Crew of others…</h3>
 <p>Depending on necessary domain knowlegdge, other designers and professionals can be added to the team. Former students, collegue designers, lectureres and relations of the studio are available if that fits the topics at hand.</p>
 <pre><code class="Python">box = page['Footer']
-</code></pre>
-
-<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p></document>
+box.html = doc.footerHtml
+</code></pre></document>

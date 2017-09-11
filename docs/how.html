@@ -11,11 +11,14 @@
 		<link media="all" href="css/pagebot.css" type="text/css" rel="stylesheet"/>
 		<link href="images/favicon.gif" type="image/gif" rel="icon"/>
 	</head>
-	<body><div id="230B88A5E4110ABE890"><div class="container mobilenavigation"><div class="row"><div class="twelvecol last"><nav id="nav-wrap">
+	<body><div id="230B8921B8110ABE4D0"><div class="container mobilenavigation"><div class="row"><div class="twelvecol last"><nav id="nav-wrap">
 		<ul id="nav"><li><a href="index.html">Home</a></li><li><a href="how.html">How</a></li><li><a href="game.html">Game</a></li><li><a href="projects.html">Projects</a></li><li><a href="about.html">About</a></li>
 		</ul></nav><a href="index.html">Design Design Space</a></div></div></div><div class="container top"><div class="row"><div class="fivecol"><div class="logo"><a href="index.html">Design Design Space</a></div></div><div class="sevencol last"><nav id="navigation-wrap">
 		<ol><li><a href="about.html">About</a></li><li><a href="projects.html">Projects</a></li><li><a href="game.html">Game</a></li><li><a href="how.html">How</a></li><li><a href="index.html">Home</a></li>
-		</ol></nav></div></div></div><div class="container mainContent"><div class="row"><div class="eightcol"><div id="230B88A5E4110ABE210"><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
+		</ol></nav></div></div></div><div class="container mainContent"><div class="row"><div class="eightcol"><div id="230B8921B810F1D1650"><code class="Python">box = page['Footer']
+box.html = doc.footerHtml
+
+page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 </code></pre>
@@ -87,7 +90,7 @@ No refunding is possible, but participants have the right to build in breaks for
 <li>The study finishes with a valued certificate on “graduation”, signed by external designers of statue. </li>
 <li>Short term visible value for students, even with the longer time frames.</li>
 </ul>
-<pre></div></div><div class="fourcol"><div id="230B88A5E4110ABE910"><code class="Python">box = page['Main']['Side']
+<pre></div></div><div class="fourcol"><div id="230B8921B810F1D1690"><code class="Python">box = page['Main']['Side']
 </code></pre>
 
 <p><img src="images/DSGNWK_0468BW.jpg" alt="DSGNWK_0468BW.jpg"/>
@@ -96,11 +99,8 @@ No refunding is possible, but participants have the right to build in breaks for
 <em>Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study</em></p>
 <pre></div></div></div></div><div class="container footer"><div class="row"><div class="eightcol"><nav id="navigation-wrap">
 		<ol><li><a href="index.html">Home</a></li><li><a href="how.html">How</a></li><li><a href="game.html">Game</a></li><li><a href="projects.html">Projects</a></li><li><a href="about.html">About</a></li>
-		</ol></nav></div><div class="fourcol last"><code class="Python">box = page['Footer']
-</code></pre>
-
-<p>Let us know what you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
-<pre></div></div></div><script charset="UTF-8" type="text/javascript">
+		</ol></nav></div><div class="fourcol last">Let us know what you think. Do you have any questions for us? <a href="mailto:buro@petr.com">buro@petr.com</a>
+</div></div></div><script charset="UTF-8" type="text/javascript">
 
     jQuery(document).ready(function($){
       /* prepend menu icon */
