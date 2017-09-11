@@ -38,7 +38,9 @@ p {
   margin: 0 0 10px 0; 
   letter-spacing: 0;
 }
-
+em {
+  font-family: "Upgrade-RegularItalic", sans;
+}
 h1, h2, h3, h4, h5 {
   font-style: nornal;
 }
