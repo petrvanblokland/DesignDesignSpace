@@ -428,6 +428,9 @@ input[type=submit] {
     hyphens: auto;
     text-indent: 1.5em;
     margin: 0; }
+  .section p em {
+    font-family: "Upgrade-RegularItalic", sans;
+  }
   .section blockquote {
     border-left: 4px solid #ccc;
     margin: 1.5em 10px;
@@ -455,7 +458,8 @@ input[type=submit] {
 .mainContent p {
   margin-top: 0em;
   margin-bottom: 2em; }
-
+.mainContent p em {
+    font-family: "Upgrade-RegularItalic", sans;}
 .mainContent h1 {
   font-family: "Upgrade-Bold", sans;
   font-size: 2.5em;
@@ -882,7 +886,8 @@ input[type=submit] {
     hyphens: auto;
     text-indent: 1.5em;
     margin: 0; }
-
+   .section p em {
+    font-family: "Upgrade-RegularItalic", sans;}
   .featured {
     color: #e1e1e1;
     font-style: normal;
