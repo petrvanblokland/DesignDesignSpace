@@ -13,7 +13,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Introduction']
 ~~~
 
-### (Website is in draft) What are the dreams and dragons in your design process? How do your change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?
+### What are the dreams and dragons in your design process? How do you change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?
 
 ~~~Python
 box = page['Featured']['Image']
@@ -26,8 +26,7 @@ box = page['Featured']['Side']
 ~~~
 
 ## Repeat to improve
-What makes a design proces fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. 
-
+What makes a design proces fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a lineair process, it’s a iterative process, which means repeating the previous step in more detail. 
 
 ~~~Python
 box = page['Main']['Content']
@@ -36,17 +35,23 @@ box = page['Main']['Content']
 ## *Design Design Space*: what is it?
 *Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, a space where you can design your design process. 
 
+What kind of challenges do you experience in your daily work as a designer?
+
 Working closely together online with experienced designers and a group of collegue students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
 
-Study path lengths vary from 1 day, 1 week, 1 month and 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
+### How much time do you need?
+The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (research – design – presentation) as a project of 1 year. Where in practice 80% of the work is done in the last 20% (or less) of the available time.
+
+Of course, it matters how long you study. the stadia in the design process are fundamentally the same. Depending on the lenght of time, their will be more details to focus and to work on.
+
+This mismatch – how time is spent on what – is fundamental to design. Too optimistic in the beginning (“the next one always will be better”), a design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.
+
+### 1 day • 1 week • 1 month • 1 season • 1 year
+
+Study path lengths vary from 1 day, 1 week, 1 month, 1 season and possibly 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
  
-## 1 day • 1 week • 1 month • 1 year
-The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (resarch – design – presentation) as a project of 1 year. Where in practice 80% of the work is done in the last 20% (or less) of the available time.
-
-That mismatch is fundamental to design. Too optimistic in the beginning – the next one always will be better – a design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.
-
 ### Design methods
-Over the years a magnitude of design methods have been developed, but unformtunately they all share the common goal to meet the deadline with an optimum of available functions.
+In magnitude of design methods have been developed, but unformtunately they all share the common goal to meet the deadline with an optimum of available functions.
 You may recognize that in your current design practice.
 
 What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. Cuddle solutions that don’t seem to be porfitable right away. To spend time on acquiring skills without predefined purpose.
@@ -310,37 +315,38 @@ There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all o
 
 ### What does it cost?
 
-There are 4 possible training levels.
+There are 5 possible training levels.
 
 ~~~Python
 """
 * 1 day $150
-* 1 week $800 (7 days)
-* 1 month $2000 (calendar month)
-* 1 year $6000
+* 1 week $900 (7 days)
+* 1 month $1900 (calendar month)
+* 1 season $3900 (3 calendar months)
+* 1 year $7900
 
-For students who whish to extend one time frame into another, the payed amount will be deducted by 50%.
+Discount or split payment for the month, season and year training can be discussed, depending on personal situation.
 
-* 1 day extending into 1 week: 1/2 $150 + $800 = $875
-* 1 week extending into 1 month: 1/2 $800 + $2000 = $2400
-* 1 day extending into 1 week extending into 1 month: 1/2 $800 + $2000 = $2400
-* 1 month extending into one year: 1/2 $2000 + $6000 = $7000
-* 1 week extending into 1 month extending into 1 year: 1/2 $2400 + $6000 = $7200
+For designers who whish to extend one training level into another, a 50% discount applies to previous payed tuition.
+
+* 1 day followed by 1 week: 1/2 $150 + $900 = $975
+* 1 week followed by 1 month: 1/2 $900 + $1900 = $2350
 
 """
 ~~~
 
 Tuition needs to be payed before the training starts. 
-No refunding is possible, but students have the right to build in breaks for some period of time, if that is discussed before hand. 
-In exceptional situations payment in portions can be discussed.
+No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
 
 ### What is the schedule & how to submit?
 
-Every 3 months a new day-week-month-year sequence starts, under the condition that there are at least 3 students. 
+Every 6 months, starting in March and September, a new day-week-month-season-year sequence starts, under the condition that there are at least 3 participants. 
 
-The coaches have the right to decide postponing the start of a new sequence, if not enough students submitted and group them together.
+Day-week sequences or single day Design Games can take place on other date during the year, if the amount oof participants allows that.
 
-Since working as a team of students a minimum amount is required, and also a mininum level of quality, motivation, dedication and experience. 
+The Design Design Space* organization mayd decide to postpone the start of a new sequence, if not enough students submitted and group them together.
+
+Since working as a team of students a minimum amount of 3 is required, and also a mininum level of quality, motivation, dedication and experience. 
 
 Students are submitted after showing their portfolios and the result of a given assignment. They have to write a motivation and development plan, which will be presented in a Google Hangout.
 If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. 
@@ -350,8 +356,8 @@ Students finishing one training level adequately, automatically get admitions fo
 
 ### How does it work?
 
-* Design students meet online with each other and the coaches in regular intervals.
-* Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which specific topics can be filled by the individual students.
+* Design students meet online with each other and the coaches in regular intervals. 
+* Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which the  specific topics can be filled by the individual students.
 * Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of the assignment. 
 * With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.
 * The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.
@@ -377,7 +383,10 @@ Students finishing one training level adequately, automatically get admitions fo
 ### The design process
 
 The idea behind every *Design Design Space* training is that every design process can be divided into three phases: research, design and presentation.
-As e.g. the research phase by definition has design and presentation aspects (answering questions such as “How am I going to do the research” and “How am I going to present the research results?”), every phase has this division in three, making a recursive structure.
+And since the “How to do research?” and “How to do the presentation?” don’t have straight standards answers, so they are subject to a design process themselves.
+
+As e.g. the research phase by definition has design and presentation aspects (answering questions such as “What strategy, level of detail and resources word best for research?” and “How am I going to present results of the research?”), every phase has this division in three, making a recursive structure.
+
 Of course the required time and level of details are subject of choice, but that itself is a design question to be answered.
 
 ### Personal design space
