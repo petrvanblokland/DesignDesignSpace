@@ -55,7 +55,7 @@ box = page['Introduction']
 <p>Season and year-students are submitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.</p>
 <p>Students finishing a training adequately, automatically get accepted for a next.</p>
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /><br />
-<em>Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.</em></p>
+<em>Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.</em></p>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 

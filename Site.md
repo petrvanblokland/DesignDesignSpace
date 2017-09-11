@@ -78,7 +78,7 @@ Season and year-students are submitted after showing their portfolios and the re
 Students finishing a training adequately, automatically get accepted for a next.
 
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
-*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.*
+*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.*
 
 ~~~Python
 box = page['Main']['Side']
