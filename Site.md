@@ -78,12 +78,14 @@ Season and year-students are submitted after showing their portfolios and the re
 Students finishing a training adequately, automatically get accepted for a next.
 
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
-*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>*. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.
+*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.*
 
 ~~~Python
 box = page['Main']['Side']
 ~~~
 
+![DesignModels2.009.png](docs/images/DesignModels2.009.png)
+*What does your design profession look like in the next 5 year? Or the next 20 years? What space is there to develop yourself and your skills? How can you make yourself independent from the changes in design that are likely to happens? Or better: how can you use them to our advantage?*
 
 ~~~Python
 page = doc.newPage(title='How', name='how.html', template='home')
