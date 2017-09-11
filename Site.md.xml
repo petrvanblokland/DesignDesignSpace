@@ -56,19 +56,8 @@ box = page['Introduction']
 <p>Day-week sequences or single day Design Games can take place on other date during the year, if the amount oof participants allows that.</p>
 <p>The Design Design Space* organization mayd decide to postpone the start of a new sequence, if not enough students submitted and group them together.</p>
 <p>Since working as a team of students a minimum amount of 3 is required, and also a mininum level of quality, motivation, dedication and experience. </p>
-<p>Students are submitted after showing their portfolios and the result of a given assignment. They have to write a motivation and development plan, which will be presented in a Google Hangout.<br />
-If there is enough time between submission and the start of a new sequence, students can get some initial assignment to work on without coaching. <br />
-The volume this depends on the length of the of the training that students apply for.</p>
-<p>Students finishing one training level adequately, automatically get admitions for a next level.</p>
-<h3>How does it work?</h3>
-<ul>
-<li>Design students meet online with each other and the coaches in regular intervals. </li>
-<li>Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which the  specific topics can be filled by the individual students.</li>
-<li>Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of the assignment. </li>
-<li>With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.</li>
-<li>The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.</li>
-<li>In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. </li>
-</ul>
+<p>Season and year-students are submitted after showing their portfolios and the result of a given assignment. They are asked to write a motivation and development plan.</p>
+<p>Students finishing one training level adequately, automatically get accepted for a next level.</p>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 
@@ -117,86 +106,27 @@ The volume this depends on the length of the of the training that students apply
 <li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;</li>
 <li>Design deep spaces.</li>
 </ul>
-<pre><code class="Python">box = page['Section']['Title']
-</code></pre>
-
-<h2>Example projects</h2>
-<pre><code class="Python">box = page['Section']['0']
-</code></pre>
-
-<p><img alt="docs/images/DesignModels2.092.png" src="docs/images/DesignModels2.092.png" /></p>
-<h3>Flow control</h3>
-<p>Staging a project into small chunks gives better control on every aspect. Popular scrum techniques are a good example of that technique. Yet, they are mostyl oriented towards time management, function implementation and linear development.</p>
-<p>If the design process is more implemented as a sequence of repetitions, with increasing length and detail level, there is more space for improvement, if requirements are new and untested. </p>
-<p>If a project will last for 6 months, what is it that you are really busy with tomorrow?</p>
-<pre><code class="Python">box = page['Section']['1']
-</code></pre>
-
-<p><img alt="docs/images/DesignModels2.037.png" src="docs/images/DesignModels2.037.png" /></p>
-<h3>Detail managment</h3>
-<p>Sketching is the process of eliminating unwanted options from the tree of all possibilities, without visualizing every single one of them. </p>
-<p>Sketching is the process of managing the level of details, throughout the process. One method is reduce the scale of drawings, as the resolution of tools (pencil or screen) automatically will hide irrelevant details. </p>
-<pre><code class="Python">box = page['Footer']
-</code></pre>
-
-<p>Let us know that you think. What questions do you have for us? <a href="mailto:buro@petr.com">buro@petr.com</a></p>
-<pre><code class="Python">page = doc.newPage(title='Game', name='game.html', template='home')
-page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Content']
-</code></pre>
-
-<h2>Online Design Game of 1 day</h2>
-<p>For those who ever did an physical Design Game, you’ll get the same experience. Though this is an updated version, that runs online.</p>
-<p>For those who never did a Design Game, this is a good way to start thinking about your design profession in a totally different way. </p>
-<h3>Preparation</h3>
-<p>The time frame of online Design Games, depends on the time zones of the participants. We’ll try to make that as convenient as possible, yet it could be that your starts at early dawn or late evening. <br />
-Just like working for international customers would direct you to work on flexible parts of the day.</p>
-<p>Virtual studios are formed from 3 or more designers. Since you are likely not in the same physical place or time zone, it is part of the game to find a way of working together. Improvisation is a form of design.<br />
-As studio you may want to consider dividing tasks depending on experience and interests.</p>
-<p>Design Design Space is a transparant learning environment, where the online Design Game is the most condensed example.</p>
-<p>There will be several studios working in a pitch for the same assignment for the same customer. At the end of each round the design get approval points.</p>
-<p>The aim is that the best performing studio after 4 rounds wins the game.</p>
-<p>In each round a new assignment is given, where the formation of the studios stays the same. This way experience on what went right or wrong in the previous rounds can be used to improve the next result.</p>
-<h3>Round 1: Corporate Identity</h3>
-<p>The first round takes 2 hours to design and present a corporate identity. Details and requirements are given at the start of each round. </p>
-<p>Studios have the possibility to present to their customer through digital media, e.g. by e-mail and hangout, asking questions, showing intermediate sketches.</p>
-<p>At the end of each round, the final design of every studio is presented to their customers and the other studios. The customers will judge the process and the result and give feedback.</p>
-<p>Scores of each round are visible to the group in an online document.</p>
-<h3>Round 2: Another corporate Identity</h3>
-<p>The second round is similar to the first round – a new corporate identity, different requirements for another customer – but in shorter time.</p>
-<h3>Round 3: Magazine</h3>
-<p>Design and present different types of pages of a magazine. The challenge with working in an virtual environment, is to divide the work between the designers of the studio. What visual parameters define the difference between the types of pages and which parameters make the visual coherence?</p>
-<h3>Round 4: Exhibition</h3>
-<p>Design and present an exhibition space, that fits the given requirements. With photos and video a physical scale model is presented to the customer and the other studios.</p>
-<p>In this round all studios will judge and comment the result of all other studios. That feedback is used as part of the final score.</p>
-<h3>Presentations and feedback</h3>
-<p>In a presentation where are designs can be compared, a winner is selected. </p>
-<h3>Conclusions</h3>
-<p>Concluding the 1 day of Design Design Space, feedback is given to the studios and individual designers. What went well? What were challenges? </p>
-<h4>Trained skills</h4>
-<p>During the Design Game, several design skills are addressed. </p>
-<ul>
-<li>Organizing, time management, asking interventions</li>
-<li>Management of detail levels</li>
-<li>Development of sketching techniques</li>
-<li>Communication between designers in a virtual studio</li>
-<li>Asking the right questions to the customer</li>
-<li>Selection of presentation media</li>
-<li>Judging and formulating feedback to other studios</li>
-</ul>
-<p>Particpating in the Design Game is required for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.</p>
 <pre><code class="Python">page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 
 </code></pre>
 
-<p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and a crew of others</p>
+<h3>How does it work?</h3>
+<ul>
+<li>Design students meet online with each other and the coaches in regular intervals. </li>
+<li>Students get assignments for design projects with time frames ranging from several hours to several months. The assignments are challenges, for which the  specific topics can be filled by the individual students.</li>
+<li>Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of the assignment. </li>
+<li>With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.</li>
+<li>The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.</li>
+<li>In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. </li>
+</ul>
 <!--
 ## http://designdesign.space
 ## designdesignspace.com
 -->
 
+<p>Teachers/coaches/designers: Petr van Blokland, Claudia Mens and a crew of others</p>
 <p><img alt="DSGNWK_0582BW.jpg" src="docs/images/DSGNWK_0582BW.jpg" /></p>
 <h3>Design methods</h3>
 <p>In magnitude of design methods have been developed, but unformtunately they all share the common goal to meet the deadline with an optimum of available functions.<br />
@@ -255,88 +185,51 @@ No refunding is possible, but participants have the right to build in breaks for
 <li>The study finishes with a valued certificate on “graduation”, signed by external designers of statue. </li>
 <li>Short term visible value for students, even with the longer time frames.</li>
 </ul>
-<pre><code class="Python">box = page['Section']['Title']
-</code></pre>
-
-<h2>Example projects</h2>
-<pre><code class="Python">box = page['Section']['0']
-</code></pre>
-
-<p><img alt="docs/images/DesignModels2.048.png" src="docs/images/DesignModels2.048.png" /></p>
-<h3>How does Design relate to Art?</h3>
-<p>Design can be seen as position between Art (0% defined) and Production (100% defined). But what that percentage is – and if this is a relevant model at all – needs to be defined for every project. How would you do that? How would you balance between being a creative artist and making sure that the design is finished in time, to full user satisfaction? What would your process be for such a task?</p>
-<pre><code class="Python">box = page['Section']['1']
-</code></pre>
-
-<p><img alt="docs/images/DesignModels2.077.png" src="docs/images/DesignModels2.077.png" /></p>
-<h3>Design a food poster.</h3>
-<p>How would you approach such a project? What is the assignment runs for 2 days? Or 2 weeks? Or 2 months? What would be different in you process? And what is always the same?</p>
-<pre><code class="Python">box = page['Footer']
-</code></pre>
-
-<p>Let us know that you think. Or if you have any questions for us? <a href="mailto:buro@petr.com">buro@petr.com</a></p>
-<pre><code class="Python">page = doc.newPage(title='Schedule', name='schedule.html', template='home')
+<pre><code class="Python">page = doc.newPage(title='Game', name='game.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 </code></pre>
 
-<h3>What is the time frame?</h3>
-<p>There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all offering the same process. The difference is the level of details, development of skill and amount of specialization in specific topcis.</p>
-<pre><code class="Python">&quot;&quot;&quot;
-### Biggest advantage of this activity for us
-
-* Not bound to any accreditation or institution
-* No startup cost
-* Highly scalable in volume of students
-* Highly scalable in contributing teachers
-* Very flexible in focus, content and directions
-* Works anywhere, anytime, any language, country and culture, as long as people get online.
-* Large “touch base” of students who already have similar experience in our regular lessons
-* A lot of this we already have available as assignments, examples, etc.
-* Flexible in pricing for special cases.
-* Focus is on design students, not on buildings, organizations and degrees.
-&quot;&quot;&quot;
-</code></pre>
-
-<h3>The design process</h3>
-<p>The idea behind every <em>Design Design Space</em> training is that every design process can be divided into three phases: research, design and presentation.<br />
-And since the “How to do research?” and “How to do the presentation?” don’t have straight standards answers, so they are subject to a design process themselves.</p>
-<p>As e.g. the research phase by definition has design and presentation aspects (answering questions such as “What strategy, level of detail and resources word best for research?” and “How am I going to present results of the research?”), every phase has this division in three, making a recursive structure.</p>
-<p>Of course the required time and level of details are subject of choice, but that itself is a design question to be answered.</p>
-<h3>Personal design space</h3>
-<p>An important aspect of every design project is that it is a journey, a travel, with some definition of starting point, some definition of the target, but – by definition – an undefined path from one to the other. Otherwise that path would have been called a production process.</p>
-<p>From the personal experience for the designer, such a journey has always had conditions that must be filled for success.</p>
+<h2>Online Design Game of 1 day</h2>
+<p>For those who ever did an physical Design Game, you’ll get the same experience. Though this is an updated version, that runs online.</p>
+<p>For those who never did a Design Game, this is a good way to start thinking about your design profession in a totally different way. </p>
+<h3>Preparation</h3>
+<p>The time frame of online Design Games, depends on the time zones of the participants. We’ll try to make that as convenient as possible, yet it could be that your starts at early dawn or late evening. <br />
+Just like working for international customers would direct you to work on flexible parts of the day.</p>
+<p>Virtual studios are formed from 3 or more designers. Since you are likely not in the same physical place or time zone, it is part of the game to find a way of working together. Improvisation is a form of design.<br />
+As studio you may want to consider dividing tasks depending on experience and interests.</p>
+<p>Design Design Space is a transparant learning environment, where the online Design Game is the most condensed example.</p>
+<p>There will be several studios working in a pitch for the same assignment for the same customer. At the end of each round the design get approval points.</p>
+<p>The aim is that the best performing studio after 4 rounds wins the game.</p>
+<p>In each round a new assignment is given, where the formation of the studios stays the same. This way experience on what went right or wrong in the previous rounds can be used to improve the next result.</p>
+<h3>Round 1: Corporate Identity</h3>
+<p>The first round takes 2 hours to design and present a corporate identity. Details and requirements are given at the start of each round. </p>
+<p>Studios have the possibility to present to their customer through digital media, e.g. by e-mail and hangout, asking questions, showing intermediate sketches.</p>
+<p>At the end of each round, the final design of every studio is presented to their customers and the other studios. The customers will judge the process and the result and give feedback.</p>
+<p>Scores of each round are visible to the group in an online document.</p>
+<h3>Round 2: Another corporate Identity</h3>
+<p>The second round is similar to the first round – a new corporate identity, different requirements for another customer – but in shorter time.</p>
+<h3>Round 3: Magazine</h3>
+<p>Design and present different types of pages of a magazine. The challenge with working in an virtual environment, is to divide the work between the designers of the studio. What visual parameters define the difference between the types of pages and which parameters make the visual coherence?</p>
+<h3>Round 4: Exhibition</h3>
+<p>Design and present an exhibition space, that fits the given requirements. With photos and video a physical scale model is presented to the customer and the other studios.</p>
+<p>In this round all studios will judge and comment the result of all other studios. That feedback is used as part of the final score.</p>
+<h3>Presentations and feedback</h3>
+<p>In a presentation where are designs can be compared, a winner is selected. </p>
+<h3>Conclusions</h3>
+<p>Concluding the 1 day of Design Design Space, feedback is given to the studios and individual designers. What went well? What were challenges? </p>
+<h4>Trained skills</h4>
+<p>During the Design Game, several design skills are addressed. </p>
 <ul>
-<li>Calling; dreams, plans, goals and knowing yourself</li>
-<li>Fellowship; the social fabric, the environment of the designer</li>
-<li>Dragon; where you stumble, the treasure lies</li>
-<li>Performance; stepping into the middle of the moment </li>
-<li>Return; bringing home the Holy Grail</li>
+<li>Organizing, time management, asking interventions</li>
+<li>Management of detail levels</li>
+<li>Development of sketching techniques</li>
+<li>Communication between designers in a virtual studio</li>
+<li>Asking the right questions to the customer</li>
+<li>Selection of presentation media</li>
+<li>Judging and formulating feedback to other studios</li>
 </ul>
-<p><em>Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books</em></p>
-<pre><code class="Python">box = page['Section']['Title']
-</code></pre>
-
-<h2>Example projects</h2>
-<pre><code class="Python">box = page['Section']['0']
-</code></pre>
-
-<p><img alt="docs/images/DesignModels2.009.png" src="docs/images/DesignModels2.009.png" /></p>
-<h3>What will you design 10 years from now?</h3>
-<p>With increasing speed, values and skills of 10 years ago have become obsolete. What do you need to do, to be a professional designer 10 years from now? Or 20? Or 30? </p>
-<p>How do you prepare for a future where basic skills are taken over by AI. How can your train yourself to learn to adapt. </p>
-<p>Instead of following the future developments, how can you participate in defining and designing them?</p>
-<pre><code class="Python">box = page['Section']['1']
-</code></pre>
-
-<p><img alt="docs/images/DesignModels2.030.png" src="docs/images/DesignModels2.030.png" /></p>
-<h3>Design is a cycle</h3>
-<p>If design is a cycle, then where does it end? When that is up to the designer to decide – until it’s good enough – that will never happen (right). <br />
-Reality is that the design process ends if all time is used. BUt how to make sure that the design is complete, with enough details to be appreciated by a user?</p>
-<pre><code class="Python">box = page['Footer']
-</code></pre>
-
-<p>Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a></p>
+<p>Particpating in the Design Game is required for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.</p>
 <pre><code class="Python">page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
