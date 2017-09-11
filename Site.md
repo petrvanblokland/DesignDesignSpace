@@ -70,9 +70,10 @@ box = page['Main']['Side']
 
 #### What can you do in 1 day?
 
-* Play an online Design Game, with a program described <a href="game.html">here</a>.
+* Play an online Design Game, with a schedule described <a href="game.html">here</a>.
 
 #### In 1 week
+One or more of these examples. How much can you fit in a week?
 
 * Design a model exhibition space;
 * Sketch the basics of a corporate identity;
@@ -82,6 +83,7 @@ box = page['Main']['Side']
 * Examine how to select one of the above.
 
 #### In 1 month?
+A selection of these examples. Or one of your own topics?
 
 * Study typographic parameters;
 * Research, write, design and present a mini-thesis about a topic of your choice;
@@ -92,6 +94,8 @@ box = page['Main']['Side']
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
 #### In 1 season?
+A selection of these examples. Or what would you like to do?
+
 * Develop a PageBot publication;
 * Improve your sketching skills;
 * Make some RoboFont tools;
@@ -99,6 +103,8 @@ box = page['Main']['Side']
 * Do almost any design project that can be done in a month.
 
 #### In 1 year?
+A selection of these examples. Or maybe all? 
+
 * Become an independent typographer with noticable experience;
 * Improve your experience as type designer. Or as design educator;
 * Design Variable Font design spaces;
