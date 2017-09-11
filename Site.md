@@ -179,6 +179,8 @@ box = page['Main']['Side']
 
 ![DSGNWK_0468BW.jpg](docs/images/DSGNWK_0468BW.jpg)
 *Many of the assignments need collaborating with other online students, who – throughout the process – can have different roles, ranging from colleague and client to user.*
+
+
 ![DSGNWK_0665BW.jpg](docs/images/DSGNWK_0665BW.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study*
 
