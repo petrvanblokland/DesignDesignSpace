@@ -61,11 +61,13 @@ Study path lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 ye
 
 Discount or split payment for the month, season and year training can be discussed, depending on your personal situation.
 
-For students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1900 = $2350. Or 1 week followed by 1 season: 1/2 $900 + $3900 = $4350
+Students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1900 = $2350. Or 1 week followed by 1 season: 1/2 $900 + $3900 = $4350
+
+Pricing is for individual designers. For corporate trainings or groups, <a href="mailto:buro@petr.com">contact us</a>.
 
 ### What is the schedule & how to submit?
 
-Every 6 months, starting in March and September, a new day-week-month-season-year sequence starts, under the condition that there are at least 3 participating students. 
+Every 6 months, in March and September, a new day-week-month-season-year sequence starts, most likely if there are at least 3 participating students. 
 
 Day-week sequences or single day Design Games can take place on other dates during the year, if the amount of participants makes it possible.
 
@@ -74,6 +76,8 @@ Since working as a team of students a minimum amount of 3 is required, and also 
 Season and year-students are submitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.
 
 Students finishing a training adequately, automatically get accepted for a next.
+
+![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
 
 ~~~Python
 box = page['Main']['Side']
@@ -101,16 +105,15 @@ box = page['Main']['Content']
 ## http://designdesign.space
 ## designdesignspace.com
 -->
-Teachers/coaches/designers: Petr van Blokland, Claudia Mens and a crew of others
 
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
-
+*Photo on a Design Game on location at <a href="https://www.otis.edu" target="External">OTIS-LS</a>*. Although the online trainings obviously don’t include this direct way of working together, it is the aim of to offer the best possible online design space.
 
 ### Design methods
-In magnitude of design methods have been developed, but unformtunately they all share the common goal to meet the deadline with an optimum of available functions.
+In the past a magnitude of design methods have been developed, but unformtunately most of them focus on production techniques and deadlines.
 You may recognize that in your current design practice.
 
-What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. Cuddle solutions that don’t seem to be porfitable right away. To spend time on acquiring skills without predefined purpose.
+What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. Cuddle solutions that don’t seem to be profitable right away. To spend time on acquiring skills without predefined purpose.
 
 Yet, for the development of skill, such an approach is essential. 
 
@@ -185,7 +188,7 @@ box = page['Main']['Content']
 ## Online Design Game
 ### Duration 8 hours
 
-For those who ever did an physical Design Game, you’ll recognize the idea behind it. Doing one online will be a new experience.
+For those who ever did a Design Game on location, you’ll recognize the idea behind it. Doing one online will be a new experience.
 
 For those who never did a Design Game, this is a good way to start thinking about your design profession in a totally different way. 
 
