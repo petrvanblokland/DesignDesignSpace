@@ -149,6 +149,11 @@ Tuition needs to be payed before the training starts.
 No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
 
 ~~~Python
+box = page['Section']['Title']
+~~~
+### Play games with out client, rules for recognizing identities.
+
+~~~Python
 box = page['Section']['0']
 ~~~
 ![TheEndOfCss015M1.083.jpeg](docs/images/TheEndOfCss015M1.083.jpeg)
