@@ -142,10 +142,32 @@ Yet, for the development of skill, such an approach is essential.
 *Design Design Space* offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are customized to your development.
 
 ### Experience
+
 *Design Design Space* taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
 Tuition needs to be payed before the training starts. 
 No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
+
+~~~Python
+box = page['Section']['0']
+~~~
+![TheEndOfCss015M1.083.jpeg](docs/images/TheEndOfCss015M1.083.jpeg)
+~~~Python
+box = page['Section']['1']
+~~~
+![TheEndOfCss015M1.084.jpeg](docs/images/TheEndOfCss015M1.084.jpeg)
+~~~Python
+box = page['Section']['2']
+~~~
+![TheEndOfCss015M1.087.jpeg](docs/images/TheEndOfCss015M1.087.jpeg)
+~~~Python
+box = page['Section']['3']
+~~~
+![TheEndOfCss015M1.089.jpeg](docs/images/TheEndOfCss015M1.089.jpeg)
+
+~~~Python
+box = page['OtherMain']
+~~~
 
 ### What *Design Design Space* can be
 
@@ -180,7 +202,6 @@ You are disciplined to work hard between online sessions, and more interested in
 * It is not a school;
 * It is not a “How to InDesign/HTML/CSS/JS/otherDesignTool” training;
 * It is not a series of slides or a stack of books (although they may be very well part of it).
-
 
 ~~~Python
 box = page['Main']['Side']

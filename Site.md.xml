@@ -104,6 +104,25 @@ You may recognize that in your current design practice.</p>
 <p><em>Design Design Space</em> taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.</p>
 <p>Tuition needs to be payed before the training starts. <br />
 No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. </p>
+<pre><code class="Python">box = page['Section']['0']
+</code></pre>
+
+<p><img alt="TheEndOfCss015M1.083.jpeg" src="docs/images/TheEndOfCss015M1.083.jpeg" /></p>
+<pre><code class="Python">box = page['Section']['1']
+</code></pre>
+
+<p><img alt="TheEndOfCss015M1.084.jpeg" src="docs/images/TheEndOfCss015M1.084.jpeg" /></p>
+<pre><code class="Python">box = page['Section']['2']
+</code></pre>
+
+<p><img alt="TheEndOfCss015M1.087.jpeg" src="docs/images/TheEndOfCss015M1.087.jpeg" /></p>
+<pre><code class="Python">box = page['Section']['3']
+</code></pre>
+
+<p><img alt="TheEndOfCss015M1.089.jpeg" src="docs/images/TheEndOfCss015M1.089.jpeg" /></p>
+<pre><code class="Python">box = page['OtherMain']
+</code></pre>
+
 <h3>What <em>Design Design Space</em> can be</h3>
 <ul>
 <li>A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.</li>
