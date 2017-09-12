@@ -257,11 +257,11 @@ box = page['Introduction']
 </code></pre>
 
 <h2>What can you do?</h2>
-<h4>What can you do in 1 day?</h4>
+<h3>What can you do in 1 day?</h3>
 <ul>
 <li>Play an online Design Game, with a schedule described <a href="game.html">here</a>.</li>
 </ul>
-<h4>What can you do in 1 week?</h4>
+<h3>What can you do in 1 week?</h3>
 <p>One or more of the example topics below. How much can you fit in a week?</p>
 <ul>
 <li>Design a model exhibition space;</li>
@@ -271,7 +271,7 @@ box = page['Introduction']
 <li>Write code for a DrawBot animation;</li>
 <li>Examine how to select one of the above.</li>
 </ul>
-<h4>What can you do in 1 month?</h4>
+<h3>What can you do in 1 month?</h3>
 <p>A selection of the example topics below. Or one of your own?</p>
 <ul>
 <li>Study typographic parameters;</li>
@@ -282,7 +282,7 @@ box = page['Introduction']
 <li>Design a Design Game and run it;</li>
 <li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
 </ul>
-<h4>What can you do in 1 season?</h4>
+<h3>What can you do in 1 season?</h3>
 <p>A selection of the example topics below. Or what else would you like to do?</p>
 <ul>
 <li>Develop a PageBot publication;</li>
@@ -291,7 +291,7 @@ box = page['Introduction']
 <li>Design design education tools, such as games and feedback models;</li>
 <li>Do almost any design project that can be done in a month.</li>
 </ul>
-<h4>In 1 year?</h4>
+<h3>In 1 year?</h3>
 <p>A selection of the example topics below. Or maybe all of them? </p>
 <ul>
 <li>Become an independent typographer with noticable experience;</li>

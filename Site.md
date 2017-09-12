@@ -350,11 +350,11 @@ box = page['Main']['Content']
 
 ## What can you do?
 
-#### What can you do in 1 day?
+### What can you do in 1 day?
 
 * Play an online Design Game, with a schedule described <a href="game.html">here</a>.
 
-#### What can you do in 1 week?
+### What can you do in 1 week?
 One or more of the example topics below. How much can you fit in a week?
 
 * Design a model exhibition space;
@@ -364,7 +364,7 @@ One or more of the example topics below. How much can you fit in a week?
 * Write code for a DrawBot animation;
 * Examine how to select one of the above.
 
-#### What can you do in 1 month?
+### What can you do in 1 month?
 A selection of the example topics below. Or one of your own?
 
 * Study typographic parameters;
@@ -375,7 +375,7 @@ A selection of the example topics below. Or one of your own?
 * Design a Design Game and run it;
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
-#### What can you do in 1 season?
+### What can you do in 1 season?
 A selection of the example topics below. Or what else would you like to do?
 
 * Develop a PageBot publication;
@@ -384,7 +384,7 @@ A selection of the example topics below. Or what else would you like to do?
 * Design design education tools, such as games and feedback models;
 * Do almost any design project that can be done in a month.
 
-#### In 1 year?
+### In 1 year?
 A selection of the example topics below. Or maybe all of them? 
 
 * Become an independent typographer with noticable experience;
