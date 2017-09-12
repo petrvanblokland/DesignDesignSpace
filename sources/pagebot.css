@@ -16,7 +16,7 @@ body {
   font-family: "Upgrade-Regular", sans;
   font-style: normal;
   font-weight: normal;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
   font-size: 24px;
   line-height: 22px;
   color: #66696c;
@@ -344,7 +344,7 @@ input[type=submit] {
     height: auto; }
   .featured p {
     color: #EEE;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     font-size:1.2em;
     font-style: normal;
     line-height: 1.4em;
@@ -432,7 +432,7 @@ input[type=submit] {
     padding: 0.5em;
     margin-bottom: 2em; }
   .section p {
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     font-size: 1.2em;
     line-height: 1.4;
     -webkit-hyphens: auto;
@@ -892,7 +892,7 @@ input[type=submit] {
     font-size: 1.4em;
     line-height: 1.4; }
   .section p {
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     font-size: 1.4em;
     line-height: 1.4;
     -webkit-hyphens: auto;
@@ -929,7 +929,7 @@ input[type=submit] {
       line-height: 1.4em;
       margin-top: 1.5em; }
     .featured p {
-      letter-spacing: 0.05em;
+      letter-spacing: 0.06em;
       color: #BBB;
       font-size: 1em;
       line-height: 1.4em;
@@ -951,7 +951,7 @@ input[type=submit] {
     padding-top: 0.3em; }
 
   .mainContent p {
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     line-height: 1.3em;
     text-align: left; }
 
