@@ -294,7 +294,7 @@ box = page['Introduction']
 </code></pre>
 
 <p><img alt="docs/images/ATypIKeynote7.046.jpeg" src="docs/images/ATypIKeynote7.046.jpeg" /><br />
-<em>Artifical Intelligence (AI) probably as much influence on any profession in the coming years. How will it influence your design practice?</em></p>
+<em>Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?</em></p>
 <pre><code class="Python">box = page['Section']['1']
 </code></pre>
 
@@ -308,7 +308,8 @@ box = page['Introduction']
 Essentially each time frame is a recursive copy of one of the others.<br />
 The difference between is the number of topics that can be addressed and the level of details possible.</p>
 <h3>Applying topics, process and context</h3>
-<p>A combination of two or more topics from the list below, in combination with process and context selection, gives students a unique personal research environment for development.</p>
+<p>A combination of two or more topics from the list below, in combination with process and context selection, gives students a unique personal research environment for development.<br />
+Here a comparing set is show of two opposite values. E.g. is a system is “Episodic” it is possible to come back on earlier decision (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).</p>
 <h4>Topics</h4>
 <ul>
 <li>Typography</li>

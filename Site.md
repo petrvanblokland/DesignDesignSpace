@@ -384,7 +384,7 @@ A selection of these examples. Or maybe all?
 box = page['Section']['0']
 ~~~
 ![docs/images/ATypIKeynote7.046.jpeg](docs/images/ATypIKeynote7.046.jpeg)
-*Artifical Intelligence (AI) probably as much influence on any profession in the coming years. How will it influence your design practice?*
+*Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?*
 
 ~~~Python
 box = page['Section']['1']
@@ -404,6 +404,7 @@ The difference between is the number of topics that can be addressed and the lev
 
 ### Applying topics, process and context
 A combination of two or more topics from the list below, in combination with process and context selection, gives students a unique personal research environment for development.
+Here a comparing set is show of two opposite values. E.g. is a system is “Episodic” it is possible to come back on earlier decision (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).
 
 #### Topics
 
