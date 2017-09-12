@@ -390,23 +390,7 @@ A selection of these examples. Or maybe all?
 * You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;
 * Design deep spaces.
 
-~~~Python
-box = page['Section']['0']
-~~~
-![docs/images/ATypIKeynote7.046.jpeg](docs/images/ATypIKeynote7.046.jpeg)
-*Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?*
-
-~~~Python
-box = page['Section']['1']
-~~~
-![docs/images/ATypIKeynote7.047.jpeg](docs/images/ATypIKeynote7.047.jpeg)
-*Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.*
-
-~~~Python
-box = page['OtherMain']['Content']
-~~~
-
-### Specialization topics
+## Specialization topics
 
 In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).
 Essentially each time frame is a recursive copy of one of the others.
@@ -460,6 +444,21 @@ Each of these items contains a world of detailed knowledge and design parameters
 * **Device Measurements** resolution, distortion, proportion, memory usage, …
 * **Storage techniques** File, database, formats, git, JSON, plist, XML, UFO, …
 
+~~~Python
+box = page['Section']['0']
+~~~
+![docs/images/ATypIKeynote7.046.jpeg](docs/images/ATypIKeynote7.046.jpeg)
+*Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?*
+
+~~~Python
+box = page['Section']['1']
+~~~
+![docs/images/ATypIKeynote7.047.jpeg](docs/images/ATypIKeynote7.047.jpeg)
+*Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.*
+
+~~~Python
+box = page['OtherMain']['Content']
+~~~
 
 ## Assignments
 Below some example assignments.

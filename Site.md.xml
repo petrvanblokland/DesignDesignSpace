@@ -297,20 +297,7 @@ box = page['Introduction']
 <li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;</li>
 <li>Design deep spaces.</li>
 </ul>
-<pre><code class="Python">box = page['Section']['0']
-</code></pre>
-
-<p><img alt="docs/images/ATypIKeynote7.046.jpeg" src="docs/images/ATypIKeynote7.046.jpeg" /><br />
-<em>Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?</em></p>
-<pre><code class="Python">box = page['Section']['1']
-</code></pre>
-
-<p><img alt="docs/images/ATypIKeynote7.047.jpeg" src="docs/images/ATypIKeynote7.047.jpeg" /><br />
-<em>Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.</em></p>
-<pre><code class="Python">box = page['OtherMain']['Content']
-</code></pre>
-
-<h3>Specialization topics</h3>
+<h2>Specialization topics</h2>
 <p>In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).<br />
 Essentially each time frame is a recursive copy of one of the others.<br />
 The difference between is the number of topics that can be addressed and the level of details possible.</p>
@@ -361,6 +348,19 @@ Here a comparing set is show of two opposite values. E.g. is a system is “Epis
 <li><strong>Device Measurements</strong> resolution, distortion, proportion, memory usage, …</li>
 <li><strong>Storage techniques</strong> File, database, formats, git, JSON, plist, XML, UFO, …</li>
 </ul>
+<pre><code class="Python">box = page['Section']['0']
+</code></pre>
+
+<p><img alt="docs/images/ATypIKeynote7.046.jpeg" src="docs/images/ATypIKeynote7.046.jpeg" /><br />
+<em>Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?</em></p>
+<pre><code class="Python">box = page['Section']['1']
+</code></pre>
+
+<p><img alt="docs/images/ATypIKeynote7.047.jpeg" src="docs/images/ATypIKeynote7.047.jpeg" /><br />
+<em>Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.</em></p>
+<pre><code class="Python">box = page['OtherMain']['Content']
+</code></pre>
+
 <h2>Assignments</h2>
 <p>Below some example assignments.</p>
 <h3>Design of methods for selection and feedback</h3>
