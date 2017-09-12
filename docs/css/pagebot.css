@@ -16,7 +16,7 @@ body {
   font-family: "Upgrade-Regular", sans;
   font-style: normal;
   font-weight: normal;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.05em;
   font-size: 24px;
   line-height: 22px;
   color: #66696c;
@@ -432,6 +432,7 @@ input[type=submit] {
     padding: 0.5em;
     margin-bottom: 2em; }
   .section p {
+    letter-spacing: 0.05em;
     font-size: 1.2em;
     line-height: 1.4;
     -webkit-hyphens: auto;
@@ -467,6 +468,7 @@ input[type=submit] {
   margin-bottom: 0.1em; }
 
 .mainContent p {
+  letter-spaing: 0.05em;
   margin-top: 0em;
   margin-bottom: 1em; }
 .mainContent p em {
@@ -890,6 +892,7 @@ input[type=submit] {
     font-size: 1.4em;
     line-height: 1.4; }
   .section p {
+    letter-spacing: 0.05em;
     font-size: 1.4em;
     line-height: 1.4;
     -webkit-hyphens: auto;
@@ -926,6 +929,7 @@ input[type=submit] {
       line-height: 1.4em;
       margin-top: 1.5em; }
     .featured p {
+      letter-spacing: 0.05em;
       color: #BBB;
       font-size: 1em;
       line-height: 1.4em;
@@ -947,6 +951,7 @@ input[type=submit] {
     padding-top: 0.3em; }
 
   .mainContent p {
+    letter-spacing: 0.05em;
     line-height: 1.3em;
     text-align: left; }
 
