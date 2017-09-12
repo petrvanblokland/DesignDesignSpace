@@ -73,7 +73,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Introduction']
 </code></pre>
 
-<h3>Sketch and sketch again.</h3>
+<h3>If your design is finished, and you are satisfied with the result, what is it that your are satisfied with?</h3>
 <pre><code class="Python">box = page['Main']['Content']
 </code></pre>
 
