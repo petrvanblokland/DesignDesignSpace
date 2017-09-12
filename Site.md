@@ -390,6 +390,7 @@ A selection of these examples. Or maybe all?
 * You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;
 * Design deep spaces.
 
+
 ## Specialization topics
 
 In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).
