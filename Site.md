@@ -237,9 +237,8 @@ box = page['Main']['Side']
 ![DSGNWK_0468BW.jpg](docs/images/DSGNWK_0468BW.jpg)
 *Many of the assignments need collaborating with other online students, who – throughout the process – can have different roles, ranging from colleague and client to user.*
 
-
 ![DSGNWK_0665BW.jpg](docs/images/DSGNWK_0665BW.jpg)
-*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching methods, the design of feedback methods is an important and integral part of every Design Design Space study*
+*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching techniques, the design of feedback methods is an important and integral part of every Design Design Space study.*
 
 ~~~Python
 box = page['Footer']
@@ -252,6 +251,12 @@ box = page['Introduction']
 ~~~
 
 ### Scaling the entire design practice down to a simulation of a couple of hours, how does that work?  
+
+~~~Python
+box = page['Main']['Side']
+~~~
+![IMG_1520.jpg](docs/images/IMG_1520.jpg)
+*Design Game on location at <a href="http://coopertype.org/nyc" target="External">Cooper Union</a>. Besides the development of presentation techniques, the design of feedback methods is an important and integral part of every Design Design Space study.*
 
 ~~~Python
 box = page['Main']['Content']
@@ -456,6 +461,17 @@ box = page['Section']['1']
 ~~~
 ![docs/images/ATypIKeynote7.047.jpeg](docs/images/ATypIKeynote7.047.jpeg)
 *Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.*
+
+~~~Python
+box = page['OtherMain']['Side']
+~~~
+![docs/images/pagebot_promo.png](docs/images/pagebot_promo.png)
+![docs/images/F5.034.jpeg](docs/images/F5.034.jpeg)
+*PageBot is library of functions, based on the programming language Python, that can be used for the automated production of publication. Learning to use PageBot is an optional topic in Design Design Space study.*
+
+![docs/images/TheEndOfCss015M1.050.jpeg](docs/images/TheEndOfCss015M1.050.jpeg)
+*Constructing an environment when all disciplines can work together in a non-linear way, is one of the topics of the Design Design Space study.*
+
 
 ~~~Python
 box = page['OtherMain']['Content']
