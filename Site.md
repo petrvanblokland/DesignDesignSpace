@@ -99,7 +99,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 ~~~
 
-### How does it work?
+## How does it work?
 
 Design students meet online with each other and the coaches in regular intervals.
 

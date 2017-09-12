@@ -72,7 +72,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Content']
 </code></pre>
 
-<h3>How does it work?</h3>
+<h2>How does it work?</h2>
 <p>Design students meet online with each other and the coaches in regular intervals.</p>
 <p>For interaction and exchanging documents a range of techniques are available, e.g. Skype, Google Hangout, Google Docs, offline video, Dropbox, Github, FaceTime and Second Life, to name a few. Selection and usage is topic of one of the assignments.</p>
 <p>Students get assignments for imaginary design projects, with time frames ranging from several hours to several months. The assignments are challenges, where the specific topics can be filled by the individual students.</p>
