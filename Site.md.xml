@@ -134,9 +134,9 @@ Or going one step further: if most of the other parameters are consistently used
 <p><img alt="TheEndOfCss015M1.118.jpeg" src="docs/images/TheEndOfCss015M1.118.jpeg" /><br />
 <em>Developing sketching techniques should be an important part of any design study.</em></p>
 <p><img alt="DesignModels2.072.png" src="docs/images/DesignModels2.072.png" /><br />
-<em>Arranging a collections of objects in an arbitrary order, the layout is hard to remember or to reproduce.</em></p>
+<em>Arranging a collections of objects in arbitrary order, the layout is hard to remember and to reproduce.</em></p>
 <p><img alt="DesignModels2.073.png" src="docs/images/DesignModels2.073.png" /><br />
-<em>If objects are ordered by height, it needs some time to recognize the rule. But after that, it can be appied to any set of objects.</em></p>
+<em>If objects are ordered by height, it needs some time to recognize the rule. But after that, it can be applied to any set of objects.</em></p>
 <p><img alt="DesignModels2.074.png" src="docs/images/DesignModels2.074.png" /><br />
 <em>Ordered by color, the rule is instantly clear, without the to mention to the viewer. This can easily be reproduced.</em></p>
 <pre><code class="Python">box = page['OtherMain']['Content']

@@ -184,10 +184,10 @@ box = page['OtherMain']['Side']
 *Developing sketching techniques should be an important part of any design study.*
 
 ![DesignModels2.072.png](docs/images/DesignModels2.072.png)
-*Arranging a collections of objects in an arbitrary order, the layout is hard to remember or to reproduce.*
+*Arranging a collections of objects in arbitrary order, the layout is hard to remember and to reproduce.*
 
 ![DesignModels2.073.png](docs/images/DesignModels2.073.png)
-*If objects are ordered by height, it needs some time to recognize the rule. But after that, it can be appied to any set of objects.*
+*If objects are ordered by height, it needs some time to recognize the rule. But after that, it can be applied to any set of objects.*
 
 ![DesignModels2.074.png](docs/images/DesignModels2.074.png)
 *Ordered by color, the rule is instantly clear, without the to mention to the viewer. This can easily be reproduced.*
