@@ -181,6 +181,7 @@ Or going one step further: if most of the other parameters are consistently used
 box = page['OtherMain']['Side']
 ~~~
 ![TheEndOfCss015M1.118.jpeg](docs/images/TheEndOfCss015M1.118.jpeg)
+*Developing sketching techniques should be an important part of any design study.*
 
 ~~~Python
 box = page['OtherMain']['Content']

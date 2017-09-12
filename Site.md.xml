@@ -131,7 +131,8 @@ Or going one step further: if most of the other parameters are consistently used
 <pre><code class="Python">box = page['OtherMain']['Side']
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.118.jpeg" src="docs/images/TheEndOfCss015M1.118.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.118.jpeg" src="docs/images/TheEndOfCss015M1.118.jpeg" /><br />
+<em>Developing sketching techniques should be an important part of any design study.</em></p>
 <pre><code class="Python">box = page['OtherMain']['Content']
 </code></pre>
 
