@@ -198,7 +198,12 @@ box.html = doc.footerHtml
 
 page = doc.newPage(title='Projects', name='projects.html')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Content']
+
+box = page['Introduction']
+</code></pre>
+
+<h3>What is it you want to specialize in, but never found the time and discipline?</h3>
+<pre><code class="Python">box = page['Main']['Content']
 </code></pre>
 
 <h2>What can you do?</h2>
