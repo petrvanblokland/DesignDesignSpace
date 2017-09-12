@@ -199,6 +199,13 @@ box.html = doc.footerHtml
 
 page = doc.newPage(title='Game', name='game.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
+
+box = page['Introduction']
+~~~
+
+### Scaling the entire design practice down to a simulation of a couple of hours, how does that work?  
+
+~~~Python
 box = page['Main']['Content']
 ~~~
 
