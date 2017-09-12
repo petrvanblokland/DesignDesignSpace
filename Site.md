@@ -52,7 +52,7 @@ This mismatch – how time is spent on what – is fundamental to design. Too o
 
 ### 1 day • 1 week • 1 month • 1 season • 1 year
 
-Study path lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
+Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.
 
 ### What does it cost?
 
