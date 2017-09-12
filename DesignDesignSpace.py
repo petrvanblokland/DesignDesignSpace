@@ -32,49 +32,11 @@ DO_MAMP = not DO_GIT
 # If no Galley instance is supplied to the Typesetter, it will create one.
 t = Typesetter()
 # Parse the markdown content and execute the embedded Python code blocks.
-# The blocks, global definedfeedback variables and text content are in the 
+# The blocks, global defined feedback variables and text content are in the 
 # typesetter t.galley.
+# By default, the typesetter produces a single Galley with content and code blocks.
+# In this case it directly writes into the boxes on the Website template pages.
 t.typesetFile(MD_PATH)
-#print t.codeBlocks
-# The typesetter produced a single Galley with content and code blocks.
-# Now use a composer (automatic "designer") to fit the pieces together.
-# Takes a galley as soruce and a document for target pages. 
-#Composer().compose(t.galley, t.doc)
-
-if 0: # Print some results of the typesetter
-    # Typesetter found document definition inside content.
-    print 'Book title:', t.doc.title, round(t.doc.w), round(t.doc.h)
-    # Multiple code blocks found with identical identifier.
-    # Added counter 'Views_0' to 'Views' to make it unique. 
-    print 'Found code blocks: %d' % len(t.codeBlocks.keys())
-    #print t.galley.elements[0].text
-    #page = t.doc[0]
-    #print page.padding
-    #print page.w, page.h
-
-if 0: # Debugging, show the pages with their names.
-    print t.doc.css('gridL')
-    for templateName, template in t.doc.templates.items():
-        print templateName, template.name
-    for pn, pages in t.doc.getSortedPages():
-        for page in pages:
-            print '\t', page, page.w, page.h, len(page.elements), page.template.name
-            #page.isLeft(), page.isRight(), page.getGridColumns()
-
-if 0:
-    # Views define the way documents are exported.
-    # Add space for cropmarks and registrations marks
-    view = t.doc.getView()
-    view.padding = 30
-    view.showPageNameInfo = True
-    view.showPagePadding = False # No need, as we are drawing the grid
-    view.showPageCropMarks = True
-    view.showPageRegistrationMarks = True
-    view.showPageFrame = True 
-    view.showGrid = True
-    
-    view.style['viewGridStroke'] = (0, 0, 1)
-    view.style['viewGridStrokeWidth'] = 0.5
 
 if DO_MAMP:
     view = t.doc.getView('Mamp')
