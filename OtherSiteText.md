@@ -132,3 +132,17 @@ box = page['Footer']
 ~~~
 Let us know that you think. Or if you have any questions for us. <a href="mailto:buro@petr.com">buro@petr.com</a>
 
+
+
+
+
+### What *Design Design Space* offers
+
+* Learning how to create an environment and context to design and develop.
+* Developing the skill to design the design process.
+* Scalable traject: 1 day, 1 week, 1 month or 1 year.
+* Online (shared documents, video, hangouts).
+* Environment with experienced designer coaches and colleage students. Contact ranging from daily to weekly.
+* Each design student defines length, speed of study and select specialization topics.
+* The study finishes with a valued certificate on “graduation”, signed by external designers of statue. 
+* Short term visible value for students, even with the longer time frames.

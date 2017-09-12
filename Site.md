@@ -145,20 +145,12 @@ No refunding is possible, but participants have the right to build in breaks for
 * a part-time sabbatical or a virtual internship
 * a place to train design skills and tools.
 
-### What *Design Design Space* is not
+### For whom?
 
-* It is not an (online) course
-* It is not an (academic) education, leading to Master or PhD
-* It is not a school
-* It is not a how to InDesign/HTML/CSS/JS/otherDesignTool training
-* It is not a series of slides, presentations or a stack of books (although these can be part of it).
-
-### For whom is it intended?
-
-* Graduated design students
-* Designers with experience, working in practice
-* Designers interested in improving their process
-* Designers interested in specializing a specific topic
+* Graduated designers;
+* Designers with experience, working in practice;
+* Designers interested in improving their process;
+* Designers interested in specializing a specific topic;
 * Designers interested to develop skill that make them independent from future developments.
 * Designers who would like to do a follow-up refresh study, but are lacking time, finance or geographic location to make that work.
 
@@ -166,24 +158,20 @@ In general the aim is to get graduated students as well as experienced designers
 
 Focus is on design students and their individual goals. Not on predefined course content.
 
-### For which designers does *Design Design Space* works best?
+As designer, doing the Design Design Space study, you are open minded and willing to get valuable feedback on your work.
 
-* Open minded and willing to get valuable feed-back on their work
-* Interested to improve and change
-* Interested to participate in the work of colleague students
-* Disciplined to work hard between online sessions
-* More interested in the development of skills and challenging assignments than assessed diploma’s.
+You are interested to improve and change and to participate in the work of colleague students.
 
-### What *Design Design Space* offers
+You are disciplined to work hard between online sessions, and more interested in the development of skills and challenging assignments than in assessed diploma’s.
 
-* Learning how to create an environment and context to design and develop.
-* Developing the skill to design the design process.
-* Scalable traject: 1 day, 1 week, 1 month or 1 year.
-* Online (shared documents, video, hangouts).
-* Environment with experienced designer coaches and colleage students. Contact ranging from daily to weekly.
-* Each design student defines length, speed of study and select specialization topics.
-* The study finishes with a valued certificate on “graduation”, signed by external designers of statue. 
-* Short term visible value for students, even with the longer time frames.
+### What *Design Design Space* is not
+
+* It is not an (online) course;
+* It is not an (academic) study, leading to Master or PhD;
+* It is not a school;
+* It is not a “How to InDesign/HTML/CSS/JS/otherDesignTool” training;
+* It is not a series of slides or a stack of books (although they may be very well part of it).
+
 
 ~~~Python
 box = page['Main']['Side']
