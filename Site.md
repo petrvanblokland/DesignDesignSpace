@@ -151,23 +151,26 @@ No refunding is possible, but participants have the right to build in breaks for
 ~~~Python
 box = page['Section']['Title']
 ~~~
-# Play games with your client, rules for recognizing identities.
+## Play games with your client, rules for recognizing identities.
 
 ~~~Python
 box = page['Section']['0']
 ~~~
 ![TheEndOfCss015M1.083.jpeg](docs/images/TheEndOfCss015M1.083.jpeg)
 AAAA
+
 ~~~Python
 box = page['Section']['1']
 ~~~
 ![TheEndOfCss015M1.084.jpeg](docs/images/TheEndOfCss015M1.084.jpeg)
 BBBB
+
 ~~~Python
 box = page['Section']['2']
 ~~~
 ![TheEndOfCss015M1.087.jpeg](docs/images/TheEndOfCss015M1.087.jpeg)
 CCCC
+
 ~~~Python
 box = page['Section']['3']
 ~~~

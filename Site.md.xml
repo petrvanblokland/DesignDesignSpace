@@ -107,7 +107,7 @@ No refunding is possible, but participants have the right to build in breaks for
 <pre><code class="Python">box = page['Section']['Title']
 </code></pre>
 
-<h1>Play games with your client, rules for recognizing identities.</h1>
+<h2>Play games with your client, rules for recognizing identities.</h2>
 <pre><code class="Python">box = page['Section']['0']
 </code></pre>
 
