@@ -69,7 +69,7 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
 
-Students who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2.350. Or 1 week followed by 1 season: 1/2 $900 + $3.900 = $4.350
+Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2.350. Or 1 week followed by 1 season: 1/2 $900 + $3.900 = $4.350
 
 Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.
 
