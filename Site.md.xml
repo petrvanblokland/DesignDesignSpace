@@ -269,7 +269,7 @@ box = page['Introduction']
 <ul>
 <li>Sketch the basics of a corporate identity. Translate some of the parameters into PageBot code;</li>
 <li>Design a model exhibition space;</li>
-<li>Design a gridded page or a scripted info-graphic</li>
+<li>Design a gridded page or a scripted infographic</li>
 <li>Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;</li>
 <li>Write code for a DrawBot animation;</li>
 <li>Examine how to select one of the above.</li>
@@ -341,19 +341,19 @@ box = page['Introduction']
 <p>Each of these items contains a world of detailed knowledge and design parameters that can be developed with other students who select such a topic. As example, for typography (and with reference to adjacent topics) this next level could contain a selection of:</p>
 <ul>
 <li><strong>Typographic parameters</strong> Categories, bandwidth of possible values, presentation examples, …</li>
-<li><strong>Typographic layout</strong> Principles, transformation of historic examples, whitespace, aesthetics, …</li>
+<li><strong>Typographic layout</strong> Principles, adapting classic examples to contemporary applications, whitespace, aesthetics, …</li>
 <li><strong>Typographic tools</strong> Grid, type, size, leading, spacing, kerning, width, hyphenation, orientation, contrast, color, pattern, proportion, ratio, interaction, position, meaning, language, any combination and addition to the parameters of Bertin, …</li>
-<li><strong>Design the process</strong> Base requirements, testing, planning, cooperation with other disciplines, research, marketing, promotion, difference between single solution and generative rules, selection and design of research methods, …</li>
+<li><strong>Design the process</strong> Constraints, testing, planning, cooperation with other disciplines, research, marketing, promotion, difference between single solution and generative rules, selection and design of research methods, …</li>
 <li><strong>Mathematics for designers</strong> Trigonometry, position, rotation, transformation matrices, column calculation, statistics, logarithmic, ranges, light game theory, principles of AI, neural networks and machine learning, …</li>
-<li><strong>Type design</strong> Variation axes, design of parameters, design of selection criteria, design of the process, …</li>
-<li><strong>Images as typographic elements</strong> Illustration, photography, info-graphics, ...</li>
-<li><strong>Target areas</strong> Culture, fashion, politics, international relation, trade, education, …</li>
-<li><strong>Educating typography</strong> Educating bachelor students, customers, users, yourself inside design cycles, presenting, writing about…</li>
+<li><strong>Type design</strong> Variation axes, parameters, selection criteria, process, tools, testing, publoshing, …</li>
+<li><strong>Images as typographic elements</strong> Illustration, photography, infographics, graphs, icons, ...</li>
+<li><strong>Subject matter</strong> Culture, fashion, politics, international relation, trade, education, …</li>
+<li><strong>Typographic education</strong> Educating undergraduate students, customers, users, yourself inside design cycles, presenting, writing about …</li>
 <li><strong>Programming</strong> Structure, hierarchy, design of algorithms, …</li>
-<li><strong>Coding</strong> All relevant languages related to typography: deepest relevant of Processing, Python, JS, PHP, CSS, HTML, XML, Objective-C, …</li>
-<li><strong>Tools</strong> Deepest of Adobe applications, scripting, OSX-terminal tools, design of information conversion flows, research on raw data, …</li>
+<li><strong>Coding</strong> Starters and experienced coding designers. All relevant languages related to typography: deepest relevant of Python, Processing, CSS, HTML, XML, JS, PHP, Objective-C, …</li>
+<li><strong>Tools</strong> PageBot publications, writing scripts for RoboFont, deepest of Adobe applications, AI related to design, scripting, OSX-terminal tools, design of information conversion flows, research on raw data, …</li>
 <li><strong>Device Measurements</strong> resolution, distortion, proportion, memory usage, …</li>
-<li><strong>Storage techniques</strong> File, database, formats, git, JSON, plist, XML, UFO, …</li>
+<li><strong>Storage techniques</strong> File, database, formats, git, JSON, plist, XML, UFO, TTF, OTF, …</li>
 </ul>
 <pre><code class="Python">box = page['Section']['0']
 </code></pre>
