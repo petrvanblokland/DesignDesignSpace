@@ -150,7 +150,7 @@ Yet, for the development of skill, such an approach is essential.
 
 ### Experience
 
-*Design Design Space* taps into 35 of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
+*Design Design Space* taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
 Tuition needs to be payed before the training starts. 
 No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
