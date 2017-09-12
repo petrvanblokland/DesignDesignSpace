@@ -29,7 +29,7 @@ box = page['Featured']['Side']
 ~~~
 
 ## Repeat to improve
-What makes a design proces fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a lineair process, it’s a iterative process, which means repeating the previous step in more detail. 
+What makes a design proces fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a lineair process, it’s an iterative process, which means repeating the previous step in more detail. 
 
 ~~~Python
 box = page['Main']['Content']
@@ -41,14 +41,14 @@ box = page['Main']['Content']
 
 What kind of challenges do you experience in your daily work as a designer?
 
-Working closely together online with experienced designers and a group of collegue students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
+Working closely together online with experienced designers and a group of colleague students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
 
 ### How much time do you need?
 The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (research – design – presentation) as a project of 1 year. Where in practice 80% of the work is done in the last 20% (or less) of the available time.
 
 Of course, it matters how long you study. the stadia in the design process are fundamentally the same. Depending on the lenght of time, their will be more details to focus and to work on.
 
-This mismatch – how time is spent on what – is fundamental to design. Too optimistic in the beginning (“the next one always will be better”), a design is never finished. But in the mean time, the fact that most designs are supposed to meet external requirements, the final deadline defines the quality of the result, not the opinion of the designer.
+This mismatch – how time is spent on what – is fundamental to design. Too optimistic in the beginning (“There is still plenty of time”), a design is never finished (“The next one always will be better”). However, the fact that most designs are supposed to meet external requirements, the final deadline may have a much larger impact on the quality of the result, than the personal opinion of the designer.
 
 ### 1 day • 1 week • 1 month • 1 season • 1 year
 
@@ -62,9 +62,9 @@ Study path lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 ye
 * 1 season $3.900 (3 calendar months)
 * 1 year $7.900
 
-Discount or split payment for the month, season and year training can be discussed, depending on your personal situation.
+Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
 
-Students who whish to extend one training level into another, a 50% discount applies to previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2.350. Or 1 week followed by 1 season: 1/2 $900 + $3.900 = $4.350
+Students who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2.350. Or 1 week followed by 1 season: 1/2 $900 + $3.900 = $4.350
 
 Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.
 
@@ -287,8 +287,8 @@ At the end of each round, the final design of every studio is presented to their
 
 Scores of each round are visible to the group in an online document.
 
-### Round 2: Another corporate Identity
-The second round is similar to the first round – a new corporate identity, different requirements for another customer – but in shorter time.
+### Round 2: Another Corporate Identity
+The second round is similar to the first round – a new corporate identity, different requirements for another customer – but in shorter amount of time.
 
 ### Round 3: Magazine
 Design and present different types of pages of a magazine. The challenge with working in an virtual environment, is to divide the work between the designers of the studio. What visual parameters define the difference between the types of pages and which parameters make the visual coherence?
