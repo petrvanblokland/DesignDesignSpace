@@ -471,7 +471,7 @@ box = page['OtherMain']['Side']
 *PageBot is library of functions, based on the programming language Python, that can be used for the automated production of publication. Learning to use PageBot is an optional topic in Design Design Space study.*
 
 ![docs/images/TheEndOfCss015M1.050.jpeg](docs/images/TheEndOfCss015M1.050.jpeg)
-*Constructing an environment when all disciplines can work together in a non-linear way, is one of the topics of the Design Design Space study.*
+*Constructing an environment where all disciplines can work together in a non-linear way, is one of the topics of the Design Design Space study.*
 
 
 ~~~Python
