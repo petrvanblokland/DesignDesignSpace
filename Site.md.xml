@@ -172,8 +172,8 @@ Or going one step further: if most of the other parameters are consistently used
 <li>It is not an (online) course;</li>
 <li>It is not an (academic) study, leading to Master or PhD;</li>
 <li>It is not a school;</li>
-<li>It is not a “How to InDesign/HTML/CSS/JS/otherDesignTool” training;</li>
-<li>It is not a series of slides or a stack of books (although they may be very well part of it).</li>
+<li>It is not a “How to InDesign-HTML-CSS-JS-otherDesignTool” training;</li>
+<li>It is not a series of slides or a plain stack of books (although these may be very well be referred to).</li>
 </ul>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>

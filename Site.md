@@ -234,8 +234,8 @@ You are disciplined to work hard between online sessions, and more interested in
 * It is not an (online) course;
 * It is not an (academic) study, leading to Master or PhD;
 * It is not a school;
-* It is not a “How to InDesign/HTML/CSS/JS/otherDesignTool” training;
-* It is not a series of slides or a stack of books (although they may be very well part of it).
+* It is not a “How to InDesign-HTML-CSS-JS-otherDesignTool” training;
+* It is not a series of slides or a plain stack of books (although these may be very well be referred to).
 
 ~~~Python
 box = page['Main']['Side']
