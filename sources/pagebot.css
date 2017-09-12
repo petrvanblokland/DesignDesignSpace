@@ -207,7 +207,7 @@ input[type=submit] {
     line-height: 1.2em;
     padding: 0.3em; }
     .top .logo a a:hover {
-      font-size: 1.2em;
+      font-size: 1.5em;
       line-height: 1.2em;
       padding: 0.3em; }
   .top a {
@@ -889,11 +889,11 @@ input[type=submit] {
     font-size: 1.4em;
     line-height: 1.4; }
   .section blockquote {
-    font-size: 1.2em;
+    font-size: 1.4em;
     line-height: 1.4; }
   .section p {
     letter-spacing: 0.04em;
-    font-size: 1.2em;
+    font-size: 1.4em;
     line-height: 1.4;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
@@ -992,7 +992,6 @@ input[type=submit] {
     margin-top: 2em; }
 
   .logo {
-    font-size: 1.4em;
     margin: 0;
     padding: 0; }
 
@@ -1022,6 +1021,10 @@ input[type=submit] {
 /* ========================================== */
 /* ! Provide higher res assets for iPhone 4   */
 /* ========================================== */
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  .header .logo {
+    background: url(../images/logo@2x.jpg) no-repeat;
+    background-size: 212px 303px; } }
 /* _reset.scss */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, q, small, strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   border: 0;
