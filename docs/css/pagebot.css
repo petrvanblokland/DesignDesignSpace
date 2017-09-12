@@ -527,7 +527,7 @@ input[type=submit] {
   padding: 0em 0em 0em 0em; }
 
 .mainContent a {
-  color: #ebc70c;
+  color: #0060B0;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -535,7 +535,7 @@ input[type=submit] {
 
 .mainContent a:hover {
   text-decoration: none;
-  color: #323a47;
+  color: #0070C0;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -560,7 +560,7 @@ input[type=submit] {
 /* ============================== */
 .mobilenavigation {
   font-style: normal;
-  color: #ebc70c;
+  color: #0060B0;
   height: 26px;
   background: None;
   display: none;
@@ -627,10 +627,10 @@ input[type=submit] {
   transition: all 0.7s ease-in-out; }
 
 .navigation a:hover {
-  color: #ebc70c; }
+  color: #0070C0; }
 
 .navigation .current {
-  color: #ebc70c; }
+  color: #0070C0; }
 
 /* ============================== */
 /* ! Navigation language   */
@@ -838,7 +838,7 @@ input[type=submit] {
 
   ul#nav li a:hover {
     list-style-type: None;
-    color: #ebc70c;
+    color: #0060B0;
     width: 100%;
     margin: 0px;
     text-decoration: none;
