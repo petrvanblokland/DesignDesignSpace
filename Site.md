@@ -81,7 +81,7 @@ Day-week sequences or single day Design Games can take place on other dates duri
 
 Since working as a team of students a minimum amount of three is required, and also a mininum level of quality, motivation and experience. 
 
-Season and year-students are submitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.
+Season and year-students are admitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.
 
 Students finishing a training adequately, automatically get accepted for a next.
 
