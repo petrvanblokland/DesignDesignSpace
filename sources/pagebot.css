@@ -203,6 +203,7 @@ input[type=submit] {
     letter-spacing: 0;
     font-style: normal;
     font-weight: bold;
+    font-size: 1.2em;
     line-height: 1.2em;
     padding: 0.3em; }
     .top .logo a a:hover {
@@ -885,14 +886,14 @@ input[type=submit] {
     line-height: 1.3em;
     height: auto; }
   .section lead {
-    font-size: 1.8em;
+    font-size: 1.4em;
     line-height: 1.4; }
   .section blockquote {
-    font-size: 1.4em;
+    font-size: 1.2em;
     line-height: 1.4; }
   .section p {
     letter-spacing: 0.04em;
-    font-size: 1.4em;
+    font-size: 1.2em;
     line-height: 1.4;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
@@ -991,6 +992,7 @@ input[type=submit] {
     margin-top: 2em; }
 
   .logo {
+    font-size: 2em;
     margin: 0;
     padding: 0; }
 
