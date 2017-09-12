@@ -50,7 +50,7 @@ h2 h3 h4 {
 
 ol {
   list-style-type: None; }
-li em {
+li strong {
   font-family: "Upgrade-SemiboldItalic", sans;
 }
 table {
