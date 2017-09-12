@@ -53,7 +53,7 @@ The core idea behind designing the design process, is that it doesn’t make a d
 
 Of course, it does matters how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is part of the requirements. The result can still be better than the your customer would have done. 
 
-How would would you organize such a design process?
+How would would you design such a design process better?
 
 ### 1 day • 1 week • 1 month • 1 season • 1 year
 
