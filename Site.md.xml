@@ -107,19 +107,23 @@ No refunding is possible, but participants have the right to build in breaks for
 <pre><code class="Python">box = page['Section']['0']
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.083.jpeg" src="docs/images/TheEndOfCss015M1.083.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.083.jpeg" src="docs/images/TheEndOfCss015M1.083.jpeg" /><br />
+AAAA</p>
 <pre><code class="Python">box = page['Section']['1']
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.084.jpeg" src="docs/images/TheEndOfCss015M1.084.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.084.jpeg" src="docs/images/TheEndOfCss015M1.084.jpeg" /><br />
+BBBB</p>
 <pre><code class="Python">box = page['Section']['2']
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.087.jpeg" src="docs/images/TheEndOfCss015M1.087.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.087.jpeg" src="docs/images/TheEndOfCss015M1.087.jpeg" /><br />
+CCCC</p>
 <pre><code class="Python">box = page['Section']['3']
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.089.jpeg" src="docs/images/TheEndOfCss015M1.089.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.089.jpeg" src="docs/images/TheEndOfCss015M1.089.jpeg" /><br />
+DDDD</p>
 <pre><code class="Python">box = page['OtherMain']
 </code></pre>
 
