@@ -151,7 +151,7 @@ No refunding is possible, but participants have the right to build in breaks for
 ~~~Python
 box = page['Section']['Title']
 ~~~
-### Play games with out client, rules for recognizing identities.
+# Play games with your client, rules for recognizing identities.
 
 ~~~Python
 box = page['Section']['0']
