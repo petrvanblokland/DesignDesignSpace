@@ -163,7 +163,7 @@ Imagine to ask a client which of the visule design parameters will be used for c
 box = page['Section']['1']
 ~~~
 ![TheEndOfCss015M1.084.jpeg](docs/images/TheEndOfCss015M1.084.jpeg)
-Nine out of ten clients with confirm that their ideal identity is best defined by a consistent logo, color, name and typeface. 
+Nine out of ten clients will confirm that their ideal identity is best defined by a single logo, with consistent use of color, name and typeface. 
 
 ~~~Python
 box = page['Section']['2']
@@ -178,7 +178,12 @@ box = page['Section']['3']
 Or going one step further: if most of the other parameters are consistently used, they may allow a variation of different logo’s.
 
 ~~~Python
-box = page['OtherMain']
+box = page['OtherMain']['Side']
+~~~
+![TheEndOfCss015M1.118.jpeg](docs/images/TheEndOfCss015M1.118.jpeg)
+
+~~~Python
+box = page['OtherMain']['Content']
 ~~~
 
 ### What *Design Design Space* can be

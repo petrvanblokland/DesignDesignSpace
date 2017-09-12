@@ -117,7 +117,7 @@ Imagine to ask a client which of the visule design parameters will be used for c
 </code></pre>
 
 <p><img alt="TheEndOfCss015M1.084.jpeg" src="docs/images/TheEndOfCss015M1.084.jpeg" /><br />
-Nine out of ten clients with confirm that their ideal identity is best defined by a consistent logo, color, name and typeface. </p>
+Nine out of ten clients will confirm that their ideal identity is best defined by a single logo, with consistent use of color, name and typeface. </p>
 <pre><code class="Python">box = page['Section']['2']
 </code></pre>
 
@@ -128,7 +128,11 @@ This means that all other parameters don’t have to be defined. Layout, texture
 
 <p><img alt="TheEndOfCss015M1.089.jpeg" src="docs/images/TheEndOfCss015M1.089.jpeg" /><br />
 Or going one step further: if most of the other parameters are consistently used, they may allow a variation of different logo’s.</p>
-<pre><code class="Python">box = page['OtherMain']
+<pre><code class="Python">box = page['OtherMain']['Side']
+</code></pre>
+
+<p><img alt="TheEndOfCss015M1.118.jpeg" src="docs/images/TheEndOfCss015M1.118.jpeg" /></p>
+<pre><code class="Python">box = page['OtherMain']['Content']
 </code></pre>
 
 <h3>What <em>Design Design Space</em> can be</h3>
