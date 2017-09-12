@@ -338,10 +338,10 @@ box = page['Introduction']
 box = page['Main']['Side']
 ~~~
 
-![docs/images/DesignModels2.037.png](docs/images/DesignModels2.037.png)
+![docs/images/DesignModels2.038.png](docs/images/DesignModels2.038.png)
 *Sketching is the process of eliminating unwanted options from the tree of all possibilities, without visualizing every single one of them.*
 
-![docs/images/DesignModels2.038.png](docs/images/DesignModels2.038.png)
+![docs/images/DesignModels2.037.png](docs/images/DesignModels2.037.png)
 *Sketching is the process of managing the level of details, throughout the process. One method is reduce the scale of drawings, as the resolution of tools (pencil or screen) automatically will hide irrelevant details.*
 
 ~~~Python
