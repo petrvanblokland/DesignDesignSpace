@@ -44,11 +44,11 @@ What kind of challenges do you experience in your daily work as a designer?
 Working closely together online with experienced designers and a group of colleague students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
 
 ### Planning
-By definition designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning (“There is still plenty of time”), a design is never finished (“The next one always will be better”). 
+By definition designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning – “There is still plenty of time”, a design is never finished – “The next one always will be better”. 
 
 However, the fact that most designs are supposed to meet external requirements, the final deadline may have a much larger impact on the quality of the result, than the personal opinion of the designer.
 
-How do you make this apparent conflict work in your advantage?
+How do you make this apparent conflict work to your advantage?
 
 ### How much time do you need?
 The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (research – design – presentation) as a project of 1 year. 
