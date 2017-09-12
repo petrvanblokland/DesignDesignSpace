@@ -157,25 +157,25 @@ box = page['Section']['Title']
 box = page['Section']['0']
 ~~~
 ![TheEndOfCss015M1.083.jpeg](docs/images/TheEndOfCss015M1.083.jpeg)
-AAAA
+Imagine to ask a client which of the visule design parameters will be used for coherency or diversity. E.g. color cannot be the main recognition (“red”) and differentiate at the same time. 
 
 ~~~Python
 box = page['Section']['1']
 ~~~
 ![TheEndOfCss015M1.084.jpeg](docs/images/TheEndOfCss015M1.084.jpeg)
-BBBB
+Nine out of ten clients with confirm that their ideal identity is best defined by a consistent logo, color, name and typeface. 
 
 ~~~Python
 box = page['Section']['2']
 ~~~
 ![TheEndOfCss015M1.087.jpeg](docs/images/TheEndOfCss015M1.087.jpeg)
-CCCC
+This means that all other parameters don’t have to be defined. Layout, texture, typography and language are not supposed to contribute to recognition of a brand.
 
 ~~~Python
 box = page['Section']['3']
 ~~~
 ![TheEndOfCss015M1.089.jpeg](docs/images/TheEndOfCss015M1.089.jpeg)
-DDDD
+Or going one step further: if most of the other parameters are consistently used, they may allow a variation of different logo’s.
 
 ~~~Python
 box = page['OtherMain']

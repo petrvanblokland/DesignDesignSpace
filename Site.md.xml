@@ -112,22 +112,22 @@ No refunding is possible, but participants have the right to build in breaks for
 </code></pre>
 
 <p><img alt="TheEndOfCss015M1.083.jpeg" src="docs/images/TheEndOfCss015M1.083.jpeg" /><br />
-AAAA</p>
+Imagine to ask a client which of the visule design parameters will be used for coherency or diversity. E.g. color cannot be the main recognition (“red”) and differentiate at the same time. </p>
 <pre><code class="Python">box = page['Section']['1']
 </code></pre>
 
 <p><img alt="TheEndOfCss015M1.084.jpeg" src="docs/images/TheEndOfCss015M1.084.jpeg" /><br />
-BBBB</p>
+Nine out of ten clients with confirm that their ideal identity is best defined by a consistent logo, color, name and typeface. </p>
 <pre><code class="Python">box = page['Section']['2']
 </code></pre>
 
 <p><img alt="TheEndOfCss015M1.087.jpeg" src="docs/images/TheEndOfCss015M1.087.jpeg" /><br />
-CCCC</p>
+This means that all other parameters don’t have to be defined. Layout, texture, typography and language are not supposed to contribute to recognition of a brand.</p>
 <pre><code class="Python">box = page['Section']['3']
 </code></pre>
 
 <p><img alt="TheEndOfCss015M1.089.jpeg" src="docs/images/TheEndOfCss015M1.089.jpeg" /><br />
-DDDD</p>
+Or going one step further: if most of the other parameters are consistently used, they may allow a variation of different logo’s.</p>
 <pre><code class="Python">box = page['OtherMain']
 </code></pre>
 
