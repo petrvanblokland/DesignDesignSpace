@@ -75,11 +75,11 @@ Pricing is for individual designers. For corporate trainings or groups, please <
 
 ### What is the schedule & how to submit?
 
-Every 6 months, in March and September, a new day-week-month-season-year sequence starts, most likely if there are at least 3 participating students. 
+Every 6 months, in March and September, a new day-week-month-season-year sequence starts, most likely if there are at least three participating students. 
 
 Day-week sequences or single day Design Games can take place on other dates during the year, if the amount of participants makes it possible.
 
-Since working as a team of students a minimum amount of 3 is required, and also a mininum level of quality, motivation, dedication and experience. 
+Since working as a team of students a minimum amount of three is required, and also a mininum level of quality, motivation, dedication and experience. 
 
 Season and year-students are submitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.
 
