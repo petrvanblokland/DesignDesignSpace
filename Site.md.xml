@@ -290,6 +290,19 @@ box = page['Introduction']
 <li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;</li>
 <li>Design deep spaces.</li>
 </ul>
+<pre><code class="Python">box = page['Section']['0']
+</code></pre>
+
+<p><img alt="docs/images/ATypIKeynote7.046.jpeg" src="docs/images/ATypIKeynote7.046.jpeg" /><br />
+<em>Artifical Intelligence (AI) probably as much influence on any profession in the coming years. How will it influence your design practice?</em></p>
+<pre><code class="Python">box = page['Section']['1']
+</code></pre>
+
+<p><img alt="docs/images/ATypIKeynote7.047.jpeg" src="docs/images/ATypIKeynote7.047.jpeg" /><br />
+<em>Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.</em></p>
+<pre><code class="Python">box = page['OtherMain']['Content']
+</code></pre>
+
 <h3>Specialization topics</h3>
 <p>In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).<br />
 Essentially each time frame is a recursive copy of one of the others.<br />
