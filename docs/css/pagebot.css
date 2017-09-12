@@ -203,11 +203,11 @@ input[type=submit] {
     letter-spacing: 0;
     font-style: normal;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1.2em;
     padding: 0.3em; }
     .top .logo a a:hover {
-      font-size: 1.5em;
+      font-size: 2em;
       line-height: 1.2em;
       padding: 0.3em; }
   .top a {
