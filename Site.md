@@ -277,7 +277,7 @@ For those who never did a Design Game, this is a good way to start thinking abou
 ### Preparation
 The time frame of an online Design Game, depends on the time zones of the participants. We’ll try to make it as convenient as possible, yet it could be that yours starts at early dawn or late evening. Isn’t that just like working for international customers, expecting you to work on flexible parts of the day?
 
-Virtual studios are formed from 3 or more designers. Since you are likely not in the same physical place or time zone, it is part of the game to find a way of working together. Improvisation is a form of design.
+Virtual studios are formed from three or more designers. Since you are likely not in the same physical place or time zone, it is part of the game to find a way of working together. Improvisation is a form of design.
 As studio you may want to consider dividing tasks depending on experience and interests.
 
 Design Design Space is a transparant learning environment, where the online Design Game is the most condensed example.
