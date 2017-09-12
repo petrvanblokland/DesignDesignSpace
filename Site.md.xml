@@ -69,7 +69,12 @@ box.html = doc.footerHtml
 
 page = doc.newPage(title='How', name='how.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
-box = page['Main']['Content']
+
+box = page['Introduction']
+</code></pre>
+
+<h3>Sketch and sketch again.</h3>
+<pre><code class="Python">box = page['Main']['Content']
 </code></pre>
 
 <h2>How does it work?</h2>
