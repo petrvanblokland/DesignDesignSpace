@@ -354,8 +354,8 @@ box = page['Main']['Content']
 
 * Play an online Design Game, with a schedule described <a href="game.html">here</a>.
 
-#### In 1 week
-One or more of these examples. How much can you fit in a week?
+#### What can you do in 1 week?
+One or more of the example topics below. How much can you fit in a week?
 
 * Design a model exhibition space;
 * Sketch the basics of a corporate identity;
@@ -364,8 +364,8 @@ One or more of these examples. How much can you fit in a week?
 * Write code for a DrawBot animation;
 * Examine how to select one of the above.
 
-#### In 1 month?
-A selection of these examples. Or one of your own topics?
+#### What can you do in 1 month?
+A selection of the example topics below. Or one of your own?
 
 * Study typographic parameters;
 * Research, write, design and present a mini-thesis about a topic of your choice;
@@ -375,8 +375,8 @@ A selection of these examples. Or one of your own topics?
 * Design a Design Game and run it;
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
-#### In 1 season?
-A selection of these examples. Or what would you like to do?
+#### What can you do in 1 season?
+A selection of the example topics below. Or what else would you like to do?
 
 * Develop a PageBot publication;
 * Improve your sketching skills;
@@ -385,26 +385,27 @@ A selection of these examples. Or what would you like to do?
 * Do almost any design project that can be done in a month.
 
 #### In 1 year?
-A selection of these examples. Or maybe all? 
+A selection of the example topics below. Or maybe all of them? 
 
 * Become an independent typographer with noticable experience;
 * Improve your experience as type designer. Or as design educator;
 * Design Variable Font design spaces;
 * Become a designer, who knows how to write code;
-* Or how to communicatie with professional programmers;
-* You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;
+* Or how to communicatie with professional programmers in their own language;
+* You can ask a lot of relevant questions to yourself. Accepting that the answers take a lot more time to formulate;
 * Design deep spaces.
 
 
 ## Specialization topics
 
 In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).
+
 Essentially each time frame is a recursive copy of one of the others.
+
 The difference between is the number of topics that can be addressed and the level of details possible.
 
 ### Applying topics, process and context
 A combination of two or more topics from the list below, in combination with process and context selection, gives students a unique personal research environment for development.
-Here a comparing set is show of two opposite values. E.g. is a system is “Episodic” it is possible to come back on earlier decision (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).
 
 #### Topics
 
@@ -460,7 +461,7 @@ box = page['Section']['0']
 box = page['Section']['1']
 ~~~
 ![docs/images/ATypIKeynote7.047.jpeg](docs/images/ATypIKeynote7.047.jpeg)
-*Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.*
+*Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space. Here a comparing set is show of two opposite values. E.g. if a system is “Episodic”, it is possible to reject and correct earlier decisions (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).*
 
 ~~~Python
 box = page['OtherMain']['Side']

@@ -261,8 +261,8 @@ box = page['Introduction']
 <ul>
 <li>Play an online Design Game, with a schedule described <a href="game.html">here</a>.</li>
 </ul>
-<h4>In 1 week</h4>
-<p>One or more of these examples. How much can you fit in a week?</p>
+<h4>What can you do in 1 week?</h4>
+<p>One or more of the example topics below. How much can you fit in a week?</p>
 <ul>
 <li>Design a model exhibition space;</li>
 <li>Sketch the basics of a corporate identity;</li>
@@ -271,8 +271,8 @@ box = page['Introduction']
 <li>Write code for a DrawBot animation;</li>
 <li>Examine how to select one of the above.</li>
 </ul>
-<h4>In 1 month?</h4>
-<p>A selection of these examples. Or one of your own topics?</p>
+<h4>What can you do in 1 month?</h4>
+<p>A selection of the example topics below. Or one of your own?</p>
 <ul>
 <li>Study typographic parameters;</li>
 <li>Research, write, design and present a mini-thesis about a topic of your choice;</li>
@@ -282,8 +282,8 @@ box = page['Introduction']
 <li>Design a Design Game and run it;</li>
 <li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
 </ul>
-<h4>In 1 season?</h4>
-<p>A selection of these examples. Or what would you like to do?</p>
+<h4>What can you do in 1 season?</h4>
+<p>A selection of the example topics below. Or what else would you like to do?</p>
 <ul>
 <li>Develop a PageBot publication;</li>
 <li>Improve your sketching skills;</li>
@@ -292,23 +292,22 @@ box = page['Introduction']
 <li>Do almost any design project that can be done in a month.</li>
 </ul>
 <h4>In 1 year?</h4>
-<p>A selection of these examples. Or maybe all? </p>
+<p>A selection of the example topics below. Or maybe all of them? </p>
 <ul>
 <li>Become an independent typographer with noticable experience;</li>
 <li>Improve your experience as type designer. Or as design educator;</li>
 <li>Design Variable Font design spaces;</li>
 <li>Become a designer, who knows how to write code;</li>
-<li>Or how to communicatie with professional programmers;</li>
-<li>You can ask a lot of relevant questions to yourself. Accepting that the answers take some more time;</li>
+<li>Or how to communicatie with professional programmers in their own language;</li>
+<li>You can ask a lot of relevant questions to yourself. Accepting that the answers take a lot more time to formulate;</li>
 <li>Design deep spaces.</li>
 </ul>
 <h2>Specialization topics</h2>
-<p>In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).<br />
-Essentially each time frame is a recursive copy of one of the others.<br />
-The difference between is the number of topics that can be addressed and the level of details possible.</p>
+<p>In all of the five time frames (1 day, 1 week, 1 month, 1 season or 1 year) students can select a combination of specializations (where this selection process itself also is part of the design skills to be developed).</p>
+<p>Essentially each time frame is a recursive copy of one of the others.</p>
+<p>The difference between is the number of topics that can be addressed and the level of details possible.</p>
 <h3>Applying topics, process and context</h3>
-<p>A combination of two or more topics from the list below, in combination with process and context selection, gives students a unique personal research environment for development.<br />
-Here a comparing set is show of two opposite values. E.g. is a system is “Episodic” it is possible to come back on earlier decision (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).</p>
+<p>A combination of two or more topics from the list below, in combination with process and context selection, gives students a unique personal research environment for development.</p>
 <h4>Topics</h4>
 <ul>
 <li>Typography</li>
@@ -362,7 +361,7 @@ Here a comparing set is show of two opposite values. E.g. is a system is “Epis
 </code></pre>
 
 <p><img alt="docs/images/ATypIKeynote7.047.jpeg" src="docs/images/ATypIKeynote7.047.jpeg" /><br />
-<em>Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.</em></p>
+<em>Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space. Here a comparing set is show of two opposite values. E.g. if a system is “Episodic”, it is possible to reject and correct earlier decisions (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).</em></p>
 <pre><code class="Python">box = page['OtherMain']['Side']
 </code></pre>
 
