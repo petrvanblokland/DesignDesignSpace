@@ -359,12 +359,12 @@ box = page['Introduction']
 </code></pre>
 
 <p><img alt="docs/images/ATypIKeynote7.046.jpeg" src="docs/images/ATypIKeynote7.046.jpeg" /><br />
-<em>Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?</em></p>
+<em>Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice? Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.</em></p>
 <pre><code class="Python">box = page['Section']['1']
 </code></pre>
 
 <p><img alt="docs/images/ATypIKeynote7.047.jpeg" src="docs/images/ATypIKeynote7.047.jpeg" /><br />
-<em>Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space. Here a comparing set is show of two opposite values. E.g. if a system is “Episodic”, it is possible to reject and correct earlier decisions (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).</em></p>
+<em>Here a comparing set is show of two opposite values. E.g. if a system is “Episodic”, it is possible to reject and correct earlier decisions (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).</em></p>
 <pre><code class="Python">box = page['OtherMain']['Side']
 </code></pre>
 

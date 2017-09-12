@@ -460,13 +460,13 @@ Each of these items contains a world of detailed knowledge and design parameters
 box = page['Section']['0']
 ~~~
 ![docs/images/ATypIKeynote7.046.jpeg](docs/images/ATypIKeynote7.046.jpeg)
-*Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice?*
+*Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice? Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.*
 
 ~~~Python
 box = page['Section']['1']
 ~~~
 ![docs/images/ATypIKeynote7.047.jpeg](docs/images/ATypIKeynote7.047.jpeg)
-*Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space. Here a comparing set is show of two opposite values. E.g. if a system is “Episodic”, it is possible to reject and correct earlier decisions (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).*
+*Here a comparing set is show of two opposite values. E.g. if a system is “Episodic”, it is possible to reject and correct earlier decisions (as in a design process). If the system is “Sequential”, then the order is fixed (as in a game of chess).*
 
 ~~~Python
 box = page['OtherMain']['Side']
