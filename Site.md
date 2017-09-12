@@ -357,8 +357,8 @@ box = page['Main']['Content']
 ### What can you do in 1 week?
 One or more of the example topics below. How much can you fit in a week?
 
+* Sketch the basics of a corporate identity. Translate some of the parameters into PageBot code;
 * Design a model exhibition space;
-* Sketch the basics of a corporate identity;
 * Design a gridded page or a scripted info-graphic
 * Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;
 * Write code for a DrawBot animation;

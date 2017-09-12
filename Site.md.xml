@@ -264,8 +264,8 @@ box = page['Introduction']
 <h3>What can you do in 1 week?</h3>
 <p>One or more of the example topics below. How much can you fit in a week?</p>
 <ul>
+<li>Sketch the basics of a corporate identity. Translate some of the parameters into PageBot code;</li>
 <li>Design a model exhibition space;</li>
-<li>Sketch the basics of a corporate identity;</li>
 <li>Design a gridded page or a scripted info-graphic</li>
 <li>Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;</li>
 <li>Write code for a DrawBot animation;</li>
