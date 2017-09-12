@@ -241,6 +241,13 @@ box = page['Introduction']
 </code></pre>
 
 <h3>What is it you want to specialize in, but never found the time and discipline?</h3>
+<pre><code class="Python">box = page['Main']['Side']
+</code></pre>
+
+<p><img alt="docs/images/DesignModels2.037.png" src="docs/images/DesignModels2.037.png" /><br />
+<em>Sketching is the process of eliminating unwanted options from the tree of all possibilities, without visualizing every single one of them.</em></p>
+<p><img alt="docs/images/DesignModels2.038.png" src="docs/images/DesignModels2.038.png" /><br />
+<em>Sketching is the process of managing the level of details, throughout the process. One method is reduce the scale of drawings, as the resolution of tools (pencil or screen) automatically will hide irrelevant details.</em></p>
 <pre><code class="Python">box = page['Main']['Content']
 </code></pre>
 
