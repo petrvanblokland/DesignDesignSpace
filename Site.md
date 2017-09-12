@@ -48,6 +48,8 @@ By definition designers are bad planners. It seems to be fundamental to design. 
 
 However, the fact that most designs are supposed to meet external requirements, the final deadline may have a much larger impact on the quality of the result, than the personal opinion of the designer.
 
+How do you make this apparent conflict work in your advantage?
+
 ### How much time do you need?
 The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (research – design – presentation) as a project of 1 year. 
 
