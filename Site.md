@@ -29,7 +29,7 @@ box = page['Featured']['Side']
 ~~~
 
 ## Repeat to improve
-What makes a design proces fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a lineair process, it’s an iterative process, which means repeating the previous step in more detail. 
+What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a lineair process, it’s an iterative process, which means repeating the previous step in more detail. 
 
 ~~~Python
 box = page['Main']['Content']
@@ -87,7 +87,7 @@ Season and year-students are admitted after showing their portfolios and the res
 
 Students finishing a training adequately, automatically get accepted for a next.
 
-![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
+![DSGNWK_0582BWLow.jpg](docs/images/DSGNWK_0582BWLow.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.*
 
 ~~~Python
@@ -107,7 +107,7 @@ page.info.cssPath = 'sources/pagebot.css'
 box = page['Introduction']
 ~~~
 
-### If your design is finished, and you are satisfied with the result, what is it that your are satisfied with? 
+### If your design is finished, and you are satisfied with the result, what is it that you are satisfied with? 
 
 ~~~Python
 box = page['Main']['Content']
@@ -122,14 +122,14 @@ For interaction and exchanging documents a range of techniques are available, e.
 ### Assignments
 Students get assignments for imaginary design projects, with time frames ranging from several hours to several months. The assignments are challenges, where the specific topics can be filled by the individual students.
 
-Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques/materials need to be developed and how to design the planning for the project, are all part of assignments. 
+Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques and materials need to be developed and how to design the planning for the project, are all part of assignments. 
 
-With regular intervals (ranging from hours to days to once per week) the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.
+With regular intervals – ranging from hours to days to once per week – the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.
 
 ### Safe environment
-The process of creating such a safe environment and the methods for feed-back themselves are part of the assignments, and therefor subject to sketching and modification too.
+The process of creating such a safe environment and the methods for feedback themselves are part of the assignments, and therefor subject to sketching and modification too.
 
-In the presentations feed-back is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. 
+In the presentations feedback is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. 
 
 <!--
 ## http://designdesign.space
@@ -205,7 +205,7 @@ box = page['OtherMain']['Content']
 
 ### What *Design Design Space* can be
 
-* A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.
+* A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feedback sessions and presentations.
 * The design of personal space (time, topic and skills) profession preparation for the rest of your life.
 * a part-time sabbatical or a virtual internship
 * a place to train design skills and tools.
@@ -241,10 +241,10 @@ You are disciplined to work hard between online sessions, and more interested in
 box = page['Main']['Side']
 ~~~
 
-![DSGNWK_0468BW.jpg](docs/images/DSGNWK_0468BW.jpg)
+![DSGNWK_0468BWLow.jpg](docs/images/DSGNWK_0468BWLow.jpg)
 *Many of the assignments need collaborating with other online students, who – throughout the process – can have different roles, ranging from colleague to client to user.*
 
-![DSGNWK_0665BW.jpg](docs/images/DSGNWK_0665BW.jpg)
+![DSGNWK_0665BWLow.jpg](docs/images/DSGNWK_0665BWLow.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching techniques, the design of feedback methods is an important and integral part of every Design Design Space study.*
 
 ~~~Python
@@ -262,7 +262,7 @@ box = page['Introduction']
 ~~~Python
 box = page['Main']['Side']
 ~~~
-![IMG_1520.jpg](docs/images/IMG_1520.jpg)
+![IMG_1520BWLow.jpg](docs/images/IMG_1520BWLow.jpg)
 *Design Game on location at <a href="http://coopertype.org/nyc" target="External">Cooper Union</a>. Besides the development of presentation techniques, the design of feedback methods is an important and integral part of every Design Design Space study.*
 
 ~~~Python
