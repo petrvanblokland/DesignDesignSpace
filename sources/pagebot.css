@@ -1244,6 +1244,9 @@ img {
   body {
     font-size: 13px;
     line-height: 20px; } }
+  .featured p { 
+    font-size: 1.5em;
+  }
 /* Mobile */
 @media handheld, only screen and (max-width: 767px) {
   body {
