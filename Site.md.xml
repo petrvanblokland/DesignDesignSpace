@@ -239,7 +239,7 @@ As studio you may want to consider dividing tasks depending on experience and in
 <li>Selection of presentation media</li>
 <li>Judging and formulating feedback to other studios</li>
 </ul>
-<p>Particpating in the Design Game is required for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.</p>
+<p>Participating in the Design Game is mandatory for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.</p>
 <pre><code class="Python">box = page['Footer']
 box.html = doc.footerHtml
 

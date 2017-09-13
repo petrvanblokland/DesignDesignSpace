@@ -327,7 +327,7 @@ During the Design Game, several design skills are addressed.
 * Selection of presentation media
 * Judging and formulating feedback to other studios
 
-Particpating in the Design Game is required for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.
+Participating in the Design Game is mandatory for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.
 
 ~~~Python
 box = page['Footer']
