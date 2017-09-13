@@ -71,7 +71,7 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
 
-Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
+Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
 
 Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.
 
@@ -207,8 +207,8 @@ box = page['OtherMain']['Content']
 
 * A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feedback sessions and presentations.
 * The design of personal space (time, topic and skills) profession preparation for the rest of your life.
-* a part-time sabbatical or a virtual internship
-* a place to train design skills and tools.
+* A part-time sabbatical or a virtual internship
+* A place to train design skills and tools.
 
 ### For whom?
 
@@ -219,7 +219,7 @@ box = page['OtherMain']['Content']
 * Designers interested to develop skill that make them independent from future developments.
 * Designers who would like to do a follow-up refresh study, but are lacking time, finance or geographic location to make that work.
 
-In general the aim is to get graduated students as well as experienced designers back to a space of “WOW!”.
+In general the aim is to get graduate students as well as experienced designers back to a space of “WOW!”.
 
 Focus is on design students and their individual goals. Not on predefined course content.
 
