@@ -556,7 +556,7 @@ Before she became a designer, she worked as a school and career counselor for a 
 
 Besides her studio work, she has taught at the KABK for over twenty years at the Graphic Design department.
 
-In 2016 she initiated <a href="peppertom.com" target="External">Pepper+Tom</a>, a self initiated project. P+T is “a playing ground” where she presents her series of designed and produced skirts and scarfs. 
+In 2016 she initiated <a href="http://peppertom.com" target="External">Pepper+Tom</a>, a self initiated project. P+T is “a playing ground” where she presents her series of designed and produced skirts and scarfs. 
 
 Both products are “people’s projects”: working together with a group of professionals under sustainable circumstances, with eco friendly fabrics, under the conditions of “slow fashion”. 
 
