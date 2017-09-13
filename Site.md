@@ -29,7 +29,7 @@ box = page['Featured']['Side']
 ~~~
 
 ## Repeat to improve
-What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a lineair process, it’s an iterative process, which means repeating the previous step in more detail. 
+What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail. 
 
 ~~~Python
 box = page['Main']['Content']
@@ -41,7 +41,7 @@ box = page['Main']['Content']
 
 What kind of challenges do you experience in your daily work as a designer?
 
-Working closely together online with experienced designers and a group of colleague students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
+Working closely together online with experienced designers and a group of other students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
 
 ### Planning
 By definition designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning – “There is still plenty of time”, a design is never finished – “The next one will always be better”. 
@@ -65,13 +65,13 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 * 1 day $150
 * 1 week $900 (7 days)
-* 1 month $1.900 (calendar month)
-* 1 season $3.900 (3 calendar months)
-* 1 year $7.900
+* 1 month $1,900 (calendar month)
+* 1 season $3,900 (3 calendar months)
+* 1 year $7,900
 
 Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
 
-Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2.350. Or 1 week followed by 1 season: 1/2 $900 + $3.900 = $4.350
+Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1.900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
 
 Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.
 
