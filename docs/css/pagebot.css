@@ -193,27 +193,23 @@ input[type=submit] {
   position: relative;
   display: block;
   height: auto;
-  padding-top: 0.2em;
+  padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-left: 0;
   background-color: white; }
-  
-  .top .logo {
-  margin-top:1em;
-  }
   .top .logo a {
     color: #323a47;
     font-family: "Upgrade-Bold", sans;
     letter-spacing: 0;
     font-style: normal;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1.5em;
     line-height: 1.2em;
-    padding-top: 2em; }
+    padding: 0.3em; }
     .top .logo a a:hover {
-      font-size: 1em;
+      font-size: 1.5em;
       line-height: 1.2em;
-      padding-top: 2 em; }
+      padding: 0.3em; }
   .top a {
     color: #4890be;
     text-decoration: none;
@@ -503,7 +499,7 @@ input[type=submit] {
 }
 .mainContent h3 {
   font-family: "Upgrade-Semibold", sans;
-  color: #262B37;
+  color: #828487;
   font-weight: normal;
   letter-spacing: 0;
   margin-top: 0.6em;
@@ -570,8 +566,7 @@ input[type=submit] {
   height: 26px;
   background: None;
   display: none;
-  width: 0;
-  }
+  width: 0; }
 
 .mobilenavigation img {
   padding: 0;
@@ -591,7 +586,6 @@ input[type=submit] {
 
 .mobilenavigation a {
   color: #e8e8e8;
- display:inline-block;
   -webkit-transition: all 0.7s ease-in-out;
   -moz-transition: all 0.7s ease-in-out;
   -o-transition: all 0.7s ease-in-out;
@@ -618,11 +612,11 @@ input[type=submit] {
 
 #navigation-wrap ol li {
   float: right;
-  padding: 20px 5px; }
+  padding: 8px 8px; }
 
 #navigation-wrap {
   width: 100%;
-  font-size: 66%;
+  font-size: 80%;
   float: right;
   display: inline;
   margin-right: 0; }
@@ -999,8 +993,7 @@ input[type=submit] {
 
   .logo {
     margin: 0;
-    padding: 0;
-    padding-top:2em; }
+    padding: 0; }
 
   .logo img {
     display: block;
