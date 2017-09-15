@@ -53,9 +53,9 @@ How do you make this apparent conflict work to your advantage?
 ### How much time do you need?
 The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (research – design – presentation) as a project of 1 year. 
 
-Of course, it does matters how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is part of the requirements. The result can still be better than the your customer would have done. 
+Of course, it does matters how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is part of the requirements. The result can still be better than anything your customer would have done. 
 
-How would you design such a design process better?
+How would you design such a design process better next time?
 
 ### 1 day • 1 week • 1 month • 1 season • 1 year
 
@@ -73,7 +73,7 @@ Discount or split payment for the month, season and year trainings can be discus
 
 Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
 
-Pricing is for individual designers. For corporate trainings or groups, please <a href="mailto:buro@petr.com">contact us</a>.
+Prices above are for individual designers. For corporate trainings, groups or customized requests, please <a href="mailto:buro@petr.com">contact us</a>.
 
 ### What is the schedule & how to submit?
 
@@ -86,6 +86,10 @@ Since working as a team of students a minimum amount of three is required, and a
 Season and year-students are admitted after showing their portfolios and the result of a given assignment. Also they are asked to write a motivation and development plan.
 
 Students finishing a training adequately, automatically get accepted for a next.
+
+### Experience
+
+*Design Design Space* taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
 ![DSGNWK_0582BWLow.jpg](docs/images/DSGNWK_0582BWLow.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.*
@@ -117,43 +121,40 @@ box = page['Main']['Content']
 
 Design students meet online with each other and the coaches in regular intervals.
 
-For interaction and exchanging documents a range of techniques are available, e.g. Skype, Google Hangout, Google Docs, offline video, Dropbox, Github, FaceTime and Second Life, to name a few. Selection and usage is topic of one of the assignments.
+For interaction and exchanging documents a range of techniques are available, e.g. Skype, Google Hangout, Google Docs, offline video, Dropbox, Github, FaceTime and Second Life, to name a few. Selection and usage can be the topic of one of the assignments.
 
 ### Assignments
 Students get assignments for imaginary design projects, with time frames ranging from several hours to several months. The assignments are challenges, where the specific topics can be filled by the individual students.
 
-Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired and what techniques and materials need to be developed and how to design the planning for the project, are all part of assignments. 
+Questions how to approach these challenges, research on what skills need to be developed, what knowledge needs to be acquired, what techniques and materials need to be developed and how the project planning should be designed, are all part of assignments. 
 
-With regular intervals – ranging from hours to days to once per week – the various levels of intermediate results are presented to the group of students and coaches. It is the aim of the coaches to create a safe environment in which anything can be said about any aspect of the work and the process.
+With regular intervals – ranging from hours to days to once per week – the various levels of intermediate results are presented to the group of students and coaches. The aim of the coaches is to create a safe environment, in which anything can be said about any aspect of the work and the process.
 
 ### Safe environment
-The process of creating such a safe environment and the methods for feedback themselves are part of the assignments, and therefor subject to sketching and modification too.
+The process of creating such a safe environment – and the finding of methods for feedback – are part of the assignments, and therefor subject to sketching and modification too.
 
-In the presentations feedback is given on the presented work, but also on the presentation itself and on the process and proceedings between presentations. 
+During the presentations feedback is given on the presented work, but also on the presentation itself and on the process and proceedings between the presentations. 
 
 <!--
 ## http://designdesign.space
 ## designdesignspace.com
 -->
 ![DesignModels2.048.png](docs/images/DesignModels2.048.png)
-*Students are offered models for what the design process can be. And they are encouraged to created their own, and apply them to their designs.*
+*Various models are offered to students, showing what their design process could be like. And they are encouraged to created their own, and apply them to their designs.*
 
 ### Design methods
-In the past a magnitude of design methods have been developed, but unformtunately most of them focus on production techniques and deadlines.
+In the past a magnitude of design methods have been developed, but unfortunately most of them focus on production techniques and deadlines.
 You may recognize that in your current design practice.
 
 What most design methods don’t do is create space for designers to develop themselves. To allow unintended mistakes. Cuddle solutions that don’t seem to be profitable right away. To spend time on acquiring skills without predefined purpose.
 
-Yet, for the development of skill, such an approach is essential. 
+Yet, for the development of skills, such an approach is essential. 
 
-*Design Design Space* offers that environment. To study a specific topic for a defined period of time. Offering challenges, feed back, techniques and design methods that are customized to your development.
+*Design Design Space* offers that environment. To study a specific topic for a defined period of time. Formulating challenges, feed back techniques and design methods that are customized for your development.
 
-### Experience
-
-*Design Design Space* taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
-
+### Tuition
 Tuition needs to be payed before the training starts. 
-No refunding is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
+No refund is possible, but participants have the right to build in breaks for some period of time, if that is discussed before hand. 
 
 ~~~Python
 box = page['Section']['Title']
