@@ -201,11 +201,11 @@ input[type=submit] {
     font-weight: bold;
     font-size: 1.4em;
     line-height: 1.2em;
-    padding: 0.3em; }
+    padding: 0.2em; }
     .top .logo a a:hover {
       font-size: 1.5em;
       line-height: 1.2em;
-      padding: 0.3em; }
+      padding: 0.2em; }
   .top a {
     color: #4890be;
     text-decoration: none;
@@ -213,12 +213,12 @@ input[type=submit] {
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
     transition: all 0.8s ease-in-out;
-    padding: 0.2em; }
+    padding: 0.3em 0 0.3em 0.15em; }
   .top a:hover {
     color: white;
     text-decoration: none;
     background-color: #4890be;
-    padding: 0.3em;
+    padding: 0.3em 0 0.3em 0.15em;
     -webkit-transition: all 0.8s ease-in-out;
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
@@ -227,7 +227,7 @@ input[type=submit] {
     color: white;
     text-decoration: none;
     background-color: #4890be;
-    padding: 0.3em;
+    padding: 0.3em 0 0.3em 0.15em;
     -webkit-transition: all 0.8s ease-in-out;
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
