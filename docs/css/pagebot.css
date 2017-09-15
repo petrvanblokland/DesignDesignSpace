@@ -196,7 +196,7 @@ input[type=submit] {
   .top .logo a {
     color: #323a47;
     font-family: "Upgrade-Bold", sans;
-    letter-spacing: 0;
+    letter-spacing:-0.025em;
     font-style: normal;
     font-weight: bold;
     font-size: 1.4em;
