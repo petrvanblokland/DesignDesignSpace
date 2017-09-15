@@ -10,7 +10,12 @@
 #
 #     DesignDesignSpace.py
 #
-#     Build automatic website for designdesign.space
+#     Build automatic website for designdesign.space, hosted in github.
+#
+#     http://designdesign.space
+#     http://localhost:8888/designdesignspace/index.html
+#
+#
 # 
 import os
 from pagebot.typesetter import Typesetter

@@ -1,8 +1,4 @@
 /*@import url(_selectmenu.css);*/
-/*
-    R E A D Y M E D I A  S H O P 
-    
-*/
 /* _styles.scss */
 /* GRID */
 /* COLOR */
@@ -203,7 +199,7 @@ input[type=submit] {
     letter-spacing: 0;
     font-style: normal;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.4em;
     line-height: 1.2em;
     padding: 0.3em; }
     .top .logo a a:hover {
@@ -217,7 +213,7 @@ input[type=submit] {
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
     transition: all 0.8s ease-in-out;
-    padding: 0.3em; }
+    padding: 0.2em; }
   .top a:hover {
     color: white;
     text-decoration: none;

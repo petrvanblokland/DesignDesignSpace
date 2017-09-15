@@ -3,7 +3,7 @@
 
 from pagebot.publications import Website
 
-doc = Website(autoPages=0, title='Design Design Space')
+doc = Website(autoPages=0, title='Design&amp;nbsp;Design&amp;nbsp;Space')
 
 page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
