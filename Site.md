@@ -8,7 +8,7 @@ doc = Website(autoPages=0, title='Design&nbsp;Design&nbsp;Space')
 page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
 
-doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:buro@petr.com">buro@petr.com</a>
+doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space">info@designdesign.space</a>
 """
 
 # H O M E 
@@ -73,7 +73,7 @@ Discount or split payment for the month, season and year trainings can be discus
 
 Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
 
-Prices above are for individual designers. For corporate trainings, groups or customized requests, please <a href="mailto:buro@petr.com">contact us</a>.
+Prices above are for individual designers. For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space">contact us</a>.
 
 ### What is the schedule & how to submit?
 
