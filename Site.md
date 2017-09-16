@@ -4,9 +4,9 @@ cid = 'Website'
 from pagebot.publications import Website
 
 doc = Website(autoPages=0, title='Design&nbsp;Design&nbsp;Space')
+doc.info.cssPath = 'sources/pagebot.css'
 
 page = doc.newPage(title='Home', name='index.html', template='home')
-page.info.cssPath = 'sources/pagebot.css'
 
 doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space">info@designdesign.space</a>
 """
@@ -106,7 +106,6 @@ box = page['Footer']
 box.html = doc.footerHtml
 
 page = doc.newPage(title='How', name='how.html', template='home')
-page.info.cssPath = 'sources/pagebot.css'
 
 box = page['Introduction']
 ~~~
@@ -253,7 +252,6 @@ box = page['Footer']
 box.html = doc.footerHtml
 
 page = doc.newPage(title='Game', name='game.html', template='home')
-page.info.cssPath = 'sources/pagebot.css'
 
 box = page['Introduction']
 ~~~
@@ -335,7 +333,6 @@ box = page['Footer']
 box.html = doc.footerHtml
 
 page = doc.newPage(title='Projects', name='projects.html')
-page.info.cssPath = 'sources/pagebot.css'
 
 box = page['Introduction']
 ~~~
@@ -517,7 +514,6 @@ box = page['Footer']
 box.html = doc.footerHtml
 
 page = doc.newPage(title='About', name='about.html', template='home')
-page.info.cssPath = 'sources/pagebot.css'
 box = page['Main']['Side']
 ~~~
 

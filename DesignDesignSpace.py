@@ -4,7 +4,7 @@
 #
 #     P A G E B O T
 #
-#     Free to use. Licensed under MIT conditions
+#     Free to us	e. Licensed under MIT conditions
 #     Made for usage in DrawBot, www.drawbot.com
 # -----------------------------------------------------------------------------
 #
@@ -29,7 +29,7 @@ MD_PATH = u"Site.md"
 NAME = 'designdesignspace'
 DOMAIN = 'designdesign.space'
 
-DO_GIT = True
+DO_GIT = False
 DO_MAMP = not DO_GIT
 
 # Create an unbound Typesetter instance (trying to find a Poster
