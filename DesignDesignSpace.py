@@ -4,7 +4,7 @@
 #
 #     P A G E B O T
 #
-#     Free to us	e. Licensed under MIT conditions
+#     Free to use. Licensed under MIT conditions
 #     Made for usage in DrawBot, www.drawbot.com
 # -----------------------------------------------------------------------------
 #
