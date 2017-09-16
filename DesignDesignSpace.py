@@ -29,7 +29,7 @@ MD_PATH = u"Site.md"
 NAME = 'designdesignspace'
 DOMAIN = 'designdesign.space'
 
-DO_GIT = False
+DO_GIT = True
 DO_MAMP = not DO_GIT
 
 # Create an unbound Typesetter instance (trying to find a Poster
