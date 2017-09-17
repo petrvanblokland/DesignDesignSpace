@@ -76,7 +76,7 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 ### What does it cost?
 
-* 1 day $150 (group of minimal 12)
+* 1 day $150 (<a href="game.html">Design Game</a>,group of minimal 12)
 * 1 week $900 (7 days, group of 4 or more)
 * 1 month $1,900 (calendar month, individual or group)
 * 1 season $3,900 (3 calendar months, individual or group)
