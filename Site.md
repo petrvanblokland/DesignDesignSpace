@@ -2,8 +2,21 @@
 cid = 'Website'
 
 from pagebot.publications import Website
+from pagebot.toolbox.units import *
 
 doc = Website(autoPages=0, title='Design&nbsp;Design&nbsp;Space')
+
+style = dict(
+	font='"Upgrade-Regular"',
+	fontStyle='normal',
+	fontWeight='normal',
+	fill=(1, 1, 0),
+	tracking=em(0.04),
+	fontSize=px(12),
+	leading=em(1.4),
+	color=em(0x66696C),
+)
+doc.applyStyle(style)
 doc.info.cssPath = 'sources/pagebot.css'
 
 page = doc.newPage(title='Home', name='index.html', template='home')
@@ -63,17 +76,17 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 ### What does it cost?
 
-* 1 day $150
-* 1 week $900 (7 days)
-* 1 month $1,900 (calendar month)
-* 1 season $3,900 (3 calendar months)
-* 1 year $7,900
+* 1 day $150 (group of minimal 12)
+* 1 week $900 (7 days, group of 4 or more)
+* 1 month $1,900 (calendar month, individual or group)
+* 1 season $3,900 (3 calendar months, individual or group)
+* 1 year $7,900 (individual or group)
 
-Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
+Prices are per person. Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
+
+For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space">contact us</a>.
 
 Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
-
-Prices above are for individual designers. For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space">contact us</a>.
 
 ### What is the schedule & how to submit?
 
