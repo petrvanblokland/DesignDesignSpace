@@ -370,7 +370,7 @@ box = page['Main']['Content']
 
 ### What can you do in 1 day?
 
-* <a href="game.html">Play an online Design Game.</a>.
+* <a href="game.html">Play an online Design Game, simulation of the design practice.</a>.
 
 <a name="oneWeek"></a>
 ### What can you do in 1 week?
