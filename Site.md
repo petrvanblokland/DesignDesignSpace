@@ -372,7 +372,8 @@ box = page['Main']['Content']
 
 * <a href="game.html">Play an online Design Game.</a>.
 
-### <a name="oneWeek"></a>What can you do in 1 week?
+<a name="oneWeek"></a>
+### What can you do in 1 week?
 One or more of the example topics below. How much can you fit in a week?
 
 * Sketch the basics of a corporate identity. Translate some of the parameters into PageBot code;
@@ -382,7 +383,8 @@ One or more of the example topics below. How much can you fit in a week?
 * Write code for a DrawBot animation;
 * Examine how to select one of the above.
 
-### <a name="oneMonth"></a>What can you do in 1 month?
+<a name="oneMonth"></a>
+### What can you do in 1 month?
 A selection of the example topics below. Or one of your own?
 
 * Study typographic parameters;
@@ -393,7 +395,8 @@ A selection of the example topics below. Or one of your own?
 * Design a Design Game and run it;
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
-### <a name="oneSeason"></a>What can you do in 1 season?
+<a name="oneSeason"></a>
+### What can you do in 1 season?
 A selection of the example topics below. Or what else would you like to do?
 
 * Develop a PageBot publication;
@@ -402,7 +405,8 @@ A selection of the example topics below. Or what else would you like to do?
 * Design design education tools, such as games and feedback models;
 * Do almost any design project that can be done in a month.
 
-### <a name="oneYear"></a>In 1 year?
+<a name="oneYear"></a>
+### In 1 year?
 A selection of the example topics below. Or maybe all of them? 
 
 * Become an independent typographer with noticable experience;
