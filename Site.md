@@ -78,9 +78,9 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 * 1 day $150 (<a href="game.html">Design Game</a>, group of minimal 12)
 * 1 week $900 (<a href="projects.html#oneWeek">Fixed schedule, topic by choice</a>, 7 days, group of 4 or more)
-* 1 month $1,900 (calendar month, individual or group)
-* 1 season $3,900 (3 calendar months, individual or group)
-* 1 year $7,900 (individual or group)
+* 1 month $1,900 (<a href="projects.html#oneMonth">Schedule and topic by choice</a>, calendar month, individual or group)
+* 1 season $3,900 (<a href="projects.html#oneSeason">Schedule and topic by choice</a>, 3 calendar months, individual or group)
+* 1 year $7,900 (<a href="projects.html#oneYear">Schedule and topic by choice</a>, individual or group)
 
 Prices are per person. Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
 
