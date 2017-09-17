@@ -76,8 +76,8 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 ### What does it cost?
 
-* 1 day $150 (<a href="game.html">Design Game</a>,group of minimal 12)
-* 1 week $900 (7 days, group of 4 or more)
+* 1 day $150 (<a href="game.html">Design Game</a>, group of minimal 12)
+* 1 week $900 (<a href="projects.html#oneWeek">Fixed schedule, topic by choice</a>, 7 days, group of 4 or more)
 * 1 month $1,900 (calendar month, individual or group)
 * 1 season $3,900 (3 calendar months, individual or group)
 * 1 year $7,900 (individual or group)
@@ -370,10 +370,10 @@ box = page['Main']['Content']
 
 ### What can you do in 1 day?
 
-* Play an online Design Game, with a schedule described <a href="game.html">here</a>.
+* <a href="game.html">Play an online Design Game.</a>.
 
 ### What can you do in 1 week?
-One or more of the example topics below. How much can you fit in a week?
+<a name="oneWeek"></a>One or more of the example topics below. How much can you fit in a week?
 
 * Sketch the basics of a corporate identity. Translate some of the parameters into PageBot code;
 * Design a model exhibition space;
@@ -383,7 +383,7 @@ One or more of the example topics below. How much can you fit in a week?
 * Examine how to select one of the above.
 
 ### What can you do in 1 month?
-A selection of the example topics below. Or one of your own?
+<a name="oneMonth"></a>A selection of the example topics below. Or one of your own?
 
 * Study typographic parameters;
 * Research, write, design and present a mini-thesis about a topic of your choice;
@@ -394,7 +394,7 @@ A selection of the example topics below. Or one of your own?
 * Fill a Moleskine with 100 sketch pages. Then select the best.
 
 ### What can you do in 1 season?
-A selection of the example topics below. Or what else would you like to do?
+<a name="oneSeason"></a>A selection of the example topics below. Or what else would you like to do?
 
 * Develop a PageBot publication;
 * Improve your sketching skills;
@@ -403,7 +403,7 @@ A selection of the example topics below. Or what else would you like to do?
 * Do almost any design project that can be done in a month.
 
 ### In 1 year?
-A selection of the example topics below. Or maybe all of them? 
+<a name="oneYear"></a>A selection of the example topics below. Or maybe all of them? 
 
 * Become an independent typographer with noticable experience;
 * Improve your experience as type designer. Or as design educator;

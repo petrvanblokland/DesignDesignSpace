@@ -59,8 +59,8 @@ box = page['Introduction']
 <p>Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, whatever fits best to your plans, your practical possibilities and your financial situation.</p>
 <h3>What does it cost?</h3>
 <ul>
-<li>1 day $150 (<a href="game.html">Design Game</a>,group of minimal 12)</li>
-<li>1 week $900 (7 days, group of 4 or more)</li>
+<li>1 day $150 (<a href="game.html">Design Game</a>, group of minimal 12)</li>
+<li>1 week $900 (<a href="projects.html#oneWeek">Fixed schedule, topic by choice</a>, 7 days, group of 4 or more)</li>
 <li>1 month $1,900 (calendar month, individual or group)</li>
 <li>1 season $3,900 (3 calendar months, individual or group)</li>
 <li>1 year $7,900 (individual or group)</li>
@@ -274,10 +274,10 @@ box = page['Introduction']
 <h2>What can you do?</h2>
 <h3>What can you do in 1 day?</h3>
 <ul>
-<li>Play an online Design Game, with a schedule described <a href="game.html">here</a>.</li>
+<li><a href="game.html">Play an online Design Game.</a>.</li>
 </ul>
 <h3>What can you do in 1 week?</h3>
-<p>One or more of the example topics below. How much can you fit in a week?</p>
+<p><a name="oneWeek"></a>One or more of the example topics below. How much can you fit in a week?</p>
 <ul>
 <li>Sketch the basics of a corporate identity. Translate some of the parameters into PageBot code;</li>
 <li>Design a model exhibition space;</li>
@@ -287,7 +287,7 @@ box = page['Introduction']
 <li>Examine how to select one of the above.</li>
 </ul>
 <h3>What can you do in 1 month?</h3>
-<p>A selection of the example topics below. Or one of your own?</p>
+<p><a name="oneMonth"></a>A selection of the example topics below. Or one of your own?</p>
 <ul>
 <li>Study typographic parameters;</li>
 <li>Research, write, design and present a mini-thesis about a topic of your choice;</li>
@@ -298,7 +298,7 @@ box = page['Introduction']
 <li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
 </ul>
 <h3>What can you do in 1 season?</h3>
-<p>A selection of the example topics below. Or what else would you like to do?</p>
+<p><a name="oneSeason"></a>A selection of the example topics below. Or what else would you like to do?</p>
 <ul>
 <li>Develop a PageBot publication;</li>
 <li>Improve your sketching skills;</li>
@@ -307,7 +307,7 @@ box = page['Introduction']
 <li>Do almost any design project that can be done in a month.</li>
 </ul>
 <h3>In 1 year?</h3>
-<p>A selection of the example topics below. Or maybe all of them? </p>
+<p><a name="oneYear"></a>A selection of the example topics below. Or maybe all of them? </p>
 <ul>
 <li>Become an independent typographer with noticable experience;</li>
 <li>Improve your experience as type designer. Or as design educator;</li>
