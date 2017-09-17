@@ -276,8 +276,8 @@ box = page['Introduction']
 <ul>
 <li><a href="game.html">Play an online Design Game.</a>.</li>
 </ul>
-<h3>What can you do in 1 week?</h3>
-<p><a name="oneWeek"></a>One or more of the example topics below. How much can you fit in a week?</p>
+<h3><a name="oneWeek"></a>What can you do in 1 week?</h3>
+<p>One or more of the example topics below. How much can you fit in a week?</p>
 <ul>
 <li>Sketch the basics of a corporate identity. Translate some of the parameters into PageBot code;</li>
 <li>Design a model exhibition space;</li>
@@ -286,8 +286,8 @@ box = page['Introduction']
 <li>Write code for a DrawBot animation;</li>
 <li>Examine how to select one of the above.</li>
 </ul>
-<h3>What can you do in 1 month?</h3>
-<p><a name="oneMonth"></a>A selection of the example topics below. Or one of your own?</p>
+<h3><a name="oneMonth"></a>What can you do in 1 month?</h3>
+<p>A selection of the example topics below. Or one of your own?</p>
 <ul>
 <li>Study typographic parameters;</li>
 <li>Research, write, design and present a mini-thesis about a topic of your choice;</li>
@@ -297,8 +297,8 @@ box = page['Introduction']
 <li>Design a Design Game and run it;</li>
 <li>Fill a Moleskine with 100 sketch pages. Then select the best.</li>
 </ul>
-<h3>What can you do in 1 season?</h3>
-<p><a name="oneSeason"></a>A selection of the example topics below. Or what else would you like to do?</p>
+<h3><a name="oneSeason"></a>What can you do in 1 season?</h3>
+<p>A selection of the example topics below. Or what else would you like to do?</p>
 <ul>
 <li>Develop a PageBot publication;</li>
 <li>Improve your sketching skills;</li>
@@ -306,8 +306,8 @@ box = page['Introduction']
 <li>Design design education tools, such as games and feedback models;</li>
 <li>Do almost any design project that can be done in a month.</li>
 </ul>
-<h3>In 1 year?</h3>
-<p><a name="oneYear"></a>A selection of the example topics below. Or maybe all of them? </p>
+<h3><a name="oneYear"></a>In 1 year?</h3>
+<p>A selection of the example topics below. Or maybe all of them? </p>
 <ul>
 <li>Become an independent typographer with noticable experience;</li>
 <li>Improve your experience as type designer. Or as design educator;</li>
