@@ -227,10 +227,10 @@ box = page['OtherMain']['Content']
 
 * Graduated designers;
 * Designers with experience, working in practice;
-* Designers interested in improving their process;
-* Designers interested in specializing a specific topic;
-* Designers interested to develop skill that make them independent from future developments.
+* Designers interested in improving their process or specializing in specific topics;
+* Designers interested to develop skills that make them independent from future developments.
 * Designers who would like to do a follow-up refresh study, but are lacking time, finance or geographic location to make that work.
+* Professionals from other disciplines (such as programmers), to practice the basics of design in a series of exercises. Find the design component in their own daily practice and develop it further.
 
 In general the aim is to get graduate students as well as experienced designers back to a space of “WOW!”.
 
