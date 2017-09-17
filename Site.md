@@ -86,7 +86,7 @@ Prices are per person. Discount or split payment for the month, season and year 
 
 For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space">contact us</a>.
 
-Designers who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
+Students who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
 
 ### What is the schedule & how to submit?
 
