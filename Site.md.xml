@@ -386,7 +386,7 @@ box = page['Introduction']
 
 <p><img alt="docs/images/pagebot_promo.png" src="docs/images/pagebot_promo.png" /><br />
 <img alt="docs/images/F5.034.jpeg" src="docs/images/F5.034.jpeg" /><br />
-<em>PageBot is library of functions, based on the programming language Python, that can be used for the automated production of publications. Learning to use PageBot is an optional topic in Design Design Space study.</em></p>
+<em>PageBot is a library of Python classes, that can be used for the automated production of publications. Learning to use PageBot is an optional topic of the Design Design Space study.</em></p>
 <p><img alt="docs/images/TheEndOfCss015M1.050.jpeg" src="docs/images/TheEndOfCss015M1.050.jpeg" /><br />
 <em>Constructing an environment where all disciplines can work together in a non-linear way, is one of the topics of the Design Design Space study.</em></p>
 <pre><code class="Python">box = page['OtherMain']['Content']
