@@ -17,7 +17,7 @@ style = dict(
 	color=em(0x66696C),
 )
 doc.applyStyle(style)
-doc.info.cssPath = 'sources/pagebot.css'
+#doc.info.cssPath = 'sources/pagebot.css'
 
 page = doc.newPage(title='Home', name='index.html', template='home')
 
@@ -381,8 +381,8 @@ One or more of the example topics below. How much can you fit in a week?
 * Design a gridded page or a scripted infographic
 * Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;
 * Write code for a DrawBot animation;
-* Examine how to select one of the above.
-
+* Examining how to select one of them can be a design project in itself.
+* 
 <a name="oneMonth"></a>
 ### What can you do in 1 month?
 A selection of the example topics below. Or one of your own?
