@@ -392,7 +392,7 @@ A selection of the example topics below. Or one of your own?
 * Or program the manual in PageBot;
 * Simulate a graphic design studio;
 * Design a Design Game and run it;
-* Fill a Moleskine with 100 sketch pages. Then select the best.
+* Fill a Moleskine with 100 sketch pages. Then select and present the best.
 
 <a name="oneSeason"></a>
 ### What can you do in 1 season?
