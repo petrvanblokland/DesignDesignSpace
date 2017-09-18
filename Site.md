@@ -382,7 +382,7 @@ One or more of the example topics below. How much can you fit in a week?
 * Draw a couple of <a href="http://typecooker.com" target="External">TypeCooker</a> words with feedback;
 * Write code for a DrawBot animation;
 * Examining how to select one of them can be a design project in itself.
-* 
+ 
 <a name="oneMonth"></a>
 ### What can you do in 1 month?
 A selection of the example topics below. Or one of your own?
