@@ -44,6 +44,8 @@ t = Typesetter()
 t.typesetFile(MD_PATH)
 
 if DO_MAMP:
+    # Internal CSS file may be switched of for development.
+    t.doc.info.cssPath = 'sources/pagebot.css'
     view = t.doc.getView('Mamp')
 
     if not os.path.exists(view.MAMP_PATH):
@@ -54,6 +56,8 @@ if DO_MAMP:
         #t.doc.export('_export/%s.pdf' % NAME, multiPages=True)
         os.system(u'open "%s"' % view.getUrl(NAME))
 elif DO_GIT:
+    # Make sure outside always has the right generated CSS
+    t.doc.info.cssPath = 'sources/pagebot.css'
     view = t.doc.getView('Git')
     t.doc.build(NAME, view=view)
     # Open the css file in the default editor of your local system.

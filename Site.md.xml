@@ -17,7 +17,6 @@ style = dict(
     color=em(0x66696C),
 )
 doc.applyStyle(style)
-doc.info.cssPath = 'sources/pagebot.css'
 
 page = doc.newPage(title='Home', name='index.html', template='home')
 
