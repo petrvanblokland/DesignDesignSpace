@@ -345,8 +345,25 @@ input[type=submit] {
     font-style: normal;
     line-height: 1.4em;
     font-weight: normal;
+   } 
+   /* Contact button. */
+   .featured h2 a {
+     font-family: "Upgrade-Semibold", sans;
+     font-size: 0.6em;
+     line-height: 1.1em;
+     color: #222;
+     background-color: #FC8332;
+    margin-top: 0.6em; 
+    margin-bottom: 0em; 
+    padding: 0.2em;
    }
-
+   .featured h2 a:hover {
+     color: #444;
+     background-color: #FEC654;
+    margin-top: 0.6em; 
+    margin-bottom: 0em; 
+    padding: 0.2em;
+    }
 .contentpart {
   border: 1px dotted gray;
   display: table; }

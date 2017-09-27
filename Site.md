@@ -20,7 +20,7 @@ doc.applyStyle(style)
 
 page = doc.newPage(title='Home', name='index.html', template='home')
 
-doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space">info@designdesign.space</a>
+doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">info@designdesign.space</a>
 """
 
 # H O M E 
@@ -41,8 +41,9 @@ box = page['Featured']['Side']
 ~~~
 
 ## Repeat to improve
-What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail. 
+What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail.
 
+##<a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact&nbsp;us</a>##
 ~~~Python
 box = page['Main']['Content']
 ~~~
@@ -83,7 +84,7 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 Prices are per person. Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
 
-For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space">contact us</a>.
+For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">contact us</a>.
 
 Students who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
 
@@ -231,7 +232,7 @@ box = page['OtherMain']['Content']
 * Designers who would like to do a follow-up refresh study, but are lacking time, finance or geographic location to make that work.
 * Professionals from other disciplines (such as programmers), to practice the basics of design in a series of exercises. Find the design component in their own daily practice and develop it further.
 
-In general the aim is to get graduate students as well as experienced designers back to a space of “WOW!”.
+In general the aim is to bring graduate students as well as experienced designers forward to a space of “WOW!”.
 
 Focus is on design students and their individual goals. Not on predefined course content.
 
@@ -344,7 +345,7 @@ Participating in the Design Game is mandatory for the extending studies at Desig
 box = page['Footer']
 box.html = doc.footerHtml
 
-page = doc.newPage(title='Projects', name='projects.html')
+page = doc.newPage(title='Projects', name='projects.html', template='home')
 
 box = page['Introduction']
 ~~~
@@ -529,7 +530,7 @@ Which of these parameters need to be documented? And which can be automated?
 box = page['Footer']
 box.html = doc.footerHtml
 
-page = doc.newPage(title='About', name='about.html', template='home')
+page = doc.newPage(title='Contact', name='contact.html', template='home')
 box = page['Main']['Side']
 ~~~
 
