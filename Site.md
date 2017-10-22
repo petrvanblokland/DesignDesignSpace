@@ -100,7 +100,7 @@ box = page['Main']['Side']
 
 ~~~Python
 box = page['Footer']
-box.html = doc.footerHtml
+box.append(doc.footerHtml)
 
 page = doc.newPage(title='How', name='how.html', template='home')
 
@@ -246,7 +246,7 @@ box = page['Main']['Side']
 
 ~~~Python
 box = page['Footer']
-box.html = doc.footerHtml
+box.append(doc.footerHtml)
 
 page = doc.newPage(title='Game', name='game.html', template='home')
 
@@ -327,7 +327,7 @@ Participating in the Design Game is mandatory for the extending studies at Desig
 
 ~~~Python
 box = page['Footer']
-box.html = doc.footerHtml
+box.append(doc.footerHtml)
 
 page = doc.newPage(title='Projects', name='projects.html', template='home')
 
@@ -347,11 +347,7 @@ box = page['Main']['Side']
 *Sketching is the process of managing the level of details, throughout the process. One method is reduce the scale of drawings, as the resolution of tools (pencil or screen) automatically will hide irrelevant details.*
 
 ~~~Python
-
-#page = doc.newPage(title='Projects', name='projects.html')
-#page.info.cssPath = 'sources/pagebot.css'
-
-#box = page['Main']['Content']
+box = page['Main']['Content']
 ~~~
 
 ## What can you do?
@@ -516,7 +512,7 @@ Which of these parameters need to be documented? And which can be automated?
 
 ~~~Python
 box = page['Footer']
-box.html = doc.footerHtml
+box.append(doc.footerHtml)
 
 page = doc.newPage(title='Contact', name='contact.html', template='home')
 box = page['Main']['Side']
@@ -567,6 +563,6 @@ Depending on necessary domain knowlegdge, other designers and professionals can 
 
 ~~~Python
 box = page['Footer']
-box.html = doc.footerHtml
+box.append(doc.footerHtml)
 ~~~
 

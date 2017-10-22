@@ -42,7 +42,7 @@ doc = Website(autoPages=0)
 # Create a Typesetter for this document, then create pages and fill content. 
 # As no Galley instance is supplied to the Typesetter, it will create one,
 # or put the current page/box variables to where the MarkDown file indicates.
-t = Typesetter(doc)
+t = Typesetter(doc, tryExcept=False, verbose=False)
 # Parse the markdown content and execute the embedded Python code blocks.
 # The blocks, global defined feedback variables and text content are in the 
 # typesetter t.galley.
