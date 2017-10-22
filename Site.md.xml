@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document><pre><code class="Python">cid = 'Website'
 
-from pagebot.publications import Website
-from pagebot.toolbox.units import *
+# H O M E 
 
-doc = Website(autoPages=0, title='Design&amp;nbsp;Design&amp;nbsp;Space')
-
-style = dict(
-    font='&quot;Upgrade-Regular&quot;',
-    fontStyle='normal',
-    fontWeight='normal',
-    fill=(1, 1, 0),
-    tracking=em(0.04),
-    fontSize=px(12),
-    leading=em(1.4),
-    color=em(0x66696C),
-)
-doc.applyStyle(style)
-
+doc.title = 'Design Design Space'
 page = doc.newPage(title='Home', name='index.html', template='home')
 
 doc.footerHtml = &quot;&quot;&quot;Let us know what you think. Do you have any questions for us? &lt;a href=&quot;mailto:info@designdesign.space?subject=Tell me more about Design Design Space&quot;&gt;info@designdesign.space&lt;/a&gt;
 &quot;&quot;&quot;
-
-# H O M E 
 
 box = page['Introduction']
 </code></pre>
@@ -268,7 +252,11 @@ box = page['Introduction']
 <em>Sketching is the process of eliminating unwanted options from the tree of all possibilities, without visualizing every single one of them.</em></p>
 <p><img alt="docs/images/DesignModels2.037.png" src="docs/images/DesignModels2.037.png" /><br />
 <em>Sketching is the process of managing the level of details, throughout the process. One method is reduce the scale of drawings, as the resolution of tools (pencil or screen) automatically will hide irrelevant details.</em></p>
-<pre><code class="Python">box = page['Main']['Content']
+<pre><code class="Python">
+#page = doc.newPage(title='Projects', name='projects.html')
+#page.info.cssPath = 'sources/pagebot.css'
+
+#box = page['Main']['Content']
 </code></pre>
 
 <h2>What can you do?</h2>

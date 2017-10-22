@@ -23,7 +23,7 @@ from pagebot.contexts import HtmlContext
 
 from pagebot.typesetter import Typesetter
 from pagebot.composer import Composer
-from pagebot.publications.publication import Publication
+from pagebot.publications.publication import Publication 
 from pagebot.elements import *
 from pagebot.conditions import *
 
@@ -32,13 +32,17 @@ MD_PATH = u"Site.md"
 NAME = 'designdesignspace'
 DOMAIN = 'designdesign.space'
 
-DO_GIT = True
+DO_GIT = False
 DO_MAMP = not DO_GIT
 
-# Create an unbound Typesetter instance (trying to find a Poster
-# (inheriting from Document) instance in one of the codeblock results. 
-# If no Galley instance is supplied to the Typesetter, it will create one.
-t = Typesetter()
+from pagebot.publications import Website
+
+doc = Website(autoPages=0)
+
+# Create a Typesetter for this document, then create pages and fill content. 
+# As no Galley instance is supplied to the Typesetter, it will create one,
+# or put the current page/box variables to where the MarkDown file indicates.
+t = Typesetter(doc)
 # Parse the markdown content and execute the embedded Python code blocks.
 # The blocks, global defined feedback variables and text content are in the 
 # typesetter t.galley.
@@ -50,7 +54,7 @@ if DO_MAMP:
     # Internal CSS file may be switched of for development.
     t.doc.info.cssPath = 'sources/pagebot.css'
     view = t.doc.setView('Mamp')
-  
+
     if not os.path.exists(view.MAMP_PATH):
         print 'The local MAMP server application does not exist. Download and in stall from %s.' % view.MAMP_SHOP_URL 
         os.system(u'open %s' % view.MAMP_SHOP_URL)

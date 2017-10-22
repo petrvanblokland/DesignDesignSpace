@@ -1,29 +1,13 @@
 ~~~Python
 cid = 'Website'
 
-from pagebot.publications import Website
-from pagebot.toolbox.units import *
+# H O M E 
 
-doc = Website(autoPages=0, title='Design&nbsp;Design&nbsp;Space')
-
-style = dict(
-	font='"Upgrade-Regular"',
-	fontStyle='normal',
-	fontWeight='normal',
-	fill=(1, 1, 0),
-	tracking=em(0.04),
-	fontSize=px(12),
-	leading=em(1.4),
-	color=em(0x66696C),
-)
-doc.applyStyle(style)
-
+doc.title = 'Design Design Space'
 page = doc.newPage(title='Home', name='index.html', template='home')
 
 doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">info@designdesign.space</a>
 """
-
-# H O M E 
 
 box = page['Introduction']
 ~~~
@@ -363,7 +347,11 @@ box = page['Main']['Side']
 *Sketching is the process of managing the level of details, throughout the process. One method is reduce the scale of drawings, as the resolution of tools (pencil or screen) automatically will hide irrelevant details.*
 
 ~~~Python
-box = page['Main']['Content']
+
+#page = doc.newPage(title='Projects', name='projects.html')
+#page.info.cssPath = 'sources/pagebot.css'
+
+#box = page['Main']['Content']
 ~~~
 
 ## What can you do?
