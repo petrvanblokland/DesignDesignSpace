@@ -32,7 +32,7 @@ MD_PATH = u"Site.md"
 NAME = 'designdesignspace'
 DOMAIN = 'designdesign.space'
 
-DO_GIT = False
+DO_GIT = True
 DO_MAMP = not DO_GIT
 
 from pagebot.publications import Website
