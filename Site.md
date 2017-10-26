@@ -12,7 +12,7 @@ doc.footerHtml = """Let us know what you think. Do you have any questions for us
 box = page['Introduction']
 ~~~
 
-### What are the dreams and dragons in your design process? How do you change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?
+### Hello students. What are the dreams and dragons in your design process? How do you change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?
 
 ~~~Python
 box = page['Featured']['Image']
