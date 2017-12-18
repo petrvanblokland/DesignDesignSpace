@@ -3,7 +3,7 @@ cid = 'Website'
 
 # H O M E 
 
-doc.title = 'Design Design Space'
+doc.title = 'Design&nbsp;Design&nbsp;Space'
 page = doc.newPage(title='Home', name='index.html', template='home')
 
 doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">info@designdesign.space</a>
