@@ -38,7 +38,7 @@ box = page['Main']['Content']
 ## Program 2018
 
 <a name="python-scripting-for-typedesigners"></a>
-### Python Scripting for typedesigners (4 weeks)
+### Python scripting for typedesigners (4 weeks)
 #### February 5 - March 5 (Online, 6 places left) &#36;&nbsp;1.900
 
 During this 4 week course, typedesigners learn from scratch how to script micro and macro tasks, during their type design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
@@ -53,7 +53,7 @@ Special emphasis is on how to design the process to write software for designers
 
 ---
 <a name="python-scripting-for-graphicdesigners"></a>
-### Python Scripting for Graphic Designers
+### Python scripting for graphic designers
 #### February 22 + March 14+15 + March 21/22 (On location Den Bosch NL)
 
 This is a closed workshop for Master Students Graphic Design St. Joost. Five days of lesson, spread over 4 weeks, will challenge the students to take one or more of their graphic designs and then design the algorithms that either automate production or can be used to generate alternative versions of their original design.
@@ -74,7 +74,7 @@ Petr van Blokland will contribute to Robothon with a demo of open source scripts
 
 ---
 <a name="python-scripting-for-typedesigners-rt"></a>
-### Python Scripting for typedesigners (3 days)
+### Python scripting for typedesigners (3 days)
 #### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;&nbsp;450
 
 As condensed version of the 4-week “scripting for typedesigners” study, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
@@ -110,7 +110,7 @@ Use cases, models, simulations, sketching and presentation techniques are the su
 
 ---
 <a name="python-scripting-for-graphic-designers"></a>
-### Python Scripting for Graphic Designers (4 weeks)
+### Python scripting for graphic designers (4 weeks)
 #### May 7 - June 4 (Online, 9 places left) &#36;&nbsp;1.900
 
 During this 4 week course, graphic designers learn from scratch how to script micro and macro tasks, during their design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
