@@ -84,7 +84,7 @@ Upon request, special emphasis can be put on the development of scripting for Va
 ---
 <a name="scripting-variable-font-specimens-for-typedesigners-using-pagebot"></a>
 ### Scripting Variable Font specimens for typedesigners using PageBot (1 day)
-#### April 15 (After Typolabs, on location Berlin) (12 places left) &#36;&nbsp;150
+#### April 15 (After Typolabs, on location Berlin, 12 places left) &#36;&nbsp;150
 
 As condensed version of 4-week “scripting for typedesigners”, this single day will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
