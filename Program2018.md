@@ -119,7 +119,7 @@ Use cases, models, simulations, sketching and presentation techniques are the su
 ---
 <a name="python-scripting-for-graphic-designers"></a>
 ### Python scripting for graphic designers (4 weeks)
-#### May 7 - June 4 (Online, 9 places left) &#36;&nbsp;1.900
+#### May 7 - June 4 (Online, 9 places left) &#36;1.900
 
 During this 4 week course, graphic designers learn from scratch how to script micro and macro tasks, during their design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
@@ -191,7 +191,7 @@ How this is origanized depends on your needs and resources. It can even scale do
 ---
 <a name="scripting-variable-font-specimens-for-typedesigners-using-pagebot-atypi"></a>
 ### ATYPI Special: Scripting Variable Font specimens for typedesigners using PageBot (1 day)
-#### September 17 (On location Delft, 20 places left) &#36;&nbsp;150 
+#### September 17 (On location Delft, 20 places left) &#36;150 
 
 This one day condensed workshop, on location in Delft, shows how to develop designer scripts for Variable Fonts using DrawBot/PageBot, generating specimens, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them. Due to the condensed nature of the workshop, some experience with DrawBot coding is recommended.
 
@@ -206,7 +206,7 @@ These algorithms will be translated into Python coding, for which a sequence of 
 ---
 <a name="programming-typography"></a>
 ### Programming typography (1 week)
-#### October 1-8 (Online, 16 places left) &#36;&nbsp;900
+#### October 1-8 (Online, 16 places left) &#36;900
 
 Take one of your more complex typographic projects, that you previously made manual in InDesign. Then ask yourself how the design and production could have been automated using your own scripts? And how much more alternatives could you have visualized? And how much less boring production it would have cost you. 
 This one week workshop shows directions to get algorithms to work, for the parts you shouldn’t want to do as designer. And safe your time for real design work.
@@ -219,7 +219,7 @@ Some experience with DrawBot coding is recommended, but not required for the wee
 ---
 <a name="project-management-for-typedesigners"></a>
 ### Project management for typedesigners (1 day + 1 week + intermediate support)
-#### October 15 and October 22-29 (Online, 16 places left) &#36;&nbsp;1.200
+#### October 15 and October 22-29 (Online, 16 places left) &#36;1.200
 
 You have this challenging complex design project to work on. It is really interesting and rewarding, but also hard to get control about planning and quality. Especially if the project runs over a longer period of time and if there is other people involved.
 This workshop addressed techniques to get this control, and even better make the iterations and failues feed back into your knowledge base and skill set. 
@@ -229,7 +229,7 @@ This workshop addressed techniques to get this control, and even better make the
 ---
 <a name="rapid-prototyping-for-graphic-designers"></a>
 ### Rapid prototyping for graphic designers (1 week)
-#### November 5-12 (Online, 16 places left) &#36;&nbsp;900
+#### November 5-12 (Online, 16 places left) &#36;900
 
 With the definition that design is “management of details”, the design process is essentially controlling the amount of details relevant to a certain stage. In order to get insight on how realistic an idea is (on any level of a project), prototype must be made, as early in the process as possible. This is a very generic characteristic of design. 
 This workshop offers an overview and the development of some prototyping techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching, standard digital tools and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
@@ -239,7 +239,7 @@ This workshop offers an overview and the development of some prototyping techniq
 ---
 <a name="sketching-techniques"></a>
 ### Sketching techniques (1 day + 1 week + intermediate support)
-#### November 19 and November 26-December 3 (Online, 16 places left) &#36;&nbsp;1.200
+#### November 19 and November 26-December 3 (Online, 16 places left) &#36;1.200
 
 Similar to the “Rapid Prototyping” workshop, this too addresses the management of details. But instead, it is more focussed on developing sketching skills than the making of working prototypes.
 
