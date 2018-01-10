@@ -63,13 +63,13 @@ These algorithms will be translated into Python coding, for which a sequence of 
 Traditional Robothon party in Delft, sponsored by Design Design Space.
 
 ---
-### Scripting Variable Fonts specimens for Typedesigners using PageBot 
+### Scripting Variable Fonts specimens for typedesigners using PageBot 
 #### March 8 or March 9: Lecture during Robothon (KABK, The Hague)
 
 Petr van Blokland will contribute to Robothon with a demo of open source scripts running in DrawBot/PageBot, generating specimens for Variable Fonts, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them.
 
 ---
-### Python Scripting for Typedesigners (3 days)
+### Python Scripting for typedesigners (3 days)
 #### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;&nbsp;450
 
 As condensed version of 4-week “scripting for typedesigners”, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
@@ -77,7 +77,7 @@ As condensed version of 4-week “scripting for typedesigners”, these 3 days w
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
 ---
-### Scripting Variable Font specimens for Typedesigners using PageBot (1 day)
+### Scripting Variable Font specimens for typedesigners using PageBot (1 day)
 #### April 15 (After Typolabs, on location Berlin) (12 places left) &#36;&nbsp;150
 
 As condensed version of 4-week “scripting for typedesigners”, this single day will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
@@ -166,7 +166,7 @@ How this is origanized depends on your needs and resources. It can even scale do
 *Sabbatical coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, document sharing through GitHub.*
 
 ---
-### ATYPI Special: Scripting Variable Font specimens for Typedesigners using PageBot (1 day)
+### ATYPI Special: Scripting Variable Font specimens for typedesigners using PageBot (1 day)
 #### September 17 (On location Delft, 20 places left) &#36;&nbsp;150 
 
 This one day condensed workshop, on location in Delft, shows how to develop designer scripts for Variable Fonts using DrawBot/PageBot, generating specimens, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them. Due to the condensed nature of the workshop, some experience with DrawBot coding is recommended.
@@ -191,7 +191,7 @@ Some experience with DrawBot coding is recommended, but not required for the wee
 *Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
  
 ---
-### Project management for Typedesigners (1 day + 1 week + intermediate support)
+### Project management for typedesigners (1 day + 1 week + intermediate support)
 #### October 15 and October 22-29 (Online, 16 places left) &#36;&nbsp;1.200
 
 You have this challenging complex design project to work on. It is really interesting and rewarding, but also hard to get control about planning and quality. Especially if the project runs over a longer period of time and if there is other people involved.
