@@ -37,7 +37,7 @@ box = page['Main']['Content']
 
 ## Program 2018
 ### What is it?
-*Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your way of presentating. In short, a space where you can design your design process. 
+*Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your way of presenting. In short, a space where you can design your design process. 
 
 What kind of challenges do you experience in your daily work as a designer?
 
@@ -45,19 +45,19 @@ Working closely together online with experienced designers and a group of other 
 
 Find the planned program of studies and workshops below. <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact&nbsp;us</a> if you are interested.
 
-<a name="python-scripting-for-typedesigners"></a>
-### Python scripting for typedesigners (4 weeks)
+<a name="python-scripting-for-type-designers"></a>
+### Python scripting for type designers (4 weeks)
 #### February 5 - March 5 (Online, 6 places left) &#36;1.900
 
-During this 4 week course, typedesigners learn from scratch how to script micro and macro tasks, during their type design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
+During this 4 week course, type designers learn from scratch how to script micro and macro tasks, during their type design process. In a series of short specific assignments, if possible, closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
-The study will address Python syntax, specifics of scripting for (type)design, planning, testing, basics of UI/UX design, usage of GIT, PageBot and Variable Font proofing scripts and the specifics of output formats such as fontfiles and documents for print and online usage. During the study, students will build their own QA-knowledge base in the form of scripts that test the current status of their designs and font files.  
+The study will address Python syntax, specifics of scripting for (type)design, planning, testing, basics of UI/UX design, usage of GIT, PageBot and Variable Font proofing scripts and the specifics of output formats, such as font files and documents for print and online usage. During the study, students will build their own QA-knowledge base in the form of scripts that test the current status of their designs and font files.  
 
-Special emphasis is on how to design the process to write software for designers. This aspect makes the project of 4 weeks into a real study, different from online courses “Python scripting”. 
+Special emphasis is on how to design the process to write software for designers. This aspect turns the project of 4 weeks into a real study, different from “Python scripting” online courses. 
 
 *The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
-*Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
+*Each study concludes with an online presentation hangout for all participants and guests and results that can be made public and will remain visible through the website of the project.*
 
 ---
 <a name="python-scripting-for-graphicdesigners"></a>
@@ -65,7 +65,7 @@ Special emphasis is on how to design the process to write software for designers
 #### February 22 + March 14/15 + March 21/22 (On location Den Bosch NL)
 
 This is a closed workshop for Master Students Graphic Design St. Joost. Five days of lesson, spread over 4 weeks, will challenge the students to take one or more of their graphic designs and then design the algorithms that either automate production or can be used to generate alternative versions of their original design.
-These algorithms will be translated into Python coding, for which a sequence of short exercises to learn systax and code patterns.
+These algorithms will be translated into Python coding, for which a sequence of short exercises are offered to learn syntax and code patterns.
 
 ---
 <a name="robothon-design-design-space-party"></a>
@@ -74,27 +74,28 @@ These algorithms will be translated into Python coding, for which a sequence of 
 Traditional Robothon party in Delft, sponsored by Design Design Space.
 
 ---
-<a name="scripting-variable-fonts-specimens-for-typedesigners-using-pagebot"></a>
-### Scripting Variable Fonts specimens for typedesigners using PageBot 
+<a name="scripting-variable-fonts-specimens-for-type-designers-using-pagebot"></a>
+### Scripting Variable Fonts specimens for type designers using PageBot 
 #### March 8 or March 9: Lecture during Robothon (KABK, The Hague, NL)
 
 Petr van Blokland will contribute to Robothon with a demo of open source scripts running in DrawBot/PageBot, generating specimens for Variable Fonts, with layouts and info-graphics that adapt to the types and amount of variable axes and the relations between them.
 
 ---
-<a name="python-scripting-for-typedesigners-rt"></a>
-### Python scripting for typedesigners (3 days)
+<a name="python-scripting-for-type-designers-rt"></a>
+### Python scripting for type designers (3 days)
 #### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;450
+### For a one day or two day version: <a href="mailto:info@designdesign.space?subject=More info about the workshop Python scripting for type designers">ask</a>.
 
-As condensed version of the 4-week “scripting for typedesigners” study, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
+As a condensed version of the 4-week “scripting for type designers” study, these 3 days will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths to develop themselves further in their design practice.
 
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
 ---
-<a name="scripting-variable-font-specimens-for-typedesigners-using-pagebot"></a>
-### Scripting Variable Font specimens for typedesigners using PageBot (1 day)
+<a name="scripting-variable-font-specimens-for-type-designers-using-pagebot"></a>
+### Scripting Variable Font specimens for type designers using PageBot (1 day)
 #### April 15 (After Typolabs, on location Berlin, 12 places left) &#36;150
 
-As condensed version of the 4-week “scripting for typedesigners” study, this single day will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
+As a condensed version of the 4-week “scripting for type designers” study, this single day will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
@@ -114,29 +115,29 @@ Similar techniques apply to the development of parameters and writing code. The 
 ### How to deal with customers? (1 day)
 #### April 26 (Online, 11 places left) &#36;150
 
-Use cases, models, simulations, sketching and presentation techniques are the subject of this 1 day workshop how to deal best with customers. Students are offered to thing about planning in relation to what they charge for their design. The workshop does address the difference between cost and investment, leasure and learning, with special attention on the success of failure.
+Use cases, models, simulations, sketching and presentation techniques are the subject of this 1 day workshop how to deal best with customers. Students are offered to think about planning in relation to what they charge for their design. The workshop addresses the difference between cost and investment, leisure and learning, with special attention on the success of failure.
 
 ---
 <a name="python-scripting-for-graphic-designers"></a>
 ### Python scripting for graphic designers (4 weeks)
 #### May 7 - June 4 (Online, 9 places left) &#36;1.900
 
-During this 4 week course, graphic designers learn from scratch how to script micro and macro tasks, during their design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
+During this 4 week course, graphic designers learn from scratch how to script micro and macro tasks, during their design process. In a series of short specific assignments, if possible, closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
-The study will address Python syntax, specifics of scripting for (type)design, planning, testing, basics of UI/UX design, usage of GIT, PageBot scripts and the specifics of output formats such as documents for print and online usage. During the study, students will build their own QA-knowledge base in the form of scripts that test the current status of their designs and output files.  
+The study will address Python syntax, specifics of scripting for (type)design, planning, testing, basics of UI/UX design, usage of GIT, PageBot scripts and the specifics of output formats, such as documents for print and online usage. During the study, students will build their own QA-knowledge base in the form of scripts that test the current status of their designs and output files.  
 
-Special emphasis is on how to design the process to write software for designers. This aspect makes the project of 4 weeks into a real study, different from online courses “Python scripting”. 
+Special emphasis is on how to design the process of writing software for designers. This aspect turns the project of 4 weeks into a real study, different from online courses “Python scripting”. 
 
 *The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, code and document sharing through GitHub, live online presentations by teachers and students, presentations through documents and movies.*
 
-*Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
+*Each study concludes with an online presentation hangout for all participants and guests and results that can be made public and will remain visible through the website of the project.*
 
 ---
 <a name="typelab-typographics"></a>
 ### TypeLab
 #### June 14-16 (On location during Typographics New York, 3 days) Free for participants of Typographics
 
-The TypeLab at Typographics 2018 will host a series of hands-on work­shops, demos, inter­views, and experiments, June 14–16.
+The TypeLab at Typographics 2018 will host a series of hands-on work­shops, demos, inter­views and experiments, June 14–16.
 Keeping with its alternative roots, the TypeLab is a space for informal events to complement the main schedule of the Typographics conference – like a multi-day typographic hackathon.
 
 ---
@@ -148,22 +149,22 @@ This event is for designers of all experience levels, students, educators and ot
 
 Did you ever want to know what clients try to talk about? And why designers always run out of time? Why design processes are not linear and thinking always is? And how to do that as a team? Would you know how it is to balance on the wrong foot? Or why you never should participate in pitches? 
 
-36 designers, 9 studios, 3 customers, 13 tables, 42 chairs, 26 designs, 4 rounds and your set of physical drawing tools make the simulated design space where you can seek answers to these questions. But even then, the Design Game may not give you any. But for sure, you’ll get a hell of experience, never to forget.
+36 designers, 9 studios, 3 customers, 13 tables, 42 chairs, 26 designs, 4 rounds and your set of physical drawing tools make the simulated design space where you can seek answers to these questions. But even then, the Design Game may not give you any. But for sure, you’ll get a hell of a lot of experience, never to forget.
 
 ---
 <a name="workshops-typographics"></a>
 ### Various workshops around Typographics
 #### Dates and topics to be defined (On location, Cooper Union, New York)
 
-Similar to the Typographics workshop <a href="http://coopertype.org/event/how_to_code_all_your_graphic_design_designing_the_design_process_with_pageb" target="External">“How to Code All Your Graphic Design: Designing the Design Process with PageBot”</a> workshops will be origanized. Dates and topcis to be defined.
+Similar to the Typographics workshop <a href="http://coopertype.org/event/how_to_code_all_your_graphic_design_designing_the_design_process_with_pageb" target="External">“How to Code All Your Graphic Design: Designing the Design Process with PageBot”</a> workshops will be organized. Dates and topics to be defined.
 
 ---
-<a name="live-coaching-your-design-project"></a>
-### Live coaching your (type)design project 
+<a name="live-coaching-of-your-design-project"></a>
+### Live coaching of your (type)design project 
 #### Online, customized planning and topics. Ask for details on time and price.
 
-You have this challenging complex design project to work on. It is really interesting and rewarding, but also hard to get control about planning and quality. Especially if the project runs over a longer period of time and if there is other people involved.
-Design Design Space offers the opportunity of live coaching. How this is origanized depends on your needs. It can be one day of support while writing the quote, up to helping you with management and feedback of the entire project. All customized to what is required and available as budget.
+You have this challenging complex design project to work on. It is really interesting and rewarding, but it is hard to get planning and quality under control. Especially if the project runs over a longer period of time and if there are other people involved.
+Design Design Space offers the opportunity of live coaching. How this is organized, depends on your needs. It can be as one day of support while writing the quote, up to helping you with management and feedback of the entire project. All customized to what is required and available as budget.
 
 *Live coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, code and document sharing through GitHub.*
 
@@ -172,7 +173,7 @@ Design Design Space offers the opportunity of live coaching. How this is origani
 ### Live coaching while starting your studio 
 #### Online, customized planning and topics. Ask for details on time and price.
 
-You are in the working of starting your own studio. Either recently graduated or you have been working in a design studio for years and now it is time to start your own. It is promising to be really interesting and rewarding, but also hard to get control about planning, budget and how to acquire clients or paying users. Design Design Space offers the opportunity of live coaching. How this is origanized depends on your needs. It can be one day of support, going through your plans and responding to them, up to helping you with management and feedback of the entire setup. All customized to what is required and available as budget.
+You are working on starting your own studio. Either recently graduated or you have been working in a design studio for years and now it is time to start your own. It is promising to be really interesting and rewarding, but also hard to get control over planning, budget and how to acquire clients or paying users. Design Design Space offers the opportunity of live coaching. How this is organized depends on your needs. It can be one day of support, going through your plans and responding to them, up to helping you with management and feedback of the entire setup. All customized to what is required and available as budget.
 
 *Live coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, document sharing through GitHub.*
 
@@ -180,17 +181,17 @@ You are in the working of starting your own studio. Either recently graduated or
 <a name="virtual-sabbatical"></a>
 ### Virtual sabbatical 
 #### Online, customized planning and topics. Ask for details. 
-#### &#36;&nbsp;150 (one day) &#36;&nbsp;900 (one week) &#36;&nbsp;1.900 (one month) &#36;&nbsp;3.900 (a season) &#36;&nbsp;7.900 (a year)
+#### &#36;150 (one day), &#36;900 (one week), &#36;1.900 (one month), &#36;3.900 (a season), &#36;7.900 (a year)
 
-You have been working as designer for years now, as part of a studio or on your own. You have been really succesful or a bit less, in any case there can be a point to answer the question “What’s next?”. At the same time you don’t think you have the age or freedom or financial resources to take a real sabbatical break and do a Master study abroad for 2 years.
-Design Design Space offers the opportunity of doing a virtual sabbatical: studying new topics or deepen that ones you already know in a challenging online environment. Together with other students that are searching for the same kind of extension to their professional career. 
-How this is origanized depends on your needs and resources. It can even scale down to a single day project, or take a whole year or any period of time inbetween. All customized to helps you best and what is available as budget.
+You have been working as a designer for years now, employed by a studio or running your own. You have been really successful or a bit less, in any case, there can be a point to answer the question “What’s next?”. At the same time, you don’t think you have the age or freedom or financial resources to take a real sabbatical break and do a Master study abroad for 2 years.
+Design Design Space offers the opportunity of doing a virtual sabbatical: studying new topics or deepen the ones that you already know in a challenging online environment. Together with other students that are searching for the same kind of extension to their professional career. 
+How this is organized depends on your needs and resources. It can even be scaled down to a single day project, or take a whole year or any period of time in between. All customized to what helps you best and what is available as budget.
 
 *Sabbatical coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, document sharing through GitHub.*
 
 ---
-<a name="scripting-variable-font-specimens-for-typedesigners-using-pagebot-atypi"></a>
-### ATYPI Special: Scripting Variable Font specimens for typedesigners using PageBot (1 day)
+<a name="scripting-variable-font-specimens-for-type-designers-using-pagebot-atypi"></a>
+### ATYPI Special: Scripting Variable Font specimens for type designers using PageBot (1 day)
 #### September 17 (On location Delft, 20 places left) &#36;150 
 
 This one day condensed workshop, on location in Delft, shows how to develop designer scripts for Variable Fonts using DrawBot/PageBot, generating specimens, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them. Due to the condensed nature of the workshop, some experience with DrawBot coding is recommended.
@@ -201,28 +202,28 @@ This one day condensed workshop, on location in Delft, shows how to develop desi
 #### October (On location Den Bosch NL)
 
 This is a closed workshop for Master Students Graphic Design St. Joost. Five days of lesson, spread over 4 weeks, will challenge the students to take one or more of their graphic designs and then design the algorithms that either automate production or can be used to generate alternative versions of their original design.
-These algorithms will be translated into Python coding, for which a sequence of short exercises studied to learn systax and code patterns.
+These algorithms will be translated into Python coding, for which a sequence of short exercises are offered to learn syntax and code patterns.
 
 ---
 <a name="programming-typography"></a>
 ### Programming typography (1 week)
 #### October 1-8 (Online, 16 places left) &#36;900
 
-Take one of your more complex typographic projects, that you previously made manual in InDesign. Then ask yourself how the design and production could have been automated using your own scripts? And how much more alternatives could you have visualized? And how much less boring production it would have cost you. 
-This one week workshop shows directions to get algorithms to work, for the parts you shouldn’t want to do as designer. And safe your time for real design work.
+Take one of your more complex typographic projects, that you have previously manually made in InDesign. Then ask yourself how the design and production could have been automated using your own scripts? And how much more alternatives could you have visualized? And how much less boring production it would have cost you. 
+This one week workshop shows directions to get algorithms to work, for the parts you shouldn’t want to do as designer. And save your time for real design work.
 Some experience with DrawBot coding is recommended, but not required for the week of study.
 
 *The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
-*Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
+*Each study concludes with an online presentation hangout for all participants and guests and results that can be made public and will remain visible through the website of the project.*
  
 ---
-<a name="project-management-for-typedesigners"></a>
-### Project management for typedesigners (1 day + 1 week + intermediate support)
+<a name="project-management-for-type-designers"></a>
+### Project management for type designers (1 day + intermediate support + 1 week)
 #### October 15 and October 22-29 (Online, 16 places left) &#36;1.200
 
-You have this challenging complex design project to work on. It is really interesting and rewarding, but also hard to get control about planning and quality. Especially if the project runs over a longer period of time and if there is other people involved.
-This workshop addressed techniques to get this control, and even better make the iterations and failues feed back into your knowledge base and skill set. 
+You have this challenging complex design project to work on. It is really interesting and rewarding, but it is hard to get planning and quality under control. Especially if the project runs over a longer period of time and if there are other people involved.
+This workshop addresses techniques to get this control, and even better, to make the iterations and failures feed back into your knowledge base and skill set. 
 
 *The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
@@ -231,34 +232,34 @@ This workshop addressed techniques to get this control, and even better make the
 ### Rapid prototyping for graphic designers (1 week)
 #### November 5-12 (Online, 16 places left) &#36;900
 
-With the definition that design is “management of details”, the design process is essentially controlling the amount of details relevant to a certain stage. In order to get insight on how realistic an idea is (on any level of a project), prototype must be made, as early in the process as possible. This is a very generic characteristic of design. 
-This workshop offers an overview and the development of some prototyping techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching, standard digital tools and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
+With the definition that design is the “management of details”, the design process is essentially controlling the amount of details relevant to a certain stage. In order to get insight on how realistic an idea is (on any level of a project), a prototype must be made, as early in the process as possible. This is a very generic characteristic of design. 
+This workshop offers an overview and the development of some prototyping techniques for graphic designers, typographers and type designers using a mixture of physical sketching, standard digital tools and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
 
 *The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ---
 <a name="sketching-techniques"></a>
-### Sketching techniques (1 day + 1 week + intermediate support)
+### Sketching techniques (1 day + intermediate support + 1 week)
 #### November 19 and November 26-December 3 (Online, 16 places left) &#36;1.200
 
-Similar to the “Rapid Prototyping” workshop, this too addresses the management of details. But instead, it is more focussed on developing sketching skills than the making of working prototypes.
+Similar to the “Rapid Prototyping” workshop, this addresses the management of details as well. But instead, it is more focussed on developing sketching skills than the making of working prototypes.
 
 This workshop offers an overview and the development of sketching techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
 
-*Online workshops builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
+*The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ## *Design Design Space*
 ### Is it for you?
-By definition designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning – “There is still plenty of time”, a design is never finished – “The next one will always be better”. Do you recognize?
+By definition, designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning – “There is still plenty of time”, and a design is never finished – “The next one will always be better”. Do you recognize?
 
-However, the fact that most designs are supposed to meet external requirements, the final deadline may have a much larger impact on the quality of the result, than the personal opinion of the designer.
+However, the fact that the most designs are supposed to meet external requirements, the final deadline may have a much larger impact on the quality of the result, than the personal opinion of the designer.
 
 How do you make this apparent conflict work to your advantage? Would you benefit from exercises and coaching?
 
 ### How much time do you need?
-The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour, basically goes through the same stages (research – design – presentation) as a project of 1 year. 
+The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour basically goes through the same stages (research – design – presentation) as a project of 1 year. 
 
-Of course, it does matters how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is part of the requirements. The result can still be better than anything your customer would have done. 
+Of course it does matter how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is a part of the requirements. The result can still be better than anything your customer would have done. 
 
 How would you design such a design process better next time?
 
@@ -308,7 +309,7 @@ box = page['Main']['Side']
 ~~~
 
 ![DesignModels2.009.png](docs/images/DesignModels2.009.png)
-*What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?* Read what *Design Design Space* has to offer.
+*What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to your advantage?* Read what *Design Design Space* has to offer.
 
 ~~~Python
 box = page['Footer']
