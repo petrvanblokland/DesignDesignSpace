@@ -36,6 +36,14 @@ box = page['Main']['Content']
 ~~~
 
 ## Program 2018
+### What is it?
+*Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your way of presentating. In short, a space where you can design your design process. 
+
+What kind of challenges do you experience in your daily work as a designer?
+
+Working closely together online with experienced designers and a group of other students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
+
+Find the planned program of studies and workshops below. <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact&nbsp;us</a> if you are interested.
 
 <a name="python-scripting-for-typedesigners"></a>
 ### Python scripting for typedesigners (4 weeks)
@@ -240,13 +248,6 @@ This workshop offers an overview and the development of sketching techniques for
 *Online workshops builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ## *Design Design Space*
-### What is it?
-*Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your way of presentating. In short, a space where you can design your design process. 
-
-What kind of challenges do you experience in your daily work as a designer?
-
-Working closely together online with experienced designers and a group of other students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
-
 ### Is it for you?
 By definition designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning – “There is still plenty of time”, a design is never finished – “The next one will always be better”. Do you recognize?
 
