@@ -54,7 +54,7 @@ Special emphasis is on how to design the process to write software for designers
 ---
 <a name="python-scripting-for-graphicdesigners"></a>
 ### Python scripting for graphic designers
-#### February 22 + March 14+15 + March 21/22 (On location Den Bosch NL)
+#### February 22 + March 14/15 + March 21/22 (On location Den Bosch NL)
 
 This is a closed workshop for Master Students Graphic Design St. Joost. Five days of lesson, spread over 4 weeks, will challenge the students to take one or more of their graphic designs and then design the algorithms that either automate production or can be used to generate alternative versions of their original design.
 These algorithms will be translated into Python coding, for which a sequence of short exercises to learn systax and code patterns.
