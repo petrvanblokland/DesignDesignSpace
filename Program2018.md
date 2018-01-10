@@ -165,7 +165,11 @@ You are in the working of starting your own studio. Either recently graduated or
 
 ---
 ### Virtual sabbatical 
-#### &#36;150 (one day), &#36;900 (one week), &#36;1.900 (one month), &#36;3.900 (a season), &#36;7.900 (a year)
+#### &#36;150 (one day)
+#### &#36;900 (one week)
+#### &#36;1.900 (one month)
+#### &#36;3.900 (a season)
+#### &#36;7.900 (a year)
 #### Online, customized planning and topics. Ask for details.
 
 You have been working as designer for years now, as part of a studio or on your own. You have been really succesful or a bit less, in any case there can be a point to answer the question “What’s next?”. At the same time you don’t think you have the age or freedom or financial resources to take a real sabbatical break and do a Master study abroad for 2 years.
