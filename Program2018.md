@@ -47,7 +47,7 @@ The study will address Python syntax, specifics of scripting for (type)design, p
 
 Special emphasis is on how to design the process to write software for designers. This aspect makes the project of 4 weeks into a real study, different from online courses “Python scripting”. 
 
-*Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
+*The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 *Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
 
@@ -99,7 +99,7 @@ Focus of this one day workshop is on the development and selection of modeling b
 
 Similar techniques apply to the development of parameters and writing code. The workshop does put special emphasis on the integration of all these techniques into one extended toolset that designers can select from.
 
-*Online workshops build up from an intensive mixture of personal hangouts, group hangouts, code and document sharing through GitHub and live online presentations by teachers and students.*
+*The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, code and document sharing through GitHub and live online presentations by teachers and students.*
 
 ---
 <a name="how-to-deal-with-customers"></a>
@@ -119,7 +119,7 @@ The study will address Python syntax, specifics of scripting for (type)design, p
 
 Special emphasis is on how to design the process to write software for designers. This aspect makes the project of 4 weeks into a real study, different from online courses “Python scripting”. 
 
-*Online workshops build up from an intensive mixture of personal hangouts, group hangouts, code and document sharing through GitHub, live online presentations by teachers and students, presentations through documents and movies.*
+*The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, code and document sharing through GitHub, live online presentations by teachers and students, presentations through documents and movies.*
 
 *Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
 
@@ -204,7 +204,7 @@ Take one of your more complex typographic projects, that you previously made man
 This one week workshop shows directions to get algorithms to work, for the parts you shouldn’t want to do as designer. And safe your time for real design work.
 Some experience with DrawBot coding is recommended, but not required for the week of study.
 
-*Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
+*The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 *Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
  
@@ -216,7 +216,7 @@ Some experience with DrawBot coding is recommended, but not required for the wee
 You have this challenging complex design project to work on. It is really interesting and rewarding, but also hard to get control about planning and quality. Especially if the project runs over a longer period of time and if there is other people involved.
 This workshop addressed techniques to get this control, and even better make the iterations and failues feed back into your knowledge base and skill set. 
 
-*Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
+*The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ---
 <a name="rapid-prototyping-for-graphic-designers"></a>
@@ -226,7 +226,7 @@ This workshop addressed techniques to get this control, and even better make the
 With the definition that design is “management of details”, the design process is essentially controlling the amount of details relevant to a certain stage. In order to get insight on how realistic an idea is (on any level of a project), prototype must be made, as early in the process as possible. This is a very generic characteristic of design. 
 This workshop offers an overview and the development of some prototyping techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching, standard digital tools and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
 
-*Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
+*The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ---
 <a name="sketching-techniques"></a>
@@ -237,7 +237,7 @@ Similar to the “Rapid Prototyping” workshop, this too addresses the manageme
 
 This workshop offers an overview and the development of sketching techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
 
-*Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
+*Online workshops builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ## *Design Design Space*
 ### What is it?
