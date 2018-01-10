@@ -77,7 +77,7 @@ Petr van Blokland will contribute to Robothon with a demo of open source scripts
 ### Python Scripting for typedesigners (3 days)
 #### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;&nbsp;450
 
-As condensed version of 4-week “scripting for typedesigners”, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
+As condensed version of the 4-week “scripting for typedesigners” study, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
@@ -86,7 +86,7 @@ Upon request, special emphasis can be put on the development of scripting for Va
 ### Scripting Variable Font specimens for typedesigners using PageBot (1 day)
 #### April 15 (After Typolabs, on location Berlin, 12 places left) &#36;&nbsp;150
 
-As condensed version of 4-week “scripting for typedesigners”, this single day will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
+As condensed version of the 4-week “scripting for typedesigners” study, this single day will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
