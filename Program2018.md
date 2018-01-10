@@ -69,7 +69,7 @@ Traditional Robothon party in Delft, sponsored by Design Design Space.
 Petr van Blokland will contribute to Robothon with a demo of open source scripts running in DrawBot/PageBot, generating specimens for Variable Fonts, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them.
 
 ---
-### <a name="python-scripting-for-typedesigners-robothon"></a>Python Scripting for typedesigners (3 days)
+### <a name="python-scripting-for-typedesigners-rt"></a>Python Scripting for typedesigners (3 days)
 #### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;&nbsp;450
 
 As condensed version of 4-week “scripting for typedesigners”, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
