@@ -38,8 +38,8 @@ box = page['Main']['Content']
 ## Program 2018
 
 ### Python Scripting for typedesigners (4 weeks)
-#### &#36;1.900
 #### February 5 - March 5 (Online, 6 places left)
+#### &#36;1.900
 
 During this 4 week course, typedesigners learn from scratch how to script micro and macro tasks, during their type design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
@@ -71,8 +71,8 @@ Petr van Blokland will contribute to Robothon with a demo of open source scripts
 
 ---
 ### Python Scripting for Typedesigners (3 days)
-#### &#36;450
 #### March 10-12 (Special Robothon edition, on location in Delft, 12 places left)
+#### &#36;450
 
 As condensed version of 4-week “scripting for typedesigners”, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
@@ -80,8 +80,8 @@ Upon request, special emphasis can be put on the development of scripting for Va
 
 ---
 ### Scripting Variable Font specimens for Typedesigners using PageBot (1 day)
-#### &#36;150
 #### April 15 (After Typolabs, on location Berlin) (12 places left)
+#### &#36;150
 
 As condensed version of 4-week “scripting for typedesigners”, this single day will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
@@ -89,8 +89,8 @@ Upon request, special emphasis can be put on the development of scripting for Va
 
 ---
 ### Design models (1 day)
-#### &#36;150
 #### April 24 (Online, 10 places left)
+#### &#36;150
 
 Focus of this one day workshop is on the development and selection of modeling by graphic designers, typographers and type designers. Any design process can only work by managing the level of details. Sketching and the making of small scale models is such a technique, where the design can get an impression about design choices in early stages of the process, without actually making the “real thing”. 
 
@@ -100,15 +100,15 @@ Similar techniques apply to the development of parameters and writing code. The 
 
 ---
 ### How to deal with customers? (1 day)
-#### &#36;150
 #### April 26 (Online, 11 places left)
+#### &#36;150
 
 Use cases, models, simulations, sketching and presentation techniques are the subject of this 1 day workshop how to deal best with customers. Students are offered to thing about planning in relation to what they charge for their design. The workshop does address the difference between cost and investment, leasure and learning, with special attention on the success of failure.
 
 ---
 ### Python Scripting for Graphic Designers (4 weeks)
-#### &#36;1.900
 #### May 7 - June 4 (Online, 9 places left)
+#### &#36;1.900
 
 During this 4 week course, graphic designers learn from scratch how to script micro and macro tasks, during their design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
@@ -122,16 +122,16 @@ Special emphasis is on how to design the process to write software for designers
 
 ---
 ### TypeLab
-#### Free for participants of Typographics
 #### June 14-16 (On location during Typographics New York, 3 days)
+#### Free for participants of Typographics
 
 The TypeLab at Typographics 2018 will host a series of hands-on work­shops, demos, inter­views, and experiments, June 14–16.
 Keeping with its alternative roots, the TypeLab is a space for informal events to complement the main schedule of the Typographics conference – like a multi-day typographic hackathon.
 
 ---
 ### Design Game 
-#### Participation is free.
 #### June 17 (On location during Typographics, Cooper Union, New York, 1 day) 
+#### Participation is free.
 
 This event is for designers of all experience levels, students, educators and other professionals. It’s an intensive 4+ hour event, come on time and plan to stay. 
 
@@ -162,15 +162,14 @@ You are in the working of starting your own studio. Either recently graduated or
 
 *Live coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, document sharing through GitHub.*
 
-
 ---
 ### Virtual sabbatical 
+#### Online, customized planning and topics. Ask for details.
 #### &#36;150 (one day)
 #### &#36;900 (one week)
 #### &#36;1.900 (one month)
 #### &#36;3.900 (a season)
 #### &#36;7.900 (a year)
-#### Online, customized planning and topics. Ask for details.
 
 You have been working as designer for years now, as part of a studio or on your own. You have been really succesful or a bit less, in any case there can be a point to answer the question “What’s next?”. At the same time you don’t think you have the age or freedom or financial resources to take a real sabbatical break and do a Master study abroad for 2 years.
 Design Design Space offers the opportunity of doing a virtual sabbatical: studying new topics or deepen that ones you already know in a challenging online environment. Together with other students that are searching for the same kind of extension to their professional career. 
@@ -180,8 +179,8 @@ How this is origanized depends on your needs and resources. It can even scale do
 
 ---
 ### ATYPI Special: Scripting Variable Font specimens for Typedesigners using PageBot (1 day)
-#### &#36;150 
 #### September 17 (On location Delft, 20 places left)
+#### &#36;150 
 
 This one day condensed workshop, on location in Delft, shows how to develop designer scripts for Variable Fonts using DrawBot/PageBot, generating specimens, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them. Due to the condensed nature of the workshop, some experience with DrawBot coding is recommended.
 
@@ -194,8 +193,8 @@ These algorithms will be translated into Python coding, for which a sequence of 
 
 ---
 ### Programming typography (1 week)
-#### &#36;900
 #### October 1-8 (Online, 16 places left)
+#### &#36;900
 
 Take one of your more complex typographic projects, that you previously made manual in InDesign. Then ask yourself how the design and production could have been automated using your own scripts? And how much more alternatives could you have visualized? And how much less boring production it would have cost you. 
 This one week workshop shows directions to get algorithms to work, for the parts you shouldn’t want to do as designer. And safe your time for real design work.
@@ -207,8 +206,8 @@ Some experience with DrawBot coding is recommended, but not required for the wee
  
 ---
 ### Project management for Typedesigners (1 day + 1 week + intermediate support)
-#### &#36;1.200
 #### October 15 and October 22-29 (Online, 16 places left)
+#### &#36;1.200
 
 You have this challenging complex design project to work on. It is really interesting and rewarding, but also hard to get control about planning and quality. Especially if the project runs over a longer period of time and if there is other people involved.
 This workshop addressed techniques to get this control, and even better make the iterations and failues feed back into your knowledge base and skill set. 
@@ -217,8 +216,8 @@ This workshop addressed techniques to get this control, and even better make the
 
 ---
 ### Rapid prototyping for graphic designers (1 week)
-#### &#36;900
 #### November 5-12 (Online, 16 places left)
+#### &#36;900
 
 With the definition that design is “management of details”, the design process is essentially controlling the amount of details relevant to a certain stage. In order to get insight on how realistic an idea is (on any level of a project), prototype must be made, as early in the process as possible. This is a very generic characteristic of design. 
 This workshop offers an overview and the development of some prototyping techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching, standard digital tools and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
@@ -227,8 +226,8 @@ This workshop offers an overview and the development of some prototyping techniq
 
 ---
 ### Sketching techniques (1 day + 1 week + intermediate support)
-#### &#36;1.200
 #### November 19 and November 26-December 3 (Online, 16 places left)
+#### &#36;1.200
 
 Similar to the “Rapid Prototyping” workshop, this too addresses the management of details. But instead, it is more focussed on developing sketching skills than the making of working prototypes.
 
