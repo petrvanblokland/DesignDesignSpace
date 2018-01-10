@@ -512,7 +512,7 @@ input[type=submit] {
 }
 .mainContent h3 {
   font-family: "Upgrade-Semibold", sans;
-  color: #828487;
+  color: 0; /*#828487;*/
   font-weight: normal;
   letter-spacing: 0;
   margin-top: 0.6em;
@@ -990,6 +990,7 @@ input[type=submit] {
 
   .mainContent h3 {
     font-family: "Upgrade-Semibold", sans;
+    color: 0; /*#828487;*/
     font-weight: normal;
     letter-spacing: 0;
     margin-top: 0.3em;
