@@ -39,7 +39,7 @@ box = page['Main']['Content']
 
 <a name="python-scripting-for-typedesigners"></a>
 ### Python scripting for typedesigners (4 weeks)
-#### February 5 - March 5 (Online, 6 places left) &#36;&nbsp;1.900
+#### February 5 - March 5 (Online, 6 places left) &#36;1.900
 
 During this 4 week course, typedesigners learn from scratch how to script micro and macro tasks, during their type design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
@@ -70,12 +70,12 @@ Traditional Robothon party in Delft, sponsored by Design Design Space.
 ### Scripting Variable Fonts specimens for typedesigners using PageBot 
 #### March 8 or March 9: Lecture during Robothon (KABK, The Hague)
 
-Petr van Blokland will contribute to Robothon with a demo of open source scripts running in DrawBot/PageBot, generating specimens for Variable Fonts, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them.
+Petr van Blokland will contribute to Robothon with a demo of open source scripts running in DrawBot/PageBot, generating specimens for Variable Fonts, with layouts and info-graphics that adapt to the types and amount of variable axes and the relations between them.
 
 ---
 <a name="python-scripting-for-typedesigners-rt"></a>
 ### Python scripting for typedesigners (3 days)
-#### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;&nbsp;450
+#### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;450
 
 As condensed version of the 4-week “scripting for typedesigners” study, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
@@ -84,7 +84,7 @@ Upon request, special emphasis can be put on the development of scripting for Va
 ---
 <a name="scripting-variable-font-specimens-for-typedesigners-using-pagebot"></a>
 ### Scripting Variable Font specimens for typedesigners using PageBot (1 day)
-#### April 15 (After Typolabs, on location Berlin, 12 places left) &#36;&nbsp;150
+#### April 15 (After Typolabs, on location Berlin, 12 places left) &#36;150
 
 As condensed version of the 4-week “scripting for typedesigners” study, this single day will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
@@ -93,7 +93,7 @@ Upon request, special emphasis can be put on the development of scripting for Va
 ---
 <a name="design-models"></a>
 ### Design models (1 day)
-#### April 24 (Online, 10 places left) &#36;&nbsp;150
+#### April 24 (Online, 10 places left) &#36;150
 
 Focus of this one day workshop is on the development and selection of modeling by graphic designers, typographers and type designers. Any design process can only work by managing the level of details. Sketching and the making of small scale models is such a technique, where the design can get an impression about design choices in early stages of the process, without actually making the “real thing”. 
 
@@ -104,7 +104,7 @@ Similar techniques apply to the development of parameters and writing code. The 
 ---
 <a name="how-to-deal-with-customers"></a>
 ### How to deal with customers? (1 day)
-#### April 26 (Online, 11 places left) &#36;&nbsp;150
+#### April 26 (Online, 11 places left) &#36;150
 
 Use cases, models, simulations, sketching and presentation techniques are the subject of this 1 day workshop how to deal best with customers. Students are offered to thing about planning in relation to what they charge for their design. The workshop does address the difference between cost and investment, leasure and learning, with special attention on the success of failure.
 
