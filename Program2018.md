@@ -17,7 +17,25 @@ box = page['Introduction']
 """What are the dreams and dragons in your design process? How do you change a plan into a planning and mistakes into treasures? Where can you find the design space to develop?"""
 
 ~~~
-## *Design Design Space*
+~~~Python
+box = page['Featured']['Image']
+~~~
+
+![DesignModels2-91-1.png](docs/images/DesignModels2-91-1.png)
+
+~~~Python
+box = page['Featured']['Side']
+~~~
+
+## Repeat to improve
+What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail.
+
+##<a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact&nbsp;us</a>##
+~~~Python
+box = page['Main']['Content']
+~~~
+
+## Program 2018
 
 ### Python Scripting for Typedesigners (4 weeks)
 #### February 5 - March 5 (Online, 6 places left)
@@ -212,25 +230,6 @@ This workshop offers an overview and the development of sketching techniques for
 #### &#36;1.200
 
 *Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
-
-
-~~~Python
-box = page['Featured']['Image']
-~~~
-
-![DesignModels2-91-1.png](docs/images/DesignModels2-91-1.png)
-
-~~~Python
-box = page['Featured']['Side']
-~~~
-
-## Repeat to improve
-What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail.
-
-##<a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact&nbsp;us</a>##
-~~~Python
-box = page['Main']['Content']
-~~~
 
 ## *Design Design Space*
 ### What is it?

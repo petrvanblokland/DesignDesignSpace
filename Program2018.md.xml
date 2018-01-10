@@ -17,7 +17,20 @@ box = page['Introduction']
 
 </code></pre>
 
-<h2><em>Design Design Space</em></h2>
+<pre><code class="Python">box = page['Featured']['Image']
+</code></pre>
+
+<p><img alt="DesignModels2-91-1.png" src="docs/images/DesignModels2-91-1.png" /></p>
+<pre><code class="Python">box = page['Featured']['Side']
+</code></pre>
+
+<h2>Repeat to improve</h2>
+<p>What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail.</p>
+<h2><a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us</a></h2>
+<pre><code class="Python">box = page['Main']['Content']
+</code></pre>
+
+<h2>Program 2018</h2>
 <h3>Python Scripting for Typedesigners (4 weeks)</h3>
 <h4>February 5 - March 5 (Online, 6 places left)</h4>
 <p>During this 4 week course, typedesigners learn from scratch how to script micro and macro tasks, during their type design process. In a series of short specific assignments, if possible closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.</p>
@@ -132,19 +145,6 @@ This workshop offers an overview and the development of some prototyping techniq
 <p>This workshop offers an overview and the development of sketching techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.</p>
 <h4>&#36;1.200</h4>
 <p><em>Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.</em></p>
-<pre><code class="Python">box = page['Featured']['Image']
-</code></pre>
-
-<p><img alt="DesignModels2-91-1.png" src="docs/images/DesignModels2-91-1.png" /></p>
-<pre><code class="Python">box = page['Featured']['Side']
-</code></pre>
-
-<h2>Repeat to improve</h2>
-<p>What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail.</p>
-<h2><a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us</a></h2>
-<pre><code class="Python">box = page['Main']['Content']
-</code></pre>
-
 <h2><em>Design Design Space</em></h2>
 <h3>What is it?</h3>
 <p><em>Design Design Space</em> is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your way of presentating. In short, a space where you can design your design process. </p>
