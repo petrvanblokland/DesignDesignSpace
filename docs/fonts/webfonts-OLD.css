@@ -2,27 +2,27 @@
 
 @font-face {
   font-family: "Upgrade-Italic";
-  src: url("Upgrade-BookItalic.eot") format("eot"),
-  url("Upgrade-BookItalic.woff2") format("woff2"),
-  url("Upgrade-BookItalic.woff") format("woff");
+  src: url("Upgrade-Italic.eot") format("eot"),
+  url("Upgrade-Italic.woff2") format("woff2"),
+  url("Upgrade-Italic.woff") format("woff");
 }
 @font-face {
   font-family: "Upgrade-Regular";
-  src: url("Upgrade-Book.eot") format("eot"),
-  url("Upgrade-Book.woff2") format("woff2"),
-  url("Upgrade-Book.woff") format("woff");
+  src: url("Upgrade-Regular.eot") format("eot"),
+  url("Upgrade-Regular.woff2") format("woff2"),
+  url("Upgrade-Regular.woff") format("woff");
 }
 @font-face {
   font-family: "Upgrade-SemiboldItalic";
-  src: url("Upgrade-Medium_Italic.eot") format("eot"),
-  url("Upgrade-Medium_Italic.woff2") format("woff2"),
-  url("Upgrade-Medium_Italic.woff") format("woff");
+  src: url("Upgrade-Semibold_Italic.eot") format("eot"),
+  url("Upgrade-Semibold_Italic.woff2") format("woff2"),
+  url("Upgrade-Semibold_Italic.woff") format("woff");
 }
 @font-face {
   font-family: "Upgrade-Semibold";
-src: url("Upgrade-Medium.eot") format("eot"),
-  url("Upgrade-Medium.woff2") format("woff2"),
-  url("Upgrade-Medium.woff") format("woff");
+src: url("Upgrade-Semibold.eot") format("eot"),
+  url("Upgrade-Semibold.woff2") format("woff2"),
+  url("Upgrade-Semibold.woff") format("woff");
 }
 @font-face {
   font-family: "Upgrade-BoldItalic";
