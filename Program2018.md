@@ -76,7 +76,7 @@ Traditional Robothon party in Delft, sponsored by Design Design Space.
 ---
 <a name="scripting-variable-fonts-specimens-for-typedesigners-using-pagebot"></a>
 ### Scripting Variable Fonts specimens for typedesigners using PageBot 
-#### March 8 or March 9: Lecture during Robothon (KABK, The Hague)
+#### March 8 or March 9: Lecture during Robothon (KABK, The Hague, NL)
 
 Petr van Blokland will contribute to Robothon with a demo of open source scripts running in DrawBot/PageBot, generating specimens for Variable Fonts, with layouts and info-graphics that adapt to the types and amount of variable axes and the relations between them.
 
@@ -201,7 +201,7 @@ This one day condensed workshop, on location in Delft, shows how to develop desi
 #### October (On location Den Bosch NL)
 
 This is a closed workshop for Master Students Graphic Design St. Joost. Five days of lesson, spread over 4 weeks, will challenge the students to take one or more of their graphic designs and then design the algorithms that either automate production or can be used to generate alternative versions of their original design.
-These algorithms will be translated into Python coding, for which a sequence of short exercises to learn systax and code patterns.
+These algorithms will be translated into Python coding, for which a sequence of short exercises studied to learn systax and code patterns.
 
 ---
 <a name="programming-typography"></a>
