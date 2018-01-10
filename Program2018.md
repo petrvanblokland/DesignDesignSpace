@@ -37,6 +37,7 @@ box = page['Main']['Content']
 
 ## Program 2018
 
+<a name="python-scripting-for-typedesigners"></a>
 ### Python Scripting for typedesigners (4 weeks)
 #### February 5 - March 5 (Online, 6 places left) &#36;&nbsp;1.900
 
@@ -51,6 +52,7 @@ Special emphasis is on how to design the process to write software for designers
 *Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
 
 ---
+<a name="python-scripting-for-graphicdesigners"></a>
 ### Python Scripting for Graphic Designers
 #### February 22 + March 14+15 + March 21/22 (On location Den Bosch NL)
 
@@ -58,18 +60,21 @@ This is a closed workshop for Master Students Graphic Design St. Joost. Five day
 These algorithms will be translated into Python coding, for which a sequence of short exercises to learn systax and code patterns.
 
 ---
+<a name="robothon-design-design-space-party"></a>
 ### Robothon | Design Design Space Party 
 #### March 8 (On location, Delft. Free for all Robothon participants)
 Traditional Robothon party in Delft, sponsored by Design Design Space.
 
 ---
+<a name="scripting-variable-fonts-specimens-for-typedesigners-using-pagebot"></a>
 ### Scripting Variable Fonts specimens for typedesigners using PageBot 
 #### March 8 or March 9: Lecture during Robothon (KABK, The Hague)
 
 Petr van Blokland will contribute to Robothon with a demo of open source scripts running in DrawBot/PageBot, generating specimens for Variable Fonts, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them.
 
 ---
-### <a name="python-scripting-for-typedesigners-rt"></a>Python Scripting for typedesigners (3 days)
+<a name="python-scripting-for-typedesigners-rt"></a>
+### Python Scripting for typedesigners (3 days)
 #### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;&nbsp;450
 
 As condensed version of 4-week “scripting for typedesigners”, these 3 days will address the highlights in order to set typedesigners in the right direction of thinking. The intend is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
@@ -77,6 +82,7 @@ As condensed version of 4-week “scripting for typedesigners”, these 3 days w
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
 ---
+<a name="scripting-variable-font-specimens-for-typedesigners-using-pagebot"></a>
 ### Scripting Variable Font specimens for typedesigners using PageBot (1 day)
 #### April 15 (After Typolabs, on location Berlin) (12 places left) &#36;&nbsp;150
 
@@ -85,6 +91,7 @@ As condensed version of 4-week “scripting for typedesigners”, this single da
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
 ---
+<a name="design-models"></a>
 ### Design models (1 day)
 #### April 24 (Online, 10 places left) &#36;&nbsp;150
 
@@ -95,12 +102,14 @@ Similar techniques apply to the development of parameters and writing code. The 
 *Online workshops build up from an intensive mixture of personal hangouts, group hangouts, code and document sharing through GitHub and live online presentations by teachers and students.*
 
 ---
+<a name="how-to-deal-with-customers"></a>
 ### How to deal with customers? (1 day)
 #### April 26 (Online, 11 places left) &#36;&nbsp;150
 
 Use cases, models, simulations, sketching and presentation techniques are the subject of this 1 day workshop how to deal best with customers. Students are offered to thing about planning in relation to what they charge for their design. The workshop does address the difference between cost and investment, leasure and learning, with special attention on the success of failure.
 
 ---
+<a name="python-scripting-for-graphic-designers"></a>
 ### Python Scripting for Graphic Designers (4 weeks)
 #### May 7 - June 4 (Online, 9 places left) &#36;&nbsp;1.900
 
@@ -115,6 +124,7 @@ Special emphasis is on how to design the process to write software for designers
 *Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
 
 ---
+<a name="typelab-typographics"></a>
 ### TypeLab
 #### June 14-16 (On location during Typographics New York, 3 days) Free for participants of Typographics
 
@@ -122,6 +132,7 @@ The TypeLab at Typographics 2018 will host a series of hands-on work­shops, dem
 Keeping with its alternative roots, the TypeLab is a space for informal events to complement the main schedule of the Typographics conference – like a multi-day typographic hackathon.
 
 ---
+<a name="design-game-typographics"></a>
 ### Design Game 
 #### June 17 (On location during Typographics, Cooper Union, New York, 1 day) Participation is free.
 
@@ -132,12 +143,14 @@ Did you ever want to know what clients try to talk about? And why designers alwa
 36 designers, 9 studios, 3 customers, 13 tables, 42 chairs, 26 designs, 4 rounds and your set of physical drawing tools make the simulated design space where you can seek answers to these questions. But even then, the Design Game may not give you any. But for sure, you’ll get a hell of experience, never to forget.
 
 ---
+<a name="workshops-typographics"></a>
 ### Various workshops around Typographics
 #### Dates and topics to be defined (On location, Cooper Union, New York)
 
 Similar to the Typographics workshop <a href="http://coopertype.org/event/how_to_code_all_your_graphic_design_designing_the_design_process_with_pageb" target="External">“How to Code All Your Graphic Design: Designing the Design Process with PageBot”</a> workshops will be origanized. Dates and topcis to be defined.
 
 ---
+<a name="live-coaching-your-design-project"></a>
 ### Live coaching your (type)design project 
 #### Online, customized planning and topics. Ask for details on time and price.
 
@@ -147,6 +160,7 @@ Design Design Space offers the opportunity of live coaching. How this is origani
 *Live coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, code and document sharing through GitHub.*
 
 ---
+<a name="live-coaching-while-starting-your-studio"></a>
 ### Live coaching while starting your studio 
 #### Online, customized planning and topics. Ask for details on time and price.
 
@@ -155,6 +169,7 @@ You are in the working of starting your own studio. Either recently graduated or
 *Live coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, document sharing through GitHub.*
 
 ---
+<a name="virtual-sabbatical"></a>
 ### Virtual sabbatical 
 #### Online, customized planning and topics. Ask for details. 
 #### &#36;&nbsp;150 (one day) &#36;&nbsp;900 (one week) &#36;&nbsp;1.900 (one month) &#36;&nbsp;3.900 (a season) &#36;&nbsp;7.900 (a year)
@@ -166,12 +181,14 @@ How this is origanized depends on your needs and resources. It can even scale do
 *Sabbatical coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, document sharing through GitHub.*
 
 ---
+<a name="scripting-variable-font-specimens-for-typedesigners-using-pagebot-atypi"></a>
 ### ATYPI Special: Scripting Variable Font specimens for typedesigners using PageBot (1 day)
 #### September 17 (On location Delft, 20 places left) &#36;&nbsp;150 
 
 This one day condensed workshop, on location in Delft, shows how to develop designer scripts for Variable Fonts using DrawBot/PageBot, generating specimens, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them. Due to the condensed nature of the workshop, some experience with DrawBot coding is recommended.
 
 ---
+<a name="design-the-design-process"></a>
 ### Design the Design Process
 #### October (On location Den Bosch NL)
 
@@ -179,6 +196,7 @@ This is a closed workshop for Master Students Graphic Design St. Joost. Five day
 These algorithms will be translated into Python coding, for which a sequence of short exercises to learn systax and code patterns.
 
 ---
+<a name="programming-typography"></a>
 ### Programming typography (1 week)
 #### October 1-8 (Online, 16 places left) &#36;&nbsp;900
 
@@ -191,6 +209,7 @@ Some experience with DrawBot coding is recommended, but not required for the wee
 *Each study concludes with an online presentation hangout to all participants and guests and results that can be made public will remain visible through the website of the project.*
  
 ---
+<a name="project-management-for-typedesigners"></a>
 ### Project management for typedesigners (1 day + 1 week + intermediate support)
 #### October 15 and October 22-29 (Online, 16 places left) &#36;&nbsp;1.200
 
@@ -200,6 +219,7 @@ This workshop addressed techniques to get this control, and even better make the
 *Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ---
+<a name="rapid-prototyping-for-graphic-designers"></a>
 ### Rapid prototyping for graphic designers (1 week)
 #### November 5-12 (Online, 16 places left) &#36;&nbsp;900
 
@@ -209,6 +229,7 @@ This workshop offers an overview and the development of some prototyping techniq
 *Online workshops build up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
 ---
+<a name="sketching-techniques"></a>
 ### Sketching techniques (1 day + 1 week + intermediate support)
 #### November 19 and November 26-December 3 (Online, 16 places left) &#36;&nbsp;1.200
 
