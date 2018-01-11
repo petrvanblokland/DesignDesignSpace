@@ -1839,9 +1839,13 @@ input[type=submit] {
    .featured h2 a:hover {
      color: #444;
      background-color: #FEC654;
-    margin-top: 0.6em; 
-    margin-bottom: 0em; 
-    padding: 0.2em;
+    margin-top: 1em; 
+    margin-bottom: 1em; 
+    padding-right: 0.75em;
+    padding-left: 0.75em;
+    padding-top: 0.35em;
+    padding-bottom: 0.35em;
+    border-radius:38px;
     }
 .contentpart {
   border: 1px dotted gray;
