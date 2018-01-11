@@ -782,7 +782,8 @@ input[type=submit] {
 
   /* MOBILE NAVIGATION */
   .mobilenavigation {
-    display: inline-block;
+    display: block;
+    position:fixed;
     font-size: 1.2em;
     line-height: 1.1em;
     padding: o;
@@ -1723,7 +1724,7 @@ input[type=submit] {
   padding-right: 2em;
   margin-right: 0;
   padding-left: 1em;
-  padding-top: 1em;
+  padding-top: 3em;
   padding-bottom: 1em;
   background-color: #EEE;
 }
@@ -2251,14 +2252,17 @@ input[type=submit] {
 
   /* MOBILE NAVIGATION */
   .mobilenavigation {
-    display: inline-block;
+    position:fixed;
+    top:0;
+    display: block;
     font-size: 1.2em;
     line-height: 1.1em;
-    padding: o;
-    margin: 0;
+    padding: 0;
+    margin-bottom: 1em;
     width: 30%;
     height: 42px;
     background: #323a47;
+    background-color: rgba(50,58,69,1);
     z-index: 1000;
   }
 
