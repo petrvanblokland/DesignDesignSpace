@@ -308,7 +308,8 @@ input[type=submit] {
   margin-right: 0;
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color: #323a47;
+  /*background-color: #323a47;*/
+  background-color: #202750;
   /*background-image: url("../images/background.png"); */}
   .featured h2 {
     font-family: "Upgrade-Regular", sans;
@@ -350,19 +351,27 @@ input[type=submit] {
    .featured h2 a {
      font-family: "Upgrade-Semibold", sans;
      font-size: 0.6em;
-     line-height: 1.1em;
+     line-height: 1.3em;
      color: #222;
      background-color: #FC8332;
-    margin-top: 0.6em; 
-    margin-bottom: 0em; 
-    padding: 0.2em;
+    margin-top: 1em; 
+    margin-bottom: 1em; 
+    padding-right: 0.75em;
+    padding-left: 0.75em;
+    padding-top: 0.35em;
+    padding-bottom: 0.35em;
+    border-radius:38px;
    }
    .featured h2 a:hover {
      color: #444;
      background-color: #FEC654;
-    margin-top: 0.6em; 
-    margin-bottom: 0em; 
-    padding: 0.2em;
+    margin-top:1em; 
+    margin-bottom: 1em; 
+    padding-right: 0.75em;
+    padding-left: 0.75em;
+    padding-top: 0.35em;
+    padding-bottom: 0.35em;
+    border-radius:38px;
     }
 .contentpart {
   border: 1px dotted gray;
@@ -929,7 +938,7 @@ input[type=submit] {
     padding-right: 0;
     margin-right: 0;
     padding-bottom: 0.5em;
-    background-color: #323a47;
+    background-color: #202750;
     /*background-image: url("../images/background.png"); */
     }
     .featured h3 {
