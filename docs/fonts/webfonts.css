@@ -2,9 +2,9 @@
 
 @font-face {
   font-family: "Upgrade-Italic";
-  src: url("Upgrade-BookItalic.eot") format("eot"),
-  url("Upgrade-BookItalic.woff2") format("woff2"),
-  url("Upgrade-BookItalic.woff") format("woff");
+  src: url("Upgrade-Book_Italic.eot") format("eot"),
+  url("Upgrade-Book_Italic.woff2") format("woff2"),
+  url("Upgrade-Book_Italic.woff") format("woff");
 }
 @font-face {
   font-family: "Upgrade-Regular";
@@ -20,7 +20,7 @@
 }
 @font-face {
   font-family: "Upgrade-Semibold";
-src: url("Upgrade-Medium.eot") format("eot"),
+  src: url("Upgrade-Medium.eot") format("eot"),
   url("Upgrade-Medium.woff2") format("woff2"),
   url("Upgrade-Medium.woff") format("woff");
 }
