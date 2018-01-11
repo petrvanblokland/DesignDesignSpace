@@ -316,7 +316,7 @@ input[type=submit] {
     letter-spacing: 0;
     font-style: normal;
     font-weight: normal;
-    font-size: 2.4em;
+    font-size: 2em;
     color: #EEE;
     line-height: 1.2em;
     margin-bottom: 0.2em; }
@@ -1782,7 +1782,7 @@ input[type=submit] {
   margin-right: 0;
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color: #323a47;
+  background-color: #202750;
   /*background-image: url("../images/background.png"); */}
   .featured h2 {
     font-family: "Upgrade-Regular", sans;
@@ -1827,9 +1827,13 @@ input[type=submit] {
      line-height: 1.1em;
      color: #222;
      background-color: #FC8332;
-    margin-top: 0.6em; 
-    margin-bottom: 0em; 
-    padding: 0.2em;
+    margin-top: 1em; 
+    margin-bottom: 1em; 
+    padding-right: 0.75em;
+    padding-left: 0.75em;
+    padding-top: 0.35em;
+    padding-bottom: 0.35em;
+    border-radius:38px;
    }
    .featured h2 a:hover {
      color: #444;
@@ -2403,7 +2407,7 @@ input[type=submit] {
     padding-right: 0;
     margin-right: 0;
     padding-bottom: 0.5em;
-    background-color: #323a47;
+    background-color: #202750;
     /*background-image: url("../images/background.png"); */
     }
     .featured h3 {
