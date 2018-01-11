@@ -35,7 +35,7 @@ p {
   letter-spacing: 0;
 }
 em {
-  font-family: "Upgrade-Italic", sans;
+  font-family: "Upgrade-RegularItalic", sans;
 }
 h1, h2, h3, h4, h5 {
   font-style: nornal;
@@ -289,7 +289,7 @@ input[type=submit] {
     margin-bottom: 0; 
 }
   .introduction h3 em {
-    font-family: "Upgrade-Italic", sans;
+    font-family: "Upgrade-RegularItalic", sans;
     font-style: normal;
 }
 
@@ -320,7 +320,7 @@ input[type=submit] {
     line-height: 1.2em;
     margin-bottom: 0.2em; }
   .featured h2 em {
-    font-family: "Upgrade-Italic", sans;
+    font-family: "Upgrade-RegularItalic", sans;
     font-style: normal;
     color:#EEE;
 }
@@ -454,7 +454,7 @@ input[type=submit] {
     text-indent: 1.5em;
     margin: 0; }
   .section p em {
-    font-family: "Upgrade-Italic", sans;
+    font-family: "Upgrade-RegularItalic", sans;
   }
   .section blockquote {
     border-left: 4px solid #ccc;
@@ -485,7 +485,7 @@ input[type=submit] {
   margin-top: 0em;
   margin-bottom: 1em; }
 .mainContent p em {
-    font-family: "Upgrade-Italic", sans;}
+    font-family: "Upgrade-RegularItalic", sans;}
 .mainContent h1 {
   font-family: "Upgrade-Bold", sans;
   font-size: 2.5em;
@@ -914,7 +914,7 @@ input[type=submit] {
     text-indent: 1.5em;
     margin: 0; }
    .section p em {
-    font-family: "Upgrade-Italic", sans;}
+    font-family: "Upgrade-RegularItalic", sans;}
   .featured {
     color: #e1e1e1;
     font-style: normal;
