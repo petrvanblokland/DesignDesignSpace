@@ -75,7 +75,7 @@ Find the planned program of studies and workshops below. <a href="mailto:info@de
 
 <a name="python-scripting-for-type-designers"></a>
 ### Python scripting for type designers (4 weeks)
-#### February 5 - March 5 (Online, 6 places left) &#36;1.900
+#### February 5 - March 5 (Online, 6 places left) &#36;1.900 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 During this 4 week course, type designers learn from scratch how to script micro and macro tasks, during their type design process. In a series of short specific assignments, if possible, closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
@@ -111,7 +111,7 @@ Petr van Blokland will contribute to Robothon with a demo of open source scripts
 ---
 <a name="python-scripting-for-type-designers-rt"></a>
 ### Python scripting for type designers (3 days)
-#### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;450
+#### March 10-12 (Special Robothon edition, on location in Delft, 12 places left) &#36;450 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 ### For a one day or two days version: <a href="mailto:info@designdesign.space?subject=Question about the March 10/12 workshop Python scripting for type designers">ask</a>.
 
 As a condensed version of the 4-week “scripting for type designers” study, these 3 days will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths to develop themselves further in their design practice.
@@ -121,7 +121,7 @@ Upon request, special emphasis can be put on the development of scripting for Va
 ---
 <a name="scripting-variable-font-specimens-for-type-designers-using-pagebot"></a>
 ### Scripting Variable Font specimens for type designers using PageBot (1 day)
-#### April 15 (After Typolabs, on location Berlin, 12 places left) &#36;150
+#### April 15 (After Typolabs, on location Berlin, 12 places left) &#36;150 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 As a condensed version of the 4-week “scripting for type designers” study, this single day will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
@@ -130,7 +130,7 @@ Upon request, special emphasis can be put on the development of scripting for Va
 ---
 <a name="design-models"></a>
 ### Design models (1 day)
-#### April 24 (Online, 10 places left) &#36;150
+#### April 24 (Online, 10 places left) &#36;150 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 Focus of this one day workshop is on the development and selection of modeling by graphic designers, typographers and type designers. Any design process can only work by managing the level of details. Sketching and the making of small scale models is such a technique, where the design can get an impression about design choices in early stages of the process, without actually making the “real thing”. 
 
@@ -141,14 +141,14 @@ Similar techniques apply to the development of parameters and writing code. The 
 ---
 <a name="how-to-deal-with-customers"></a>
 ### How to deal with customers? (1 day)
-#### April 26 (Online, 11 places left) &#36;150
+#### April 26 (Online, 11 places left) &#36;150 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 Use cases, models, simulations, sketching and presentation techniques are the subject of this 1 day workshop how to deal best with customers. Students are offered to think about planning in relation to what they charge for their design. The workshop addresses the difference between cost and investment, leisure and learning, with special attention on the success of failure.
 
 ---
 <a name="python-scripting-for-graphic-designers"></a>
 ### Python scripting for graphic designers (4 weeks)
-#### May 7 - June 4 (Online, 9 places left) &#36;1.900
+#### May 7 - June 4 (Online, 9 places left) &#36;1.900 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 During this 4 week course, graphic designers learn from scratch how to script micro and macro tasks, during their design process. In a series of short specific assignments, if possible, closely related to their daily tasks, the designers learn to recognize design patterns that can be automated, breaking them down into existing functions and ones that need to be developed.
 
@@ -199,8 +199,8 @@ Design Design Space offers the opportunity of live coaching. How this is organiz
 ---
 <a name="live-coaching-while-starting-your-studio"></a>
 ### Live coaching while starting your studio 
-#### Online, customized planning and topics. Ask for details on time and price.
-
+#### Online, customized planning and topics. <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Ask for details on time and price.</a>
+ 
 You are working on starting your own studio. Either recently graduated or you have been working in a design studio for years and now it is time to start your own. It is promising to be really interesting and rewarding, but also hard to get control over planning, budget and how to acquire clients or paying users. Design Design Space offers the opportunity of live coaching. How this is organized depends on your needs. It can be one day of support, going through your plans and responding to them, up to helping you with management and feedback of the entire setup. All customized to what is required and available as budget.
 
 *Live coaching uses an intensive mixture of personal hangouts, group hangouts, live online presentations by coaches and designers, document sharing through GitHub.*
@@ -209,7 +209,7 @@ You are working on starting your own studio. Either recently graduated or you ha
 <a name="virtual-sabbatical"></a>
 ### Virtual sabbatical 
 #### Online, customized planning and topics. Ask for details. 
-#### &#36;150 (one day), &#36;900 (one week), &#36;1.900 (one month), &#36;3.900 (a season), &#36;7.900 (a year)
+#### &#36;150 (one day), &#36;900 (one week), &#36;1.900 (one month), &#36;3.900 (a season), &#36;7.900 (a year) <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 You have been working as a designer for years now, employed by a studio or running your own. You have been really successful or a bit less, in any case, there can be a point to answer the question “What’s next?”. At the same time, you don’t think you have the age or freedom or financial resources to take a real sabbatical break and do a Master study abroad for 2 years.
 Design Design Space offers the opportunity of doing a virtual sabbatical: studying new topics or deepen the ones that you already know in a challenging online environment. Together with other students that are searching for the same kind of extension to their professional career. 
@@ -220,7 +220,8 @@ How this is organized depends on your needs and resources. It can even be scaled
 ---
 <a name="scripting-variable-font-specimens-for-type-designers-using-pagebot-atypi"></a>
 ### ATYPI Special: Scripting Variable Font specimens for type designers using PageBot (1 day)
-#### September 17 (On location Delft, 20 places left) &#36;150 
+#### September 17 (On location Delft, 20 places left) &#36;150 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
+
 
 This one day condensed workshop, on location in Delft, shows how to develop designer scripts for Variable Fonts using DrawBot/PageBot, generating specimens, with layouts and info-graphics that adapt to types and amount of variable axes and the relations between them. Due to the condensed nature of the workshop, some experience with DrawBot coding is recommended.
 
@@ -235,7 +236,7 @@ These algorithms will be translated into Python coding, for which a sequence of 
 ---
 <a name="programming-typography"></a>
 ### Programming typography (1 week)
-#### October 1-8 (Online, 16 places left) &#36;900
+#### October 1-8 (Online, 16 places left) &#36;900 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 Take one of your more complex typographic projects, that you have previously manually made in InDesign. Then ask yourself how the design and production could have been automated using your own scripts? And how much more alternatives could you have visualized? And how much less boring production it would have cost you. 
 This one week workshop shows directions to get algorithms to work, for the parts you shouldn’t want to do as designer. And save your time for real design work.
@@ -248,7 +249,7 @@ Some experience with DrawBot coding is recommended, but not required for the wee
 ---
 <a name="project-management-for-type-designers"></a>
 ### Project management for type designers (1 day + intermediate support + 1 week)
-#### October 15 and October 22-29 (Online, 16 places left) &#36;1.200
+#### October 15 and October 22-29 (Online, 16 places left) &#36;1.200 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
 You have this challenging complex design project to work on. It is really interesting and rewarding, but it is hard to get planning and quality under control. Especially if the project runs over a longer period of time and if there are other people involved.
 This workshop addresses techniques to get this control, and even better, to make the iterations and failures feed back into your knowledge base and skill set. 
@@ -258,7 +259,8 @@ This workshop addresses techniques to get this control, and even better, to make
 ---
 <a name="rapid-prototyping-for-graphic-designers"></a>
 ### Rapid prototyping for graphic designers (1 week)
-#### November 5-12 (Online, 16 places left) &#36;900
+#### November 5-12 (Online, 16 places left) &#36;900 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
+
 
 With the definition that design is the “management of details”, the design process is essentially controlling the amount of details relevant to a certain stage. In order to get insight on how realistic an idea is (on any level of a project), a prototype must be made, as early in the process as possible. This is a very generic characteristic of design. 
 This workshop offers an overview and the development of some prototyping techniques for graphic designers, typographers and type designers using a mixture of physical sketching, standard digital tools and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
@@ -268,13 +270,48 @@ This workshop offers an overview and the development of some prototyping techniq
 ---
 <a name="sketching-techniques"></a>
 ### Sketching techniques (1 day + intermediate support + 1 week)
-#### November 19 and November 26-December 3 (Online, 16 places left) &#36;1.200
+#### November 19 and November 26-December 3 (Online, 16 places left) &#36;1.200 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
+
 
 Similar to the “Rapid Prototyping” workshop, this addresses the management of details as well. But instead, it is more focussed on developing sketching skills than the making of working prototypes.
 
 This workshop offers an overview and the development of sketching techniques for graphic designers, typographers and typdesigners using a mixture of physical sketching and coding. Focus of the workshop is to give students enough options and directions to develop themselves further.
 
 *The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
+
+<a name="how-to-reserve-and-pay"></a>
+## How to reserve and pay?
+<a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us for available space</a>
+
+### Bank
+Paying through direct bank transfer:
+
+Buro Petr van Blokland + Claudia Mens
+
+IBAN NL62RABO0129859338, BIC RABONL2U
+
+Inside EU: Add your VAT number, we will send you an invoice.
+
+Inside The Netherlands: Add 21% BTW, we will send you an invoice.
+
+### Paypal
+Buro Petr van Blokland + Claudia Mens | E-mail: buro@petr.com
+
+#### Add +4% costs:
+
+1 day &#36;150 + &#36;6 = &#36;156 
+
+3 days &#36;450 + &#36;18 = &#36;468 
+
+1 week &#36;900 + &#36;36 = &#36;936 
+
+1 day + 1 week &#36;1.200 + &#36;48 = &#36;1.248 
+
+4 weeks &#36;1.900 + &#36;76 = &#36;1.976 
+
+1 season &#36;3.900 + &#36;156 = &#36;4.056 
+
+1 year &#36;7.900 + &#36;316 = &#36;8.216
 
 ## *Design Design Space*
 ### Is it for you?
