@@ -45,6 +45,8 @@ Working closely together online with experienced designers and a group of other 
 
 Find the planned program of studies and workshops below. <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact&nbsp;us</a> if you are interested.
 
+~~~Python
+"""
 |Study/Workshop|Date|Length|Where|Places|
 |---|---|---|---|---|
 |<a href="#python-scripting-for-type-designers">Python scripting for type designers</a>|Feb&nbsp;4<br/>Mar&nbsp;5|4&nbsp;weeks|Online|6|
@@ -66,8 +68,9 @@ Find the planned program of studies and workshops below. <a href="mailto:info@de
 |<a name="#programming-typography">Programming typography</a>|Oct&nbsp;1-8|1 week|Online|16
 |<a name="#project-management-for-type-designers">Project management for type designers</a>|Oct&nbsp;15 and Oct&nbsp;22-29|1 day +<br/>1 week|Online|16|
 |<a name="#rapid-prototyping-for-graphic-designers">Rapid prototyping for graphic designers</a>|Nov&nbsp;5-12|1 week|Online|16|
-|<a name="#sketching-techniques">Sketching techniques</a>|Nov&nbsp;19 Nov&nbsp;26-Dec&nbsp;3|1 day+<br/>1 week|Online|16
-
+|<a name="#sketching-techniques">Sketching techniques</a>|Nov&nbsp;19 Nov&nbsp;26-Dec&nbsp;3|1 day+<br/>1 week|Online|16|
+"""
+~~~
 
 
 <a name="python-scripting-for-type-designers"></a>

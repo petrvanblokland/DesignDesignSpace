@@ -36,28 +36,32 @@ box = page['Introduction']
 <p>What kind of challenges do you experience in your daily work as a designer?</p>
 <p>Working closely together online with experienced designers and a group of other students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.</p>
 <p>Find the planned program of studies and workshops below. <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us</a> if you are interested.</p>
-<p>|Study/Workshop|Date|Length|Where|Places|<br />
-|---|---|---|---|---|<br />
-|<a href="#python-scripting-for-type-designers">Python scripting for type designers</a>|Feb 4<br/>Mar 5|4 weeks|Online|6|<br />
-|<a name="#python-scripting-for-graphicdesigners">Python scripting for graphic designers</a>|Feb 22<br/>Mar 14/15<br/>Mar 21/22|5 days|Den Bosch NL|Full|<br />
-|<a name="#robothon-design-design-space-party">Robothon Design Design Space Party</a>|Mar 8|Evening|Delft|Robothon| <br />
-|<a name="#scripting-variable-fonts-specimens-for-type-designers-using-pagebot">Scripting Variable Fonts specimens for type designers using PageBot</a>|Mar 8 or Mar 9|30 min|KABK The Hague|Robothon<br />
-|<a name="#scripting-variable-font-specimens-for-type-designers-using-pagebot">Scripting Variable Font specimens for type designers using PageBot</a>|Apr 15|1 day|Berlin|12|<br />
-|<a name="#design-models">Design models</a>|Apr 24|1 day|Online|10|<br />
-|<a name="#how-to-deal-with-customers">How to deal with customers?</a>|Apr 26|1 day|Online|11<br />
-|<a name="#python-scripting-for-graphic-designers">Python scripting for graphic designers</a>|May 7 Jun 4|4 weeks|Online|9|<br />
-|<a name="#typelab-typographics">TypeLab</a>|Jun 14-16|3 days|New York|Typographics|<br />
-|<a name="#design-game-typographics">Design Game</a>|Jun 17|5 hrs|New York|52|<br />
-|<a name="workshops-typographics">Various workshops around Typographics</a>|TBD|2 days?|New York||<br />
-|<a name="#live-coaching-of-your-design-project">Live coaching of your (type)design project</a>|Custom|TBD|Online||<br />
-|<a name="#live-coaching-while-starting-your-studio">Live coaching while starting your studio</a>|Custom|TBD|Online||<br />
-|<a name="#virtual-sabbatical">Virtual sabbatical</a>|Custom|TBD|Online||<br />
-|<a name="#scripting-variable-font-specimens-for-type-designers-using-pagebot-atypi">ATYPI Special: Scripting Variable Font specimens for type designers using PageBot</a>|Sept 17|1 day|Delft|20|<br />
-|<a name="#design-the-design-process">Design the Design Process</a>|October|1 week|Den Bosch|Full|<br />
-|<a name="#programming-typography">Programming typography</a>|Oct 1-8|1 week|Online|16<br />
-|<a name="#project-management-for-type-designers">Project management for type designers</a>|Oct 15 and Oct 22-29|1 day +<br/>1 week|Online|16|<br />
-|<a name="#rapid-prototyping-for-graphic-designers">Rapid prototyping for graphic designers</a>|Nov 5-12|1 week|Online|16|<br />
-|<a name="#sketching-techniques">Sketching techniques</a>|Nov 19 Nov 26-Dec 3|1 day+<br/>1 week|Online|16</p>
+<pre><code class="Python">&quot;&quot;&quot;
+|Study/Workshop|Date|Length|Where|Places|
+|---|---|---|---|---|
+|&lt;a href=&quot;#python-scripting-for-type-designers&quot;&gt;Python scripting for type designers&lt;/a&gt;|Feb&amp;nbsp;4&lt;br/&gt;Mar&amp;nbsp;5|4&amp;nbsp;weeks|Online|6|
+|&lt;a name=&quot;#python-scripting-for-graphicdesigners&quot;&gt;Python scripting for graphic designers&lt;/a&gt;|Feb&amp;nbsp;22&lt;br/&gt;Mar&amp;nbsp;14/15&lt;br/&gt;Mar&amp;nbsp;21/22|5 days|Den&amp;nbsp;Bosch&amp;nbsp;NL|Full|
+|&lt;a name=&quot;#robothon-design-design-space-party&quot;&gt;Robothon Design Design Space Party&lt;/a&gt;|Mar&amp;nbsp;8|Evening|Delft|Robothon| 
+|&lt;a name=&quot;#scripting-variable-fonts-specimens-for-type-designers-using-pagebot&quot;&gt;Scripting Variable Fonts specimens for type designers using PageBot&lt;/a&gt;|Mar&amp;nbsp;8&amp;nbsp;or&amp;nbsp;Mar&amp;nbsp;9|30 min|KABK The&amp;nbsp;Hague|Robothon
+|&lt;a name=&quot;#scripting-variable-font-specimens-for-type-designers-using-pagebot&quot;&gt;Scripting Variable Font specimens for type designers using PageBot&lt;/a&gt;|Apr&amp;nbsp;15|1 day|Berlin|12|
+|&lt;a name=&quot;#design-models&quot;&gt;Design models&lt;/a&gt;|Apr&amp;nbsp;24|1 day|Online|10|
+|&lt;a name=&quot;#how-to-deal-with-customers&quot;&gt;How to deal with customers?&lt;/a&gt;|Apr&amp;nbsp;26|1 day|Online|11
+|&lt;a name=&quot;#python-scripting-for-graphic-designers&quot;&gt;Python scripting for graphic designers&lt;/a&gt;|May&amp;nbsp;7 Jun&amp;nbsp;4|4 weeks|Online|9|
+|&lt;a name=&quot;#typelab-typographics&quot;&gt;TypeLab&lt;/a&gt;|Jun&amp;nbsp;14-16|3 days|New York|Typographics|
+|&lt;a name=&quot;#design-game-typographics&quot;&gt;Design Game&lt;/a&gt;|Jun&amp;nbsp;17|5 hrs|New York|52|
+|&lt;a name=&quot;workshops-typographics&quot;&gt;Various workshops around Typographics&lt;/a&gt;|TBD|2 days?|New York||
+|&lt;a name=&quot;#live-coaching-of-your-design-project&quot;&gt;Live coaching of your (type)design project&lt;/a&gt;|Custom|TBD|Online||
+|&lt;a name=&quot;#live-coaching-while-starting-your-studio&quot;&gt;Live coaching while starting your studio&lt;/a&gt;|Custom|TBD|Online||
+|&lt;a name=&quot;#virtual-sabbatical&quot;&gt;Virtual sabbatical&lt;/a&gt;|Custom|TBD|Online||
+|&lt;a name=&quot;#scripting-variable-font-specimens-for-type-designers-using-pagebot-atypi&quot;&gt;ATYPI Special: Scripting Variable Font specimens for type designers using PageBot&lt;/a&gt;|Sept&amp;nbsp;17|1 day|Delft|20|
+|&lt;a name=&quot;#design-the-design-process&quot;&gt;Design the Design Process&lt;/a&gt;|October|1 week|Den Bosch|Full|
+|&lt;a name=&quot;#programming-typography&quot;&gt;Programming typography&lt;/a&gt;|Oct&amp;nbsp;1-8|1 week|Online|16
+|&lt;a name=&quot;#project-management-for-type-designers&quot;&gt;Project management for type designers&lt;/a&gt;|Oct&amp;nbsp;15 and Oct&amp;nbsp;22-29|1 day +&lt;br/&gt;1 week|Online|16|
+|&lt;a name=&quot;#rapid-prototyping-for-graphic-designers&quot;&gt;Rapid prototyping for graphic designers&lt;/a&gt;|Nov&amp;nbsp;5-12|1 week|Online|16|
+|&lt;a name=&quot;#sketching-techniques&quot;&gt;Sketching techniques&lt;/a&gt;|Nov&amp;nbsp;19 Nov&amp;nbsp;26-Dec&amp;nbsp;3|1 day+&lt;br/&gt;1 week|Online|16|
+&quot;&quot;&quot;
+</code></pre>
+
 <p><a name="python-scripting-for-type-designers"></a></p>
 <h3>Python scripting for type designers (4 weeks)</h3>
 <h4>February 5 - March 5 (Online, 6 places left) &#36;1.900</h4>
