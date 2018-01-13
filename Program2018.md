@@ -88,9 +88,9 @@ Special emphasis is on how to design the process to write software for designers
 *Each study concludes with an online presentation hangout for all participants and guests and results that can be made public and will remain visible through the website of the project.*
 
 ####See also after TypoLabs:
-<a href="#scripting-variable-font-specimens-for-type-designers-using-pagebot-tl">Scripting Variable Font specimens</a> (1 day workshop)
+<a href="#scripting-variable-font-specimens-for-type-designers-using-pagebot-tl">Scripting Variable Font specimens</a> (1 day workshop, on location Berlin)
 ####See also after Robothon:
-<a href="#python-scripting-for-type-designers-rt">Scripting for type designers</a> (3 days workshop)
+<a href="#python-scripting-for-type-designers-rt">Scripting for type designers</a> (3 days workshop, on location Delft)
 
 ---
 <a name="python-scripting-for-graphicdesigners"></a>
