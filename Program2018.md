@@ -111,19 +111,20 @@ Petr van Blokland will contribute to Robothon with a demo of open source scripts
 ---
 <a name="python-scripting-for-type-designers-rt"></a>
 ### Python scripting for type designers (3 days)
-#### March 10-12 (Special Robothon edition, on location in Delft, 12 spaces left) &#36;450 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
-### For a one day or two days version: <a href="mailto:info@designdesign.space?subject=Question about the March 10/12 workshop Python scripting for type designers">ask</a>.
+#### March 10-12 (Special Robothon edition, on location in Delft, 11 spaces left) &#36;450 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
-As a condensed version of the 4-week “scripting for type designers” study, these 3 days will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths to develop themselves further in their design practice.
+As a condensed version of the 4-week (February 5 - March 5) “scripting for type designers” study, these 3 days will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths to develop themselves further in their design practice.
 
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
+
+### For a one day or two days version: <a href="mailto:info@designdesign.space?subject=Question about the March 10/12 workshop Python scripting for type designers">ask</a>.
 
 ---
 <a name="scripting-variable-font-specimens-for-type-designers-using-pagebot"></a>
 ### Scripting Variable Font specimens for type designers using PageBot (1 day)
 #### April 15 (After Typolabs, on location Berlin, 12 spaces left) &#36;150 <a href="#how-to-reserve-and-pay">[Reserve&nbsp;here]</a>
 
-As a condensed version of the 4-week “scripting for type designers” study, this single day will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
+As a condensed version of the <a href="#python-scripting-for-type-designers">4-week “scripting for type designers”</a> study, this single day will address the highlights in order to set type designers in the right direction of thinking. The intent is to give designers an overview of their potential toolset and paths how to develop themselves further in their design practice.
 
 Upon request, special emphasis can be put on the development of scripting for Variable Font design and proofing.
 
