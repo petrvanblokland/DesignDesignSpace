@@ -294,40 +294,6 @@ Of course it does matter how long you study something, for the level of details 
 
 How would you design such a design process better next time?
 
-<a name="how-to-reserve-and-pay"></a>
-## How to reserve and pay?
-<a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us for available space</a>
-
-### Bank
-Paying through direct bank transfer:
-
-Buro Petr van Blokland + Claudia Mens
-
-IBAN NL62RABO0129859338, BIC RABONL2U
-
-Inside EU: Add your VAT number, we will send you an invoice.
-
-Inside The Netherlands: Add 21% BTW, we will send you an invoice.
-
-### Paypal
-Buro Petr van Blokland + Claudia Mens | E-mail: buro@petr.com
-
-#### Add +4% costs:
-
-1 day &#36;150 + &#36;6 = &#36;156 
-
-3 days &#36;450 + &#36;18 = &#36;468 
-
-1 week &#36;900 + &#36;36 = &#36;936 
-
-1 day + 1 week &#36;1.200 + &#36;48 = &#36;1.248 
-
-4 weeks &#36;1.900 + &#36;76 = &#36;1.976 
-
-1 season &#36;3.900 + &#36;156 = &#36;4.056 
-
-1 year &#36;7.900 + &#36;316 = &#36;8.216
-
 ~~~Python
 """
 ### 1 day • 1 week • 1 month • 1 season • 1 year
@@ -361,13 +327,46 @@ Season and year-students are admitted after showing their portfolios and the res
 Students that finish a training adequately, automatically get accepted for a next.
 """
 ~~~
-
 ### Experience
 
 *Design Design Space* taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
 ![DSGNWK_0582BWLow.jpg](docs/images/DSGNWK_0582BWLow.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.*
+
+<a name="how-to-reserve-and-pay"></a>
+## How to reserve and pay?
+<a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us for available space</a>
+
+### Bank
+Paying through direct bank transfer:
+
+Buro Petr van Blokland + Claudia Mens
+
+IBAN NL62RABO0129859338, BIC RABONL2U
+
+Inside EU: Add your VAT number, we will send you an invoice.
+
+Inside The Netherlands: Add 21% BTW, we will send you an invoice.
+
+### Paypal
+Buro Petr van Blokland + Claudia Mens | E-mail: buro@petr.com
+
+#### Add +4% costs:
+
+1 day &#36;150 + &#36;6 = &#36;156 
+
+3 days &#36;450 + &#36;18 = &#36;468 
+
+1 week &#36;900 + &#36;36 = &#36;936 
+
+1 day + 1 week &#36;1.200 + &#36;48 = &#36;1.248 
+
+4 weeks &#36;1.900 + &#36;76 = &#36;1.976 
+
+1 season &#36;3.900 + &#36;156 = &#36;4.056 
+
+1 year &#36;7.900 + &#36;316 = &#36;8.216
 
 ~~~Python
 box = page['Main']['Side']

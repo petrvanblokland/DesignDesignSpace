@@ -210,25 +210,6 @@ This workshop offers an overview and the development of some prototyping techniq
 <p>The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour basically goes through the same stages (research – design – presentation) as a project of 1 year. </p>
 <p>Of course it does matter how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is a part of the requirements. The result can still be better than anything your customer would have done. </p>
 <p>How would you design such a design process better next time?</p>
-<p><a name="how-to-reserve-and-pay"></a></p>
-<h2>How to reserve and pay?</h2>
-<p><a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us for available space</a></p>
-<h3>Bank</h3>
-<p>Paying through direct bank transfer:</p>
-<p>Buro Petr van Blokland + Claudia Mens</p>
-<p>IBAN NL62RABO0129859338, BIC RABONL2U</p>
-<p>Inside EU: Add your VAT number, we will send you an invoice.</p>
-<p>Inside The Netherlands: Add 21% BTW, we will send you an invoice.</p>
-<h3>Paypal</h3>
-<p>Buro Petr van Blokland + Claudia Mens | E-mail: buro@petr.com</p>
-<h4>Add +4% costs:</h4>
-<p>1 day &#36;150 + &#36;6 = &#36;156 </p>
-<p>3 days &#36;450 + &#36;18 = &#36;468 </p>
-<p>1 week &#36;900 + &#36;36 = &#36;936 </p>
-<p>1 day + 1 week &#36;1.200 + &#36;48 = &#36;1.248 </p>
-<p>4 weeks &#36;1.900 + &#36;76 = &#36;1.976 </p>
-<p>1 season &#36;3.900 + &#36;156 = &#36;4.056 </p>
-<p>1 year &#36;7.900 + &#36;316 = &#36;8.216</p>
 <pre><code class="Python">&quot;&quot;&quot;
 ### 1 day • 1 week • 1 month • 1 season • 1 year
 
@@ -266,6 +247,25 @@ Students that finish a training adequately, automatically get accepted for a nex
 <p><em>Design Design Space</em> taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.</p>
 <p><img alt="DSGNWK_0582BWLow.jpg" src="docs/images/DSGNWK_0582BWLow.jpg" /><br />
 <em>Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.</em></p>
+<p><a name="how-to-reserve-and-pay"></a></p>
+<h2>How to reserve and pay?</h2>
+<p><a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us for available space</a></p>
+<h3>Bank</h3>
+<p>Paying through direct bank transfer:</p>
+<p>Buro Petr van Blokland + Claudia Mens</p>
+<p>IBAN NL62RABO0129859338, BIC RABONL2U</p>
+<p>Inside EU: Add your VAT number, we will send you an invoice.</p>
+<p>Inside The Netherlands: Add 21% BTW, we will send you an invoice.</p>
+<h3>Paypal</h3>
+<p>Buro Petr van Blokland + Claudia Mens | E-mail: buro@petr.com</p>
+<h4>Add +4% costs:</h4>
+<p>1 day &#36;150 + &#36;6 = &#36;156 </p>
+<p>3 days &#36;450 + &#36;18 = &#36;468 </p>
+<p>1 week &#36;900 + &#36;36 = &#36;936 </p>
+<p>1 day + 1 week &#36;1.200 + &#36;48 = &#36;1.248 </p>
+<p>4 weeks &#36;1.900 + &#36;76 = &#36;1.976 </p>
+<p>1 season &#36;3.900 + &#36;156 = &#36;4.056 </p>
+<p>1 year &#36;7.900 + &#36;316 = &#36;8.216</p>
 <pre><code class="Python">box = page['Main']['Side']
 </code></pre>
 
