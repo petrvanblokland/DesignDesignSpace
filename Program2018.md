@@ -279,6 +279,21 @@ This workshop offers an overview and the development of sketching techniques for
 
 *The online workshop builds up from an intensive mixture of personal hangouts, group hangouts, live online presentations by teachers and students, code and document sharing through GitHub and presentations through documents and movies.*
 
+## *Design Design Space*
+### Is it for you?
+By definition, designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning – “There is still plenty of time”, and a design is never finished – “The next one will always be better”. Do you recognize?
+
+However, the fact that the most designs are supposed to meet external requirements, the final deadline may have a much larger impact on the quality of the result, than the personal opinion of the designer.
+
+How do you make this apparent conflict work to your advantage? Would you benefit from exercises and coaching?
+
+### How much time do you need?
+The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour basically goes through the same stages (research – design – presentation) as a project of 1 year. 
+
+Of course it does matter how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is a part of the requirements. The result can still be better than anything your customer would have done. 
+
+How would you design such a design process better next time?
+
 <a name="how-to-reserve-and-pay"></a>
 ## How to reserve and pay?
 <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact us for available space</a>
@@ -312,21 +327,6 @@ Buro Petr van Blokland + Claudia Mens | E-mail: buro@petr.com
 1 season &#36;3.900 + &#36;156 = &#36;4.056 
 
 1 year &#36;7.900 + &#36;316 = &#36;8.216
-
-## *Design Design Space*
-### Is it for you?
-By definition, designers are bad planners. It seems to be fundamental to design. Too optimistic in the beginning – “There is still plenty of time”, and a design is never finished – “The next one will always be better”. Do you recognize?
-
-However, the fact that the most designs are supposed to meet external requirements, the final deadline may have a much larger impact on the quality of the result, than the personal opinion of the designer.
-
-How do you make this apparent conflict work to your advantage? Would you benefit from exercises and coaching?
-
-### How much time do you need?
-The core idea behind designing the design process, is that it doesn’t make a difference for how long you do it. A project of 1 hour basically goes through the same stages (research – design – presentation) as a project of 1 year. 
-
-Of course it does matter how long you study something, for the level of details that can be addressed. But if you only have a day or a week for an assignment, then that is a part of the requirements. The result can still be better than anything your customer would have done. 
-
-How would you design such a design process better next time?
 
 ~~~Python
 """
