@@ -1790,7 +1790,6 @@ input[type=submit] {
     letter-spacing: 0;
     font-style: normal;
     font-weight: normal;
-    font-size: 2.4em;
     color: #EEE;
     line-height: 1.2em;
     margin-bottom: 0.2em; }
@@ -1820,6 +1819,7 @@ input[type=submit] {
     font-style: normal;
     line-height: 1.4em;
     font-weight: normal;
+    padding-bottom:1em;
    } 
    /* Contact button. */
    .featured h2 a {
@@ -2793,7 +2793,8 @@ img {
     margin-left: 0.5em;
     margin-right: 0.5em;
     padding-left: 0.5em;
-    padding-right: 0.5em; }
+    padding-right: 0.5em;
+    padding-bottom:1.5em; }
 
   /* styled drop-down selection menu */ }
 
