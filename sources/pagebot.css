@@ -1691,7 +1691,7 @@ input[type=submit] {
   .top a:hover {
     color: white;
     text-decoration: none;
-    padding: 0.6em 0.6em 0.6em 0.6em;
+    padding: 0.3em 0.3em 0.3em 0.3em;;
     -webkit-transition: all 0.8s ease-in-out;
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
@@ -1699,7 +1699,7 @@ input[type=submit] {
   .top .current {
     color: white;
     text-decoration: none;
-     padding: 0.6em 0.6em 0.6em 0.6em;
+    padding: 0.3em 0.3em 0.3em 0.3em;;
     -webkit-transition: all 0.8s ease-in-out;
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
