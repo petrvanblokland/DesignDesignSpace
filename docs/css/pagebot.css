@@ -633,7 +633,7 @@ input[type=submit] {
 
 #navigation-wrap ol li {
   float: right;
-  padding: 8px 8px; }
+  padding: 2px 2px; }
 
 #navigation-wrap {
   width: 100%;
@@ -1687,7 +1687,7 @@ input[type=submit] {
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
     transition: all 0.8s ease-in-out;
-    padding: 0.6em 0.6em 0.6em 0.6em; }
+    padding: 0.3em 0.3em 0.3em 0.3em; }
   .top a:hover {
     color: white;
     text-decoration: none;
@@ -2105,11 +2105,11 @@ input[type=submit] {
 
 #navigation-wrap ol li {
   float: right;
-  padding: 8px 8px; }
+  padding: 2px 2px; }
 
 #navigation-wrap {
   width: 100%;
-  font-size: 80%;
+  font-size: 75%;
   float: right;
   display: inline;
   margin-right: 0; }

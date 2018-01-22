@@ -633,7 +633,7 @@ input[type=submit] {
 
 #navigation-wrap ol li {
   float: right;
-  padding: 8px 8px; }
+  padding: 2px 2px; }
 
 #navigation-wrap {
   width: 100%;
@@ -1675,11 +1675,11 @@ input[type=submit] {
     font-weight: bold;
     font-size: 1.4em;
     line-height: 1.2em;
-    padding: 0.2em; }
+    padding: 0; }
     .top .logo a a:hover {
       font-size: 1.5em;
       line-height: 1.2em;
-      padding: 0.2em; }
+      padding: 0; }
   .top a {
     color: #4890be;
     text-decoration: none;
@@ -1687,12 +1687,11 @@ input[type=submit] {
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
     transition: all 0.8s ease-in-out;
-    padding: 0.3em 0 0.3em 0.15em; }
+    padding: 0.3em 0.3em 0.3em 0.3em; }
   .top a:hover {
     color: white;
     text-decoration: none;
-    background-color: #4890be;
-    padding: 0.3em 0 0.3em 0.15em;
+    padding: 0.6em 0.6em 0.6em 0.6em;
     -webkit-transition: all 0.8s ease-in-out;
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
@@ -1700,8 +1699,7 @@ input[type=submit] {
   .top .current {
     color: white;
     text-decoration: none;
-    background-color: #4890be;
-    padding: 0.3em 0 0.3em 0.15em;
+     padding: 0.6em 0.6em 0.6em 0.6em;
     -webkit-transition: all 0.8s ease-in-out;
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
@@ -2107,11 +2105,11 @@ input[type=submit] {
 
 #navigation-wrap ol li {
   float: right;
-  padding: 8px 8px; }
+  padding: 2px 2px; }
 
 #navigation-wrap {
   width: 100%;
-  font-size: 80%;
+  font-size: 75%;
   float: right;
   display: inline;
   margin-right: 0; }
@@ -2793,7 +2791,7 @@ img {
     margin-right: 0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    padding-bottom:1.5em;  }
+    padding-bottom:1.5em; }
 
   /* styled drop-down selection menu */ }
 
