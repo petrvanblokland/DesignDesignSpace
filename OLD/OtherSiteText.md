@@ -86,7 +86,7 @@ There are several options, ranging from 1 day, 1 week, 1 month and 1 year, all o
 
 ### The design process
 
-The idea behind every *Design Design Space* training is that every design process can be divided into three phases: research, design and presentation.
+The idea behind every *DesignDesign.Space* training is that every design process can be divided into three phases: research, design and presentation.
 And since the “How to do research?” and “How to do the presentation?” don’t have straight standards answers, so they are subject to a design process themselves.
 
 As e.g. the research phase by definition has design and presentation aspects (answering questions such as “What strategy, level of detail and resources word best for research?” and “How am I going to present results of the research?”), every phase has this division in three, making a recursive structure.
@@ -99,8 +99,13 @@ An important aspect of every design project is that it is a journey, a travel, w
 
 From the personal experience for the designer, such a journey has always had conditions that must be filled for success.
 
-* Calling; dreams, plans, goals and knowing yourself* Fellowship; the social fabric, the environment of the designer* Dragon; where you stumble, the treasure lies* Performance; stepping into the middle of the moment 
-* Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
+* Calling; dreams, plans, goals and knowing yourself
+* Fellowship; the social fabric, the environment of the designer
+* Dragon; where you stumble, the treasure lies
+* Performance; stepping into the middle of the moment 
+* Return; bringing home the Holy Grail
+
+*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
 
 
 ~~~Python
@@ -136,7 +141,7 @@ Let us know that you think. Or if you have any questions for us. <a href="mailto
 
 
 
-### What *Design Design Space* offers
+### What *DesignDesign.Space* offers
 
 * Learning how to create an environment and context to design and develop.
 * Developing the skill to design the design process.

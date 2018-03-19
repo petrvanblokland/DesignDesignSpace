@@ -2,7 +2,7 @@ Enclosed code from other contributers is (as in e.g. the directory "docs/fonts" 
 
 For the rest the following MIT license applies.
 
-Design Design Space
+DesignDesign.Space
 Copyright 2016+ TYPETR, Petr van Blokland + Claudia Mens
 http://designdesign.space
 

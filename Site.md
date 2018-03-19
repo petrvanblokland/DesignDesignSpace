@@ -6,7 +6,7 @@ cid = 'Website'
 doc.title = 'Design&nbsp;Design&nbsp;Space'
 page = doc.newPage(title='Home', name='index.html', template='home')
 
-doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">info@designdesign.space</a>
+doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space?subject=Tell me more about DesignDesign.Space">info@designdesign.space</a>
 """
 
 box = page['Introduction']
@@ -26,14 +26,14 @@ box = page['Featured']['Side']
 ## Repeat to improve
 What makes a design process fundamentally different from a production process, is that repetition improves the result. Starting with quick sketches, ignoring most details, next steps take more time. It’s not a linear process, it’s an iterative process, which means repeating the previous step in more detail.
 
-##<a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">Contact&nbsp;us</a>##
+##<a href="mailto:info@designdesign.space?subject=Tell me more about DesignDesign.Space">Contact&nbsp;us</a>##
 ~~~Python
 box = page['Main']['Content']
 ~~~
 
-## *Design Design Space*
+## *DesignDesign.Space*
 ### What is it?
-*Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your way of presentating. In short, a space where you can design your design process. 
+*DesignDesign.Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your way of presentating. In short, a space where you can design your design process. 
 
 What kind of challenges do you experience in your daily work as a designer?
 
@@ -67,7 +67,7 @@ Study lengths range from 1 day, 1 week, 1 month, 1 season and possibly 1 year, w
 
 Prices are per person. Discount or split payment for the month, season and year trainings can be discussed, depending on your personal situation.
 
-For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space?subject=Tell me more about Design Design Space">contact us</a>.
+For corporate trainings, groups or customized requests, please <a href="mailto:info@designdesign.space?subject=Tell me more about DesignDesign.Space">contact us</a>.
 
 Students who whish to extend one training level into another, a 50% reduction is applied on previous payed tuition. E.g 1 day followed by 1 week: 1/2 $150 + $900 = $975. Or 1 week followed by 1 month: 1/2 $900 + $1,900 = $2,350. Or 1 week followed by 1 season: 1/2 $900 + $3,900 = $4,350
 
@@ -85,7 +85,7 @@ Students that finish a training adequately, automatically get accepted for a nex
 
 ### Experience
 
-*Design Design Space* taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
+*DesignDesign.Space* taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
 ![DSGNWK_0582BWLow.jpg](docs/images/DSGNWK_0582BWLow.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.*
@@ -95,7 +95,7 @@ box = page['Main']['Side']
 ~~~
 
 ![DesignModels2.009.png](docs/images/DesignModels2.009.png)
-*What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?* Read what *Design Design Space* has to offer.
+*What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?* Read what *DesignDesign.Space* has to offer.
 
 ~~~Python
 box = page['Footer']
@@ -145,7 +145,7 @@ What most design methods don’t do is create space for designers to develop the
 
 Yet, for the development of skills, such an approach is essential. 
 
-*Design Design Space* offers that environment. To study a specific topic for a defined period of time. Formulating challenges, feed back techniques and design methods that are customized for your development.
+*DesignDesign.Space* offers that environment. To study a specific topic for a defined period of time. Formulating challenges, feed back techniques and design methods that are customized for your development.
 
 ### Tuition
 Tuition needs to be payed before the training starts. 
@@ -199,7 +199,7 @@ box = page['OtherMain']['Side']
 box = page['OtherMain']['Content']
 ~~~
 
-### What *Design Design Space* can be
+### What *DesignDesign.Space* can be
 
 * A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feedback sessions and presentations.
 * The design of personal space (time, topic and skills) profession preparation for the rest of your life.
@@ -219,13 +219,13 @@ In general the aim is to bring graduate students as well as experienced designer
 
 Focus is on design students and their individual goals. Not on predefined course content.
 
-As designer, doing the Design Design Space study, you are open minded and willing to get valuable feedback on your work.
+As designer, doing the DesignDesign.Space study, you are open minded and willing to get valuable feedback on your work.
 
 You are interested to improve and change and to participate in the work of colleague students.
 
 You are disciplined to work hard between online sessions, and more interested in the development of skills and challenging assignments than in assessed diploma’s.
 
-### What *Design Design Space* is not
+### What *DesignDesign.Space* is not
 
 * It is not an (online) course;
 * It is not an (academic) study, leading to Master or PhD;
@@ -241,7 +241,7 @@ box = page['Main']['Side']
 *Many of the assignments need collaborating with other online students, who – throughout the process – can have different roles, ranging from colleague to client to user.*
 
 ![DSGNWK_0665BWLow.jpg](docs/images/DSGNWK_0665BWLow.jpg)
-*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching techniques, the design of feedback methods is an important and integral part of every Design Design Space study.*
+*Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching techniques, the design of feedback methods is an important and integral part of every DesignDesign.Space study.*
 
 ~~~Python
 box = page['Footer']
@@ -258,7 +258,7 @@ box = page['Introduction']
 box = page['Main']['Side']
 ~~~
 ![IMG_1520BWLow.jpg](docs/images/IMG_1520BWLow.jpg)
-*Design Game on location at <a href="http://coopertype.org/nyc" target="External">Cooper Union</a>. Besides the development of presentation techniques, the design of feedback methods is an important and integral part of every Design Design Space study.*
+*Design Game on location at <a href="http://coopertype.org/nyc" target="External">Cooper Union</a>. Besides the development of presentation techniques, the design of feedback methods is an important and integral part of every DesignDesign.Space study.*
 
 ~~~Python
 box = page['Main']['Content']
@@ -277,7 +277,7 @@ The time frame of an online Design Game, depends on the time zones of the partic
 Virtual studios are formed from three or more designers. Since you are likely not in the same physical place or time zone, it is part of the game to find a way of working together. Improvisation is a form of design.
 As studio you may want to consider dividing tasks depending on experience and interests.
 
-Design Design Space is a transparant learning environment, where the online Design Game is the most condensed example.
+DesignDesign.Space is a transparant learning environment, where the online Design Game is the most condensed example.
 
 There will be several studios working in a pitch for the same assignment for the same customer. At the end of each round the design get approval points.
 
@@ -309,7 +309,7 @@ In this round all studios will judge and comment the result of all other studios
 In a presentation where are designs can be compared, a winner is selected. 
 
 ### Conclusions
-Concluding the 1 day of Design Design Space, feedback is given to the studios and individual designers. What went well? What were challenges? 
+Concluding the 1 day of DesignDesign.Space, feedback is given to the studios and individual designers. What went well? What were challenges? 
 
 #### Trained skills
 During the Design Game, several design skills are addressed. 
@@ -322,7 +322,7 @@ During the Design Game, several design skills are addressed.
 * Selection of presentation media
 * Judging and formulating feedback to other studios
 
-Participating in the Design Game is mandatory for the extending studies at Design Design Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.
+Participating in the Design Game is mandatory for the extending studies at DesignDesign.Space. From here students can choose to apply for one of the 1 week, 1 month, 1 season or 1 year extended programs.
 
 ~~~Python
 box = page['Footer']
@@ -460,7 +460,7 @@ Each of these items contains a world of detailed knowledge and design parameters
 box = page['Section']['0']
 ~~~
 ![docs/images/ATypIKeynote7.046.jpeg](docs/images/ATypIKeynote7.046.jpeg)
-*Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice? Many models that apply to AI, also work in design. Those parallels can be subject of your study at Design Design Space.*
+*Artifical Intelligence (AI) probably has much influence on any profession in the coming years. How will it influence your design practice? Many models that apply to AI, also work in design. Those parallels can be subject of your study at DesignDesign.Space.*
 
 ~~~Python
 box = page['Section']['1']
@@ -473,10 +473,10 @@ box = page['OtherMain']['Side']
 ~~~
 ![docs/images/pagebot_promo.png](docs/images/pagebot_promo.png)
 ![docs/images/F5.034.jpeg](docs/images/F5.034.jpeg)
-*PageBot is a library of Python classes, that can be used for the automated production of publications. Learning to use PageBot is an optional topic of the Design Design Space study.*
+*PageBot is a library of Python classes, that can be used for the automated production of publications. Learning to use PageBot is an optional topic of the DesignDesign.Space study.*
 
 ![docs/images/TheEndOfCss015M1.050.jpeg](docs/images/TheEndOfCss015M1.050.jpeg)
-*Constructing an environment where all disciplines can work together in a non-linear way, is one of the topics of the Design Design Space study.*
+*Constructing an environment where all disciplines can work together in a non-linear way, is one of the topics of the DesignDesign.Space study.*
 
 
 ~~~Python
