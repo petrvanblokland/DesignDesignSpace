@@ -3,7 +3,7 @@ cid = 'Website'
 
 from pagebot.publications import Website
 
-doc = Website(autoPages=0, title='Design Design Space')
+doc = Website(autoPages=0, title='DesignDesign.Space')
 
 page = doc.newPage(title='Home', name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
@@ -33,8 +33,8 @@ What makes a design proces fundamentally different from a production process, is
 box = page['Main']['Content']
 ~~~
 
-## *Design Design Space*: what is it?
-*Design Design Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, a space where you can design your design process.[['What kind of problems and challenges do you experience in your daily work as a designer']]
+## *DesignDesign.Space*: what is it?
+*DesignDesign.Space* is an online coaching environment to develop your design skills. Query your questions and improve your sketching. Acquire new techniques and research your presentations. In short, a space where you can design your design process.[['What kind of problems and challenges do you experience in your daily work as a designer']]
  
 Working closely together online with experienced designers and a group of collegue students, there is space to define your own study topics and challenges. In fact, such a selection and planning process is an integral part of the study itself. You tell us what you want, and together we’ll find a way to get there.
 
@@ -53,10 +53,10 @@ What most design methods don’t do is create space for designers to develop the
 
 For the development of skills, such an approach is essential. 
 
-*Design Design Space* offers that environment. To study a specific topic for a defined period of time. Offering challenges, feedback, techniques and design methods that are customized to your development.
+*DesignDesign.Space* offers that environment. To study a specific topic for a defined period of time. Offering challenges, feedback, techniques and design methods that are customized to your development.
 
 ### Experience
-*Design Design Space* taps into 35 years of studio projects and over 50 years of combined experience of/in design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running design studios and design games.
+*DesignDesign.Space* taps into 35 years of studio projects and over 50 years of combined experience of/in design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running design studios and design games.
 
 ~~~Python
 box = page['Main']['Side']
@@ -155,7 +155,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and a crew of others
 ![DSGNWK_0582BW.jpg](docs/images/DSGNWK_0582BW.jpg)
 
 
-### What *Design Design Space* can be for you
+### What *DesignDesign.Space* can be for you
 
 * A personal environment to develop design skills, by accepting design challenges, meeting with coaches and colleage students in online feed-back sessions and presentations.
 * The design of personal space (time, topic and skills) profession preparation for the rest of your life.
@@ -165,7 +165,7 @@ Teachers/coaches/designers: Petr van Blokland, Claudia Mens and a crew of others
 
 ![docs/images/HowToApplyForArtSchool.png](docs/images/HowToApplyForArtSchool.png)
 
-### What *Design Design Space* is not
+### What *DesignDesign.Space* is not
 
 * It is not an (online) course
 * It is not an (academic) education, leading to Master or PhD
@@ -189,7 +189,7 @@ In general the aim is to get graduated students as well as experienced designers
 
 Focus is on design students and their individual goals. Not on predefined course content.
 
-### For which designers does *Design Design Space* works best?
+### For which designers does *DesignDesign.Space* works best?
 
 * Open minded and willing to get valuable feed-back on their work
 * Interested to improve and change
@@ -197,7 +197,7 @@ Focus is on design students and their individual goals. Not on predefined course
 * Disciplined to work hard between online sessions
 * More interested in the development of skills and challenging assignments than assessed diploma’s.
 
-### What *Design Design Space* offers
+### What *DesignDesign.Space* offers
 
 * Learning how to create an environment and context to design and develop.
 * Developing the skill to design the design process.
@@ -310,7 +310,7 @@ Students finishing one training level adequately, automatically get admitions fo
 
 ### The design process
 
-The idea behind every *Design Design Space* training is that every design process can be divided into three phases: research, design and presentation.
+The idea behind every *DesignDesign.Space* training is that every design process can be divided into three phases: research, design and presentation.
 As e.g. the research phase by definition has design and presentation aspects (answering questions such as “How am I going to do the research” and “How am I going to present the research results?”), every phase has this division in three, making a recursive structure.
 Of course the required time and level of details are subject of choice, but that itself is a design question to be answered.
 
@@ -320,8 +320,13 @@ An important aspect of every design project is that it is a journey, a travel, w
 
 From the personal experience for the designer, such a journey has always had conditions that must be filled for success.
 
-* Calling; dreams, plans, goals and knowing yourself* Fellowship; the social fabric, the environment of the designer* Dragon; where you stumble, the treasure lies* Performance; stepping into the middle of the moment 
-* Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
+* Calling; dreams, plans, goals and knowing yourself
+* Fellowship; the social fabric, the environment of the designer
+* Dragon; where you stumble, the treasure lies
+* Performance; stepping into the middle of the moment 
+* Return; bringing home the Holy Grail
+
+*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
 
 
 ~~~Python

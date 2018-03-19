@@ -3,7 +3,7 @@ cid = 'Website'
 
 from pagebot.publications import Website
 
-doc = Website(autoPages=0, title='Design Design Space')
+doc = Website(autoPages=0, title='DesignDesign.Space')
 
 page = doc.newPage(name='index.html', template='home')
 page.info.cssPath = 'sources/pagebot.css'
@@ -168,8 +168,13 @@ An important aspect of every design project is that it is a journey, a travel, w
 
 From the personal experience for the designer, such a journey has always had conditions that must be filled for success.
 
-* Calling; dreams, plans, goals and knowing yourself* Fellowship; the social fabric, the environment of the designer* Dragon; where you stumble, the treasure lies* Performance; stepping into the middle of the moment 
-* Return; bringing home the Holy Grail*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
+* Calling; dreams, plans, goals and knowing yourself
+* Fellowship; the social fabric, the environment of the designer
+* Dragon; where you stumble, the treasure lies
+* Performance; stepping into the middle of the moment 
+* Return; bringing home the Holy Grail
+
+*Campbell, J (1949), The Hero with a Thousand Faces. New York: MJF Books*
 
 ~~~Python
 page = doc.newPage(name=projects.html')
