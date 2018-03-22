@@ -13,12 +13,7 @@
 #
 #     Prototyping-TypographicsBanner.py
 #
-#     Needs filling in with content.
-#
 from pagebot.contexts.platform import getContext
-
-from random import random # Used for random color palet.
-
 # Create random title and names
 from pagebot.contributions.filibuster.blurb import blurb
 
@@ -27,111 +22,119 @@ from pagebot.toolbox.transformer import darker
 from pagebot.fonttoolbox.objects.family import getFamily
 # Creation of the RootStyle (dictionary) with all
 # available default style parameters filled.
-from pagebot.style import getRootStyle, B4, CENTER, MIDDLE, TOP 
-
+from pagebot.style import getRootStyle, B4, CENTER, MIDDLE, TOP, RIGHT
 # Document is the main instance holding all information
 # about the document togethers (pages, styles, etc.)
 from pagebot.document import Document
-
 # Import element layout conditions.
 from pagebot.conditions import *
-from pagebot.elements import newRect, newTextBox
-   
+from pagebot.elements import newRect, newTextBox, newImage
+
+P = 16
+M = P
+
+TITLE1 = 'Rapid prototyping'
+TITLE2 = 'for graphic designers'
+#TITLE2 = 'Python scripting for graphic designers: public workshop (1 day)'
+
 # Export in folder that does not commit to Git. Force to export PDF.
-BANNER_DATA = (
-    ('_export/ProtypingDDSBanner-EvenBright.gif', 460, 230),
-    ('_export/ProtypingDDSBanner-Typographics.gif', 1200, 400),
+PATH = '../docs/images/'
+
+IMAGES1 = (
+    ('TheEndOfCss015M1.050.jpeg', (Fit2WidthSides(), Top2TopSide())),
+    ('F5.034.jpeg', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_1520BWLow.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('DesignModels2.038.png', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_4037.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_1488.jpg', (Fit2WidthSides(), Middle2Middle())),
+    ('IMG_1132.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('pageBotCode.png', (Fit2WidthSides(), Top2TopSide())),
+)
+FRAMES = len(IMAGES1)
+IMAGES2 = (
+    ('IMG_1487.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_1520.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('DSGNWK_0665BW.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_1520BWLow.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_1132.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('pageBotCode.png', (Fit2WidthSides(), Top2TopSide())),
 )
 
+BANNER_DATA = [
+    dict(filePath='ProtypingDDSBanner-CooperType2160x1080.png', w=2160, h=1080, title1=TITLE1, title2=TITLE2, imagePaths=IMAGES1, labelSize=64, titleSize=200),
+]
+
 family = getFamily('Upgrade')
+fontBook = family.findFont('Book')
 fontRegular = family.findFont('Regular')
+fontMedium = family.findFont('Medium')
 fontBold = family.findFont('Bold')
 fontItalic = family.findFont('Italic')
 
-def makeBanner(w, h):
+def makeBanner(bd):
     u"""Demo random book cover generator."""
-
+    w, h = bd['w'], bd['h']
+    imagePaths = bd['imagePaths']
+    labelSize = bd['labelSize']
+    title1 = bd['title1']
+    title2 = bd['title2']
+    titleSize = bd['titleSize']
+    
     context = getContext()
-
+    context.newDrawing()
     # Create new document with (w,h) and fixed amount of pages.
     # Make number of pages with default document size.
     # Initially make all pages default with template
-    doc = Document(w=W, h=H, title='A Demo Book Cover', autoPages=1, context=context,
+    doc = Document(w=w, h=h, title=title1, autoPages=FRAMES, context=context,
         originTop=False) # One page, just the cover.
 
-    page = doc[1] # Get the first/single page of the document.
-    page.name = 'Cover'
+    A = (1,1,1,0.5)
+    B = (1,0,1,0.8)
+    C = (1,1,1,0.8)
+    COLORS = (
+        (B, B, B),
+        (A, B, B),
+        (B, A, B),
+        (B, B, A),
+        (A, B, B),
+        (B, B, A),
+        (B, A, B),
+        (B, A, B),
+    )
+    for pn in range(1, FRAMES+1):
+        page = doc[pn] # Get the first/single page of the document.
+
+        page.frameDuration = 1.5
     
-    # Get the current view of the document. This allows setting of
-    # parameters how the document is represented on output.
-    view = doc.view
-    view.w, view.h = W, H
-    # Set view options. Full list is in elements/views/baseviews.py
-    view.padding = 40 # Showing cropmarks and registration marks
-                      # need >= 20 padding of the view.
-    view.showPageRegistrationMarks = True
-    view.showPageCropMarks = True
-    view.showPageFrame = True
-    view.showPagePadding = False
-    view.showPageNameInfo = True
-    view.showTextOverflowMarker = False
-    
-    C1 = (random()*0.2, random()*0.2, random()*0.9)
+        imagePath, imageConditions = imagePaths[pn-1]
+        # Background image of the slide
+        newImage(PATH+imagePath, conditions=imageConditions, parent=page)
 
-    # Make background element, filling the page color and bleed.
-    colorRect1 = newRect(z=-10, name='Page area', parent=page,
-                         conditions=[Top2TopSide(),
-                                     Left2LeftSide(),
-                                     Fit2RightSide(),
-                                     Fit2BottomSide()],
-                         fill=C1)
-    colorRect1.bleed = 0 #(0, 0, 0, 40) # TODO: Fix Bleed function
-    colorRect1.solve() # Solve element position, before we can make
-                       # other elements depend on position and size.
-
-    M = 64
-    newRect(z=-10, name='Frame 2', parent=colorRect1, 
-            conditions=[Center2Center(), Middle2Middle()],
-            fill=darker(C1, 0.5), # Default parameter:
-                                  # 50% between background color and white
-            stroke=None,
-            w=colorRect1.w-M, h=colorRect1.h-M,
-            xAlign=CENTER, yAlign=MIDDLE)
-
-    # Make random blurb name and titles
-    title = blurb.getBlurb('book_phylosophy_title')
-    subTitle = blurb.getBlurb('book_pseudoscientific').capitalize()
-    if random() < 0.2: # 1/5 chance to add editions text
-        subTitle += '\nEdition '+blurb.getBlurb('edition')
-    authorName = blurb.getBlurb('name', noTags=True)
-    if random() < 0.33: # 1/3 chance for a second author name
-        authorName += '\n' + blurb.getBlurb('name')
+        ww75 = w*0.75
+        newRect(fill=(0.05,0.05,0.4,0.8), w=ww75, conditions=(Fit2HeightSides(), Right2RightSide()), parent=page)
         
-    page.pt = 120 # Now the rectangles positioned automatic, alter the paddings
-    page.pl = page.pr = 80
-    page.pb = 30
-    # Add some title (same width, different height) at the "wrongOrigin" position.
-    # They will be repositioned by solving the colorConditions.
-    title = context.newString(title+'\n\n', style=dict(font=fontBold.path, fontSize=40, rLeading=1.2, xAlign=CENTER, textFill=1))
-    title += context.newString(subTitle + '\n\n', style=dict(font=fontRegular.path, fontSize=32, xAlign=CENTER, textFill=(1, 1, 1,0.5)))
-    title += context.newString(authorName, style=dict(font=fontItalic.path, fontSize=24, rTracking=0.025, xAlign=CENTER, textFill=(1, 0.5, 1,0.7)))
-    newTextBox(title, parent=page, name='Other element',
-            conditions=[Fit2Width(), Center2Center(), Top2Top()],
-            xAlign=CENTER, yAlign=TOP)
-    
-    typoIllustration = context.newString('&', style=dict(font='Georgia', fontSize=400, xAlign=CENTER, textFill=(1, 0.5, 1,0.7)))
-    newTextBox(typoIllustration, parent=page,
-            conditions=[Fit2Width(), Center2Center(), Bottom2Bottom()],
-            xAlign=CENTER, yAlign=TOP)
+        ww25 = w*0.25
+        bs = context.newString('Type@Cooper\nTypographics', style=dict(font=fontRegular.path, fontSize=w/28, xTextAlign=CENTER, textFill=1, rLeading=1.05, rTracking=0.02))
+        tw, th = bs.textSize()
+        newTextBox(bs, parent=page, h=th+2*P, w=ww25, padding=(P,P/2,0,P/2), fill=(1,0,0,0.8), conditions=(Left2LeftSide(), Top2TopSide()))
 
-    score = page.evaluate()
-    if score.fails:
-        page.solve()
+        bs = context.newString(title1+'\n', style=dict(font=fontMedium.path, textFill=C, fontSize=w/11, rTracking=0.015, rLeading=1.4))
+        bs += context.newString(title2+'\n', style=dict(font=fontBook.path, textFill=C, fontSize=w/12, rLeading=1))
+        bs += context.newString('SKETCHING', style=dict(font=fontRegular.path, textFill=COLORS[pn-1][0], fontSize=w/15, rTracking=0.648, rLeading=1.5))
+        bs += context.newString('\nCODING', style=dict(font=fontRegular.path, textFill=COLORS[pn-1][1],fontSize=w/16, rTracking=0.185, rLeading=1.05))
+        bs += context.newString(' & ', style=dict(font=fontRegular.path, textFill=A, fontSize=w/16, rTracking=0.185, rLeading=1.05))
+        bs += context.newString('MAKING\n', style=dict(font=fontRegular.path, textFill=COLORS[pn-1][2], fontSize=w/16, rTracking=0.185, rLeading=1.05))
+        bs += context.newString('Petr van Blokland June 11-13', style=dict(font=fontRegular.path, textFill=C, fontSize=w/17.4, rTracking=0.036, rLeading=1.6))
+        newTextBox(bs, parent=page, x=ww25, y=0, padding=(0,0,0,w/30), w=ww75+w/100, conditions=[Fit2HeightSides()])
+
+        score = page.evaluate()
+        if score.fails:
+            page.solve()
 
     # Evaluate again, result should now be >= 0
     return doc
 
-for filePath, w, h in BANNER_DATA:
-    d = makeBanner(w, h)
-    d.export(filePath)
+for bannerData in BANNER_DATA:
+    d = makeBanner(bannerData)
+    d.export('_export/'+bannerData['filePath'])
 
