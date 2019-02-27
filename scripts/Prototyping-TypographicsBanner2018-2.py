@@ -41,13 +41,13 @@ TITLE2 = 'for graphic designers'
 PATH = '../docs/images/'
 
 IMAGES1 = (
-    #('F5.034.jpeg', (Fit2WidthSides(), Top2TopSide())),
-    #('IMG_1520BWLow.jpg', (Fit2WidthSides(), Top2TopSide())),
-    #('DesignModels2.038.png', (Fit2WidthSides(), Top2TopSide())),
-    #('IMG_4037.jpg', (Fit2WidthSides(), Top2TopSide())),
-    #('IMG_1488.jpg', (Fit2WidthSides(), Middle2Middle())),
+    ('F5.034.jpeg', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_1520BWLow.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('DesignModels2.038.png', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_4037.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('IMG_1488.jpg', (Fit2WidthSides(), Middle2Middle())),
     ('IMG_1132.jpg', (Fit2WidthSides(), Top2TopSide())),
-    #('pageBotCode.png', (Fit2WidthSides(), Top2TopSide())),
+    ('pageBotCode.png', (Fit2WidthSides(), Top2TopSide())),
 )FRAMES = len(IMAGES1)
 IMAGES2 = (
     ('IMG_1487.jpg', (Fit2WidthSides(), Top2TopSide())),

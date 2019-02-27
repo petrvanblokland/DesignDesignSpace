@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><pre><code>doc.title = 'Design&amp;nbsp;Design&amp;nbsp;Space'
+
+doc.footerHtml = &quot;&quot;&quot;Let us know what you think. Do you have any questions for us? &lt;a href=&quot;mailto:info@designdesign.space?subject=Tell me more about DesignDesign.Space&quot;&gt;info@designdesign.space&lt;/a&gt;&quot;&quot;&quot;
+
+# Uncomment to see cssId/cssClass markers in the page
+#doc.view.showIdClass = True
+
+# Home 
+#&lt;tab/&gt;Header 
+#&lt;tab/&gt;&lt;tab/&gt;Logo (+BurgerButton)
+#&lt;tab/&gt;&lt;tab/&gt;Navigation/TopMenu/MenuItem(s)
+#  &lt;tab/&gt;&lt;tab/&gt;Banner
+#  &lt;tab/&gt;&lt;tab/&gt;SlideShow (on Home)
+#      &lt;tab/&gt;Slides
+#      &lt;tab/&gt;SlideSide
+#&lt;tab/&gt;Introduction0
+#&lt;tab/&gt;Content0
+#      Main0
+#      Side00
+#      Side01
+#      Side02
+#      Side03
+#&lt;tab/&gt;Introduction1
+#&lt;tab/&gt;Content1
+#      Main1
+#      Side10
+#      Side11
+#      Side12
+#      Side13
+#&lt;tab/&gt;Footer
+#
+# ----------------------------------------
+# index.html
+# ----------------------------------------
+page.name = 'Home'
+page.url = 'index.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h1>Which study can we offer you in 2019?</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/d26a175f-c382-4924-ab70-9d93288524b3.jpg" /><br />
+<img alt="" src="images/DesignModels2-82.001BW.png" /><br />
+<img alt="" src="images/IMG_1107.jpg" /><br />
+<img alt="" src="images/DesignModels2.037.png" /><br />
+<img alt="" src="images/IMG_1701.jpg" /><br />
+<img alt="" src="images/IMG_2535.jpg" /><br />
+<img alt="" src="images/IMG_4905.jpg" /><br />
+<img alt="" src="images/IMG_3145.jpg" /><br />
+<img alt="" src="images/IMG_5840.jpg" /><br />
+<img alt="" src="images/IMG_7616.jpg" /><br />
+<img alt="" src="images/IMG_8677.jpg" /><br />
+<img alt="" src="images/ThemeColorsByDocument_5.png" /><br />
+<img alt="" src="images/IMG_0752.jpg" /><br />
+<img alt="" src="images/IMG_E8927.jpg" /><br />
+<img alt="" src="images/IMG_5333.jpg" /><br />
+<img alt="" src="images/IMG_1447.jpg" /><br />
+<img alt="" src="images/IMG_5469.jpg" /><br />
+<img alt="" src="images/IMG_1491.jpg" /><br />
+<img alt="" src="images/IMG_6994.jpg" /><br />
+<img alt="" src="images/IMG_E8874.jpg" /></p>
+<pre><code>box = page.select('SlideSide')
+</code></pre>
+
+<h3>Example studies</h3>
+<h2>Develop your process. Expand your skills.</h2>
+<p>One of the important tasks in any design process is to create structure from chaos. Grouping objects by similar characteristics or behavior. Sorting by height? Or is it better to create order by color?</p>
+<!--
+The study *Making structure from chaos* learns students to design parameters – like size, color, position, texture, value – weigh their values to fit the needs. In a sketch process and as final presentation. Following individual style preferences while matching with requirements of the user. 
+-->
+
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1><a href="studies-typedesign.html#discover-basics-of-typedesign">Discover the basics of typedesign?</a> Improving your sketching techniques? Programming pages? Learning to code? Mastering typography? Starting a studio? And more!</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h2>It all happens in DesignDesign.Space studies</h2>
+<p>If you tell us what you want to study in a first free online hangout, we make suggestions. What would you like to achieve? Improve your latent coding skills, while training your self-discipline? Seeking a sparring partner for an interesting new design project? Updating your technical skills? Or do you simply need a refreshing break from design practice? </p>
+<hr />
+<h2>DesignDesign.Space as coach</h2>
+<p><strong>DesignDesign.Space</strong> can help you to answer these questions and to achieve your goals. Coaching you through your study, the teachers can ask the toughest questions. And they also are available to help you answering them: If you are happy with the design you have finally finished, what exactly are you happy with? How does that fit the expectations of the user? And how would you get there next time?</p>
+<p><a href="pricing.html">See more about pricing here.</a></p>
+<pre><code>box = page.select('Side00')
+</code></pre>
+
+<h2>How studies work</h2>
+<ul>
+<li>During a first free hangout, we can talk about possible goals.</li>
+<li>Together, we will find a way for you to get there. Topics &amp; Tools. By painting, drawing, sketching or by coding. Or by using all.</li>
+<li>In sequences of relative short assignments, online hangouts, feedback and reflections, we explore the paths through your study project. And more important, we’ll teach you how to do that yourself.</li>
+<li>The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. And, of course, the level of details that you need. </li>
+<li>If your plans change along the way, that can always be discussed.</li>
+</ul>
+<p><a href="pricing.html">See more about pricing here.</a></p>
+<pre><code>box = page.select('Introduction1')
+</code></pre>
+
+<h1>XXXXXXX</h1>
+<pre><code>box = page.select('Main1')
+</code></pre>
+
+<h2>What is your design space?</h2>
+<pre><code>&quot;&quot;&quot;
+![images/DesignModels2.106.png](images/DesignModels2.106.png)
+*[[Making a successful design, it helps thinking backwards. By understanding what it is supposed to do. Not by hoping for the ultimate **lucky shot**.]]*
+&quot;&quot;&quot;
+</code></pre>
+
+<p><strong>DesignDesign.Space</strong> offers a wide variety of study topics: ranging from graphic design to type design, typography, programming, identities, 3D and education.</p>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code>box = page.select('Side10')
+</code></pre>
+
+<h2>Challenge us</h2>
+<p>We are educators and we are designers too. That means we are open for suggestions about our teaching and the program. For us, teaching is as much of a challenge as any design process. Send us your questions on topics that we never thought about before. How can this website be improved? Lure us into teaching you in a different way than this website suggests. We will probably take the challenge.</p>
+<pre><code># ----------------------------------------
+# Studies/2019-studies.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Studies'
+page.url = 'studies.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h1>Examine the 2019 study suggestions</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/DesignModels2.072.png" /><br />
+<img alt="" src="images/DesignModels2.073.png" /><br />
+<img alt="" src="images/DesignModels2.074.png" /></p>
+<pre><code>box = page.select('SlideSide')
+</code></pre>
+
+<p>Example study</p>
+<h2>Making structure from chaos</h2>
+<p>One of the important tasks in any design process is to create structure from chaos. Grouping objects by similar characteristics or behavior. Sorting by height? Or is it better to create order by color?</p>
+<p>The study <em>Making structure from chaos</em> learns students to design those parameters and weigh their values to fit the needs. In a sketch process and as final presentation. Following individual style preferences while matching with requirements of the user. </p>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Redesign your current design process? Methods for rapid prototyping? Redo your interior? How to educate customers? Directions for design education?</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h1>Studies in 2019</h1>
+<p>We keep improving the curriculum. The mandatory design of design education. Instead of the fixed <a href="2018-program.html">2018</a> list of workshops, studies and dates, in practice, we found out that it is better to make the schedule entirely flexible. Hints of topics, templates of studies and suggestions for the process behind.</p>
+<hr />
+<h2>Pricing</h2>
+<p>Each lesson is an online hangout, lasting for part of the day – morning or afternoon – depending on your timezone. The pricing is based on the length and intensity of a study. </p>
+<p>If a study is spread over a longer period time, intensity can be lower for the same price. However, it requires more self-discipline for a student to take full advantage of the study and the support we can offer.</p>
+<p><a href="pricing.html">See more about pricing here.</a></p>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code># ----------------------------------------
+# Studies/2019 Studies/typedesign.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Type design'
+page.url = 'Studies/typedesign.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h2>Study suggestions</h2>
+<h1>Study typedesign</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/DesignModels2.072.png" /><br />
+<img alt="" src="images/DesignModels2.073.png" /><br />
+<img alt="" src="images/DesignModels2.074.png" /></p>
+<pre><code>box = page.select('SlideSide')
+</code></pre>
+
+<h3>Example study</h3>
+<h2>Making structure from chaos</h2>
+<p>One of the important tasks in any design process is to create structure from chaos. Grouping objects by similar characteristics or behavior. Sorting by height? Or is it better to create order by color?</p>
+<p>The study <em>Making structure from chaos</em> learns students to design those parameters and weigh their values to fit the needs. In a sketch process and as final presentation. Following individual style preferences while matching with requirements of the user. </p>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Learning to code? Discover the basics of typedesign? Improving your sketching techniques? Programming pages? Mastering typography?</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h2>Live coaching of your (type)design project</h2>
+<p>You have a challenging complex design project to work on. It is really interesting and rewarding, but it is hard to get planning and quality under control. Especially if the project runs over a longer period of time.<br />
+How coaching is organized, depends on your needs. It can be a single lesson for support, while writing the quote, up to helping you with management and feedback of the entire project. </p>
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A single lesson for a whole day, <strong>$190</strong> per student</li>
+<li>Or a week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Or an extended month of exercises and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2><a name="discover-basics-of-typedesign"/>Discover the basics of typedesign</h2>
+<p>Type design is not your main background, but as designer you often are in situation that it would be good knowing more about it. When selecting a typeface for one of your designs. Or when you need to explain to a client. It is possible to read about it. But it’s a lot more efficient learning how to write and draw by yourself.</p>
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A single lesson, <strong>$190</strong> per student</li>
+<li>Or a week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Automated proofing and specimens</h2>
+<p>Learn the basics of scripting proofs and specimens for TTF, OTF and UFO. Sketching techniques for layouts. Patterns of Python code. How to disassemble the design of specimens into parts that can be automated. Writing some templates that are directly useful for you. </p>
+<ul>
+<li>A single lesson, <strong>$190</strong> per student</li>
+<li>Or week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Or an extened month of exercises and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Automated QA for typedesigners</h2>
+<p>Learn the basics of scripting testing the quality of TTF, OTF and UFO during the design process. Patterns of Python code. Anaysis of mistakes and errors. How to detect and possibly solve them automatically by running scripts.</p>
+<ul>
+<li>A single lesson, <strong>$190</strong> per student</li>
+<li>Or week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Or an extened month of exercises and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Latin typedesign for (non-Latin) typedesigners</h2>
+<p>Learn the basics of Latin type. Sketching techniques. Principles of contrast. Weight and width. Relations and differences. The design process of Variable Fonts. Selection of tools. Scripting that can be automated. Models to differentiate between best practice and artibtrary design choices.</p>
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A month of exercises and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Scripting for (Latin and non-Latin) typedesigners</h2>
+<p>Learn the basics of scripting for the editing tool that you are familiar with (RoboFont, Glyphs or FontLab). Sketching techniques. Patterns of Python code. How to disassemble a design problem into parts that can be automated. Writing some tools that are directly useful for you. Finding methods and directions for new tools, without the help of DDS.</p>
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A month of exercises and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Design the design process of Variable Fonts</h2>
+<p><img alt="IMG_1487.jpg" src="images/IMG_1487.jpg" /><br />
+<caption>Sketching on design spaces.</caption></p>
+<p>How do you get your design process beyond the traditional Variable Font axes of weight, width and optical size? How to make your experience grow from Multiple Master Thinking into Variable Font thinking? Develop sketching techniques. Make the production and testing of Variable Fonts to be included inside the cycles of your design process.</p>
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code># ----------------------------------------
+# Studies/2019 Studies/typography.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Typography'
+page.url = 'Studies/typography.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h2>Study suggestions</h2>
+<h1>Typography</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/DesignModels2.072.png" /><br />
+<img alt="" src="images/DesignModels2.073.png" /><br />
+<img alt="" src="images/DesignModels2.074.png" /></p>
+<pre><code>box = page.select('SlideSide')
+</code></pre>
+
+<p>Example study</p>
+<h2>Making structure from chaos</h2>
+<p>One of the important tasks in any design process is to create structure from chaos. Grouping objects by similar characteristics or behavior. Sorting by height? Or is it better to create order by color?</p>
+<p>The study <em>Making structure from chaos</em> learns students to design those parameters and weigh their values to fit the needs. In a sketch process and as final presentation. Following individual style preferences while matching with requirements of the user. </p>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Learning to code? Discover the basics of typedesign? Improving your sketching techniques? Programming pages? Mastering typography?</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code># ----------------------------------------
+# Studies/2019 Studies/graphicdesign.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Graphic design'
+page.url = 'Studies/graphicdesign.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h2>Study suggestions</h2>
+<h1>Graphic design</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/DesignModels2.072.png" /><br />
+<img alt="" src="images/DesignModels2.073.png" /><br />
+<img alt="" src="images/DesignModels2.074.png" /></p>
+<pre><code>box = page.select('SlideSide')
+</code></pre>
+
+<h3>Example study</h3>
+<h2>Making structure from chaos</h2>
+<p>One of the important tasks in any design process is to create structure from chaos. Grouping objects by similar characteristics or behavior. Sorting by height? Or is it better to create order by color?</p>
+<!--
+The study *Making structure from chaos* learns students to design those parameters and weigh their values to fit the needs. In a sketch process and as final presentation. Following individual style preferences while matching with requirements of the user. 
+-->
+
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Learning to code? Discover the basics of typedesign? Improving your sketching techniques? Programming pages? Mastering typography?</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h2>Visual grammar for graphic designers</h2>
+<p>Disassemble your graphic design into parameters, models and methods. Why do you choose a color or a typeface? How to separate <strong>this one</strong> from <strong>this kind of</strong>, when making a series of covers, or different types of publications within one identity.</p>
+<ul>
+<li>A month of exercises or more and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Info-graphics: The design of automated designs</h2>
+<p>Design systems that generate info-graphics. For online use and for print. How do you bridge the gap between (big) databases, the design of templates using high level typographic standards, scriptable illustration techniques and applications for automated output. Using DrawBot, PageBot and current web technologies. </p>
+<ul>
+<li>A month of exercises or more and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Scripting the design of printed publications</h2>
+<p><img alt="F5.034.jpeg" src="images/F5.034.jpeg" /><br />
+<caption>Designing parameters that represent the principles of layout, typography and imaging is the main focus for this study. These pages where created by PageBot scripts.</caption></p>
+<p>Design systems that generate books, magazines, newspapers, brochures, manuals or catalogues. Intended for print. How do you bridge the gap between unpredictable content, sketching design rules, the design of templates that use high level typographic standards, scriptable illustration techniques and applications for automated output. Using DrawBot and PageBot (for OSX and Linux platforms).</p>
+<ul>
+<li>A month of exercises or more and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Scripting the design of online publications</h2>
+<p><img alt="TheEndOfCss015M1.050.jpeg" src="images/TheEndOfCss015M1.050.jpeg" /><br />
+<caption>Any design process benefits from short iterations, prototyping and the merging of disciplines. Web design is not different.</caption></p>
+<p>Design systems that generate applications, documents and websites, intended for online usage. How do you bridge the gap between unpredictable content, sketching design rules, the design of templates that use high level typographic standards, scriptable illustration techniques and applications for automated output. Using DrawBot and PageBot, generating HTML/CSS/Javascript (for OSX and Linux platforms).</p>
+<ul>
+<li>A month of exercises or more and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Identity design: Branding with and without the use of logos</h2>
+<p><img alt="TheEndOfCss015M1.087.jpeg" src="images/TheEndOfCss015M1.087.jpeg" /><br />
+<caption>The “traditional” set of branding parameters.</caption></p>
+<p><img alt="TheEndOfCss015M1.089.jpeg" src="images/TheEndOfCss015M1.089.jpeg" /><br />
+<caption>The xxxxxx for branding can be part of the design process.</caption></p>
+<p>Design parametric models for an identity. Which parameters create the visual coherency? And which parameters are diverse, without the need to specify? Is that always the same list? If not, what is the best selection for a particular brand?<br />
+How to write scripts to automate (parts of) the models for your parameters testing.</p>
+<ul>
+<li>A month of exercises or more and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Choosing a typedesign</h2>
+<p>What are the criteria for choosing the best typedesign for a particular graphic design project? </p>
+<ul>
+<li>A week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Python scripting for graphic designers</h2>
+<p><img alt="pageBotCode.png" src="images/pageBotCode.png" /></p>
+<p>Learn the basics of scripting your graphic design process. Sketching techniques. Decide what can be automated and what not. Patterns of Python code, using DrawBot and PageBot. Connect to InDesign. Parameters for magazines, websites, exhibition spaces and corporate identities.  Develop models to differentiate between best practice and arbitrary design choices.</p>
+<ul>
+<li>A month of exercises or more and 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code># ----------------------------------------
+# Studies/2019 Studies/designspaces.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Design spaces'
+page.url = 'Studies/designspaces.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h2>Study suggestions</h2>
+<h1>Design spaces</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/DesignModels2.072.png" /><br />
+<img alt="" src="images/DesignModels2.073.png" /><br />
+<img alt="" src="images/DesignModels2.074.png" /></p>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Learning to code? Discover the basics of typedesign? Improving your sketching techniques? Programming pages? Mastering typography?</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h2>Choosing colors</h2>
+<p>How to select a color or a color palette? What criteria matter in a given set of circumstances? How does material, medium and technique influence such a choice?<br />
+In a sequence of exercises the student will develop ways to look, measure and compare selected colors. </p>
+<ul>
+<li>A week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Creating an identity: the look and feel</h2>
+<p>Learn how to design a serie of visual components for an identity so the identity becomes a strong character. Designing the balance between coherency and diversity with a set of recognizable elements who will represent the brand optima forma. <br />
+Sketching, making models and making presentations in all diferent stadia in the design process will be the main course of this program.</p>
+<hr />
+<h2>How to organize structure in chaos</h2>
+<p><img alt="" src="images/DesignModels2.072.png" /></p>
+<hr />
+<h2>Design an interior</h2>
+<p><img alt="IMG_1132.jpg" src="images/IMG_1132.jpg" /></p>
+<p>Design an interior, based on requirements, planning, budget and usage. What are the most important requirements and attributes? Development of sketching techniques, modelling and presentation. Design the process itself, alongside the interior. Special focus is on materials, color, textures and the usage of space. The interior could be your own studio space, as well a the target of an external design project.</p>
+<ul>
+<li>A week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Design an exhibition</h2>
+<p><img alt="IMG_1520BWLow.jpg" src="images/IMG_1520BWLow.jpg" /></p>
+<p>Design an exhibition space, based on requirements, planning, budget and usage. Development of sketching techniques, modelling and presentation. Design the process itself, alongside the interior. Special focus is on message, typography, layout, imaging, materials, color, textures and the usage of space. The exhibition could be your own spacial portfolio, as well as the target of an external design project.</p>
+<ul>
+<li>A week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Design the environment</h2>
+<p>Whatever your environment is - physical, virtual and mental - that brings your creative thinking to the next level, you can make it focus for development and improvement.</p>
+<p>Through a variety of exercises – writing, sketching, making an inventory of environmental aspects and talking with others – you'll experience new oportunities to get more grip on your environment.  </p>
+<ul>
+<li>A week of exercises and 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Design your studio sandbox</h2>
+<p>Even design projects with a high degree of routine can benefit from built-in sandboxes. How to create them? How to make your own challenging hidden space?</p>
+<ul>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code># ----------------------------------------
+# Studies/2019 Studies/designpractice.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Design practice'
+page.url = 'Studies/designpractice.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h2>Study suggestions</h2>
+<h1>Running a design practice</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/DesignModels2.072.png" /><br />
+<img alt="" src="images/DesignModels2.073.png" /><br />
+<img alt="" src="images/DesignModels2.074.png" /></p>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Learning to code? Discover the basics of typedesign? Improving your sketching techniques? Programming pages? Mastering typography?</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h2>Design of design models</h2>
+<p>Develop and select design methods. What is available beyond “scrum”? Which methods can you design for yourself, by scaling and managing details? Sketching and making of small scale models is such a technique: get an impression about your design choices at an early stage, without making the “real thing”.</p>
+<ul>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<h2>Rapid prototyping for graphic designers</h2>
+<p>Learn to develop efficient and powerful prototyping techniques including manual sketching, digital tools and coding, with the goal of controlling the broadening and narrowing of options and directions a project may take.<br />
+Through sketching, hands-on practical exercises and presentations, you explore the process of making prototypes.<br />
+This study is a follow up on the <strong>Design of design models</strong>, but can be also joined separately.</p>
+<ul>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<p><img alt="DSGNWK_0468BWLow.jpg" src="images/DSGNWK_0468BWLow.jpg" /></p>
+<h2>Sketching techniques</h2>
+<p>Similar to the “Rapid Prototyping” workshop, this study addresses the management of details, too. The difference is the more extended focus on sketching skills, materials, coding and the visual language of scaled models.</p>
+<ul>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<p><img alt="DesignModels2.038.png" src="images/DesignModels2.038.png" /></p>
+<p><img alt="DesignModels2.037.png" src="images/DesignModels2.037.png" /></p>
+<hr />
+<h2>Live coaching while starting your studio</h2>
+<p>You are working on starting your own studio. You just graduated or you have been working in a design studio for years and now it is time to start your own. It seems to be a promising, interesting and rewarding plan. But it is also hard to control planning, budget and clients fantasies. Especially if projects run over a longer period of time.<br />
+How coaching is organized, depends on your needs. It varies from a single lesson of support, while writing an initial quote, up to helping you with management and feedback of your entire project.</p>
+<ul>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Daily support and feedback on results for the duration of the study</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<p><img alt="Do you really need a designer" src="images/DoYouReallyNeedADesigner.png" /></p>
+<hr />
+<h2>How to deal with customers?</h2>
+<p>Use cases, models, simulations, sketching and presentation techniques are the subject of this 3-lesson workshop on how to deal best with customers. Students are offered to think about planning in relation to what they charge for their designs. The workshop addresses the difference between cost and investment, leisure and learning, with special attention on the success of failure.</p>
+<ul>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Daily support and feedback on results for the duration of the study</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Running a home studio with employees, while raising a family</h2>
+<p>Examples and cases from our own experience. What worked for us and what didn't. Points of view, excersices and feedback. The dilemma choose focus. Roles and rules. The choice of not working overtime. Employer or design? Friends or families. <br />
+The workshop gives students a wide variety of strategies and scenarios. </p>
+<ul>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Daily support and feedback on results for the duration of the study</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Design of virtual studies and teaching online</h2>
+<p>With a total of 60 years of educating design, both in physical space, as well as in virtual environments, we can offer that experience as a topic of a study. How to design design education? Methods for feedback. What works in an online environment and what doesn’t? How to build layers of assignments? What is the goal? What is realistic?</p>
+<ul>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Daily support and feedback on results for the duration of the study</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Virtual sabbatical</h2>
+<p>You have been working as a designer for some years, employed by a studio or running your own. You have been really successful or a bit less, in any case, there is a moment in time to answer the question “What’s next?”. </p>
+<p>At the same time, you don’t think you have the age or freedom or financial resources to take a real sabbatical break and do a Master study abroad for 2 years. DesignDesign.Space offers the opportunity of doing a virtual sabbatical: studying new topics or deepen the ones that you already know in a challenging online environment, together with other students, who are seeking similar extensions to their professional career. How this is organized, depends on your needs and resources. </p>
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A single lesson for a day: <strong>$190</strong> per student</li>
+<li>A week of 3 lessons (1+ hour each), <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each), <strong>$1.900</strong> per student</li>
+<li>A season <strong>$3.900</strong></li>
+<li>A year <strong>Ask</strong></li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Daily support and feedback on results for the duration of the study</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code>box = page.select('Side00')
+</code></pre>
+
+<h2>Ask for info</h2>
+<p>Let us know by mail at <a href="mailto:info@designdesign.space?subject=Tell%20me%20more%20about%20DesignDesign.Space">info@designdesign.space</a>, if you are interested to study. We can discuss how that would work in a first free hangout online. Or tell us what other wishes that are related to design or education you already have.</p>
+<p><em>Don't hesitate to contact us if the indicated price is the only problem that prevents you from studying.</em></p>
+<h2><a href="program-2018.html">Reviewing 2018 studies</a></h2>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code># ----------------------------------------
+# Studies/2019 Studies/designeducation.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Design education'
+page.url = 'Studies/designeducation.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h2>Study suggestions</h2>
+<h1>Design design education</h1>
+<pre><code>box = page.select('SlideShow')
+#box.transition = 'blind'
+#box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/DesignModels2.072.png" /><br />
+<img alt="" src="images/DesignModels2.073.png" /><br />
+<img alt="" src="images/DesignModels2.074.png" /></p>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Learning to code? Discover the basics of typedesign? Improving your sketching techniques? Programming pages? Mastering typography?</h1>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-typedesign.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphicdesign.html">Graphic design</a></li>
+<li><a href="studies-designspaces.html">Design spaces</a></li>
+<li><a href="studies-designpractice.html">Design practice</a></li>
+<li><a href="studies-designeducation.html">Design education</a></li>
+</ul>
+<pre><code># ----------------------------------------
+# Studies/2018-reviews.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Reviews'
+page.url = 'reviews.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h1>What students did in 2018</h1>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>Around 120 students have joined one or more of the workshops and studies in 2018. Read some of the testimonials below.</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h1>What we did in 2018</h1>
+<ul>
+<li><strong>Scripting Variable Font specimens for type designers using PageBot</strong> (1 day)</li>
+<li><strong>Variable Fonts: design strategies and tool development</strong> (3 days)</li>
+<li><strong>Python scripting for graphic designers</strong> (4 weeks)</li>
+<li><strong>TypeLab, during Typographics 2018</strong> (3 days)</li>
+<li><strong>Python scripting for graphic designers: public workshop</strong> (1 day)</li>
+<li><strong>The design of Latin type, for non-Latin typedesigners</strong> (8 weeks)</li>
+<li><strong>Scripting for non-Latin type</strong> (6 weeks)</li>
+<li><strong>Scripting the visual grammar for graphic design</strong> (4 weeks)</li>
+<li><strong>Design the design process</strong> (10 days)</li>
+<li><strong>Mapping the profession in detail, for type design students</strong> (12 days)</li>
+<li><strong>Various individual coaching projects, ranging from type-crit to support at the background of regular art students</strong></li>
+</ul>
+<h1>What students wrote</h1>
+<p><img alt="DDS-Drawing-June-Shin w=perc(50)" src="images/DDS-drawing-June-Shin.png" /></p>
+<p><em>“This was a unique opportunity in that it wasn’t just a programming class, but one that was specifically catered to type designers to meet their needs. I didn’t know any Python whatsoever prior to this course, so in the beginning, it felt like being thrown into the sea without a life jacket. Petr is not a lifeguard; he is a swimming coach. He won’t rescue you — that’s too easy — but he will throw you a rope. (In fact, many ropes. You ask one question and he gives you five answers.) I appreciated that everyone was able to swim at their own pace. An experienced designer and astonishingly deep thinker, Petr offers far more than just coding knowledge. It was a privilege to be able to learn from him.</em><br />
+<em>Again, thank you so much! I learned a ton these four weeks and I'm so grateful.”</em> <strong>– June Shin</strong></p>
+<hr />
+<p><em>“The one month course is designed to accommodate type designers with various levels of Python and programming knowledge. The learning environment is set up similarly to a master's class which allows Petr to focus on individual needs. In addition, the course allows students to take their studies towards their personal needs and interests. The class is not just a skill learning environment as a good portion of the time is dedicated to critical discussions, such as designing one's design process or the ways new technologies and developments will effect and change how we design and think about type.”</em> <strong>– Cem Eskinazi</strong></p>
+<hr />
+<p><em>“For me, the Python scripting for type designers course from Design Design Space was a perfect complement to my formation as a typeface designer. It was a unique opportunity to learn type-related Python in first hand from a competent instructor. Petr doesn’t leave questions open, and the course’s pace flows according to each student’s needs.”</em> <strong>– Filipe Negrão</strong></p>
+<hr />
+<p><em>“This is my first time to have a formal Latin Design class. I am very lucky that I can learn from Petr because there is few Latin design classes in Taiwan.</em> </p>
+<p><em>Petr always is teaching design knowledge enthusiastically, using all he knows, when you have questions. Petr not only taught us how to design Latin fonts, but also how to think about the effect of every design and how to adjust them to become a better one. The most important thing is that you don't have to be afraid, if you are a starter because Petr will give a tailored class for everyone. I can promise that you can get a lot of treasures from Petr. I appreciate a lot that I could gain this experience from DDS.”</em> <strong>- Tom Kuo</strong></p>
+<pre><code># ----------------------------------------
+# pricing.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Pricing'
+page.url = 'pricing.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h1>What does it cost?</h1>
+<pre><code>box = page.select('Introduction0')
+</code></pre>
+
+<h1>The prices of DDS-studies are based on personal coaching and custom made design challenges with personal feedback. That is different from standard online courses.</h1>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h2>Pricing</h2>
+<p>Each lesson is an online hangout, lasting for part of the day – morning or afternoon – depending on your timezone. The total price is based on the length and intensity of a study. </p>
+<p>If a study is spread over a longer period of time, intensity can be lower for the same price. However, it requires more self-discipline for a student to take full advantage of the study and the support we can offer.</p>
+<p>The prices of the studies are indicators, dependant on length and intensity. A specific topic can be addressed in a couple of days. Or it can be the subject of a thourough study, lasting for a month or longer. </p>
+<p>Lessons can extend in time, if multiple students attend at the same time.</p>
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A single lesson for a whole day: <strong>$190</strong> per student</li>
+<li>A week of 3 lessons (1+ hour each): <strong>$490</strong> per student</li>
+<li>A month or more of 8 lessons (2+ hours each): <strong>$1.900</strong> per student</li>
+<li>A season: <strong>$3.900</strong></li>
+<li>A year: <strong>Ask</strong></li>
+</ul>
+<h3>Furthermore, for all studies and workshops:</h3>
+<ul>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code># ----------------------------------------
+# about.html
+# ----------------------------------------
+template = doc.getTemplate('default')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'About'
+page.url = 'about.html'
+box = page.select('Logo')
+</code></pre>
+
+<h1>DesignDesign.Space</h1>
+<pre><code>box = page.select('Banner')
+</code></pre>
+
+<h1>Contact us to try a free initial hangout</h1>
+<pre><code>box = page.select('SlideShow')
+box.transition = 'blind'
+box.easing = 'ease'
+</code></pre>
+
+<p><img alt="" src="images/ThemeColorsByDocument_1.png" /><br />
+<img alt="" src="images/ThemeColorsByDocument_2.png" /><br />
+<img alt="" src="images/ThemeColorsByDocument_3.png" /><br />
+<img alt="" src="images/ThemeColorsByDocument_4.png" /><br />
+<img alt="" src="images/ThemeColorsByDocument_5.png" /><br />
+<!--
+<img alt="" src="images/ThemeColorsByDocument_6.png" />
+<img alt="" src="images/ThemeColorsByDocument_7.png" />
+<img alt="" src="images/ThemeColorsByDocument_8.png" />
+--></p>
+<pre><code>box = page.select('SlideSide')
+</code></pre>
+
+<p>Example study</p>
+<h2>Choosing colors</h2>
+<p>How to design a coherent set of colors for a defined purpose, by managing the similarities and differences between colors? Which models to use? And what is the best process for the available time? </p>
+<p>The study <em>Choosing colors</em> learns students to design color palettes, in paint and digital tools. And the crossings between those media.</p>
+<pre><code>box = page.select('Main0')
+</code></pre>
+
+<h1>Contact</h1>
+<ul>
+<li><a href="designdesign.space">designdesign.space</a></li>
+<li><a href="mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information">info@designdesign.space</a></li>
+</ul>
+<h1>About this site</h1>
+<p>This site is generated by <a href="https://GitHub.com/PageBot/PageBot/blob/master/README.md">PageBot</a></p>
+<h1>Links</h1>
+<ul>
+<li><a href="typetr.typenetwork.com">typetr.typenetwork.com</a></li>
+<li><a href="upgrade.typenetwork.com">upgrade.typenetwork.com</a></li>
+<li><a href="bitcount.typenetwork.com">bitcount.typenetwork.com</a></li>
+</ul>
+<h1>Trademarks</h1>
+<p>PageBot®, DesignDesign.Space®, Upgrade®, Bitcount® and PowerLift® are 2017+ registered trademarks by Buro Petr van Blokland + Claudia Mens, Delft, The Netherlands. </p>
+<pre><code>box = page.select('Side00')
+</code></pre>
+
+<p><img alt="petrvanblokland.png" src="images/petrvanblokland.png" /></p>
+<ul>
+<li><strong>Petr van Blokland</strong></li>
+<li>E-mail <a href="mailto:buro@petr.com">buro@petr.com</a> </li>
+<li>Mobile +31 6 24 219 502</li>
+<li>Line +31 15 887 1233 </li>
+<li>Snail-mail: Rietveld 56, 2611 LM Delft, NL</li>
+<li>Twitter @petrvanblokland</li>
+<li><a href="https://www.instagram.com/petrvanblokland/">Instagram: TYPETR/PetrvanBlokland</a></li>
+</ul>
+<pre><code>box = page.select('Side01')
+</code></pre>
+
+<p><img alt="claudiamens.jpg" src="images/claudiamens.jpg" /></p>
+<ul>
+<li><strong>Claudia Mens</strong> </li>
+<li>E-mail <a href="mailto:claudia@petr.com">claudia@petr.com</a> </li>
+<li>Mobile +31 6 41 367 689</li>
+<li>Line +31 15 887 1233</li>
+<li>Snail-mail: Rietveld 56, 2611 LM Delft, NL</li>
+<li>Twitter @claudiamens</li>
+<li><a href="https://www.instagram.com/pepperandtom">Instagram PepperAndTom</a></li>
+</ul></document>

@@ -1,0 +1,219 @@
+body {
+    background: #fff;
+    color: #706670;
+    font-family: 'Upgrade-Regular', sans-serif;
+    font-size: 12pt;
+    line-height: 1.4em;
+    font-weight: normal; 
+
+    margin: 8px; /* Margin between all page content and window */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    font-family: 'Upgrade-Regular', sans-serif;
+    line-height: 1.5em;
+    margin: .45em 0;
+    padding: 0; 
+}
+h1 {
+    font-family: 'Upgrade-Semibold', sans-serif;
+    margin: 0;
+    font-size: 2em;
+}
+img {
+    width: 100%;
+}
+p {
+    font-size: 14pt;
+}
+.cssId { /* Debug showing e.cssId */
+    font-size: 12pt;
+    color: yellow;
+    background-color: red;
+}
+.wrapper {
+    background-color: #ddd;
+    color: #444;
+    width: 100%;
+    margin: 0;
+    padding: 0;    
+}
+.clearfix {
+  overflow: auto; /* CSS hack to grow div including all child content. */
+}
+
+/* Header */
+.header {
+    float: left;
+    background-color: #ddd;
+    color: #444;
+    width: 100%;
+}
+.logo {
+    float: left;
+    width: 38%;
+    color: white;
+    background-color: yellow;
+}
+.navigation {
+    float: right;
+    width: 60%;
+    background-color: orange;
+}
+.burgerbutton {
+    display: none;
+    float: right;
+    width: 8%;
+}
+.menu {
+    display: block;
+    float: left;
+    width: 100%;
+    background-color: cyan;
+}
+.mobilemenu {
+    display: none;
+    float: left;
+    width: 100%;
+    background-color: purple;
+}
+.mobilemenu button {
+    width: 100%;
+    color: red;
+    background-color: #7799dd;
+    font-size: 32pt;
+}
+
+/* Banner on full width */
+.banner {
+    clear: left;
+    float: left;
+    width: 100%;
+    color: white;
+    background-color: #445566;
+}
+
+/* Slide show */
+.slideshow {
+    clear: left;
+    float: left;
+    width: 100%;
+    background-color: #667788;
+}
+.slides {
+    float: left;
+    width: 60%;
+    color: white;
+    background-color: #998877;
+}
+.slideside {
+    float: right;
+    width: 38%;
+    color: white;
+    background-color: #11aa77;
+}
+
+/* Content */
+.content {
+    clear: left;
+    width: 100%;
+    background-color: #ccc;
+}
+.main {
+    float: left;
+    width: 75%;
+    background-color: yellow;
+}
+.side {
+    clear: right;
+    float: right;
+    width: 20%;
+    background-color: orange;
+}
+.footer {
+    clear: left;
+    width: 100%;
+    background-color: #aaa;
+}
+
+@media only screen and (max-width: 800px) {
+    .logo {
+        background-color: red;
+        width: 90%; /* Make space for BurgerButton */
+    }
+    .burgerbutton {
+        display: block;
+    }
+    .navigation {
+        display: none;
+        clear: left;
+        float: left;
+        width: 100%;
+    }
+    .menu {
+        display: none;
+        width: 100%;
+    }
+    .mobilemenu {
+        display: none;
+    }
+    .slides {
+        width: 100%;
+        background-color: #1199dd;
+    }
+    .slideside {
+        float: left;
+        width: 100%;
+        background-color: #ffaa99;
+    }
+    .main {
+        width: 100%;
+    }
+    .side {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 800px) {
+    .logo {
+        background-color: #6699FF;
+    }
+    .navigation {
+        display: block;
+    }
+    .mobilemenu {
+        display: none;
+    }
+    .main {
+        width: 60%;
+    }
+    .side {
+        width: 38%;
+    }
+    .slideside {
+        width: 38%;
+        background-color: #dd2299;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .wrapper {
+        width: 1200px;
+        margin: auto;
+    }
+    .logo {
+        background-color: green;
+    }
+    .navigation {
+        display: block;
+    }
+    .mobilemenu {
+        display: none;
+    }
+    .main {
+        width: 60%;
+    }
+    .side {
+        clear: none;
+        width: 19%;
+    }
+}

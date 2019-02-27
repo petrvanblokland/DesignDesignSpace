@@ -58,8 +58,11 @@ IMAGES1 = (
     ('pageBotCode.png', (Fit2WidthSides(), Top2TopSide())),
 )
 
+#BANNER_DATA = [
+#    dict(filePath='ProtypingDDSBanner-Typographics1200x400.gif', w=1200, h=400, title1=TITLE1, #title2=TITLE2, imagePaths=IMAGES1, labelSize=48, titleSize=200),
+#]
 BANNER_DATA = [
-    dict(filePath='ProtypingDDSBanner-Typographics1200x400.gif', w=1200, h=400, title1=TITLE1, title2=TITLE2, imagePaths=IMAGES1, labelSize=48, titleSize=200),
+    dict(filePath='ProtypingDDSBanner-Typographics1200x400.gif', w=800, h=800, title1=TITLE1, title2=TITLE2, imagePaths=IMAGES1, labelSize=48, titleSize=200),
 ]
 
 family = getFamily('Upgrade')
