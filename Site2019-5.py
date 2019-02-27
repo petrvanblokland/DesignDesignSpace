@@ -235,7 +235,7 @@ elif EXPORT_TYPE == DO_GIT: # Not supported for SimpleSite, only one per reposit
 
     # Open the css file in the default editor of your local system.
     os.system('git pull; git add *;git commit -m "Updating website changes.";git pull; git push')
-    os.system(u'/usr/bin/open "%s"' % gitView.getUrl(DOMAIN))
+    #os.system(u'/usr/bin/open "%s"' % gitView.getUrl(DOMAIN))
 
 else: # No output view defined
     print('Set EXPORTTYPE to DO_FILE or DO_MAMP or DO_GIT')
