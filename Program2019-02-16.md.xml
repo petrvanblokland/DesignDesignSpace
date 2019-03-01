@@ -918,7 +918,7 @@ This study is a follow up on the <strong>Design of design models</strong>, but c
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450" src="images/_PPG_Schetsen_01.png" /></p>
+<p><img alt="w=450" src="images/PPG_Schetsen_01.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
