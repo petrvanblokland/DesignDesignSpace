@@ -622,11 +622,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 
 <p><img alt="pageBotCode.png w=450" src="images/pageBotCode.png" /><br />
 <caption>Using the programming language Python during the design process is a logical choice. Yet, a DesignDesign.Space study assumes no existing knowledge or experience. We start at the level that you have.</caption></p>
-<p><img alt="pageBotCode.png w=450" src="images/pageBotCode.png" /><br />
-<caption>Using the programming language Python during the design process is a logical choice. Yet, a DesignDesign.Space study assumes no existing knowledge or experience. We start at the level that you have.</caption></p>
-<pre><code>box = section.newMain()
-</code></pre>
-
+<hr />
 <h2>Other study suggestions</h2>
 <ul>
 <li><a href="studies-type_design.html">Type design</a></li>
@@ -636,9 +632,6 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <li><a href="studies-designpractice.html">Design practice</a></li>
 <li><a href="studies-designeducation.html">Design education</a></li>
 </ul>
-<pre><code>box = section.newSide()
-</code></pre>
-
 <pre><code># ----------------------------------------
 # Studies/2019 Studies/designspaces.html
 # ----------------------------------------
