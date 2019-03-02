@@ -70,7 +70,7 @@ box = slideshow.slides
 box = section.newIntroduction()
 </code></pre>
 
-<h1><a href="studies-type_design.html#discover-the-basics-of-type_design">Discovering the basics of type design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-designpractice.html#starting-your-studio">Starting a studio?</a> <a href="studies-graphic-design.html#programming-pages">Programming pages?</a> <a href="studies-type_design.html#automated-proofing-and-specimens">Learning to code?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Mastering typography?</a> So are we.</h1>
+<h1><a href="studies-type_design.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-designpractice.html#starting-your-studio">Starting a studio?</a> <a href="studies-graphic-design.html#programming-pages">Programming pages?</a> <a href="studies-type-design.html#automated-proofing-and-specimens">Learning to code?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Mastering typography?</a> So are we.</h1>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -169,7 +169,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1><a href="studies-type_design#discover-the-basics-of-type_design">Drawing basic contrast?</a> <a href="studies-type_design.html#the-design-process-of-variable-fonts">Mastering Variable Fonts?</a> <a href="studies-type_design.html#scripting-for-type-designers">Learning to code?</a> <a href="studies-type_design.html#discover-the-basics-of-type_design">Discovering the basics of type design?</a> <a href="studies-type_design.html#improve-your-sketching-techniques">Improving your sketching techniques?</a></h1>
+<h1><a href="studies-type_design#discover-the-basics-of-type-design">Drawing basic contrast?</a> <a href="studies-type_design.html#the-design-process-of-variable-fonts">Mastering Variable Fonts?</a> <a href="studies-type_design.html#scripting-for-type-designers">Learning to code?</a> <a href="studies-type_design.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-type_design.html#improve-your-sketching-techniques">Improving your sketching techniques?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -202,7 +202,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newMain()
 </code></pre>
 
-<p><a name="discover-the-basics-of-type_design"/></p>
+<p><a name="discover-the-basics-of-type-design"/></p>
 <h2>Discover the basics of type design</h2>
 <p>Type design is not your main background, but as a designer, you often are in situation when it would be good knowing more about it. When selecting a typeface for one of your designs. Or when you need to explain it to your client. It is possible to read about it. But it’s a lot more efficient learning how to write and draw by yourself.</p>
 <pre><code>box = box.newInfo()
@@ -853,7 +853,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1>Starting a studio? Learning to educate clients? Redesigning your design process? Working in a team? Managing expectations?</h1>
+<h1>Starting a studio? <a href="studies-designpractice#how-to-deal-with-clients">Learning to educate clients?</a> Redesigning your design process? Working in a team? Managing expectations?</h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
