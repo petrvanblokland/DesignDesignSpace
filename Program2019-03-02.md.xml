@@ -672,7 +672,6 @@ In a sequence of exercises, the student will develop ways to look, measure and c
 <li>Document sharing and versioning through GitHub</li>
 <li>Design principles for planning, process, methods for feedback and testing criteria </li>
 </ul>
-<p>The PageBot color theme currently showing in this website is <strong>FairyTales-Dark</strong></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -1170,7 +1169,7 @@ box = section.newIntroduction()
 </code></pre>
 
 <hr />
-<h3>“ This was a very important foundation for me not only to  […] rethink about my own design approach in a very fundamental way.”</h3>
+<h3>“This was a very important foundation for me not only to  […] rethink about my own design approach in a very fundamental way.”</h3>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
@@ -1181,7 +1180,9 @@ box = section.newIntroduction()
 
 <p><img alt="DDS-Drawing-June-Shin w=450 y=top" src="images/DDS-drawing-June-Shin.png" /><br />
 <caption>June Shin’s thank-you card to DesignDesign.Space, very much appreciated.</caption></p>
-<hr />
+<pre><code>box = section.newMain()
+</code></pre>
+
 <h2>Explore the ideas about what you could study.</h2>
 <ul>
 <li><a href="studies-typedesign.html">Type design</a></li>
@@ -1191,6 +1192,10 @@ box = section.newIntroduction()
 <li><a href="studies-designpractice.html">Design practice</a></li>
 <li><a href="studies-designeducation.html">Design education</a></li>
 </ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="IMG_3148.jpg w=600" src="images/IMG_3148.jpg" /></p>
 <pre><code>box = section.newIntroduction()
 </code></pre>
 
@@ -1264,8 +1269,7 @@ box = content.newBanner()
 
 <h1>Contact us for a free initial hangout</h1>
 <pre><code>from pagebot.constants import *
-slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, 
-carousel=4, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
+slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=1, autoHeight=True, carousel=4, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
 
 #![w=200 y=top](images/BK-Graphic-Design.png)
