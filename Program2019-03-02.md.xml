@@ -1133,7 +1133,7 @@ box = section.newIntroduction()
 <pre><code>box = mainBox = section.newMain()
 </code></pre>
 
-<h2>“I appreciated that everyone was able to swim at their own pace.”</h2>
+<h3>“I appreciated that everyone was able to swim at their own pace.”</h3>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
@@ -1143,7 +1143,7 @@ box = section.newIntroduction()
 </code></pre>
 
 <hr />
-<h2>“The class is not just a skill learning environment as a good portion of the time is dedicated to critical discussions.”</h2>
+<h3>“The class is not just a skill learning environment as a good portion of the time is dedicated to critical discussions.”</h3>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
@@ -1152,7 +1152,7 @@ box = section.newIntroduction()
 </code></pre>
 
 <hr />
-<h2>“It was a unique opportunity to learn type-related Python in first hand.”</h2>
+<h3>“It was a unique opportunity to learn type-related Python in first hand.”</h3>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
@@ -1161,7 +1161,7 @@ box = section.newIntroduction()
 </code></pre>
 
 <hr />
-<h2>“I can promise that you can get a lot of treasures.”</h2>
+<h3>“I can promise that you can get a lot of treasures.”</h3>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
@@ -1171,7 +1171,7 @@ box = section.newIntroduction()
 </code></pre>
 
 <hr />
-<h2>“ This was a very important foundation for me not only to further learning […] but also and more importantly rethink about my own design approach in a very fundamental way.”</h2>
+<h3>“ This was a very important foundation for me not only to  […] rethink about my own design approach in a very fundamental way.”</h3>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
