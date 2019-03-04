@@ -1244,12 +1244,12 @@ box = section.newIntroduction()
 <h3>Methods of payment</h3>
 <ul>
 <li>All pricing is in Euro's.</li>
-<li>Direct bank transfer is preference. </li>
-<li>Add 3% to the total when paying by PayPal.</li>
-<li>Inside The Netherlands 21% VAT is added.</li>
+<li>Inside The Netherlands add 21% VAT.</li>
 <li>Inside Europe no VAT adds, if you have a VAT registration number.</li>
 <li>Outside Euope no VAT is added.</li>
 <li>We send an invoice over the total amount.</li>
+<li>Direct bank transfer is preference. </li>
+<li>Add 3% to the total when paying by PayPal.</li>
 </ul>
 <pre><code>box = section.newCropped()
 </code></pre>
