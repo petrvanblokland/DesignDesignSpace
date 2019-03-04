@@ -310,6 +310,19 @@ ul.navmenu:after {
     background-color: #333333;
     padding: 0 1em 0 0;
 }
+.slideside .textbox h1 {
+    color: #E7E7E7;
+    letter-spacing: 0.025em;
+    font-size: 1.4em;
+    line-height: 1.4em;
+    font-family: 'Upgrade-Regular';
+}
+.slideside .textbox h1 a {
+    color: #F96302;
+}
+.slideside .textbox h1 a:hover {
+    color: #642801;
+}
 .slideside .textbox h2 {
     color: #E7E7E7;
     letter-spacing: 0.025em;
@@ -433,7 +446,7 @@ MEDIAQUERIES
 
     }
     .logo {
-        width: 50%;
+        width: 80%;
     }
     .logo h1 {
         font-size: 1.4em;

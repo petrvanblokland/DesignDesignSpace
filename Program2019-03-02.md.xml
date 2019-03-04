@@ -70,7 +70,7 @@ box = slideshow.slides
 box = section.newIntroduction()
 </code></pre>
 
-<h1><a href="studies-type_design.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-designpractice.html#starting-your-studio">Starting a studio?</a> <a href="studies-graphic-design.html#programming-pages">Programming pages?</a> <a href="studies-type-design.html#automated-proofing-and-specimens">Learning to code?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Mastering typography?</a> So are we.</h1>
+<h1><a href="studies-typedesign.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-designpractice.html#live-coaching-while-starting-your-studio">Starting a studio?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Programming pages?</a> <a href="studies-typedesign.html#automated-proofing-and-specimens">Learning to code type specimens?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Mastering typography?</a> So are we.</h1>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -99,7 +99,7 @@ box = section.newIntroduction()
 <hr />
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -126,7 +126,7 @@ box = content.newBanner()
 box = section.newIntroduction()
 </code></pre>
 
-<h1><a href="studies-designpractice.html#design-of-design-models">Redesigning your current design process?</a> <a href="studies-designpractice.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> <a href="studies-designspaces.html#design-a-workspace">Redoing your interior?</a> <a href="studies-designpractice.html#how-to-deal-with-customers">How to educate customers?</a> <a href="studies-designeducation.html#virtual-studies-and-teaching-online">Directions for further design education?</a></h1>
+<h1><a href="studies-designpractice.html#design-of-design-models">Redesigning your current design process?</a> <a href="studies-designpractice.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> <a href="studies-designspaces.html#design-a-workspace">Redoing your interior?</a> <a href="studies-designpractice.html#how-to-deal-with-clients">How to educate customers?</a> <a href="studies-designeducation.html#virtual-studies-and-teaching-online">Directions for further design education?</a></h1>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -140,7 +140,7 @@ box = section.newIntroduction()
 <hr />
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -152,12 +152,12 @@ box = section.newIntroduction()
 
 <p><img alt="w=450 y=top" src="images/BK-Models-Design.png" /></p>
 <pre><code># ----------------------------------------
-# studies-type_design.html
+# studies-typedesign.html
 # ----------------------------------------
 page = page.next
 page.applyTemplate(template)  
 page.name = 'Type design'
-page.url = 'Studies/type_design.html'
+page.url = 'Studies/typedesign.html'
 
 content = page.select('Content')
 box = content.newBanner()
@@ -169,7 +169,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1><a href="studies-type_design#discover-the-basics-of-type-design">Drawing basic contrast?</a> <a href="studies-type_design.html#the-design-process-of-variable-fonts">Mastering Variable Fonts?</a> <a href="studies-type_design.html#scripting-for-type-designers">Learning to code?</a> <a href="studies-type_design.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-type_design.html#improve-your-sketching-techniques">Improving your sketching techniques?</a></h1>
+<h1><a href="studies-typedesign.html#discover-the-basics-of-type-design">Drawing basic contrast?</a> <a href="studies-typedesign.html#the-design-process-of-variable-fonts">Mastering Variable Fonts?</a> <a href="studies-typedesign.html#scripting-for-type-designers">Learning to code?</a> <a href="studies-typedesign.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-typedesign.html#improve-your-sketching-techniques">Improving your sketching techniques?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -351,7 +351,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -446,7 +446,7 @@ box = section.newMain().newIntroduction()
 
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -475,7 +475,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1><a href="studies-typography#learn-how-to-use-type-and-typography-online">Researching generative typography?</a> <a href="studies-designspaces.html#creating-an-identity">Designing a series?</a> <a href="studies-graphicdesign.html#improve-your-sketching-techniques">Discovering the basics of information design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphicdesign#identity-design">Branding a client?</a></h1>
+<h1><a href="studies-typography.html#learn-how-to-use-type-and-typography-online">Researching generative typography?</a> <a href="studies-designspaces.html#creating-an-identity">Designing a series?</a> <a href="studies-graphicdesign.html#info-graphics-the-design-of-automated-designs">Discovering the basics of information design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphicdesign.html#identity-design">Branding a client?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -625,7 +625,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <hr />
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -650,7 +650,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1><a href="studies-designspaces.html#design-a-workspace">Redoing your workspace?</a> <a href="studies-designspaces.html#choosing-colors">Choosing colors at IKEA?</a> <a href="studies-designspaces.html#creating-an-identity">Looking for a style?</a> <a href="studies-designspaces.html#how-to-organize-structure-in-chaos">Mastering the skill of selection?</a> <a href="studies-designspaces.html#design-an-exhibition">Creating an exhibit?</a></h1>
+<h1><a href="studies-designspaces.html#design-a-workspace">Redoing your workspace?</a> <a href="studies-designspaces.html#choosing-colors">Choosing colors at IKEA?</a> <a href="studies-designspaces.html#creating-an-identity">Looking for a style?</a> <a href="studies-designspaces.html#how-to-organize-structure-in-chaos">Mastering the skill of selection?</a> <a href="studies-designspaces.html#design-an-exhibition">Creating an exhibit?</a> <a href="studies-designspaces.html#design-your-studio-sandbox">Making sandbox for experiments?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -824,7 +824,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -853,7 +853,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1><a href="studies-designpractice.html#live-coaching-while-starting-your-studio">Starting a studio?</a> <a href="studies-designpractice#how-to-deal-with-clients">Learning to educate clients?</a> <a href="studies-designpractice.html#design-of-design-models">Redesigning your design process?</a> Working in a team? Managing expectations?</h1>
+<h1><a href="studies-designpractice.html#live-coaching-while-starting-your-studio">Starting a studio?</a> <a href="studies-designpractice.html#how-to-deal-with-clients">Learning to educate clients?</a> <a href="studies-designpractice.html#design-of-design-models">Redesigning your design process?</a> <a href="studies-designpractice.html#running-a-home-studio">Kids around in the studio?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -904,7 +904,7 @@ This study is a follow up on the <strong>Design of design models</strong>, but c
 
 <p><a name="sketching-techniques"/></p>
 <h2>Sketching techniques</h2>
-<p>Similar to the “Rapid Prototyping” workshop, this study addresses the management of details, too. The difference is the more extended focus on sketching skills, materials, coding and the visual language of scaled models.</p>
+<p>Similar to the “Rapid Prototyping” workshop, this study addresses the management of details. The focus on developing sketching skills, experiment with materials in 2D and 3D, drawing with <strong>SketchApp</strong>, coding and exporing the visual language of scaled models with <strong>DrawBot</strong> and <strong>PageBot</strong>.</p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -990,7 +990,7 @@ The workshop gives students a wide variety of strategies and scenarios. </p>
 
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -1015,7 +1015,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1>Learning to code? Discover the basics of type design? Improving your sketching techniques? Programming pages? Mastering typography?</h1>
+<h1><a href="studies-designeducation.html#virtual-sabbatical">With your 10+ years of studio experience: what is next?</a> <a href="studies-designeducation.html#virtual-sabbatical">Mastering code?</a> <a href="studies-designeducation.html#virtual-sabbatical">Training new skills?</a> <a href="studies-designeducation.html#virtual-sabbatical">Broadening your scope?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -1025,7 +1025,7 @@ box = section.newMain().newIntroduction()
 
 <p><a name="virtual-studies-and-teaching-online"/></p>
 <h2>Virtual studies and teaching online</h2>
-<p>With a total of 60 years of educating design, both in physical space, as well as in virtual environments, we can offer that experience as a topic of a study. How to design the way that you teach? How to develop methods for feedback? What works in an online environment and what doesn’t? How to build layers of assignments? What is its goal? What is realistic to expect?</p>
+<p>With a total of 60+ years of educating design, both in physical space, as well as in virtual environments, we can offer the experience itself as a topic of a study. How to design the way that you teach? How to develop methods for feedback? What works in an online environment and what doesn’t? How to build layers in assignments, where student think they learn one thing, while in reality they learn a lot more as well? What is the goal of a study? And what is realistic to expect?</p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -1070,7 +1070,7 @@ box = section.newMain().newIntroduction()
 
 <h2>Other study suggestions</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -1150,7 +1150,7 @@ box = section.newIntroduction()
 <hr />
 <h2>Explore the ideas about what you could study.</h2>
 <ul>
-<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
 <li><a href="studies-graphicdesign.html">Graphic design</a></li>
 <li><a href="studies-designspaces.html">Design spaces</a></li>
@@ -1245,11 +1245,11 @@ box = section.newMain()
 <p>Van Blokland lectured at the Department of Graphic Design of the Academy of Arts in Arnhem (1984 – 1989), at the Department of Graphic Design (1988-2011) and Master Type &amp; Media (1998 – present) of the Royal Academy of Arts in The Hague, as well as at the Master Institute of AKV St. Joost in Den Bosch (2010 - present).</p>
 <p>Van Blokland received the Charles Peignot Award for typography of AtypI, the Association Typographique International, in 1988 and was Board Member from 1996 to 2003.</p>
 <p>He was co-founder and CTO for The Health Agency, publisher of online health information, from 2001 to 2006. </p>
-<p>Besides lecturing, his current focus is on international projects related to typography and type design. He also is co-founder of webtype.com and typenetwork.com, for which many typedesign tools were developed. That is also the location of his type foundry TYPETR. The online study environment DesignDesign.Space started in 2017.</p>
+<p>Besides lecturing, his current focus is on international projects, related to typography and type design. He also is co-founder of webtype.com and typenetwork.com, for which many typedesign tools were developed. Type Network is also the location of his type foundry TYPETR. The online study environment DesignDesign.Space started in 2017.</p>
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="petrvanblokland.png w=450 y=top" src="images/petrvanblokland.png" /></p>
+<p><img alt="IMG_7798.jpg w=450 y=top" src="images/IMG_7798.jpg" /></p>
 <ul>
 <li><a href="mailto:buro@petr.com">E-mail buro@petr.com</a> </li>
 <li>Mobile +31 6 24 219 502</li>
@@ -1282,7 +1282,7 @@ box = section.newMain()
 </code></pre>
 
 <h2>About this site</h2>
-<p>This site is generated by <a href="https://GitHub.com/PageBot/PageBot/blob/master/README.md">PageBot</a></p>
+<p>This site is generated by <a href="https://GitHub.com/PageBot/PageBot/blob/master/README.md">PageBot</a>, generated from a single MarkDown file. Learning how that work can be the topic of a study.</p>
 <h2>Trademarks</h2>
 <p>PageBot®, DesignDesign.Space®, Upgrade®, Bitcount® and PowerLift® are 2017+ registered trademarks by Buro Petr van Blokland + Claudia Mens, Delft, The Netherlands. </p>
 <pre><code>box = section.newSide()
