@@ -43,7 +43,6 @@ box = slideshow.slides
 </code></pre>
 
 <p><img alt="w=450 y=top" src="images/d26a175f-c382-4924-ab70-9d93288524b3.jpg" /><br />
-<img alt="w=450 y=top" src="images/DesignModels2-82.001BW.png" /><br />
 <img alt="w=450 y=top" src="images/IMG_1107.jpg" /><br />
 <img alt="w=450 y=top" src="images/IMG_1701.jpg" /><br />
 <img alt="w=450 y=top" src="images/IMG_2535.jpg" /><br />
@@ -1222,7 +1221,6 @@ box = section.newIntroduction()
 <p>If a study is spread over a longer period of time, intensity can be lower for the same price. However, it requires more self-discipline for a student to take full advantage of the study and the support that we can offer.</p>
 <p>The prices of the studies are indicators: a specific topic can be addressed in a couple of days. Or it can be the subject of a thourough study, taking a month or longer to finish.</p>
 <p>Lessons can extend in time, if multiple students attend at the same time.</p>
-<p>Note that pricing changed to Euro's.</p>
 <ul>
 <li>Initial online hangout, free of charge.</li>
 <li>A single lesson, full of exercises for a whole day: <strong>€170</strong> per student</li>
@@ -1237,6 +1235,16 @@ box = section.newIntroduction()
 <li>Document sharing and versioning through GitHub</li>
 <li>Software and typeface licenses where applicable</li>
 <li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<h3>Methods of payment</h3>
+<ul>
+<li>All pricing is in Euro's.</li>
+<li>Direct bank transfer is preference. </li>
+<li>Add 3% to the total when paying by PayPal.</li>
+<li>Inside The Netherlands 21% VAT is added.</li>
+<li>Inside Europe no VAT adds, if you have a VAT registration number.</li>
+<li>Outside Euope no VAT is added.</li>
+<li>We send an invoice over the total amount.</li>
 </ul>
 <pre><code>box = section.newCropped()
 </code></pre>
@@ -1259,10 +1267,11 @@ box = content.newBanner()
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, 
 carousel=4, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
+
+#![w=200 y=top](images/BK-Graphic-Design.png)
 </code></pre>
 
-<p><img alt="w=200 y=top" src="images/BK-Graphic-Design.png" /><br />
-<img alt="w=200 y=top" src="images/BK-Interactive-Design.png" /><br />
+<p><img alt="w=200 y=top" src="images/BK-Interactive-Design.png" /><br />
 <img alt="w=200 y=top" src="images/BK-Environmental-Design.png" /><br />
 <img alt="w=200 y=top" src="images/BK-Interaction-Design.png" /><br />
 <img alt="w=200 y=top" src="images/BK-Studio-Design.png" /><br />
