@@ -126,7 +126,7 @@ box = content.newBanner()
 box = section.newIntroduction()
 </code></pre>
 
-<h1>Redesigning your current design process? Methods for rapid prototyping? Redoing your interior? How to educate customers? Directions for further design education?</h1>
+<h1>Redesigning your current design process? <a href="studies-graphicdesign.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> Redoing your interior? How to educate customers? Directions for further design education?</h1>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -475,7 +475,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1>Researching generative typography? Designing a series? <a href="studies-graphicdesign.html#improve-your-sketching-techniques">Discovering the basics of information design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphicdesign#identity-design">Branding a client?</a></h1>
+<h1>Researching generative typography? <a href="studies-designspaces.html#creating-an-identity">Designing a series?</a> <a href="studies-graphicdesign.html#improve-your-sketching-techniques">Discovering the basics of information design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphicdesign#identity-design">Branding a client?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -650,7 +650,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1>Redoing your workspace? Choosing colors at IKEA? Looking for a style? Mastering the skill of selection? Creating an exhibit?</h1>
+<h1><a href="studies-designspaces.html#design-a-workspace">Redoing your workspace?</a> <a href="studies-designspaces.html#choosing-colors">Choosing colors at IKEA?</a> <a href="studies-designspaces.html#creating-an-identity">Looking for a style?</a> <a href="studies-designspaces.html#how-to-organize-structure-in-chaos">Mastering the skill of selection?</a> <a href="studies-designspaces.html#design-an-exhibition">Creating an exhibit?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -853,7 +853,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1>Starting a studio? <a href="studies-designpractice#how-to-deal-with-clients">Learning to educate clients?</a> Redesigning your design process? Working in a team? Managing expectations?</h1>
+<h1><a href="studies-designpractice.html#live-coaching-while-starting-your-studio">Starting a studio?</a> <a href="studies-designpractice#how-to-deal-with-clients">Learning to educate clients?</a> <a href="studies-designpractice.html#design-of-design-models">Redesigning your design process?</a> Working in a team? Managing expectations?</h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
