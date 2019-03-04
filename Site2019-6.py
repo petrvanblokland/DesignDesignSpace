@@ -24,7 +24,7 @@ from pagebot.composer import Composer
 from pagebot.typesetter import Typesetter
 from pagebot.elements import *
 from pagebot.conditions import *
-from pagebot.toolbox.color import color, whiteColor, blackColor
+from pagebot.toolbox.color import color, whiteColor, blackColor, spot
 from pagebot.toolbox.units import em, pt
 from pagebot.elements.web.nanosite.siteelements import *
 
@@ -41,10 +41,17 @@ from pagebot.themes import *
 #   WordlyWise
 #   HappyHolidays
 
-Theme = BaseTheme
+DDS_LOGO = spot(165)
 
-theme = Theme('dark')
-theme = Theme('light')
+class DDSTheme(BaseTheme):
+    NAME = 'DesignDesign.Space'
+    BASE_COLORS = dict(
+        base2=color('#ACACB8'),
+        base3=DDS_LOGO,
+        logo=DDS_LOGO,
+    )
+
+theme = DDSTheme('light')
 
 SITE_NAME = 'DesignDesign.Space' # Also used as logo
 

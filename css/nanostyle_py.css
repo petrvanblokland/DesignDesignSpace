@@ -23,11 +23,12 @@ p em {
 }
 a {
     text-decoration: none;
-    color: #787878;
+    color: #45454A;
 }
 a:hover {
     text-decoration: none;
-    color: #454545;
+    color: #F96302;
+    background-color: #FFFFFF;
 }
 ul {
     padding: 0 0 0 20px;
@@ -51,30 +52,39 @@ h1 a {
 }
 h1 a:hover {
     color: #262626;
+    background-color: none;
 }
 h2 a {
     color: #434343;
+    background-color: none;
 }
 h2 a:hover {
     color: #262626;
+    background-color: none;
 }
 h3 a {
     color: #434343;
+    background-color: none;
 }
 h3 a:hover {
     color: #262626;
+    background-color: none;
 }
 h4 a {
     color: #434343;
+    background-color: none;
 }
 h4 a:hover {
     color: #262626;
+    background-color: none;
 }
 h5 a {
     color: #434343;
+    background-color: none;
 }
 h5 a:hover {
     color: #262626;
+    background-color: none;
 }
 
 /* Debugging */
@@ -119,10 +129,10 @@ h5 a:hover {
 /* Rulers */
 
 .main hr {
-    border: 8px solid #787878;
+    border: 8px solid #787881;
 }
 .side hr {
-    border: 1px solid #787878;
+    border: 1px solid #787881;
 }
 
 /* Desktop navigation/menu */
@@ -192,7 +202,7 @@ li:hover a {
 
 li:hover li a:hover { 
     background-color: #E7E7E7; 
-    color: #787878;
+    color: #787881;
 }
 
 .main-navigation li ul.navmenu li { 
@@ -315,7 +325,7 @@ ul.navmenu:after {
     font-family: 'Upgrade-Semibold';
 }
 .slideside .textbox p {
-    color: #F3F3F3;
+    color: #F3F3F4;
     letter-spacing: 0.025em;
     font-size: 1em;
     line-height: 1.4em;
@@ -328,7 +338,7 @@ ul.navmenu:after {
 
 sup { /* Superior number <sup> by Upgrade OT-feature */
     top: 0em;
-    color: #1A1A1A;
+    color: #1A1A1C;
     font-size: inherit;
     vertical-align: inherit;
     -moz-font-feature-settings:"sups=1";
@@ -358,7 +368,7 @@ li sup { /* Superior Scale number in Menu */
     grid-template-columns: 2fr 1fr;
     column-gap: 10px;
     row-gap: 10px;
-    background-color: #C5C5C5;
+    background-color: #DEDEE3;
     border-top: 15px solid #595959;
 
 }
@@ -402,8 +412,8 @@ li sup { /* Superior Scale number in Menu */
     height: 1em;
     width: 1em;
     font-size: 1.5em;
-    background-color: #ACACAC;
-    color: #1A1A1A;
+    background-color: #F96302; /* Buttons in logo color */
+    color: #FEE8D9;
 }
 
 

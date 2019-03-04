@@ -126,7 +126,7 @@ box = content.newBanner()
 box = section.newIntroduction()
 </code></pre>
 
-<h1>Redesigning your current design process? <a href="studies-graphicdesign.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> Redoing your interior? How to educate customers? Directions for further design education?</h1>
+<h1><a href="studies-designpractice.html#design-of-design-models">Redesigning your current design process?</a> <a href="studies-designpractice.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> <a href="studies-designspaces.html#design-a-workspace">Redoing your interior?</a> <a href="studies-designpractice.html#how-to-deal-with-customers">How to educate customers?</a> <a href="studies-designeducation.html#virtual-studies-and-teaching-online">Directions for further design education?</a></h1>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -424,7 +424,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newMain()
 </code></pre>
 
-<p><a name="learn-how-to-use-type-and-typography-in-corporate-identities"/></p>
+<p><a name="learn-how-to-use-type-and-typography-online"/></p>
 <h2>Learn how to use type and typography online</h2>
 <p>The use of type in websites using CSS has many issues to check on for typographers and graphic designers. Why select one typeface and not the other? How to address OpenType Features? How to make optimal usage of Variable Fonts technology in web pages? Study and exercises can adhance to selection and usage of type in websites.</p>
 <pre><code>box = box.newInfo()
@@ -475,7 +475,7 @@ box = content.newBanner()
 box = section.newMain().newIntroduction()
 </code></pre>
 
-<h1>Researching generative typography? <a href="studies-designspaces.html#creating-an-identity">Designing a series?</a> <a href="studies-graphicdesign.html#improve-your-sketching-techniques">Discovering the basics of information design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphicdesign#identity-design">Branding a client?</a></h1>
+<h1><a href="studies-typography#learn-how-to-use-type-and-typography-online">Researching generative typography?</a> <a href="studies-designspaces.html#creating-an-identity">Designing a series?</a> <a href="studies-graphicdesign.html#improve-your-sketching-techniques">Discovering the basics of information design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphicdesign#identity-design">Branding a client?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -1293,5 +1293,5 @@ box = section.newMain()
 <li><a href="http://typetr.typenetwork.com">typetr.typenetwork.com</a></li>
 <li><a href="http://upgrade.typenetwork.com">upgrade.typenetwork.com</a></li>
 <li><a href="http://bitcount.typenetwork.com">bitcount.typenetwork.com</a></li>
-<li><a href="http://www.peppertom.com">peppertom.xom</a></li>
+<li><a href="http://www.peppertom.com">peppertom.com</a></li>
 </ul></document>

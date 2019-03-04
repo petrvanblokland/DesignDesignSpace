@@ -51,6 +51,7 @@ a {
 a:hover {
     text-decoration: none;
     color: #%(p.hover)s;
+    background-color: #%(p.bgcolor)s;
 }
 ul {
     padding: 0 0 0 20px;
@@ -74,30 +75,39 @@ h1 a {
 }
 h1 a:hover {
     color: #%(h1.hover)s;
+    background-color: none;
 }
 h2 a {
     color: #%(h2.link)s;
+    background-color: none;
 }
 h2 a:hover {
     color: #%(h2.hover)s;
+    background-color: none;
 }
 h3 a {
     color: #%(h3.link)s;
+    background-color: none;
 }
 h3 a:hover {
     color: #%(h3.hover)s;
+    background-color: none;
 }
 h4 a {
     color: #%(h4.link)s;
+    background-color: none;
 }
 h4 a:hover {
     color: #%(h4.hover)s;
+    background-color: none;
 }
 h5 a {
     color: #%(h5.link)s;
+    background-color: none;
 }
 h5 a:hover {
     color: #%(h5.hover)s;
+    background-color: none;
 }
 
 /* Debugging */
@@ -381,7 +391,7 @@ li sup { /* Superior Scale number in Menu */
     grid-template-columns: 2fr 1fr;
     column-gap: 10px;
     row-gap: 10px;
-    background-color: #%(base2.backer)s;
+    background-color: #%(base2.back)s;
     border-top: 15px solid #%(hr.color)s;
 
 }
@@ -425,8 +435,8 @@ li sup { /* Superior Scale number in Menu */
     height: 1em;
     width: 1em;
     font-size: 1.5em;
-    background-color: #%(base2)s;
-    color: #%(base2.frontest)s;
+    background-color: #%(base3)s; /* Buttons in logo color */
+    color: #%(base3.backest)s;
 }
 
 
