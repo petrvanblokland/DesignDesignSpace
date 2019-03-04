@@ -757,7 +757,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_1132.jpg w=450 y=top" src="images/IMG_8963.jpg" /></p>
+<p><img alt="IMG_1132.jpg w=450 y=center x=center" src="images/IMG_8963.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -798,7 +798,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/IMG_E8927.jpg" /></p>
+<p><img alt="w=450 y=center x=center" src="images/IMG_E8927.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -898,7 +898,7 @@ This study is a follow up on the <strong>Design of design models</strong>, but c
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="DSGNWK_0468BW.jpg w=450 y=top" src="images/5ObjectenIcim.png" /></p>
+<p><img alt="5ObjectenIcim.png w=450 y=top" src="images/5ObjectenIcim.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1098,7 +1098,7 @@ box = content.newBanner()
 box = section.newIntroduction()
 </code></pre>
 
-<h1>Around 120 students have joined one or more of the workshops and studies in 2018. Read some of the their testimonials.</h1>
+<h1>Around 120 students have joined one or more of the workshops and studies in 2018. Read some of their testimonials.</h1>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1122,7 +1122,9 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/DesignModels2-82.001BW.png" /></p>
+<!--![DSGNWK_0468BW.jpg w=900 y=top x=center](images/DSGNWK_0468BW.jpg)-->
+
+<p><img alt="IMG_1107.jpg w=900 y=center x=center" src="images/IMG_1107.jpg" /></p>
 <pre><code>box = section.newIntroduction()
 </code></pre>
 
@@ -1203,6 +1205,10 @@ box = section.newIntroduction()
 <li>Software and typeface licenses where applicable</li>
 <li>Design principles for planning, process, methods for feedback and testing criteria </li>
 </ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="IMG_5840.jpg w=900 y=center x=center" src="images/IMG_5840.jpg" /></p>
 <pre><code># ----------------------------------------
 # about.html
 # ----------------------------------------
