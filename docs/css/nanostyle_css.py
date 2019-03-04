@@ -405,7 +405,6 @@ li sup { /* Superior Scale number in Menu */
     column-gap: 10px;
     row-gap: 10px;
     background-color: #%(base2.back)s;
-    border-top: 15px solid #%(hr.color)s;
 
 }
 .mains {

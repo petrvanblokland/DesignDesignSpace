@@ -520,7 +520,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.050.jpeg w=450 y=top" src="images/TheEndOfCss015M1.050.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.050.jpeg w=900 y=top" src="images/TheEndOfCss015M1.050.jpeg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -559,7 +559,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="F5.034.jpeg" src="images/F5.034.jpeg" /></p>
+<p><img alt="F5.034.jpeg x=right y=bottom w=600" src="images/F5.034.jpeg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -581,7 +581,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.089.jpeg w=450 y=top" src="images/TheEndOfCss015M1.089.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.089.jpeg w=900 x=right y=top" src="images/TheEndOfCss015M1.089.jpeg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1224,7 +1224,7 @@ box = content.newBanner()
 <h1>Contact us for a free initial hangout</h1>
 <pre><code>from pagebot.constants import *
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, 
-carousel=3, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
+carousel=4, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
 </code></pre>
 
