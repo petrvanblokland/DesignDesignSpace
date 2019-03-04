@@ -540,7 +540,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/IMG_4925.jpg" /></p>
+<p><img alt="IMG_4925.jpg w=450 y=top" src="images/IMG_4925.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -593,6 +593,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 
 <ul>
 <li>A week of exercises and 3 lessons, <strong>€450</strong> per student</li>
+<li>A month of exercises, projects and 8 lessons, <strong>€1.700</strong> per student</li>
 <li>Daily feedback by e-mail on results for the duration of the study</li>
 <li>Document sharing and versioning through GitHub</li>
 <li>Design principles for planning, process, methods for feedback and testing criteria </li>
@@ -600,7 +601,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/DesignModels2-82.001BW.png" /></p>
+<p><img alt="IMG_2848.jpg w=450 y=center" src="images/IMG_2848.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1102,10 +1103,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newMain()
 </code></pre>
 
-<h2>What we did</h2>
-<p>During the course of 2018, different types of teaching and coaching projects where initiated. </p>
-<p>Some as teacher at the TypeDesign master TypeMedia, Royal Academy of Art in The Hague and the graphic design master  AKV St. Joost in Den Bosch. </p>
-<p>Many studies were online as groups or individual students.</p>
+<h2>What we did…</h2>
 <ul>
 <li>Scripting Variable Font specimens for type designers using PageBot (1 day)</li>
 <li>Variable Fonts: design strategies and tool development (3 days)</li>
@@ -1119,6 +1117,9 @@ box = section.newIntroduction()
 <li>Mapping the profession in detail, for type design students (12 days)</li>
 <li>Various individual coaching projects, ranging from type-crit to support at the background of regular design studies</li>
 </ul>
+<p>During the course of 2018, different types of teaching and coaching projects where initiated. </p>
+<p>Some as teacher at the TypeDesign master TypeMedia, Royal Academy of Art in The Hague and the graphic design master  AKV St. Joost in Den Bosch. </p>
+<p>Many studies were online as groups or individual students.</p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -1128,20 +1129,52 @@ box = section.newIntroduction()
 <pre><code>box = section.newIntroduction()
 </code></pre>
 
-<h1>What students wrote</h1>
-<pre><code>box = section.newMain()
+<h1>What students wrote…</h1>
+<pre><code>box = mainBox = section.newMain()
+</code></pre>
+
+<h2>“I appreciated that everyone was able to swim at their own pace.”</h2>
+<pre><code>box = mainBox.newInfo()
 </code></pre>
 
 <p><em>“This was a unique opportunity in that it wasn’t just a programming class, but one that was specifically catered to type designers to meet their needs. I didn’t know any Python whatsoever prior to this course, so in the beginning, it felt like being thrown into the sea without a life jacket. Petr is not a lifeguard; he is a swimming coach. He won’t rescue you — that’s too easy — but he will throw you a rope. (In fact, many ropes. You ask one question and he gives you five answers.) I appreciated that everyone was able to swim at their own pace. An experienced designer and astonishingly deep thinker, Petr offers far more than just coding knowledge. It was a privilege to be able to learn from him.</em><br />
 <em>Again, thank you so much! I learned a ton these four weeks and I'm so grateful.”</em> <strong>– June Shin</strong></p>
+<pre><code>box = mainBox
+</code></pre>
+
 <hr />
+<h2>“The class is not just a skill learning environment as a good portion of the time is dedicated to critical discussions.”</h2>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
 <p><em>“The one month course is designed to accommodate type designers with various levels of Python and programming knowledge. The learning environment is set up similarly to a master's class which allows Petr to focus on individual needs. In addition, the course allows students to take their studies towards their personal needs and interests. The class is not just a skill learning environment as a good portion of the time is dedicated to critical discussions, such as designing one's design process or the ways new technologies and developments will effect and change how we design and think about type.”</em> <strong>– Cem Eskinazi</strong></p>
+<pre><code>box = mainBox
+</code></pre>
+
 <hr />
+<h2>“It was a unique opportunity to learn type-related Python in first hand.”</h2>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
 <p><em>“For me, the Python scripting for type designers course from Design Design Space was a perfect complement to my formation as a typeface designer. It was a unique opportunity to learn type-related Python in first hand from a competent instructor. Petr doesn’t leave questions open, and the course’s pace flows according to each student’s needs.”</em> <strong>– Filipe Negrão</strong></p>
+<pre><code>box = mainBox
+</code></pre>
+
 <hr />
+<h2>“I can promise that you can get a lot of treasures.”</h2>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
 <p><em>“This is my first time to have a formal Latin Design class. I am very lucky that I can learn from Petr because there are only a few Latin design classes in Taiwan.</em> <br />
 <em>Petr is always teaching design knowledge enthusiastically, using all he knows, when you have questions. Petr not only taught us how to design Latin fonts, but also how to think about the effect of every design and how to adjust them to become a better one. The most important thing is that you don't have to be afraid, if you are a starter because Petr will give a tailored class for everyone. I can promise that you can get a lot of treasures from Petr. I appreciate a lot that I could gain this experience from DDS.”</em> <strong>- Tom Kuo</strong></p>
+<pre><code>box = mainBox
+</code></pre>
+
 <hr />
+<h2>“ This was a very important foundation for me not only to further learning […] but also and more importantly rethink about my own design approach in a very fundamental way.”</h2>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
 <p><em>“The aspect that fascinated me most about this program was the idea of building your own design tools to address design issues/problems. Although coding and programming was something I was always curious about, it was something I imagined to be a very separate and ‘complicated’ activity from my own. But the experience with Petr made me even more curious and eager to learn further. This was a very important foundation for me not only to further learning and integrating programming/coding into my design activities but also and more importantly rethink about my own design approach in a very fundamental way.</em><br />
 <em>Thank you so much, Petr, for this amazing experience and I look forward to interacting further”.</em> <strong>– Andy Naorem</strong></p>
 <pre><code>box = section.newSide()
@@ -1210,12 +1243,12 @@ box = section.newIntroduction()
 
 <p><img alt="IMG_5840.jpg w=900 y=center x=center" src="images/IMG_5840.jpg" /></p>
 <pre><code># ----------------------------------------
-# about.html
+# contact.html
 # ----------------------------------------
 page = page.next
 page.applyTemplate(template)  
-page.name = 'About'
-page.url = 'about.html'
+page.name = 'Contact'
+page.url = 'contact.html'
 
 content = page.select('Content')
 box = content.newBanner()

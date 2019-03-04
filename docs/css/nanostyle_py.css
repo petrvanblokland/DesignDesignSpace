@@ -37,7 +37,7 @@ ul {
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     font-family: 'Upgrade-Regular', sans-serif;
-    line-height: 1.5em;
+    line-height: 1.1em;
     margin: .45em 0;
     padding: 0; 
 }
@@ -454,6 +454,7 @@ MEDIAQUERIES
     .burgerbutton {
         float: right;
         display: block;
+        margin-right: 12pt;
     }
 
     nav.navigation {
@@ -463,6 +464,8 @@ MEDIAQUERIES
         display: none;
     }
     .mobilemenu {
+        float: left;
+        width: 100%;
         display: none;
     }
     .banner .textbox h1 {
