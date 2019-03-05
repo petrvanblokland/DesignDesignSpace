@@ -483,9 +483,25 @@ MEDIAQUERIES
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
     body {
         background-color: yellow;
+    }
+    .header {
+
+    }
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: red;
+    }
+    .header {
+
+    }
+}
+@media only screen and (max-width: 700px) {
+    body {
+        background-color: magenta;
     }
     .header {
 
@@ -494,7 +510,7 @@ MEDIAQUERIES
 
 @media only screen and (max-width: 800px) {
     body {
-        /*background-color: yellow;*/
+        background-color: green;
     }
     .header {
 
