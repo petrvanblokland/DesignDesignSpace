@@ -477,7 +477,7 @@ MEDIAQUERIES
 
 @media only screen and (max-width: 800px) {
     body {
-        background-color: yellow;
+        /*background-color: yellow;*/
     }
     .header {
 
@@ -557,7 +557,7 @@ MEDIAQUERIES
 }
 @media only screen and (min-width: 800px) {
     body {
-        background-color: cyan;
+        /*background-color: cyan;*/
     }
     .header {
         grid-template-columns: 1fr 2fr;
@@ -584,7 +584,7 @@ MEDIAQUERIES
 }
 @media only screen and (min-width: 1000px) {
     body {
-        background-color: orange;
+        /*background-color: orange;*/
     }
     .header {
         grid-template-columns: 2fr 3fr;
@@ -612,7 +612,7 @@ MEDIAQUERIES
 }
 @media only screen and (min-width: 1200px) {
     body {
-        background-color: green;
+        /*background-color: green;*/
     }
     .wrapper {
         width: 1200px;
