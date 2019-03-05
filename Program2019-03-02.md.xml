@@ -98,7 +98,6 @@ box = section.newIntroduction()
 </code></pre>
 
 <p><img alt="w=800 y=top" src="images/BK-Studio-Design.png" /></p>
-<hr />
 <h2>Challenge us</h2>
 <p>We are educators and we are designers, too. That means, we are open for suggestions about the program and about the way we teach. For us, educating other designers is as much of a challenge as any design process.</p>
 <p><a href="mailto:info@designdesign.space?subject=What%20I%20would%20like%20to%20%20study%20in%20DesignDesign.Space...">Send us your request</a> for topics that we never thought about. Or ideas about how this website can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.</p>
@@ -634,7 +633,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 </code></pre>
 
 <p><img alt="pageBotCode.png w=800 y=top" src="images/pageBotCode.png" /><br />
-<caption>Using the programming language Python during the design process is a logical choice. Yet, a DesignDesign.Space study assumes no existing knowledge or experience. We start at the level that you have.</caption></p>
+<caption>Using the programming language Python during the design process is a logical choice. Yet, Design Design Space studies assume no existing knowledge or experience. We start at the your level.</caption></p>
 <hr />
 <h2>Other study suggestions</h2>
 <ul>
@@ -1128,9 +1127,6 @@ box = section.newIntroduction()
 <li>Mapping the profession in detail, for type design students (12 days)</li>
 <li>Various individual coaching projects, ranging from type-crit to support at the background of regular design studies</li>
 </ul>
-<p>During the course of 2018, different types of teaching and coaching projects where initiated. </p>
-<p>Some as teacher at the TypeDesign master TypeMedia, Royal Academy of Art in The Hague and the graphic design master  AKV St. Joost in Den Bosch. </p>
-<p>Many studies were online as groups or individual students.</p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
@@ -1193,6 +1189,10 @@ box = section.newIntroduction()
 
 <p><img alt="DDS-Drawing-June-Shin w=800 y=top" src="images/DDS-drawing-June-Shin.png" /><br />
 <caption>June Shin’s thank-you card to DesignDesign.Space, very much appreciated.</caption></p>
+<pre><code>box = section.newIntroduction()
+</code></pre>
+
+<h1>How about yourself?</h1>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1209,10 +1209,6 @@ box = section.newIntroduction()
 </code></pre>
 
 <p><img alt="IMG_3148.jpg w=600" src="images/IMG_3148.jpg" /></p>
-<pre><code>box = section.newIntroduction()
-</code></pre>
-
-<h1>How about yourself?</h1>
 <pre><code># ----------------------------------------
 # pricing.html
 # ----------------------------------------

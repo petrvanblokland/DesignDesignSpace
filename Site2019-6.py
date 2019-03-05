@@ -163,7 +163,7 @@ def makeSite(styles, viewId):
     view.cssUrls = (
         'css/jquery.bbslider.css',
         'fonts/webfonts.css', 
-        'css/normalize.css', 
+        'css/normalized.css', 
         cssPath,
     )
 

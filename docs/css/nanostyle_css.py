@@ -44,6 +44,10 @@ p em {
     font-style: normal;
     font-family: 'Upgrade-BookItalic';
 }
+p strong {
+    font-style: normal;
+    font-family: 'Upgrade-Medium';    
+}
 a {
     text-decoration: none;
     color: #%(p.link)s;
@@ -472,6 +476,9 @@ MEDIAQUERIES
 
 
 @media only screen and (max-width: 800px) {
+    body {
+        background-color: yellow;
+    }
     .header {
 
     }
@@ -500,12 +507,12 @@ MEDIAQUERIES
         display: none;
     }
     .banner .textbox h1 {
-        font-size: 3em;
-        line-height: 1em;
+        font-size: 2.5em;
+        line-height: 1.15em;
     }
     .banner .textbox h2 {
-        font-size: 2em;
-        line-height: 1em;
+        font-size: 1.75em;
+        line-height: 1.15em;
     }
     .banner .textbox p {
         font-size: 1em;
@@ -517,8 +524,6 @@ MEDIAQUERIES
     .slideshow {
     }
     .slideside {
-    }
-    .slideside .textbox {
         padding-left: 12pt;
         padding-right: 12pt;
     }
@@ -527,14 +532,14 @@ MEDIAQUERIES
         grid-column-end: 1;
     } 
     .introduction .textbox h1 {
-        font-size: 2em;
+        font-size: 2.2em;
         line-height: 1.2em;
     }
     .main {
     }
     .caption .textbox {
         font-family: 'Upgrade-RegularItalic';
-        font-size: 1.4em;
+        font-size: 1em;
         line-height: 1.4em;
     }
     .section {
@@ -551,7 +556,9 @@ MEDIAQUERIES
     }
 }
 @media only screen and (min-width: 800px) {
-
+    body {
+        background-color: cyan;
+    }
     .header {
         grid-template-columns: 1fr 2fr;
     } 
@@ -576,7 +583,9 @@ MEDIAQUERIES
     }
 }
 @media only screen and (min-width: 1000px) {
-
+    body {
+        background-color: orange;
+    }
     .header {
         grid-template-columns: 2fr 3fr;
     } 
@@ -602,6 +611,9 @@ MEDIAQUERIES
     }
 }
 @media only screen and (min-width: 1200px) {
+    body {
+        background-color: green;
+    }
     .wrapper {
         width: 1200px;
         margin: auto;
