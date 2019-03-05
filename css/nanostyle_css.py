@@ -477,7 +477,7 @@ MEDIAQUERIES
 
 @media only screen and (max-width: 800px) {
     body {
-        /*background-color: yellow;*/
+        background-color: yellow;
     }
     .header {
 

@@ -42,7 +42,7 @@ carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDurat
 box = slideshow.slides
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/d26a175f-c382-4924-ab70-9d93288524b3.jpg" /><br />
+<p><img alt="w=800 y=top" src="images/PepperTomColorSquares.png" /><br />
 <img alt="w=800 y=top" src="images/IMG_1107.jpg" /><br />
 <img alt="IMG_2848.jpg w=800 y=center" src="images/IMG_2848.jpg" /><br />
 <img alt="w=800 y=top" src="images/IMG_1701.jpg" /><br />
@@ -65,7 +65,7 @@ box = slideshow.slides
 </code></pre>
 
 <h3>Example studies</h3>
-<h2>Develop your process. Expand your skills.</h2>
+<h2>Develop your process.<br/>Expand your skills.</h2>
 <p>Design studies come in many different forms. There is never a single solution. It is the role of designers: search and select. Which type of study fits you best? What kind of topic, medium or intensity appeals to your way of learning? Let us know, we might have some challenging exercises for you.</p>
 <h1><a href="mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information">Contact us</a></h1>
 <pre><code>section = content.newSection()
@@ -467,7 +467,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/PepperTomColorSquares.png" /></p>
+<p><img alt="IMG_6129.jpg w=800 x=center y=bottom" src="images/IMG_6129.jpg" /></p>
 <pre><code># ----------------------------------------
 # Studies/2019 Studies/graphicdesign.html
 # ----------------------------------------
@@ -612,7 +612,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_2848.jpg w=800 y=center" src="images/IMG_2848.jpg" /></p>
+<p><img alt="IMG_2848.jpg w=800 x=center y=top" src="images/IMG_2848.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
