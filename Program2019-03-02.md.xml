@@ -37,36 +37,36 @@ box = content.newBanner()
 
 <h1>Which studies can we offer you in 2019?</h1>
 <pre><code>from pagebot.constants import *
-slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, 
+slideshow = content.newSlideShow(h=300, slideW='100%', slideH=320, startIndex=3, autoHeight=True, 
 carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/d26a175f-c382-4924-ab70-9d93288524b3.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_1107.jpg" /><br />
-<img alt="IMG_2848.jpg w=450 y=center" src="images/IMG_2848.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_1701.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_2535.jpg" /><br />
-<img alt="w=450 y=center x=center" src="images/GN-Cube-Variable-e.png" /><br />
-<img alt="w=450 y=top" src="images/IMG_4905.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_3145.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_5840.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_7616.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_8677.jpg" /><br />
-<img alt="w=450 y=top" src="images/ThemeColorsByDocument_5.png" /><br />
-<img alt="w=450 y=top" src="images/IMG_0752.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_E8927.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_5333.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_1447.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_5469.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_6994.jpg" /><br />
-<img alt="w=450 y=top" src="images/IMG_E8874.jpg" /></p>
+<p><img alt="w=800 y=top" src="images/d26a175f-c382-4924-ab70-9d93288524b3.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_1107.jpg" /><br />
+<img alt="IMG_2848.jpg w=800 y=center" src="images/IMG_2848.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_1701.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_2535.jpg" /><br />
+<img alt="w=800 y=center x=center" src="images/GN-Cube-Variable-e.png" /><br />
+<img alt="w=800 y=top" src="images/IMG_4905.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_3145.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_5840.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_7616.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_8677.jpg" /><br />
+<img alt="w=800 y=top" src="images/ThemeColorsByDocument_5.png" /><br />
+<img alt="w=800 y=top" src="images/IMG_0752.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_E8927.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_5333.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_1447.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_5469.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_6994.jpg" /><br />
+<img alt="w=800 y=top" src="images/IMG_E8874.jpg" /></p>
 <pre><code>box = slideshow.side
 </code></pre>
 
 <h3>Example studies</h3>
 <h2>Develop your process. Expand your skills.</h2>
-<p>Design studies come in many different forms. There is never a single solution. It is one of the main tasks of every designer: to search and select. Which type of study fits you best? What kind of topic, medium or intensity appeals best to your way of learning? Let us know, we might have some challenging exercises for you.</p>
+<p>Design studies come in many different forms. There is never a single solution. It is the role of designers: search and select. Which type of study fits you best? What kind of topic, medium or intensity appeals to your way of learning? Let us know, we might have some challenging exercises for you.</p>
 <h1><a href="mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information">Contact us</a></h1>
 <pre><code>section = content.newSection()
 box = section.newIntroduction()
@@ -97,7 +97,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/BK-Studio-Design.png" /></p>
+<p><img alt="w=800 y=top" src="images/BK-Studio-Design.png" /></p>
 <hr />
 <h2>Challenge us</h2>
 <p>We are educators and we are designers, too. That means, we are open for suggestions about the program and about the way we teach. For us, educating other designers is as much of a challenge as any design process.</p>
@@ -117,7 +117,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_3148.jpg w=450" src="images/IMG_3148.jpg" /></p>
+<p><img alt="IMG_3148.jpg w=800" src="images/IMG_3148.jpg" /></p>
 <pre><code># ----------------------------------------
 # Studies/2019-studies.html
 # ----------------------------------------
@@ -159,7 +159,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/BK-Models-Design.png" /></p>
+<p><img alt="w=800 y=top" src="images/BK-Models-Design.png" /></p>
 <pre><code># ----------------------------------------
 # studies-typedesign.html
 # ----------------------------------------
@@ -182,7 +182,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 x=center y=top" src="images/BK-Type-Design.png" /></p>
+<p><img alt="w=800 x=center y=top" src="images/BK-Type-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -207,7 +207,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/UpgradeFeatures.png" /></p>
+<p><img alt="w=800 y=top" src="images/UpgradeFeatures.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -228,14 +228,14 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/SketchingTypeDesign.png" /></p>
+<p><img alt="w=800 y=top" src="images/SketchingTypeDesign.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
 <p><a name="the-design-process-of-variable-fonts"/></p>
 <h2>The design process of Variable Fonts</h2>
 <p>How do you get your design process beyond the traditional Variable Font axes of weight, width and optical size? How to make your experience grow from Multiple Master Thinking into Variable Font thinking? Develop sketching techniques. Make the production and testing of Variable Fonts work inside the cycles of your design process.</p>
-<p><img alt="w=450 y=top" src="images/NotesOnDesignSpaces.png" /></p>
+<p><img alt="w=800 y=top" src="images/NotesOnDesignSpaces.png" /></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -250,7 +250,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 x=center y=top" src="images/tpCube.png" /><br />
+<p><img alt="w=800 x=center y=top" src="images/tpCube.png" /><br />
 <strong>Gerrit Noordzij Cube code by Just van Rossum</strong></p>
 <pre><code>box = section.newMain()
 </code></pre>
@@ -272,7 +272,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/TypeCooker.png" /></p>
+<p><img alt="w=800 y=top" src="images/TypeCooker.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -293,7 +293,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/ATFSpecemin-Code04.png" /></p>
+<p><img alt="w=800 y=top" src="images/ATFSpecemin-Code04.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -314,7 +314,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/TCTool01.png" /></p>
+<p><img alt="w=800 y=top" src="images/TCTool01.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -334,7 +334,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/Latin-Chinese-Metrcis.png" /></p>
+<p><img alt="w=800 y=top" src="images/Latin-Chinese-Metrcis.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -354,7 +354,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=bottom" src="images/E-Upgrade.png" /></p>
+<p><img alt="w=800 y=bottom" src="images/E-Upgrade.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -370,7 +370,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=bottom" src="images/BK-Type-Design.png" /></p>
+<p><img alt="w=800 y=bottom" src="images/BK-Type-Design.png" /></p>
 <pre><code># ----------------------------------------
 # Studies/2019 Studies/typography.html
 # ----------------------------------------
@@ -393,7 +393,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/BK-Typography-Design.png" /></p>
+<p><img alt="w=800 y=top" src="images/BK-Typography-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -401,6 +401,9 @@ box = section.newMain().newIntroduction()
 <h2>Learn how to use TYPETR typefaces in your designs</h2>
 <p>While designing the typefaces for the TYPETR library, we obviously have ideas, hints and tips how they can best be used in typography. And while producing them, many examples and type specimens are made for testing and presentation. Why not share these with people who take the effort to buy a full family license?</p>
 <p>See the TYPETR websites featuring <a href="http://upgrade.typenetwork.com">Upgrade</a> (all type used in this website) and <a href="http://bitcount.typenetwork.com">Bitcount</a> as examples of what we could talk about.</p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
 <ul>
 <li>A day of exercises, feedback and initial introduction hangout: free of charge with a purchase of a full family license at <a href="http://typetr.typenetwork.com">Type Network</a> </li>
 <li>Access to examples, templates and <a href="http://drawbot.com">DrawBot</a>/<a href="https://github.com/PageBot/PageBot">PageBot</a> script and programs.</li>
@@ -408,7 +411,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/travelCoverPages_1.png" /></p>
+<p><img alt="w=800 y=top" src="images/travelCoverPages_1.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -429,7 +432,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/affiche_op_de_kaart.png" /></p>
+<p><img alt="w=800 y=top" src="images/affiche_op_de_kaart.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -449,7 +452,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="TYPETR-Upgrade-Screen.png w=450 y=top x=center " src="images/TYPETR-Upgrade-Screen.png" /></p>
+<p><img alt="TYPETR-Upgrade-Screen.png w=800 y=top x=center " src="images/TYPETR-Upgrade-Screen.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -465,7 +468,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/PepperTomColorSquares.png" /></p>
+<p><img alt="w=800 y=top" src="images/PepperTomColorSquares.png" /></p>
 <pre><code># ----------------------------------------
 # Studies/2019 Studies/graphicdesign.html
 # ----------------------------------------
@@ -488,7 +491,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=bottom" src="images/BK-Graphic-Design.png" /></p>
+<p><img alt="w=800 y=bottom" src="images/BK-Graphic-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -508,7 +511,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/IMG_E8891.jpg" /></p>
+<p><img alt="w=800 y=top" src="images/IMG_E8891.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -549,7 +552,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_4925.jpg w=450 y=top" src="images/IMG_4925.jpg" /></p>
+<p><img alt="IMG_4925.jpg w=800 y=top" src="images/IMG_4925.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -610,14 +613,14 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_2848.jpg w=450 y=center" src="images/IMG_2848.jpg" /></p>
+<p><img alt="IMG_2848.jpg w=800 y=center" src="images/IMG_2848.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
 <p><a name="python-scripting-for-graphic-designers"/></p>
 <h2>Python scripting for graphic designers</h2>
 <p>Learn the basics of scripting your graphic design process. Sketching techniques. Decide what can be automated and what not. Patterns of Python code, using DrawBot and PageBot. Connect to InDesign. Parameters for magazines, websites, exhibition spaces and corporate identities.  Develop models to differentiate between best practice and arbitrary design choices.</p>
-<p><img alt="w=450 y=top" src="images/PageBotSchema2.png" /></p>
+<p><img alt="w=800 y=top" src="images/PageBotSchema2.png" /></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -630,7 +633,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="pageBotCode.png w=450 y=top" src="images/pageBotCode.png" /><br />
+<p><img alt="pageBotCode.png w=800 y=top" src="images/pageBotCode.png" /><br />
 <caption>Using the programming language Python during the design process is a logical choice. Yet, a DesignDesign.Space study assumes no existing knowledge or experience. We start at the level that you have.</caption></p>
 <hr />
 <h2>Other study suggestions</h2>
@@ -664,7 +667,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=center" src="images/BK-Environmental-Design.png" /></p>
+<p><img alt="w=800 y=center" src="images/BK-Environmental-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -685,7 +688,7 @@ In a sequence of exercises, the student will develop ways to look, measure and c
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/IMG_8940.jpg" /></p>
+<p><img alt="w=800 y=top" src="images/IMG_8940.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -706,7 +709,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/IMG_8690.jpg" /></p>
+<p><img alt="w=800 y=top" src="images/IMG_8690.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -726,7 +729,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/IMG_9439.jpg" /></p>
+<p><img alt="w=800 y=top" src="images/IMG_9439.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -746,7 +749,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=bottom" src="images/IMG_2831.jpg" /></p>
+<p><img alt="w=800 y=bottom" src="images/IMG_2831.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -766,7 +769,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_1132.jpg w=450 y=center x=center" src="images/IMG_8963.jpg" /></p>
+<p><img alt="IMG_1132.jpg w=800 y=center x=center" src="images/IMG_8963.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -786,7 +789,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_1520.jpg w=450 y=top" src="images/IMG_1520.jpg" /></p>
+<p><img alt="IMG_1520.jpg w=800 y=top" src="images/IMG_1520.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -807,7 +810,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=center x=center" src="images/IMG_E8927.jpg" /></p>
+<p><img alt="w=800 y=center x=center" src="images/IMG_E8927.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -827,7 +830,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_1132.jpg w=450 y=top" src="images/IMG_1132.jpg" /></p>
+<p><img alt="IMG_1132.jpg w=800 y=top" src="images/IMG_1132.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -843,7 +846,7 @@ Sketching, making models and making presentations in all diferent stages in the 
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=bottom" src="images/BK-Environmental-Design.png" /></p>
+<p><img alt="w=800 y=bottom" src="images/BK-Environmental-Design.png" /></p>
 <pre><code># ----------------------------------------
 # Studies/2019 Studies/designpractice.html
 # ----------------------------------------
@@ -866,7 +869,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/BK-Interaction-Design.png" /></p>
+<p><img alt="w=800 y=top" src="images/BK-Interaction-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -885,7 +888,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/DesignModels2-91-1.png" /></p>
+<p><img alt="w=800 y=top" src="images/DesignModels2-91-1.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -907,7 +910,7 @@ This study is a follow up on the <strong>Design of design models</strong>, but c
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="5ObjectenIcim.png w=450 y=top" src="images/5ObjectenIcim.png" /></p>
+<p><img alt="5ObjectenIcim.png w=800 y=top" src="images/5ObjectenIcim.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -927,7 +930,7 @@ This study is a follow up on the <strong>Design of design models</strong>, but c
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/PPG_Schetsen_01.png" /></p>
+<p><img alt="w=800 y=top" src="images/PPG_Schetsen_01.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -948,7 +951,7 @@ Coaching is organized depending on your needs. It varies from a single lesson of
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/DSGNWK_0665BWCropped.jpg" /></p>
+<p><img alt="w=800 y=top" src="images/DSGNWK_0665BWCropped.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -967,7 +970,7 @@ Coaching is organized depending on your needs. It varies from a single lesson of
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="Do you really need a designer w=450 y=top" src="images/DoYouReallyNeedADesigner.png" /></p>
+<p><img alt="Do you really need a designer w=800 y=top" src="images/DoYouReallyNeedADesigner.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -987,7 +990,7 @@ The workshop gives students a wide variety of strategies and scenarios. </p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/BNO-BuroBoek2008.png" /></p>
+<p><img alt="w=800 y=top" src="images/BNO-BuroBoek2008.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1028,7 +1031,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/BK-Interactive-Design.png" /></p>
+<p><img alt="w=800 y=top" src="images/BK-Interactive-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1048,7 +1051,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/DesignDesignSpace-Site.png" /></p>
+<p><img alt="w=800 y=top" src="images/DesignDesignSpace-Site.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1073,7 +1076,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/IMG_2391Cropped.jpg" /></p>
+<p><img alt="w=800 y=top" src="images/IMG_2391Cropped.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1089,7 +1092,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/BK-Interactive-Design.png" /></p>
+<p><img alt="w=800 y=top" src="images/BK-Interactive-Design.png" /></p>
 <pre><code># ----------------------------------------
 # Studies/2018-reviews.html
 # ----------------------------------------
@@ -1188,7 +1191,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="DDS-Drawing-June-Shin w=450 y=top" src="images/DDS-drawing-June-Shin.png" /><br />
+<p><img alt="DDS-Drawing-June-Shin w=800 y=top" src="images/DDS-drawing-June-Shin.png" /><br />
 <caption>June Shin’s thank-you card to DesignDesign.Space, very much appreciated.</caption></p>
 <pre><code>box = section.newMain()
 </code></pre>
@@ -1279,7 +1282,7 @@ box = content.newBanner()
 
 <h1>Contact us for a free initial hangout</h1>
 <pre><code>from pagebot.constants import *
-slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=1, autoHeight=True, carousel=4, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
+slideshow = content.newSlideShow(h=300, slideW='100%', slideH=320, startIndex=1, autoHeight=True, carousel=4, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
 
 #![w=200 y=top](images/BK-Graphic-Design.png)
@@ -1296,22 +1299,22 @@ box = slideshow.slides
 
 <h2>What is your study?</h2>
 <p>Our experience and interest with design projects ranges from type design to exihibitions and from writing software to teaching.  </p>
-<p>However, most importantly, the question is how that experience can help you to develop your own skills. Let us know what kind of design you would like to study, but never found the right time and place to start. </p>
+<p>However, most importantly, the question is how that experience can help you to develop your own skills. Let us know what kind of design you would like to study, but never found the right time and space to start. </p>
 <h1><a href="mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information">Contact us</a></h1>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>Petr van Blokland</h2>
-<p>Petr van Blokland (1956) is the co-owner of Buro Petr van Blokland + Claudia Mens, founded in 1982. He cum laude from the Royal Academy of Arts in The Hague and studied Industrial Design at Delft Technical University. His special interest is in typography, type design, automation of the design process, theory and developing software tools for designers. He developed live design games at various art schools and conferences around the world and published columns in design magazines on various topics.</p>
-<p>Van Blokland lectured at the Department of Graphic Design of the Academy of Arts in Arnhem (1984 – 1989), at the Department of Graphic Design (1988-2011) and Master Type &amp; Media (1998 – present) of the Royal Academy of Arts in The Hague, as well as at the Master Institute of AKV St. Joost in Den Bosch (2010 - present).</p>
+<p>Petr van Blokland (1956) is the co-owner of Buro Petr van Blokland + Claudia Mens, founded in 1982. He graduated cum laude from the Royal Academy of Arts in The Hague in 1980 and studied Industrial Design at Delft Technical University. His special interest is in typography, type design, automation of the design process, theory and developing software tools. With Claudia Mens, he developed live design games at various art schools and conferences around the world and published columns in design magazines on various topics.</p>
+<p>Van Blokland lectured at the Academy of Arts in Arnhem (1984 – 1989), at the Royal Academy of Arts in The Hague (1988 – present) and at the Master Institute of AKV St. Joost in Den Bosch (2010 - present).</p>
 <p>Van Blokland received the Charles Peignot Award for typography of AtypI, the Association Typographique International, in 1988 and was Board Member from 1996 to 2003.</p>
 <p>He was co-founder and CTO for The Health Agency, publisher of online health information, from 2001 to 2006. </p>
-<p>Besides lecturing, his current focus is on international projects, related to typography and type design. He also is co-founder of webtype.com and typenetwork.com, for which many typedesign tools were developed. Type Network is also the location of his type foundry TYPETR. The online study environment DesignDesign.Space started in 2017.</p>
+<p>Besides lecturing, his current focus is on international projects, related to typography and type design. He also is co-founder of webtype.com and typenetwork.com, for which type design tools are developed. <strong>Type Network</strong> is also the location of his type foundry <a href="http://typetr.typenetwork.com">TYPETR</a>. The online study environment DesignDesign.Space started in 2017.</p>
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="IMG_7798.jpg w=450 y=top" src="images/IMG_7798.jpg" /></p>
+<p><img alt="IMG_7798.jpg w=800 y=top" src="images/IMG_7798.jpg" /></p>
 <ul>
 <li><a href="mailto:buro@petr.com">E-mail buro@petr.com</a> </li>
 <li>Mobile +31 6 24 219 502</li>
@@ -1331,7 +1334,7 @@ box = section.newMain()
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="claudiamens.jpg w=450 y=top" src="images/claudiamens.jpg" /></p>
+<p><img alt="claudiamens.jpg w=800 y=top" src="images/claudiamens.jpg" /></p>
 <ul>
 <li>E-mail <a href="mailto:claudia@petr.com">claudia@petr.com</a> </li>
 <li>Mobile +31 6 41 367 689</li>

@@ -37,7 +37,7 @@ ul {
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     font-family: 'Upgrade-Regular', sans-serif;
-    line-height: 1.1em;
+    line-height: 1.2em;
     margin: .45em 0;
     padding: 0; 
 }
@@ -308,13 +308,13 @@ ul.navmenu:after {
 }
 .slideside {
     background-color: #333333;
-    padding: 0 1em 0 0;
+    padding: 0 1em 1em 0;
 }
 .slideside .textbox h1 {
     color: #E7E7E7;
     letter-spacing: 0.025em;
     font-size: 1.4em;
-    line-height: 1.4em;
+    line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
 .slideside .textbox h1 a {
@@ -327,14 +327,14 @@ ul.navmenu:after {
     color: #E7E7E7;
     letter-spacing: 0.025em;
     font-size: 1.4em;
-    line-height: 1.4em;
+    line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
 .slideside .textbox h3 {
     color: #E7E7E7;
     letter-spacing: 0.025em;
-    font-size: 1.2em;
-    line-height: 1.4em;
+    font-size: 1.1em;
+    line-height: 1.2em;
     font-family: 'Upgrade-Medium';
 }
 .slideside .textbox p {
@@ -368,6 +368,7 @@ li sup { /* Superior Scale number in Menu */
 }
 
 /* Content */
+
 .content {
     padding:1em;
 }
@@ -382,7 +383,6 @@ li sup { /* Superior Scale number in Menu */
     column-gap: 10px;
     row-gap: 10px;
     background-color: #DEDEE3;
-
 }
 .mains {
     display: grid;
@@ -400,10 +400,18 @@ li sup { /* Superior Scale number in Menu */
     column-gap: 10px;
     row-gap: 10px;    
 }
-.side, .cropped {
+.side {
     padding: 12pt;
     border-top: 15px solid #595959;
 }
+
+/* Cropped has attribute background-image and optional
+floating elements inside.*/
+.cropped {
+    padding: 0;
+    border-top: 15px solid #595959;
+}
+
 
 /* Info area, open/clode by button */
 .info {

@@ -60,7 +60,7 @@ ul {
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     font-family: 'Upgrade-Regular', sans-serif;
-    line-height: 1.1em;
+    line-height: 1.2em;
     margin: .45em 0;
     padding: 0; 
 }
@@ -331,13 +331,13 @@ ul.navmenu:after {
 }
 .slideside {
     background-color: #%(group.diapbgcolor)s;
-    padding: 0 1em 0 0;
+    padding: 0 1em 1em 0;
 }
 .slideside .textbox h1 {
     color: #%(h2.diapcolor)s;
     letter-spacing: 0.025em;
     font-size: 1.4em;
-    line-height: 1.4em;
+    line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
 .slideside .textbox h1 a {
@@ -350,14 +350,14 @@ ul.navmenu:after {
     color: #%(h2.diapcolor)s;
     letter-spacing: 0.025em;
     font-size: 1.4em;
-    line-height: 1.4em;
+    line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
 .slideside .textbox h3 {
     color: #%(h3.diapcolor)s;
     letter-spacing: 0.025em;
-    font-size: 1.2em;
-    line-height: 1.4em;
+    font-size: 1.1em;
+    line-height: 1.2em;
     font-family: 'Upgrade-Medium';
 }
 .slideside .textbox p {
@@ -391,6 +391,7 @@ li sup { /* Superior Scale number in Menu */
 }
 
 /* Content */
+
 .content {
     padding:1em;
 }
@@ -405,7 +406,6 @@ li sup { /* Superior Scale number in Menu */
     column-gap: 10px;
     row-gap: 10px;
     background-color: #%(base2.back)s;
-
 }
 .mains {
     display: grid;
@@ -423,10 +423,18 @@ li sup { /* Superior Scale number in Menu */
     column-gap: 10px;
     row-gap: 10px;    
 }
-.side, .cropped {
+.side {
     padding: %(side.padding)s;
     border-top: 15px solid #%(hr.color)s;
 }
+
+/* Cropped has attribute background-image and optional
+floating elements inside.*/
+.cropped {
+    padding: 0;
+    border-top: 15px solid #%(hr.color)s;
+}
+
 
 /* Info area, open/clode by button */
 .info {

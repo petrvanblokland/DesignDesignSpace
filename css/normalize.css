@@ -167,7 +167,9 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: bold;
+    /* Force weight to select by CSS type or Variable Font location. 
+    Avoid accidental faux bold. */
+    font-weight: normal; 
 }
 
 blockquote {
@@ -179,7 +181,9 @@ blockquote {
  */
 
 dfn {
-    font-style: italic;
+    /* Force weight to select by CSS type or Variable Font location. 
+    Avoid accidental faux bold. */
+    font-style: normal;
 }
 
 /**
