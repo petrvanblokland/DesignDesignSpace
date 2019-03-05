@@ -293,6 +293,7 @@ ul.navmenu:after {
 }
 
 /* Collection */
+
 .collection {
     background-color: #%(collection.bgcolor)s;
 }
@@ -323,6 +324,7 @@ ul.navmenu:after {
 }
 
 /* Slide show */
+
 .slideshowgroup {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -438,7 +440,12 @@ floating elements inside.*/
     padding: 0;
     border-top: 15px solid #%(hr.color)s;
 }
-
+/* Solve Cropped empty <p> first.
+.cropped .textbox {
+    padding: 0.5em 1em;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+*/
 
 /* Info area, open/clode by button */
 .info {
