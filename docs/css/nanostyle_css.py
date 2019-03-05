@@ -355,10 +355,10 @@ ul.navmenu:after {
 }
 .slideside .textbox h3 {
     color: #%(h3.diapcolor)s;
-    letter-spacing: 0.01em;
-    font-size: 1.1em;
+    letter-spacing: 0.025em;
+    font-size: 1.2em;
     line-height: 1.4em;
-    font-family: 'Upgrade-Semibold';
+    font-family: 'Upgrade-Medium';
 }
 .slideside .textbox p {
     color: #%(p.diapcolor)s;

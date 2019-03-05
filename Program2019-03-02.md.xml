@@ -44,8 +44,10 @@ box = slideshow.slides
 
 <p><img alt="w=450 y=top" src="images/d26a175f-c382-4924-ab70-9d93288524b3.jpg" /><br />
 <img alt="w=450 y=top" src="images/IMG_1107.jpg" /><br />
+<img alt="IMG_2848.jpg w=450 y=center" src="images/IMG_2848.jpg" /><br />
 <img alt="w=450 y=top" src="images/IMG_1701.jpg" /><br />
 <img alt="w=450 y=top" src="images/IMG_2535.jpg" /><br />
+<img alt="w=450 y=center x=center" src="images/GN-Cube-Variable-e.png" /><br />
 <img alt="w=450 y=top" src="images/IMG_4905.jpg" /><br />
 <img alt="w=450 y=top" src="images/IMG_3145.jpg" /><br />
 <img alt="w=450 y=top" src="images/IMG_5840.jpg" /><br />
@@ -65,6 +67,7 @@ box = slideshow.slides
 <h3>Example studies</h3>
 <h2>Develop your process. Expand your skills.</h2>
 <p>Design studies come in many different forms. There is never a single solution. It is one of the main tasks of every designer: to search and select. Which type of study fits you best? What kind of topic, medium or intensity appeals best to your way of learning? Let us know, we might have some challenging exercises for you.</p>
+<h1><a href="mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information">Contact us</a></h1>
 <pre><code>section = content.newSection()
 box = section.newIntroduction()
 </code></pre>
@@ -87,16 +90,22 @@ box = section.newIntroduction()
 <li>In a first free hangout, we will talk about what you want to achieve.</li>
 <li>Together, we will find a way for you to get there. Topics &amp; Tools. By painting, drawing, sketching or by coding. Or by a combination of all.</li>
 <li>In sequences of relative short assignments, online hangouts, personal feedback and reflections, we explore the paths of your study project. And more importantly, we’ll teach you how to do that yourself.</li>
-<li>The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. We see it as our challenge to customize the study to what is realistic for you. And to make it match the result you may need in your daily practice.</li>
+<li>The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. We see it as our challenge to customize the study to what is realistic for you. And to make it match the result with what you need in your daily practice.</li>
 <li>As your plans are likely to change along the way, the changes in your study time can always be discussed.</li>
 </ul>
-<p><a href="pricing.html">See more about pricing here.</a></p>
+<p><a href="pricing.html">More about pricing here.</a></p>
 <pre><code>box = section.newSide()
 </code></pre>
 
 <p><img alt="w=450 y=top" src="images/BK-Studio-Design.png" /></p>
 <hr />
-<h2>Other study suggestions</h2>
+<h2>Challenge us</h2>
+<p>We are educators and we are designers, too. That means, we are open for suggestions about the program and about the way we teach. For us, educating other designers is as much of a challenge as any design process.</p>
+<p><a href="mailto:info@designdesign.space?subject=What%20I%20would%20like%20to%20%20study%20in%20DesignDesign.Space...">Send us your request</a> for topics that we never thought about. Or ideas about how this website can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.</p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<h2>Study suggestions</h2>
 <ul>
 <li><a href="studies-typedesign.html">Type design</a></li>
 <li><a href="studies-typography.html">Typography</a></li>
@@ -105,9 +114,10 @@ box = section.newIntroduction()
 <li><a href="studies-designpractice.html">Design practice</a></li>
 <li><a href="studies-designeducation.html">Design education</a></li>
 </ul>
-<hr />
-<h2>Challenge us</h2>
-<p>We are educators and we are designers, too. That means, we are open for suggestions about the program and about the way we teach. For us, educating other designers is as much of a challenge as any design process. <a href="mailto:info@designdesign.space?subject=What%20I%20would%20like%20to%20%20study%20in%20DesignDesign.Space...">Send</a> us your request for topics that we never thought about. Or ideas about how this website can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.</p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="IMG_3148.jpg w=450" src="images/IMG_3148.jpg" /></p>
 <pre><code># ----------------------------------------
 # Studies/2019-studies.html
 # ----------------------------------------
@@ -390,7 +400,7 @@ box = section.newMain().newIntroduction()
 <p><a name="learn-how-to-use-typetr-typefaces-in-your-designs"/></p>
 <h2>Learn how to use TYPETR typefaces in your designs</h2>
 <p>While designing the typefaces for the TYPETR library, we obviously have ideas, hints and tips how they can best be used in typography. And while producing them, many examples and type specimens are made for testing and presentation. Why not share these with people who take the effort to buy a full family license?</p>
-<p>See the TYPETR websites featuring <a href="http://upgrade.typenetwork.com">Upgrade</a> (all type used on in this website) and <a href="http://bitcount.typenetwork.com">Bitcount</a> as examples of what we could talk about.</p>
+<p>See the TYPETR websites featuring <a href="http://upgrade.typenetwork.com">Upgrade</a> (all type used in this website) and <a href="http://bitcount.typenetwork.com">Bitcount</a> as examples of what we could talk about.</p>
 <ul>
 <li>A day of exercises, feedback and initial introduction hangout: free of charge with a purchase of a full family license at <a href="http://typetr.typenetwork.com">Type Network</a> </li>
 <li>Access to examples, templates and <a href="http://drawbot.com">DrawBot</a>/<a href="https://github.com/PageBot/PageBot">PageBot</a> script and programs.</li>
@@ -425,7 +435,7 @@ box = section.newMain().newIntroduction()
 
 <p><a name="learn-how-to-use-type-and-typography-online"/></p>
 <h2>Learn how to use type and typography online</h2>
-<p>The use of type in websites using CSS has many issues to check on for typographers and graphic designers. Why select one typeface and not the other? How to address OpenType Features? How to make optimal usage of Variable Fonts technology in web pages? Study and exercises can adhance to selection and usage of type in websites.</p>
+<p>The use of type in websites using CSS has many issues to check on for typographers and graphic designers. Why select one typeface and not the other? How to address OpenType Features? How to make optimal usage of Variable Fonts technology in web pages? Study and exercises can adhance the selection and usage of type in websites.</p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -439,7 +449,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=450 y=top" src="images/DesignModels2-82.001BW.png" /></p>
+<p><img alt="TYPETR-Upgrade-Screen.png w=450 y=top x=center " src="images/TYPETR-Upgrade-Screen.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1224,8 +1234,8 @@ box = section.newIntroduction()
 <h2>Pricing</h2>
 <p>Each lesson is an online hangout, lasting for part of the day, morning or afternoon, depending on your timezone. The total price is based on the length and intensity of your study. </p>
 <p>If a study is spread over a longer period of time, intensity can be lower for the same price. However, it requires more self-discipline for a student to take full advantage of the study and the support that we can offer.</p>
-<p>The prices of the studies are indicators: a specific topic can be addressed in a couple of days. Or it can be the subject of a thourough study, taking a month or longer to finish.</p>
-<p>Lessons can extend in time, if multiple students attend at the same time.</p>
+<p>The prices of the studies are indicators: a specific topic can be addressed in a couple of days. Or it can be the subject of a thourough study, taking a month or longer to complete.</p>
+<p>Lessons can be extended in time, if multiple students attend at the samr workshop or study.</p>
 <ul>
 <li>Initial online hangout, free of charge.</li>
 <li>A single lesson, full of exercises for a whole day: <strong>€170</strong> per student</li>
@@ -1249,7 +1259,7 @@ box = section.newIntroduction()
 <li>Outside Europe no VAT is added.</li>
 <li>We send an invoice over the total amount.</li>
 <li>Direct bank transfer is preference. </li>
-<li>Add 3% to the total when paying by PayPal.</li>
+<li>Add 3% to the total if PayPal is used.</li>
 </ul>
 <pre><code>box = section.newCropped()
 </code></pre>
