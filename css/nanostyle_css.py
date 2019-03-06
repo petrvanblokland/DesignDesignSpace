@@ -505,6 +505,7 @@ MEDIAQUERIES
     body {
         font-size: 3vw;
         background-color: red;
+        margin: 0;
     }
     h1 {font-size: 3em; line-height: 1.2em;}
     h2 {font-size: 2em; line-height: 1.2em;}
