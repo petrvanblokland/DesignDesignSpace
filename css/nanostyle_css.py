@@ -27,18 +27,16 @@
 
 cssPy = """
 html {
-    font-size: 16px;
+    font-size: 17px;
 }
 body {
     background-color: #%(body.bgcolor)s;
     color: #%(body.color)s;
     font-family: 'Upgrade-Regular', sans-serif;
     font-size: 1rem;
-    /*font-size: calc(1vw + 1vh + .5vmin);*/
-    /*font-size: 13pt;*/
     line-height: 1.4em;
     font-weight: normal; 
-    letter-spacing: 0.02em;
+    letter-spacing: 0.025em;
 
     margin: 8px; /* Margin between all page content and window */
 }
@@ -47,14 +45,14 @@ img {
 }
 p {
     font-size: 1em;
-    font-family: 'Upgrade-Book';
+    font-family: 'Upgrade-Regular';
 }
 p em {
     font-style: normal;
-    font-family: 'Upgrade-BookItalic';
+    font-family: 'Upgrade-RegularItalic';
 }
 p strong {
-    font-style: normal;
+    font-weight: normal;
     font-family: 'Upgrade-Medium';    
 }
 a {
@@ -391,7 +389,7 @@ ul.navmenu:after {
     letter-spacing: 0.025em;
     font-size: 1em;
     line-height: 1.4em;
-    font-family: 'Upgrade-Book';
+    font-family: 'Upgrade-Regular';
 }
 .slideside .textbox p em {
     fony-style: normal;
@@ -440,7 +438,7 @@ li sup { /* Superior Scale number in Menu */
     row-gap: 10px;    
 }
 .main {
-    padding-left: %(side.padding)s;
+    padding: 0 %(side.padding)s;
     border-top: 15px solid #%(hr.color)s;
 }
 .sides {
@@ -450,7 +448,7 @@ li sup { /* Superior Scale number in Menu */
     row-gap: 10px;    
 }
 .side {
-    padding: %(side.padding)s;
+    padding: 0 %(side.padding)s;
     border-top: 15px solid #%(hr.color)s;
 }
 
@@ -504,15 +502,15 @@ MEDIAQUERIES
 @media only screen and (max-width: 800px) {
     body {
         font-size: 3vw;
-        background-color: red;
+        /*background-color: red;*/
         margin: 0;
     }
     h1 {font-size: 3em; line-height: 1.2em;}
     h2 {font-size: 2em; line-height: 1.2em;}
-    h3 {font-size: 1.5em; line-height: 1.2em;}
-    h4 {font-size: 1.25em; line-height: 1.2em;}
-    h5 {font-size: 1em; line-height: 1.2em;}
-    p {font-size: 1em; line-height: 1.4em;}
+    h3 {font-size: 1.6em; line-height: 1.2em;}
+    h4 {font-size: 1.4em; line-height: 1.2em;}
+    h5 {font-size: 1.25em; line-height: 1.2em;}
+    p, li {font-size: 1.25em; line-height: 1.4em;}
 
     .logo {
         width: 80%%;
@@ -543,11 +541,11 @@ MEDIAQUERIES
         line-height: 1.15em;
     }
     .banner .textbox h2 {
-        font-size: 2em;
+        font-size: 2.25em;
         line-height: 1.15em;
     }
     .banner .textbox p {
-        font-size: 1em;
+        font-size: 1.25em;
         line-height: 1.4em;
     }
     .slideshowgroup {
@@ -557,17 +555,21 @@ MEDIAQUERIES
         padding-left: 12pt;
         padding-right: 12pt;
     }
+    .slideside .textbox p {
+        font-size: 1.25em;
+        line-height: 1.4em;
+    }
     .introduction {
         grid-column-start: 1; 
         grid-column-end: 1;
     } 
     .introduction .textbox h1 {
-        font-size: 2.2em;
+        font-size: 2.25em;
         line-height: 1.2em;
     }
     .caption .textbox {
         font-family: 'Upgrade-RegularItalic';
-        font-size: 1em;
+        font-size: 1.25em;
         line-height: 1.4em;
     }
     .section {
@@ -575,7 +577,7 @@ MEDIAQUERIES
         grid-template-columns: 1fr;
     }
     .cropped {
-        height: 400px;
+        height: 60vw; /* 60%% of view-port width. */
         border-top: none;
 
     }
@@ -583,14 +585,14 @@ MEDIAQUERIES
 @media only screen and (min-width: 800px) {
     body {
         font-size: 1rem;
-        background-color: cyan;
+        /*background-color: cyan;*/
     }
     h1 {font-size: 3em; line-height: 1.2em;}
     h2 {font-size: 2em; line-height: 1.2em;}
     h3 {font-size: 1.6em; line-height: 1.2em;}
     h4 {font-size: 1.25em; line-height: 1.2em;}
     h5 {font-size: 1em; line-height: 1.2em;}
-    p {font-size: 1em; line-height: 1.4em;}
+    p, li {font-size: 1em; line-height: 1.4em;}
 
     .header {
         grid-template-columns: 1fr 2fr;
@@ -608,7 +610,7 @@ MEDIAQUERIES
 }
 @media only screen and (min-width: 1000px) {
     body {
-        background-color: orange;
+        /*background-color: orange;*/
     }
     .header {
         grid-template-columns: 2fr 3fr;
@@ -627,7 +629,7 @@ MEDIAQUERIES
 }
 @media only screen and (min-width: 1200px) {
     body {
-        background-color: blue;
+        /*background-color: blue;*/
     }
     .wrapper {
         width: 1200px;

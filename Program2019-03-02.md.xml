@@ -495,7 +495,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=bottom" src="images/BK-Graphic-Design.png" /></p>
+<p><img alt="w=800 y=center" src="images/BK-Graphic-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -873,7 +873,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/BK-Interaction-Design.png" /></p>
+<p><img alt="w=800 y=center" src="images/BK-Interaction-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1035,7 +1035,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/BK-Interactive-Design.png" /></p>
+<p><img alt="w=800 y=center" src="images/BK-Interactive-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -1096,7 +1096,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/BK-Interactive-Design.png" /></p>
+<p><img alt="w=800 y=bottom" src="images/BK-Interactive-Design.png" /></p>
 <pre><code># ----------------------------------------
 # Studies/2018-reviews.html
 # ----------------------------------------
@@ -1315,7 +1315,7 @@ box = section.newMain()
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="IMG_7798.jpg w=800 y=top" src="images/IMG_7798.jpg" /></p>
+<p><img alt="PetrvanBlokland2019-03-05.jpg w=800 y=top" src="images/PetrvanBlokland2019-03-05.jpg" /></p>
 <ul>
 <li><a href="mailto:buro@petr.com">E-mail buro@petr.com</a> </li>
 <li>Mobile +31 6 24 219 502</li>
