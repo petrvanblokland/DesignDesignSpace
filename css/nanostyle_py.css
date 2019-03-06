@@ -293,10 +293,8 @@ ul.navmenu:after {
     /* Width is defined by collection container
     depending on the amount of child elements. */
 }
-/* Introduction on full width, child element of Section */
+
 .introduction {
-    grid-column-start: 1; 
-    grid-column-end: 3; 
     background-color: #333333;
     padding: 1em;
 }
@@ -474,22 +472,22 @@ MEDIAQUERIES
 
 @media only screen and (max-width: 800px) {
     body {
-        font-size: 3vw;
+        font-size: max(1rem, 3vw);
         /*background-color: red;*/
         margin: 0;
     }
-    h1 {font-size: 3em; line-height: 1.2em;}
-    h2 {font-size: 2em; line-height: 1.2em;}
-    h3 {font-size: 1.6em; line-height: 1.2em;}
-    h4 {font-size: 1.4em; line-height: 1.2em;}
-    h5 {font-size: 1.25em; line-height: 1.2em;}
-    p, li {font-size: 1.25em; line-height: 1.4em;}
+    h1 {font-size: 3em; line-height: 1.15em;}
+    h2 {font-size: 2em; line-height: 1.15em;}
+    h3 {font-size: 1.6em; line-height: 1.15em;}
+    h4 {font-size: 1.4em; line-height: 1.15em;}
+    h5 {font-size: 1.25em; line-height: 1.15em;}
+    p, li {font-size: 1.25em; line-height: 1.3em;}
 
     .logo {
         width: 80%;
     }
     .logo h1 {
-        font-size: 2em;
+        font-size: 1.5em;
     }
 
     .burgerbutton {
@@ -532,10 +530,6 @@ MEDIAQUERIES
         font-size: 1.25em;
         line-height: 1.4em;
     }
-    .introduction {
-        grid-column-start: 1; 
-        grid-column-end: 1;
-    } 
     .introduction .textbox h1 {
         font-size: 2.25em;
         line-height: 1.2em;

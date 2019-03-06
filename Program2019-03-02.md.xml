@@ -68,8 +68,7 @@ box = slideshow.slides
 <p>Design studies come in many different forms. There is never a single solution. It is the role of designers: search and select. Which type of study fits you best? What kind of topic, medium or intensity appeals to your way of learning? Let us know, we might have some challenging exercises for you.</p>
 <h1><a href="mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information">Contact us</a></h1>
 <pre><code>section = content.newSection()
-#box = section.newMain().newIntroduction()
-box = section.newIntroduction()
+box = content.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-typedesign.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-designpractice.html#live-coaching-while-starting-your-studio">Starting a studio?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Programming pages?</a> <a href="studies-typedesign.html#automated-proofing-and-specimens">Learning to code type specimens?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Mastering typography?</a> So are we.</h1>
@@ -78,7 +77,8 @@ box = section.newIntroduction()
 #![Typographics2019Logo.png x=center y=center](images/Typographics2019Logo.png)
 </code></pre>
 
-<pre><code>box = section.newMain()
+<pre><code>section = content.newSection()
+box = section.newMain()
 </code></pre>
 
 <h2>It all happens in DesignDesign.Space studies</h2>
@@ -179,7 +179,7 @@ box = content.newBanner()
 <h2>Study suggestions</h2>
 <h1>Type design</h1>
 <pre><code>section = content.newSection()
-box = section.newMain().newIntroduction()
+box = section.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-typedesign.html#discover-the-basics-of-type-design">Drawing basic contrast?</a> <a href="studies-typedesign.html#the-design-process-of-variable-fonts">Mastering Variable Fonts?</a> <a href="studies-typedesign.html#scripting-for-type-designers">Learning to code?</a> <a href="studies-typedesign.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-typedesign.html#improve-your-sketching-techniques">Improving your sketching techniques?</a></h1>
@@ -240,6 +240,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <h2>The design process of Variable Fonts</h2>
 <p>How do you get your design process beyond the traditional Variable Font axes of weight, width and optical size? How to make your experience grow from Multiple Master Thinking into Variable Font thinking? Develop sketching techniques. Make the production and testing of Variable Fonts work inside the cycles of your design process.</p>
 <p><img alt="w=800 y=top" src="images/NotesOnDesignSpaces.png" /></p>
+<p><strong>Gerrit Noordzij Cube code by Just van Rossum</strong></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -254,8 +255,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 x=center y=top" src="images/tpCube.png" /><br />
-<strong>Gerrit Noordzij Cube code by Just van Rossum</strong></p>
+<p><img alt="w=800 x=center y=top" src="images/tpCube.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -390,7 +390,7 @@ box = content.newBanner()
 <h2>Study suggestions</h2>
 <h1>Typography</h1>
 <pre><code>section = content.newSection()
-box = section.newMain().newIntroduction()
+box = section.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-typography.html#learn-how-to-use-typetr-typefaces-in-your-designs">Learning to use typefaces in typography?</a> <a href="studies-typography.html#learn-how-to-use-type-and-typography-in-corporate-identities">Seeking rules for type in corporate identities?</a> <a href="studies-typography.html#learn-how-to-use-type-and-typography-in-corporate-identities">Wondering about the specifics of typography online?</a></h1>
@@ -415,7 +415,7 @@ box = section.newMain().newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/travelCoverPages_1.png" /></p>
+<p><img alt="w=800 x=left y=top" src="images/travelCoverPages_1.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -488,7 +488,7 @@ box = content.newBanner()
 <h2>Study suggestions</h2>
 <h1>Graphic design</h1>
 <pre><code>section = content.newSection()
-box = section.newMain().newIntroduction()
+box = section.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-typography.html#learn-how-to-use-type-and-typography-online">Researching generative typography?</a> <a href="studies-designspaces.html#creating-an-identity">Designing a series?</a> <a href="studies-graphicdesign.html#info-graphics-the-design-of-automated-designs">Discovering the basics of information design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphicdesign.html#identity-design">Branding a client?</a></h1>
@@ -664,7 +664,7 @@ box = content.newBanner()
 <h2>Study suggestions</h2>
 <h1>Design spaces</h1>
 <pre><code>section = content.newSection()
-box = section.newMain().newIntroduction()
+box = section.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-designspaces.html#design-a-workspace">Redoing your workspace?</a> <a href="studies-designspaces.html#choosing-colors">Choosing colors at IKEA?</a> <a href="studies-designspaces.html#creating-an-identity">Looking for a style?</a> <a href="studies-designspaces.html#how-to-organize-structure-in-chaos">Mastering the skill of selection?</a> <a href="studies-designspaces.html#design-an-exhibition">Creating an exhibit?</a> <a href="studies-designspaces.html#design-your-studio-sandbox">Making sandbox for experiments?</a></h1>
@@ -866,7 +866,7 @@ box = content.newBanner()
 <h2>Study suggestions</h2>
 <h1>Running a design practice</h1>
 <pre><code>section = content.newSection()
-box = section.newMain().newIntroduction()
+box = section.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-designpractice.html#live-coaching-while-starting-your-studio">Starting a studio?</a> <a href="studies-designpractice.html#how-to-deal-with-clients">Learning to educate clients?</a> <a href="studies-designpractice.html#design-of-design-models">Redesigning your design process?</a> <a href="studies-designpractice.html#running-a-home-studio">Kids around in the studio?</a></h1>
@@ -1028,7 +1028,7 @@ box = content.newBanner()
 <h2>Study suggestions</h2>
 <h1>Design design education</h1>
 <pre><code>section = content.newSection()
-box = section.newMain().newIntroduction()
+box = section.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-designeducation.html#virtual-sabbatical">With your 10+ years of studio experience: what is next?</a> <a href="studies-designeducation.html#virtual-sabbatical">Mastering code?</a> <a href="studies-designeducation.html#virtual-sabbatical">Training new skills?</a> <a href="studies-designeducation.html#virtual-sabbatical">Broadening your scope?</a></h1>
