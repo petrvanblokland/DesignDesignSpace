@@ -95,8 +95,8 @@ box = section.newIntroduction()
 <li>In a first free hangout, we will talk about what you want to achieve.</li>
 <li>Together, we will find a way for you to get there. Topics &amp; Tools. By painting, drawing, sketching or by coding. Or by a combination of all.</li>
 <li>In sequences of relative short assignments, online hangouts, personal feedback and reflections, we explore the paths of your study project. And more importantly, we’ll teach you how to do that yourself.</li>
-<li>The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. We see it as our challenge to customize the study to what is realistic for you. And to make it match the result with what you need in your daily practice.</li>
-<li>As your plans are likely to change along the way, the changes in your study time can always be discussed.</li>
+<li>The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. We see it as our challenge to customize the study to what is realistic for you. And to make the result match with your daily practice.</li>
+<li>As your plans are likely to change along the way, any change to your study plan can always be discussed.</li>
 </ul>
 <p><a href="pricing.html">More about pricing here.</a></p>
 <pre><code>box = section.newSide()
