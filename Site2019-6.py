@@ -121,23 +121,6 @@ def makeTemplate(doc):
     # Default Footer at bottom of every page.
     Footer(parent=wrapper)
 
-    """    
-    # SlideShow https://www.bbslider.com
-    group = Group(cssClass='slideshowgroup clearfix', parent=header)
-    BareBonesSlideShow(h=300, w=300, cssId='SlideShow', parent=group, duration=0.7,
-        startIndex=2, dynamicHeight=True, transition=BBS_SLIDE, 
-        easing=CSS_EASE, frameDuration=4,
-        pauseOnHit=True, randomPlay=False)
-    BareBonesSlideSide(cssId='SlideSide', parent=group)
-
-    # Content, root for all content containers such as 
-    # Introduction, Main and Side.
-    Content(parent=wrapper, cssId='Content')
-
-    # Footer
-    Footer(parent=wrapper)
-    """
-
     doc.addTemplate('default', default)
     return default
 
