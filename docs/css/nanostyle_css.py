@@ -23,7 +23,7 @@
 #
 #     https://css-tricks.com/font-size-viewport-units/
 #     https://css-tricks.com/almanac/properties/f/font-size/
-
+#     https://css-tricks.com/books/volume-i/scale-typography-screen-size/
 
 cssPy = """
 html {
@@ -51,9 +51,9 @@ p em {
     font-style: normal;
     font-family: 'Upgrade-RegularItalic';
 }
-p strong {
+p strong, li strong {
     font-weight: normal;
-    font-family: 'Upgrade-Medium';    
+    font-family: 'Upgrade-Semibold';    
 }
 a {
     text-decoration: none;
@@ -499,13 +499,13 @@ MEDIAQUERIES
 
 @media only screen and (max-width: 800px) {
     body {
-        font-size: max(1rem, 3vw);
+        font-size: max(0.6rem, 3vw);
         /*background-color: red;*/
         margin: 0;
     }
-    h1 {font-size: 3em; line-height: 1.15em;}
-    h2 {font-size: 2em; line-height: 1.15em;}
-    h3 {font-size: 1.6em; line-height: 1.15em;}
+    h1 {font-size: 2.4em; line-height: 1.15em;}
+    h2 {font-size: 2.2em; line-height: 1.15em;}
+    h3 {font-size: 1.8em; line-height: 1.15em;}
     h4 {font-size: 1.4em; line-height: 1.15em;}
     h5 {font-size: 1.25em; line-height: 1.15em;}
     p, li {font-size: 1.25em; line-height: 1.3em;}
@@ -535,16 +535,16 @@ MEDIAQUERIES
         display: none;
     }
     .banner .textbox h1 {
-        font-size: 3em;
+        font-size: 2.4em;
         line-height: 1.15em;
     }
     .banner .textbox h2 {
-        font-size: 2.25em;
+        font-size: 2.2em;
         line-height: 1.15em;
     }
     .banner .textbox p {
         font-size: 1.25em;
-        line-height: 1.4em;
+        line-height: 1.3em;
     }
     .slideshowgroup {
         grid-template-columns: 1fr;
@@ -555,7 +555,7 @@ MEDIAQUERIES
     }
     .slideside .textbox p {
         font-size: 1.25em;
-        line-height: 1.4em;
+        line-height: 1.3em;
     }
     .introduction .textbox h1 {
         font-size: 2.25em;
@@ -564,7 +564,7 @@ MEDIAQUERIES
     .caption .textbox {
         font-family: 'Upgrade-RegularItalic';
         font-size: 1.25em;
-        line-height: 1.4em;
+        line-height: 1.3em;
     }
     .section {
         display: grid;
