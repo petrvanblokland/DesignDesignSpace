@@ -534,6 +534,9 @@ MEDIAQUERIES
         width: 100%%;
         display: none;
     }
+    .mobilemenu button {
+        font-size: 2em;
+    }
     .banner .textbox h1 {
         font-size: 2.4em;
         line-height: 1.15em;
