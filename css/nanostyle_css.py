@@ -20,13 +20,22 @@
 #
 #     Since we'll be translating the ^(label)s directly by the theme.mood, all "%" 
 #     should be escaped by a double "%%"
+#
+#     https://css-tricks.com/font-size-viewport-units/
+#     https://css-tricks.com/almanac/properties/f/font-size/
+
 
 cssPy = """
+html {
+    font-size: 16px;
+}
 body {
     background-color: #%(body.bgcolor)s;
     color: #%(body.color)s;
     font-family: 'Upgrade-Regular', sans-serif;
-    font-size: 13pt;
+    font-size: 1rem;
+    /*font-size: calc(1vw + 1vh + .5vmin);*/
+    /*font-size: 13pt;*/
     line-height: 1.4em;
     font-weight: normal; 
     letter-spacing: 0.02em;
@@ -37,7 +46,7 @@ img {
     width: 100%%;
 }
 p {
-    font-size: 13pt;
+    font-size: 1em;
     font-family: 'Upgrade-Book';
 }
 p em {
@@ -61,17 +70,24 @@ ul {
     padding: 0 0 0 20px;
 }
 
+/* Heading */
+
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     font-family: 'Upgrade-Regular', sans-serif;
-    line-height: 1.2em;
     margin: .45em 0;
     padding: 0; 
 }
+h1 {font-size: 2em; line-height: 1.2em;}
+h2 {font-size: 1.75em; line-height: 1.2em;}
+h3 {font-size: 1.5em; line-height: 1.2em;}
+h4 {font-size: 1.25em; line-height: 1.2em;}
+h5 {font-size: 1em; line-height: 1.2em;}
+p {font-size: 1em; line-height: 1.4em;}
+
 h1 {
     font-family: 'Upgrade-Semibold', sans-serif;
     margin: 0;
-    font-size: 2em;
     color: #%(h1.color)s;
 }
 h1 a {
@@ -81,6 +97,7 @@ h1 a:hover {
     color: #%(h1.hover)s;
     background-color: none;
 }
+
 h2 a {
     color: #%(h2.link)s;
     background-color: none;
@@ -89,6 +106,7 @@ h2 a:hover {
     color: #%(h2.hover)s;
     background-color: none;
 }
+
 h3 a {
     color: #%(h3.link)s;
     background-color: none;
@@ -97,6 +115,7 @@ h3 a:hover {
     color: #%(h3.hover)s;
     background-color: none;
 }
+
 h4 a {
     color: #%(h4.link)s;
     background-color: none;
@@ -105,6 +124,7 @@ h4 a:hover {
     color: #%(h4.hover)s;
     background-color: none;
 }
+
 h5 a {
     color: #%(h5.link)s;
     background-color: none;
@@ -116,7 +136,7 @@ h5 a:hover {
 
 /* Debugging */
 .cssId { /* Debug showing e.cssId */
-    font-size: 12pt;
+    font-size: 1em;
     color: yellow;
     background-color: red;
 }
@@ -275,7 +295,7 @@ ul.navmenu:after {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 32px;
+    font-size: 3em;
     font-family: 'Upgrade-Regular', sans-serif;
 }
 
@@ -286,8 +306,8 @@ ul.navmenu:after {
     background-color: #%(banner.bgcolor)s;
 }
 .banner .textbox h1 {
-    line-height: 1.3em;
     font-size: 3em;
+    line-height: 1.3em;
     font-family: 'Upgrade-Regular', sans-serif;
     color: #%(banner.color)s;
 }
@@ -310,8 +330,8 @@ ul.navmenu:after {
     padding: 1em;
 }
 .introduction .textbox h1 {
-    line-height: 1.2em;
     font-size: 3em;
+    line-height: 1.2em;
     font-family: 'Upgrade-Light', sans-serif;
     color: #%(intro.color)s;
 }
@@ -481,19 +501,23 @@ MEDIAQUERIES
 *****************************************
 ****************************************/
 
-
 @media only screen and (max-width: 800px) {
     body {
-        /*background-color: green;*/
+        font-size: 3vw;
+        background-color: red;
     }
-    .header {
+    h1 {font-size: 3em; line-height: 1.2em;}
+    h2 {font-size: 2em; line-height: 1.2em;}
+    h3 {font-size: 1.5em; line-height: 1.2em;}
+    h4 {font-size: 1.25em; line-height: 1.2em;}
+    h5 {font-size: 1em; line-height: 1.2em;}
+    p {font-size: 1em; line-height: 1.4em;}
 
-    }
     .logo {
         width: 80%%;
     }
     .logo h1 {
-        font-size: 1.4em;
+        font-size: 2em;
     }
 
     .burgerbutton {
@@ -514,21 +538,19 @@ MEDIAQUERIES
         display: none;
     }
     .banner .textbox h1 {
-        font-size: 2.5em;
+        font-size: 3em;
         line-height: 1.15em;
     }
     .banner .textbox h2 {
-        font-size: 1.75em;
+        font-size: 2em;
         line-height: 1.15em;
     }
     .banner .textbox p {
         font-size: 1em;
-        line-height: 1em;
+        line-height: 1.4em;
     }
     .slideshowgroup {
         grid-template-columns: 1fr;
-    }
-    .slideshow {
     }
     .slideside {
         padding-left: 12pt;
@@ -542,8 +564,6 @@ MEDIAQUERIES
         font-size: 2.2em;
         line-height: 1.2em;
     }
-    .main {
-    }
     .caption .textbox {
         font-family: 'Upgrade-RegularItalic';
         font-size: 1em;
@@ -553,9 +573,6 @@ MEDIAQUERIES
         display: grid;
         grid-template-columns: 1fr;
     }
-    .side, .section, .collection, .collecitonelement {
-        /* padding:1em; */
-    }
     .cropped {
         height: 400px;
         border-top: none;
@@ -564,8 +581,16 @@ MEDIAQUERIES
 }
 @media only screen and (min-width: 800px) {
     body {
-        /*background-color: cyan;*/
+        font-size: 1rem;
+        background-color: cyan;
     }
+    h1 {font-size: 3em; line-height: 1.2em;}
+    h2 {font-size: 2em; line-height: 1.2em;}
+    h3 {font-size: 1.6em; line-height: 1.2em;}
+    h4 {font-size: 1.25em; line-height: 1.2em;}
+    h5 {font-size: 1em; line-height: 1.2em;}
+    p {font-size: 1em; line-height: 1.4em;}
+
     .header {
         grid-template-columns: 1fr 2fr;
     } 
@@ -575,23 +600,14 @@ MEDIAQUERIES
     .navigation {
         display: block;
     }
-    /*
-    .mobilemenu {
-        display: none;
-    }
-    */
-    .main {
-    }
-    .side {
-    }
     .banner .textbox h1 {
-        font-size: 2.5em;
+        font-size: 3em;
         line-height: 1em;
     }
 }
 @media only screen and (min-width: 1000px) {
     body {
-        /*background-color: orange;*/
+        background-color: orange;
     }
     .header {
         grid-template-columns: 2fr 3fr;
@@ -603,23 +619,14 @@ MEDIAQUERIES
     .navigation {
         display: block;
     }
-    /*
-    .mobilemenu {
-        display: none;
-    }
-    */
-    .main {
-    }
-    .side {
-    }
     .banner .textbox h1 {
         font-size: 2.5em;
-        line-height: 1em;
+        line-height: 1.1em;
     }
 }
 @media only screen and (min-width: 1200px) {
     body {
-        /*background-color: green;*/
+        background-color: blue;
     }
     .wrapper {
         width: 1200px;
@@ -630,10 +637,6 @@ MEDIAQUERIES
     }
     .mobilemenu {
         display: none;
-    }
-    .main {
-    }
-    .side {
     }
 }
 
