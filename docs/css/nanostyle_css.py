@@ -286,7 +286,7 @@ ul.navmenu:after {
     color: #%(mobilemenu.link)s;
     width: 100%%;
     margin: 2px 0;
-    padding: 8px;
+    padding: 6px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -295,7 +295,8 @@ ul.navmenu:after {
 }
 .mobilemenu .button2 {
     font-size: 2em;
-    font-family: 'Upgrade-RegularItalic', sans-serif;
+    padding: 4px;
+    font-family: 'Upgrade-MediumItalic', sans-serif;
 }
 
 
