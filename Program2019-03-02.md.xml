@@ -1142,7 +1142,8 @@ box = section.newIntroduction()
 </code></pre>
 
 <h1>What students wrote…</h1>
-<pre><code>box = mainBox = section.newMain()
+<pre><code>section = content.newSection()
+box = mainBox = section.newMain()
 </code></pre>
 
 <h3>“I appreciated that everyone was able to swim at their own pace.”</h3>
@@ -1194,7 +1195,8 @@ box = section.newIntroduction()
 
 <p><img alt="DDS-Drawing-June-Shin w=800 y=top" src="images/DDS-drawing-June-Shin.png" /><br />
 <caption>June Shin’s thank-you card to DesignDesign.Space, very much appreciated.</caption></p>
-<pre><code>box = section.newIntroduction()
+<pre><code>section = content.newSection()
+box = section.newIntroduction()
 </code></pre>
 
 <h1>How about yourself?</h1>
