@@ -1232,7 +1232,8 @@ box = section.newIntroduction()
 </code></pre>
 
 <h1>The prices of DDS-studies are based on individual coaching and custom made design challenges with personal feedback. That is different from standard online courses.</h1>
-<pre><code>box = section.newMain()
+<pre><code>section = content.newSection()
+box = section.newMain()
 </code></pre>
 
 <h2>Pricing</h2>
