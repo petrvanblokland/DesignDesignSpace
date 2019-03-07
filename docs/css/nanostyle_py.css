@@ -253,19 +253,24 @@ ul.navmenu:after {
 .mobilemenu {
     display: none;
 }
-.mobilemenu button {
+.mobilemenu .button, .mobilemenu .button2 {
     background-color: #E7E7E7;
     border: none;
     color: #0E0E0E;
     width: 100%;
     margin: 2px 0;
-    padding: 8px 8px;
+    padding: 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 3em;
-    font-family: 'Upgrade-Regular', sans-serif;
+    font-family: 'Upgrade-Medium', sans-serif;
 }
+.mobilemenu .button2 {
+    font-size: 2em;
+    font-family: 'Upgrade-RegularItalic', sans-serif;
+}
+
 
 /* Banner on full width */
 .banner {
@@ -503,7 +508,10 @@ MEDIAQUERIES
         width: 100%;
         display: none;
     }
-    .mobilemenu button {
+    .mobilemenu .button {
+        font-size: 2.5em;
+    }
+    .mobilemenu .button2 {
         font-size: 2em;
     }
     .banner .textbox h1 {
@@ -568,6 +576,10 @@ MEDIAQUERIES
     .navigation {
         display: block;
     }
+    .burgerbutton, .mobilemenu {
+        display: none;
+    }
+
     .banner .textbox h1 {
         font-size: 3em;
         line-height: 1em;
@@ -587,6 +599,10 @@ MEDIAQUERIES
     .navigation {
         display: block;
     }
+    .burgerbutton, .mobilemenu {
+        display: none;
+    }
+
     .banner .textbox h1 {
         font-size: 2.5em;
         line-height: 1.1em;
@@ -603,7 +619,7 @@ MEDIAQUERIES
     .navigation {
         display: block;
     }
-    .mobilemenu {
+    .burgerbutton, .mobilemenu {
         display: none;
     }
 }
