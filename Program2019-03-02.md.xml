@@ -37,7 +37,7 @@ box = content.newBanner()
 
 <h1>Which studies can we offer you in 2019?</h1>
 <pre><code>from pagebot.constants import *
-slideshow = content.newSlideShow(h=300, slideW='100%', slideH=320, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
+slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
 </code></pre>
 
@@ -67,8 +67,7 @@ box = slideshow.slides
 <h2>Develop your process.<br/>Expand your skills.</h2>
 <p>Design studies come in many different forms. There is never a single solution. It is the role of designers: search and select. Which type of study fits you best? What kind of topic, medium or intensity appeals to your way of learning? Let us know, we might have some challenging exercises for you.</p>
 <h1><a href="mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information">Contact us</a></h1>
-<pre><code>section = content.newSection()
-box = content.newIntroduction()
+<pre><code>box = content.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-typedesign.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-designpractice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-designpractice.html#live-coaching-while-starting-your-studio">Starting a studio?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Programming pages?</a> <a href="studies-typedesign.html#automated-proofing-and-specimens">Learning to code type specimens?</a> <a href="studies-graphicdesign.html#scripting-the-design-of-printed-publications">Mastering typography?</a> So are we.</h1>
@@ -135,15 +134,15 @@ box = content.newBanner()
 </code></pre>
 
 <h1>Examine the 2019 study suggestions</h1>
-<pre><code>section = content.newSection()
-box = section.newIntroduction()
+<pre><code>box = content.newIntroduction()
 </code></pre>
 
 <h1><a href="studies-designpractice.html#design-of-design-models">Redesigning your current design process?</a> <a href="studies-designpractice.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> <a href="studies-designspaces.html#design-a-workspace">Redoing your interior?</a> <a href="studies-designpractice.html#how-to-deal-with-clients">How to educate customers?</a> <a href="studies-designeducation.html#virtual-studies-and-teaching-online">Directions for further design education?</a></h1>
-<pre><code>box = section.newMain()
+<pre><code>section = content.newSection()
+box = section.newMain()
 </code></pre>
 
-<h1>Studies in 2019</h1>
+<h2>Studies in 2019</h2>
 <p>We keep improving the curriculum. The mandatory design of design education. Instead of the fixed <a href="2018-program.html">2018</a> list of workshops, studies and dates, in practice, we found out that it is better to make the schedule entirely flexible. Hints of topics, templates of studies and suggestions for the process behind.</p>
 <hr />
 <h2>Pricing</h2>
@@ -1110,12 +1109,12 @@ box = content.newBanner()
 </code></pre>
 
 <h1>What happened in 2018</h1>
-<pre><code>section = content.newSection()
-box = section.newIntroduction()
+<pre><code>box = content.newIntroduction()
 </code></pre>
 
 <h1>Around 120 students have joined one or more of the workshops and studies in 2018. Read some of their testimonials.</h1>
-<pre><code>box = section.newMain()
+<pre><code>section = content.newSection()
+box = section.newMain()
 </code></pre>
 
 <h2>What we did…</h2>
@@ -1138,7 +1137,7 @@ box = section.newIntroduction()
 <!--![DSGNWK_0468BW.jpg w=900 y=top x=center](images/DSGNWK_0468BW.jpg)-->
 
 <p><img alt="IMG_1107.jpg w=900 y=center x=center" src="images/IMG_1107.jpg" /></p>
-<pre><code>box = section.newIntroduction()
+<pre><code>box = content.newIntroduction()
 </code></pre>
 
 <h1>What students wrote…</h1>
@@ -1195,12 +1194,12 @@ box = mainBox = section.newMain()
 
 <p><img alt="DDS-Drawing-June-Shin w=800 y=top" src="images/DDS-drawing-June-Shin.png" /><br />
 <caption>June Shin’s thank-you card to DesignDesign.Space, very much appreciated.</caption></p>
-<pre><code>section = content.newSection()
-box = section.newIntroduction()
+<pre><code>box = content.newIntroduction()
 </code></pre>
 
 <h1>How about yourself?</h1>
-<pre><code>box = section.newMain()
+<pre><code>section = content.newSection()
+box = section.newMain()
 </code></pre>
 
 <h2>Explore the ideas about what you could study.</h2>
@@ -1229,8 +1228,7 @@ box = content.newBanner()
 </code></pre>
 
 <h1>What does it cost?</h1>
-<pre><code>section = content.newSection()
-box = section.newIntroduction()
+<pre><code>box = content.newIntroduction()
 </code></pre>
 
 <h1>The prices of DDS-studies are based on individual coaching and custom made design challenges with personal feedback. That is different from standard online courses.</h1>
@@ -1286,18 +1284,18 @@ box = content.newBanner()
 
 <h1>Contact us for a free initial hangout</h1>
 <pre><code>from pagebot.constants import *
-slideshow = content.newSlideShow(h=300, slideW='100%', slideH=320, startIndex=1, autoHeight=True, carousel=4, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
+slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=1, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
 
 #![w=200 y=top](images/BK-Graphic-Design.png)
 </code></pre>
 
-<p><img alt="w=200 y=top" src="images/BK-Interactive-Design.png" /><br />
-<img alt="w=200 y=top" src="images/BK-Environmental-Design.png" /><br />
-<img alt="w=200 y=top" src="images/BK-Interaction-Design.png" /><br />
-<img alt="w=200 y=top" src="images/BK-Studio-Design.png" /><br />
-<img alt="w=200 y=top" src="images/BK-Models-Design.png" /><br />
-<img alt="w=200 y=top" src="images/BK-Typography-Design.png" /></p>
+<p><img alt="w=450 y=top" src="images/BK-Interactive-Design.png" /><br />
+<img alt="w=450 y=top" src="images/BK-Environmental-Design.png" /><br />
+<img alt="w=450 y=top" src="images/BK-Interaction-Design.png" /><br />
+<img alt="w=450 y=top" src="images/BK-Studio-Design.png" /><br />
+<img alt="w=450 y=top" src="images/BK-Models-Design.png" /><br />
+<img alt="w=450 y=top" src="images/BK-Typography-Design.png" /></p>
 <pre><code>box = slideshow.side
 </code></pre>
 
