@@ -197,8 +197,8 @@ ul.navmenu li a {
 }
 
 ul.navmenu li a:hover { 
-    background-color: #262626;
     color: #ccc;
+    background-color: #262626;
 }
 
 li:hover ul.navmenu {
@@ -254,21 +254,22 @@ ul.navmenu:after {
     display: none;
 }
 .mobilemenu .button, .mobilemenu .button2 {
+    color: #0E0E0E;
     background-color: #E7E7E7;
     border: none;
-    color: #0E0E0E;
     width: 100%;
     margin: 2px 0;
     padding: 6px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none
     display: inline-block;
     font-size: 3em;
     font-family: 'Upgrade-Medium', sans-serif;
 }
 .mobilemenu .button2 {
+    color: #F96302;
     font-size: 2em;
-    padding: 4px;
+    padding: 5px;
     font-family: 'Upgrade-MediumItalic', sans-serif;
 }
 

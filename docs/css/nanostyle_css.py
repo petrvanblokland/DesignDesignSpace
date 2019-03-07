@@ -224,8 +224,8 @@ ul.navmenu li a {
 }
 
 ul.navmenu li a:hover { 
-    background-color: #%(menu.hover)s;
     color: #ccc;
+    background-color: #%(menu.hover)s;
 }
 
 li:hover ul.navmenu {
@@ -281,21 +281,22 @@ ul.navmenu:after {
     display: none;
 }
 .mobilemenu .button, .mobilemenu .button2 {
+    color: #%(mobilemenu.link)s;
     background-color: #%(mobilemenu.bgcolor)s;
     border: none;
-    color: #%(mobilemenu.link)s;
     width: 100%%;
     margin: 2px 0;
     padding: 6px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none
     display: inline-block;
     font-size: 3em;
     font-family: 'Upgrade-Medium', sans-serif;
 }
 .mobilemenu .button2 {
+    color: #%(base3)s;
     font-size: 2em;
-    padding: 4px;
+    padding: 5px;
     font-family: 'Upgrade-MediumItalic', sans-serif;
 }
 
