@@ -149,6 +149,13 @@ def makeSite(styles, viewId):
         'css/normalized.css', 
         cssPath,
     )
+    BASE_FONT_SIZE = 16
+    view.jsCode = """
+    function setBaseFontSize(){
+        document.getElementsByTagName('body')[0].style['font-size'] = %d * window.devicePixelRatio + 'px';
+    }
+    window.onload = setBaseFontSize;
+    """ % BASE_FONT_SIZE
 
     # Make the all pages and elements of the site as empty containers, that then can
     # be selected and filled by the composer, using the galley content.

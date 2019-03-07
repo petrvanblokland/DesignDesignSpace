@@ -26,14 +26,11 @@
 #     https://css-tricks.com/books/volume-i/scale-typography-screen-size/
 
 cssPy = """
-html {
-    font-size: 17px;
-}
 body {
     background-color: #%(body.bgcolor)s;
     color: #%(body.color)s;
     font-family: 'Upgrade-Regular', sans-serif;
-    font-size: 1rem;
+    font-size: 17px;
     line-height: 1.4em;
     font-weight: normal; 
     letter-spacing: 0.025em;
@@ -499,7 +496,6 @@ MEDIAQUERIES
 
 @media only screen and (max-width: 800px) {
     body {
-        font-size: max(0.6rem, 3vw);
         /*background-color: red;*/
         margin: 0;
     }
@@ -581,7 +577,6 @@ MEDIAQUERIES
 }
 @media only screen and (min-width: 800px) {
     body {
-        font-size: 1rem;
         /*background-color: cyan;*/
     }
     h1 {font-size: 3em; line-height: 1.2em;}
