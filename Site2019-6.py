@@ -152,7 +152,7 @@ def makeSite(styles, viewId):
     BASE_FONT_SIZE = 16
     view.jsCode = """
     function setBaseFontSize(){
-        document.getElementsByTagName('body')[0].style['font-size'] = %d * window.devicePixelRatio + 'px';
+        /*document.getElementsByTagName('body')[0].style['font-size'] = %d * window.devicePixelRatio + 'px';*/
     }
     window.onload = setBaseFontSize;
     """ % BASE_FONT_SIZE
