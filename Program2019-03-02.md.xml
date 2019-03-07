@@ -1025,7 +1025,7 @@ box = content.newBanner()
 </code></pre>
 
 <h2>Study suggestions</h2>
-<h1>Design design education</h1>
+<h1>Design education</h1>
 <pre><code>section = content.newSection()
 box = section.newIntroduction()
 </code></pre>
