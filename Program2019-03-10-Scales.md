@@ -1352,7 +1352,7 @@ box = section.newMain()
 
 Many of our exercises become published online, named **Scales**. Because that is what they are: the scales that musicians play for practice. The name also refers to scaled models that architects use to visualize their ideas. The scaling of details is an important part of any design process.
 
-The growing number of exercises on this site contain a short description of the challenge, paired with **“how-to-do-it”** information. Try them. If it works for you, that is great. If you need more coaching, then consider a study at DesignDesign.Space, where many more of these exercises aer waiting for you.
+The growing number of exercises on this site contain a short description of the challenge, paired with **“how-to-do-it”** information. Try them. If it works for you, that is great. If you need more coaching, then consider a study at DesignDesign.Space, where many more of these exercises are waiting for you. Custom made.
 
 If you run out of time when finalizing an exercise, that is never a problem. Designing the process and planning the flow are  integral parts of the design process itself. Maybe next time you choose a better level of detail. Or select another approach. Or pick a different tool.  
 
@@ -1372,13 +1372,13 @@ box = section.newSide()
 
 ## Scaled exercises
 
+* [Preparing projects](scales-preparing_projects_0.html)
 * [Sketching](scales-sketching_100.html)
 
 (Will be extended soon)
 
 ~~~
 """
-* [Preparing projects](scales-preparing_projects_0.html)
 * [Research](scales-research-200.html)
 * [Programming and coding](scales-programming-coding-400.html)
 * [Design edudation](scales-design-education-700.html)
@@ -1401,6 +1401,110 @@ box = section.newSide()
 
 ~~~
 # ----------------------------------------
+# Scales:preparing projects
+# ----------------------------------------
+template = doc.getTemplate('home')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Preparing projects'
+page.url = 'Scales/preparing_projects_0.html'
+
+content = page.select('Content')
+box = content.newBanner()
+~~~
+# Scales: Preparing projects
+
+~~~
+box = page.select('Introduction0')
+~~~
+# Quoting a project? Working for a pitch? Researching the scope of work? Trying to make a planning? Designing the flow of feedback? 
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale10"/>
+## Make a scaled model of a Thesis^10
+
+Write a 2-page Thesis about something you would like to study, or any other topic of your choice. Include title, subtitle, images, captions, summary, literature references and footnotes.
+Sketch the layout and content in multiple scales, before anything else. Make short cycles. If you run out of time, decide on priorities. Final presentation in **3 hours**
+
+~~~
+box = mainBox.newInfo()
+~~~
+### Challenge
+The challenge of this exercise is to scale the elements in a real thesis to fit the 2 pages and still make it complete. Or even better, guess what volume is needed and only make that. Draw a planning how to use the available time of 3 hours. How much time do you need for research, writing, creating the images and for making the final layout.
+
+### Hints
+* The most common mistake in this exercise it bad planning. Remember that the emphasis is on completeness and completion. Not on the depth of research or the volume of text.
+* Keep yourself to the hard deadline of 3 hours. You can always do the exercise again, if it fails to complete in time. Doing another cycle is more rewarding than extending the deadline.
+
+These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. 
+ 
+### Feedback
+Ask others for feedback and think beforehand what questions you will ask. Instead of “Do you like it?”, you probably get more feedback with **What do you think the conclusion of the thesis is?**, **Is it detailed enough?** or **What would you add?**. 
+
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale20"/>
+## Quoting a project^20
+
+Making a quote for a project is fundamentally impossible. You need to give a price and a planning, but you only know that for sure at the end of the project. Yet, that is what customers want to get at the start. 
+
+The solution is to run the entire project in simulation mode. In your head and on paper, alone and with others. Based on experience with similar projects and activities. What needs to be done and in what order? Which parts of a project are routine and which parts are unknown black holes? 
+
+Find ways to validate such a simulated quote. Who can you ask for feedback? What do you expect to get as response? **1 hour**
+
+~~~
+box = mainBox.newInfo()
+~~~
+### Challenge
+The challenge of this exercise is to make a mental model of what a project could be like. Can you see yourself in meetings, sketching cycles, scrums and final presentations? Without doing them already? In what way would the sketching of timelines help? How are your sketching skills developed to visualize the entire project in 10 minutes on a single sheets of paper? 
+
+### Hints
+* The most common mistake is to think that quotes can only be made if all information is available. That will never happen, so you have to dig into your experience with similar projects. What happened there – good or bad – is valuable information.
+* Sketch info-graphics of the various aspects of the project, as many as you can. Learn to visualize your thoughts, so you can share them with others.
+
+These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. 
+
+### Feedback
+No design process can be validating itself. There is always a purpose, even if it is deliberately left undefined.
+Ask others for feedback and think beforehand what questions you should ask. Instead of asking “Do you like it?”, you probably get more feedback with “How realistic is this quote?” and “Would you hire me? And if not, what would need to change?”. 
+
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale20a"/>
+### Describe an imaginary design project^20a
+
+Break the project down into parts and estimate them separately. Remember that designers always guess too optimistic. Reality is that everything designers do, takes more time than planned. On the other hand, if you would count all the time that they **want**, you’ll never get to a competing quote. Where is the realistic balance?
+
+Then assemble the parts back into a total estimate for the projects, still showing hours and costs for the individual parts. Try to find out how close or far-off that total is from projects by other designers. And verify with your customer, if that amount is according to the budget.
+
+**The fixed budget for this project is €2.000**
+
+What can you do for that? And would you take the risk? Iterate if your amount is too different. Experience that making a competing project estimate and planning is a design process in itself. **3 hours**
+
+~~~
+box = mainBox.newInfo()
+~~~
+### Challenge
+The challenge of this exercise is to make a mental model of what a project could be like, an more important, how parts of a project behave and interact. 
+
+### Hints
+* The most common mistake is to think that quotes can only be made if all information is available. That will never happen, so you have to dig into your experience with similar projects. What happened there – good or bad – is valuable information.
+
+These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. 
+
+### Feedback
+No design process can be validating itself. There is always a purpose, even if it is deliberately left undefined.
+Ask others for feedback and think beforehand what questions you should ask. Instead of asking “Do you like it?”, you probably get more feedback with “How realistic is the division in parts for this project?” and “What could go wrong in such a model?”. 
+
+
+~~~
+# ----------------------------------------
 # Scales:sketching
 # ----------------------------------------
 template = doc.getTemplate('home')
@@ -1415,7 +1519,7 @@ box = content.newBanner()
 # Scales: Sketching
 
 ~~~
-box = page.select('Introduction0')
+box = content.newIntroduction()
 ~~~
 # Starting a project? Searching in a wide range of options? Digital tools are too detailed? 
 ~~~
@@ -1425,7 +1529,7 @@ box = mainBox = section.newMain()
 
 <a name="Scale161"/>
 ## Sketch in volume^161
-Buy an empty new Moleskin and a fresh black pencil. Select a event from the newspaper, research the topic and collect relevant data. Sketch an info-graphic that explains the event. One on each page. Repeat for all of the pages in your sketch book. Evaluate with others to select the 3 best. **1 week**
+Buy an empty new Moleskin and a fresh black pencil. Select a event from the newspaper, research the topic and collect relevant data. Sketch an info-graphic that explains the event. One on each page. Repeat for all of the pages in your sketch book. Evaluate with others to select the best three pages. **1 week**
 
 ~~~
 box = mainBox.newInfo()
@@ -1434,17 +1538,18 @@ box = mainBox.newInfo()
 The challenge of this exercise is to use all pages in your sketch book. It does not really matter what the level of details is for each page. What matters is to make a constant flow, to train the fluency of expressing ideas into drawings. And then again and again. Similar to working out in sport, it is an endurance exercise.
 
 ### Hints
+These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. 
 
-* Skip some pages in the beginning of the sketchbook. You can add a title and table-of-content here, when finished.
-* Also add pagenumbers, small and centerend at the bottom of each page.
-* Use black pencil as default. Use color pencils if color has a meaning.
-* Plan a quotum for each day. You will not be able to draw half of the pages in the last day of the week.
-* Draw in a smaller scale if each of them takes too much time. Or use a thicker pencil.
+* Skip some pages in the front of the sketchbook. You can fill in title and table-of-content there, when finished.
+* Also add pagenumbers, small and centerend at the bottom of each page. Start uneven on a right page.
+* Use black pencils as default. Use color pencils only if color has a meaning.
+* Plan a quotum for each day. You will not manage to draw half of the pages during the last day of the week.
+* Use a smaller scale, if each drawing takes too much time. Or use a thicker pencil. Concentrate on what is the most important to show.
 * Consider the layout of the page. Plan the drawing centered, slightly above the middle of the page. For a start. Later you can experiment with the layout as part of your drawing.
 
 ### Feedback
-Asking others for feedback during the process may return much information. About your sketching technique. And about the way you transform the message into shape. 
-That information is best when asking the right questions. Instead of “Do you like it?”, questions such as “What is the message here?” and “Which of my pages so far is most clear?” probably give better feedback. 
+Ask others for feedback during the process. They may return valuable information. About your sketching techniques. And about the way you transform the message into shape. 
+Those answers are best when asking the right questions. Instead of asking “Do you like it?”, you probably get more feedback with “What do you think is the message here?” and “Which of my pages is most clear so far?”. 
 
 ~~~
 section = content.newSection()
@@ -1453,7 +1558,7 @@ box = mainBox = section.newMain()
 
 <a name="Scale161a"/>
 ### Planning and evaluation^161a
-First try Scale-161. Write a 2-page Thesis about the process. Did you manage to fill all pages of the sketchbook? How would you do it next time? Why do you think the selected 3 are the best? **5 hours**
+First try to finish Scale-161. Then write a 2-page Thesis about the process. Did you manage to fill all pages of the sketchbook? How would you do it next time? Why do you think the three selected pages are the best? **5 hours**
 
 ~~~
 # ----------------------------------------
