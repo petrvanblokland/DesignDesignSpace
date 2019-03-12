@@ -1374,6 +1374,7 @@ box = section.newSide()
 
 * [Preparing projects](scales-preparing_projects_0.html)
 * [Sketching](scales-sketching_100.html)
+* [Design edudation](scales-design_education_700.html)
 
 (Will be extended soon)
 
@@ -1381,7 +1382,6 @@ box = section.newSide()
 """
 * [Research](scales-research-200.html)
 * [Programming and coding](scales-programming-coding-400.html)
-* [Design edudation](scales-design-education-700.html)
 * [Type design](scales-type-1000.html)
 * [Typography](scales-typography-1100.html)
 * [Design of identities](scales-design-identities-1300.html)
@@ -1417,7 +1417,7 @@ box = content.newBanner()
 ~~~
 box = page.select('Introduction0')
 ~~~
-# Quoting a project? Working for a pitch? Researching the scope of work? Trying to make a planning? Designing the flow of feedback? 
+# Quoting a project? Working for a pitch? Trying to make a planning? Researching the scope of testing? Designing the flow of feedback? 
 ~~~
 section = content.newSection()
 box = mainBox = section.newMain()
@@ -1425,23 +1425,23 @@ box = mainBox = section.newMain()
 <a name="Scale10"/>
 ## Make a scaled model of a Thesis^10
 
-Write a 2-page Thesis about something you would like to study, or any other topic of your choice. Include title, subtitle, images, captions, summary, literature references and footnotes.
-Sketch the layout and content in multiple scales, before anything else. Make short cycles. If you run out of time, decide on priorities. Final presentation in **3 hours**
+Write a 2-page Thesis about something you would like to study, or any other topic of your choice. Include title, subtitle, summary, images, captions, literature references and footnotes.
+Sketch the content and layout in multiple scales. Make short cycles. If you run out of time, decide on priorities. Final presentation in **3 hours**
 
 ~~~
 box = mainBox.newInfo()
 ~~~
 ### Challenge
-The challenge of this exercise is to scale the elements in a real thesis to fit the 2 pages and still make it complete. Or even better, guess what volume is needed and only make that. Draw a planning how to use the available time of 3 hours. How much time do you need for research, writing, creating the images and for making the final layout.
+The challenge of this exercise is to scale the elements of a real thesis to fit in two pages and still make it complete. Or even better, guess what volume is needed and only make that. Draw a planning how to use the available time of three hours. How much time do you need for research, writing, creating the images and for making the final layout?
 
 ### Hints
-* The most common mistake in this exercise it bad planning. Remember that the emphasis is on completeness and completion. Not on the depth of research or the volume of text.
-* Keep yourself to the hard deadline of 3 hours. You can always do the exercise again, if it fails to complete in time. Doing another cycle is more rewarding than extending the deadline.
+* The most common mistake in this exercise it bad planning. Remember that the emphasis is on completeness and completion. Not on the depth of research or the volume of the text.
+* Keep yourself to the hard deadline of three hours. You can always do the exercise again, if you fail to complete in time. Doing another cycle is more rewarding than extending the deadline.
 
-These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. 
+These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. 
  
 ### Feedback
-Ask others for feedback and think beforehand what questions you will ask. Instead of “Do you like it?”, you probably get more feedback with **What do you think the conclusion of the thesis is?**, **Is it detailed enough?** or **What would you add?**. 
+Ask others for feedback and think beforehand what questions you will ask. Instead of **Do you like it?**, you probably get more feedback with **What do you think the conclusion of the thesis is?**, **Is it detailed enough?** or **What would you add for clarity?**. 
 
 ~~~
 section = content.newSection()
@@ -1450,27 +1450,28 @@ box = mainBox = section.newMain()
 <a name="Scale20"/>
 ## Quoting a project^20
 
-Making a quote for a project is fundamentally impossible. You need to give a price and a planning, but you only know that for sure at the end of the project. Yet, that is what customers want to get at the start. 
+Making a quote for a project is fundamentally impossible. You need to give a price and a planning, but you only know them for sure at the end of the project. Yet, your customer wants to know at the start.
 
-The solution is to run the entire project in simulation mode. In your head and on paper, alone and with others. Based on experience with similar projects and activities. What needs to be done and in what order? Which parts of a project are routine and which parts are unknown black holes? 
+The solution is to run the entire project in simulation mode. In your head and on paper, alone and with others. Based on experience with similar projects and activities. What needs to be done and in what order? Which parts of a project are routine and which parts remain unknown black holes? 
 
-Find ways to validate such a simulated quote. Who can you ask for feedback? What do you expect to get as response? **1 hour**
+Find ways to validate such a simulated quote. Who can you ask for feedback? And what do you expect to get as response? **1 hour**
 
 ~~~
 box = mainBox.newInfo()
 ~~~
 ### Challenge
-The challenge of this exercise is to make a mental model of what a project could be like. Can you see yourself in meetings, sketching cycles, scrums and final presentations? Without doing them already? In what way would the sketching of timelines help? How are your sketching skills developed to visualize the entire project in 10 minutes on a single sheets of paper? 
+The challenge of this exercise is to make a mental model of what a project could be like. Can you see yourself in meetings, sketching cycles, scrums and final presentations, without doing them already? In what way would a sketch of the timeline help? How well is your sketching skill developed, to visualize the entire project in 10 minutes on a single sheet of paper? 
 
 ### Hints
-* The most common mistake is to think that quotes can only be made if all information is available. That will never happen, so you have to dig into your experience with similar projects. What happened there – good or bad – is valuable information.
-* Sketch info-graphics of the various aspects of the project, as many as you can. Learn to visualize your thoughts, so you can share them with others.
+* The most common mistake is to think that quotes can only be made if all information is available. That never happens, so you need to dig into the experience with similar projects. What happened there – good or bad – is valuable information.
+* Sketch info-graphics for the various aspects of the project, as many as you can. Which data can be expressed in graphs? Which flows can be drawn in time-lines? 
+* Learn to visualize your thoughts, so you can share them with others.
 
-These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. 
+These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. 
 
 ### Feedback
-No design process can be validating itself. There is always a purpose, even if it is deliberately left undefined.
-Ask others for feedback and think beforehand what questions you should ask. Instead of asking “Do you like it?”, you probably get more feedback with “How realistic is this quote?” and “Would you hire me? And if not, what would need to change?”. 
+Design processes cannot be validated by themselves. There is always a purpose, even if it is deliberately left undefined.
+Ask others for feedback and think beforehand what questions you would ask. Instead of **Do you like it?**, you probably get more feedback from **How realistic is this quote?** and **Would you hire me?**. And if not, **What would need to change?**. 
 
 ~~~
 section = content.newSection()
@@ -1479,29 +1480,19 @@ box = mainBox = section.newMain()
 <a name="Scale20a"/>
 ### Describe an imaginary design project^20a
 
-Break the project down into parts and estimate them separately. Remember that designers always guess too optimistic. Reality is that everything designers do, takes more time than planned. On the other hand, if you would count all the time that they **want**, you’ll never get to a competing quote. Where is the realistic balance?
+Take five minutes to select an imaginary design project. Break it down into parts and make an estimate for each one. Remember that designers always tend to guess too optimistic. Reality is that designers want to more time than planned, you would never get to a competing quote. Where is the realistic balance?
 
-Then assemble the parts back into a total estimate for the projects, still showing hours and costs for the individual parts. Try to find out how close or far-off that total is from projects by other designers. And verify with your customer, if that amount is according to the budget.
+Then assemble the parts back into a combined estimate for the project, still showing hours and costs for the individual parts. Try to find out how close or far-off that total is from projects that other designers did. And verify with a potential customer, how realistic your amount would be.
 
 **The fixed budget for this imaginary project is €2.000**
 
-What can you do for that? And would you take the risk? Iterate if your amount is too different. Experience that making a competing project estimate and planning is a design process in itself. **3 hours**
+What can you do for that amount? And would you take the risk? Iterate if your amount is too far off. Experience that making a competing project estimate and planning is a design process in itself. **3 hours**
 
 ~~~
 box = mainBox.newInfo()
 ~~~
 ### Challenge
-The challenge of this exercise is to make a mental model of what a project could be like, an more important, how parts of a project behave and interact. 
-
-### Hints
-* The most common mistake is to think that quotes can only be made if all information is available. That will never happen, so you have to dig into your experience with similar projects. What happened there – good or bad – is valuable information.
-
-These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. 
-
-### Feedback
-No design process can be validating itself. There is always a purpose, even if it is deliberately left undefined.
-Ask others for feedback and think beforehand what questions you should ask. Instead of asking “Do you like it?”, you probably get more feedback with “How realistic is the division in parts for this project?” and “What could go wrong in such a model?”. 
-
+The challenge of this exercise is to make a mental model of what a project could be like, an more importantly, how separate parts of a project behave and interact. 
 
 ~~~
 # ----------------------------------------
@@ -1521,7 +1512,7 @@ box = content.newBanner()
 ~~~
 box = content.newIntroduction()
 ~~~
-# Starting a project? Searching in a wide range of options? Digital tools are too detailed? 
+# Starting a project? Searching for options? Sorting priorities? Missing efficient digital tools? 
 ~~~
 section = content.newSection()
 box = mainBox = section.newMain()
@@ -1577,6 +1568,59 @@ These hints are by no means a boundary. But they help to focus on what the essen
 
 ### Feedback
 Think of methods to get feedback about the result. What would you like to know about it, so you can improve the next time you need to make a condensed report from a design project. 
+
+~~~
+# ----------------------------------------
+# Scales:design education
+# ----------------------------------------
+template = doc.getTemplate('home')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Design education'
+page.url = 'Scales/design_education_700.html'
+
+content = page.select('Content')
+box = content.newBanner()
+~~~
+# Scales: Design education
+
+~~~
+box = content.newIntroduction()
+~~~
+# Teaching design students? Educating customers? Planning ahead for research? Preparing a presentation? 
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale730"/>
+## Educating grids for print^730
+Write a script (DrawBot or PageBot) that generates variations of grids for print. Use them in an educational context by adding comments in the code that explain how it works. Design a method to validate the result with a group. **1 day**
+
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale731"/>
+## Educating grids for web^731
+Write a script (DrawBot or PageBot) that generates variations of grids for HTML/CSS. Use them in an educational context by adding comments in the code that explain how it works. Design a method to validate the result with a group. **1 day**
+
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale760"/>
+## Make students sketch out a timeline for their carreer^760
+
+What medium would you choose? What iterations would you go through? What would the students present at then end of the day? And how could the results be verified to some extend? Who did best of the group? **1 day** 
+
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale790"/>
+## Design a workshop about Graphic Design^790
+
+Sketch a 5-day workshop addressing the profession of Graphic Design. What skills and knowledge should students get to be a designer for the rest of their professional lives? Also design a method for feedback: how good is your workshop? **3 hours**
 
 ~~~
 # ----------------------------------------
