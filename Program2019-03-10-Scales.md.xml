@@ -1227,7 +1227,7 @@ box = mainBox = section.newMain()
 <h3>Describe an imaginary design project<sup>20a</sup></h3>
 <p>Break the project down into parts and estimate them separately. Remember that designers always guess too optimistic. Reality is that everything designers do, takes more time than planned. On the other hand, if you would count all the time that they <strong>want</strong>, you’ll never get to a competing quote. Where is the realistic balance?</p>
 <p>Then assemble the parts back into a total estimate for the projects, still showing hours and costs for the individual parts. Try to find out how close or far-off that total is from projects by other designers. And verify with your customer, if that amount is according to the budget.</p>
-<p><strong>The fixed budget for this project is €2.000</strong></p>
+<p><strong>The fixed budget for this imaginary project is €2.000</strong></p>
 <p>What can you do for that? And would you take the risk? Iterate if your amount is too different. Experience that making a competing project estimate and planning is a design process in itself. <strong>3 hours</strong></p>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
@@ -1273,7 +1273,6 @@ box = mainBox = section.newMain()
 <h3>Challenge</h3>
 <p>The challenge of this exercise is to use all pages in your sketch book. It does not really matter what the level of details is for each page. What matters is to make a constant flow, to train the fluency of expressing ideas into drawings. And then again and again. Similar to working out in sport, it is an endurance exercise.</p>
 <h3>Hints</h3>
-<p>These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. </p>
 <ul>
 <li>Skip some pages in the front of the sketchbook. You can fill in title and table-of-content there, when finished.</li>
 <li>Also add pagenumbers, small and centerend at the bottom of each page. Start uneven on a right page.</li>
@@ -1282,6 +1281,7 @@ box = mainBox = section.newMain()
 <li>Use a smaller scale, if each drawing takes too much time. Or use a thicker pencil. Concentrate on what is the most important to show.</li>
 <li>Consider the layout of the page. Plan the drawing centered, slightly above the middle of the page. For a start. Later you can experiment with the layout as part of your drawing.</li>
 </ul>
+<p>These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. </p>
 <h3>Feedback</h3>
 <p>Ask others for feedback during the process. They may return valuable information. About your sketching techniques. And about the way you transform the message into shape. <br />
 Those answers are best when asking the right questions. Instead of asking “Do you like it?”, you probably get more feedback with “What do you think is the message here?” and “Which of my pages is most clear so far?”. </p>
@@ -1292,6 +1292,20 @@ box = mainBox = section.newMain()
 <p><a name="Scale161a"/></p>
 <h3>Planning and evaluation<sup>161a</sup></h3>
 <p>First try to finish Scale-161. Then write a 2-page Thesis about the process. Did you manage to fill all pages of the sketchbook? How would you do it next time? Why do you think the three selected pages are the best? <strong>5 hours</strong></p>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
+<h3>Challenge</h3>
+<p>The focus of this exercise is to reflect on your design process, and document it in a condensed form. The challenge is to recognize that this is a design process in itself. What will the structure of the document be? Which levels of headings do you choose? Which of your sketches are the best representation of the whole process.</p>
+<h3>Hints</h3>
+<ul>
+<li>Imagine this to be a design project, separate from the precvious one, as if the content and images came from another author.</li>
+<li>Design projects are not linear by definition. Which iterations can you make to improve versions of the thesis? </li>
+<li>Make sketches and small versions of the 2 thesis pages. How much text can you accommodate?</li>
+</ul>
+<p>These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will slow it down. </p>
+<h3>Feedback</h3>
+<p>Think of methods to get feedback about the result. What would you like to know about it, so you can improve the next time you need to make a condensed report from a design project. </p>
 <pre><code># ----------------------------------------
 # Studies/2018-reviews.html
 # ----------------------------------------
