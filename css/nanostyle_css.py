@@ -182,7 +182,7 @@ h5 a:hover {
 nav.navigation {
     float: right;
     width: 60å%%;
-    padding: 0.5em 0 0 0;
+    padding: 0.75em 1em 0 0;
     z-index: 1000;
 }
 
@@ -216,11 +216,11 @@ li:hover > ul.navmenu {
 
 ul.navmenu li a {
     display: block;
-    padding: 6pt 12pt;
+    padding: 6px 12px;
     text-decoration: none;
     white-space: nowrap;
     color: #%(menu.link)s;
-    margin-right: 12px;
+    margin-right: 0px;
 }
 
 ul.navmenu li a:hover { 
