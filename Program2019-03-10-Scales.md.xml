@@ -97,7 +97,7 @@ box = section.newMain()
 <li>The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. We see it as our challenge to customize the study to what is realistic for you. And to make the result match with your daily practice.</li>
 <li>As your plans are likely to change along the way, any change to your study plan can always be discussed.</li>
 </ul>
-<p><a href="pricing.html">More about pricing here.</a></p>
+<p><a href="pricing.html">More about pricing.</a></p>
 <pre><code>box = section.newSide()
 </code></pre>
 
@@ -1259,7 +1259,7 @@ box = mainBox = section.newMain()
 
 <p><a name="Scale161"/></p>
 <h2>Sketch in volume<sup>161</sup></h2>
-<p>Buy an empty new Moleskin and a fresh black pencil. Select a event from the newspaper, research the topic and collect relevant data. Sketch an info-graphic that explains the event. One on each page. Repeat for all of the pages in your sketch book. Evaluate with others to select the best three pages. <strong>1 week</strong></p>
+<p>Buy an empty new Moleskin and a fresh black pencil. Select an event from the newspaper, research the topic and collect relevant data. Sketch an info-graphic that explains the event. One on each page. Repeat for all of the pages in your sketch book. Evaluate with others to select the best three pages. <strong>1 week</strong></p>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 

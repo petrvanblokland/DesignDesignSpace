@@ -111,7 +111,7 @@ If you tell us what you want to study by mail or in a first free online hangout,
 * The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. We see it as our challenge to customize the study to what is realistic for you. And to make the result match with your daily practice.
 * As your plans are likely to change along the way, any change to your study plan can always be discussed.
 
-[More about pricing here.](pricing.html)
+[More about pricing.](pricing.html)
 
 ~~~
 box = section.newSide()
@@ -1520,7 +1520,7 @@ box = mainBox = section.newMain()
 
 <a name="Scale161"/>
 ## Sketch in volume^161
-Buy an empty new Moleskin and a fresh black pencil. Select a event from the newspaper, research the topic and collect relevant data. Sketch an info-graphic that explains the event. One on each page. Repeat for all of the pages in your sketch book. Evaluate with others to select the best three pages. **1 week**
+Buy an empty new Moleskin and a fresh black pencil. Select an event from the newspaper, research the topic and collect relevant data. Sketch an info-graphic that explains the event. One on each page. Repeat for all of the pages in your sketch book. Evaluate with others to select the best three pages. **1 week**
 
 ~~~
 box = mainBox.newInfo()
