@@ -1593,7 +1593,7 @@ section = content.newSection()
 box = mainBox = section.newMain()
 ~~~
 <a name="Scale730"/>
-## Educating grids for print^730
+## Educating grid design for print^730
 Write a script (DrawBot or PageBot) that generates variations of grids for print. Use them in an educational context by adding comments in the code that explain how it works. Design a method to validate the result with a group. **1 day**
 
 ~~~
@@ -1601,7 +1601,7 @@ section = content.newSection()
 box = mainBox = section.newMain()
 ~~~
 <a name="Scale731"/>
-## Educating grids for web^731
+## Educating grid design for web^731
 Write a script (DrawBot or PageBot) that generates variations of grids for HTML/CSS. Use them in an educational context by adding comments in the code that explain how it works. Design a method to validate the result with a group. **1 day**
 
 ~~~

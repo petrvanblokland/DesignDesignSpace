@@ -1322,14 +1322,14 @@ box = mainBox = section.newMain()
 </code></pre>
 
 <p><a name="Scale730"/></p>
-<h2>Educating grids for print<sup>730</sup></h2>
+<h2>Educating grid design for print<sup>730</sup></h2>
 <p>Write a script (DrawBot or PageBot) that generates variations of grids for print. Use them in an educational context by adding comments in the code that explain how it works. Design a method to validate the result with a group. <strong>1 day</strong></p>
 <pre><code>section = content.newSection()
 box = mainBox = section.newMain()
 </code></pre>
 
 <p><a name="Scale731"/></p>
-<h2>Educating grids for web<sup>731</sup></h2>
+<h2>Educating grid design for web<sup>731</sup></h2>
 <p>Write a script (DrawBot or PageBot) that generates variations of grids for HTML/CSS. Use them in an educational context by adding comments in the code that explain how it works. Design a method to validate the result with a group. <strong>1 day</strong></p>
 <pre><code>section = content.newSection()
 box = mainBox = section.newMain()
