@@ -19,7 +19,7 @@ import shutil
 import webbrowser
 
 from pagebot.publications.publication import Publication
-from pagebot.constants import URL_JQUERY
+from pagebot.constants import URL_JQUERY, LANGUAGE_EN
 from pagebot.composer import Composer
 from pagebot.typesetter import Typesetter
 from pagebot.elements import *
@@ -186,6 +186,11 @@ def makeSite(styles, viewId):
     
     # Find the navigation elements and fill them, now we know all the pages.
     makeNavigation(doc)
+
+    # https://www.hyphenator.net/en/word/...
+    unknownWords = doc.spellCheck(LANGUAGE_EN)
+    if unknownWords:
+        print(unknownWords)
 
     return doc
 
