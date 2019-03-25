@@ -18,7 +18,7 @@ box = content.newBanner()
 box = content.newIntroduction()
 ~~~
 
-# Repeating tasks? Understanding how parameters works in your design? Coding your own tools? [Programming prototypes?](scales-programming_coding_400.html#Scale453) [Automating Corporate Identities?](scales-programming_coding_400.html#Scale490) Making websites?
+# Repeating tasks? Understanding how parameters works in your design? Coding your own tools? [Mapping proofs?](scales-programming_coding_400.html#Scale471) [Programming prototypes?](scales-programming_coding_400.html#Scale453) [Automating Corporate Identities?](scales-programming_coding_400.html#Scale490) Making websites?
 
 ~~~
 section = content.newSection()
@@ -81,6 +81,40 @@ box = section.newCropped()
 ~~~
 ![](code/dds453/dds453-theme-color-matrix.png)
 
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
+<a name="Scale471"/>
+## Revival of Fontographer 3.5 Key map^471 
+
+Write a program in PageBot that generates the good old Fontographer 3.5 Key map from a given font. **5 hours**
+
+~~~ 
+box = mainBox.newInfo()
+~~~
+
+### Challenge
+Take an existing publication and convert it into parameters and algorithms. In this case it is a legacy type specimen. How do you translate the key map of late eighties into a modern glyph set such as **Bungee-Regular** by David Jonathan Ross?
+
+### Resources 
+Download [DrawBot](http://www.drawbot.com) and install [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md).
+
+### Hints
+
+* Download DrawBot and install PageBot
+* Download the code, open in DrawBot and try to understand what it does. 
+* Play around with the parameters. Try to  predict what happens, before you alter a value. 
+
+<a href="code/dds471.zip">
+![](code/dds471/dds471-fontographer-35-keymap-code.png)
+*[[Click to download the code and the full specimen PDF]]*
+</a>
+
+~~~ 
+box = section.newCropped()
+~~~
+![y=center](code/dds471/export/Bungee_Regular_Fog35-KeyMap_8.png)
 
 ~~~
 section = content.newSection()

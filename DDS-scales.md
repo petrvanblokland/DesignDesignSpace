@@ -52,6 +52,7 @@ box = section.newSide()
 * [Sketching](scales-sketching_100.html)
 * [Coding](scales-programming_coding_400.html)
 * [Design education](scales-design_education_700.html)
+* [Type design](scales-type_design-1000.html)
 
 (Will be extended soon)
 
@@ -59,7 +60,6 @@ box = section.newSide()
 """
 * [Research](scales-research-200.html)
 * [Programming and coding](scales-programming-coding-400.html)
-* [Type design](scales-type-1000.html)
 * [Typography](scales-typography-1100.html)
 * [Design of identities](scales-design-identities-1300.html)
 * [Publication design](scales-design-publications-1400.html)

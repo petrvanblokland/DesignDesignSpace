@@ -12,7 +12,7 @@ page.url = 'Scales/design_education_700.html'
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# [Scales:](scales.hyml) Design education
+# [Scales:](scales.html) Design education
 
 ~~~
 box = content.newIntroduction()
