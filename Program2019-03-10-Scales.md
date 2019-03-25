@@ -1436,7 +1436,7 @@ The challenge of this exercise is to scale the elements of a real thesis to fit 
 
 ### Hints
 * The most common mistake in this exercise it bad planning. Remember that the emphasis is on completeness and completion. Not on the depth of research or the volume of the text.
-* Keep yourself to the hard deadline of three hours. You can always do the exercise again, if you fail to complete in time. Doing another cycle is more rewarding than extending the deadline.
+* Keep yourself to the hard deadline of three hours. You can always do the exercise again, if you fail to complete it in time. Doing another cycle is more rewarding than extending the deadline.
 
 These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. 
  

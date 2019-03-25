@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><pre><code># ----------------------------------------
+# studies-type_design.html
+# ----------------------------------------
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Type design'
+page.url = 'Studies/type_design.html'
+
+content = page.select('Content')
+box = content.newBanner()
+</code></pre>
+
+<h2>Study suggestions</h2>
+<h1>Type design</h1>
+<pre><code>section = content.newSection()
+box = section.newIntroduction()
+</code></pre>
+
+<h1><a href="studies-type_design.html#discover-the-basics-of-type-design">Drawing basic contrast?</a> <a href="studies-type_design.html#the-design-process-of-variable-fonts">Mastering Variable Fonts?</a> <a href="studies-type_design.html#scripting-for-type-designers">Learning to code?</a> <a href="studies-type_design.html#discover-the-basics-of-type-design">Discovering the basics of type design?</a> <a href="studies-type_design.html#improve-your-sketching-techniques">Improving your sketching techniques?</a></h1>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 x=center y=top" src="images/BK-Type-Design.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="live-coaching-of-your-design-project"/></p>
+<h2>Live coaching of your (type) design project</h2>
+<p>You have a challenging complex design project to work on. It is really interesting and rewarding, but it is also hard to get it planning and keep quality under control. Especially if the project runs over a longer period of time.<br />
+How the coaching is organized, depends on what you need, what works best. It can be a single lesson for support, during the initial stages of the project, or it can extend to helping you with management and feedback of the entire project. </p>
+<p>Part of the coaching role can also be the development of simple scripted tools to support the design process. </p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A single lesson of exercises for a whole day, <strong>€170</strong> per student</li>
+<li>A week of exercises and 3 lessons, <strong>€450</strong> per student</li>
+<li>Or with regular intervals during the duration of the project, <strong>€90</strong> per hour</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Coaching the development of scripts to support the design process.</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=top" src="images/UpgradeFeatures.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="discover-the-basics-of-type-design"/></p>
+<h2>Discover the basics of type design</h2>
+<p>Type design is not your main background, but as a designer, you often are in situation when it would be good knowing more about it. When selecting a typeface for one of your designs. Or when you need to explain it to your client. It is possible to read about it. But it’s a lot more efficient learning how to write and draw by yourself.</p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A single lesson of exercises for a whole day, <strong>€170</strong> per student</li>
+<li>A week of exercises and 3 lessons, <strong>€450</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, the process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=top" src="images/SketchingTypeDesign.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="the-design-process-of-variable-fonts"/></p>
+<h2>The design process of Variable Fonts</h2>
+<p>How do you get your design process beyond the traditional Variable Font axes of weight, width and optical size? How to make your experience grow from Multiple Master Thinking into Variable Font thinking? Develop sketching techniques. Make the production and testing of Variable Fonts work inside the cycles of your design process.</p>
+<p><img alt="w=800 y=top" src="images/NotesOndesignSpaces.png" /></p>
+<p><strong>Gerrit Noordzij Cube code by Just van Rossum</strong></p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A week of exercises and 3 lessons, <strong>€450</strong> per student</li>
+<li>A month of exercises, projects and 8 lessons, <strong>€1.700</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 x=center y=top" src="images/tpCube.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="improve-your-sketching-techniques"/></p>
+<h2>Improve your sketching techniques</h2>
+<p>Learn to improve your sketching techniques for type and typography, using Erik van Blokland’s <a href="http://www.typecooker.com">TypeCooker</a> website to generate small and complex type design assignments. Experiment with various materials, scales and level of detail. Train yourself in sketching the usage of type in publications, info-graphics and interfaces.</p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>A single lesson, <strong>€170</strong> per student</li>
+<li>A week of exercises and 3 lessons, <strong>€450</strong> per student</li>
+<li>A month of exercises, projects and 8 lessons, <strong>€1.700</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=top" src="images/TypeCooker.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="automated-proofing-and-specimens"/></p>
+<h2>Automated proofing and specimens</h2>
+<p>Learn the basics of scripting proofs and specimens for TTF, OTF and UFO. Sketching techniques for layouts. Patterns of Python code. Discover how to disassemble the design of specimens into parts that can be automated. Writing some templates that are directly useful for you. </p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>A single lesson, <strong>€170</strong> per student</li>
+<li>A week of exercises and 3 lessons, <strong>€450</strong> per student</li>
+<li>A month of exercises, projects and 8 lessons, <strong>€1.700</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=top" src="images/ATFSpecemin-Code04.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="automated-qa-for-type-designers"/></p>
+<h2>Automated QA for type designers</h2>
+<p>Learn the basics of scripting, testing the quality of TTF, OTF and UFO fonts during the design process. Develop patterns of Python code. Analysis of mistakes and errors. How to detect and possibly solve them automatically, by running your scripts.</p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>A single lesson, <strong>€170</strong> per student</li>
+<li>A week of exercises and 3 lessons, <strong>€450</strong> per student</li>
+<li>A month of exercises, projects and 8 lessons, <strong>€1.700</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=top" src="images/TCTool01.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="latin-type-design-for-non-latin-type-designers"/></p>
+<h2>Latin type design for (non-Latin) type designers</h2>
+<p>Learn the basics of Latin type. Sketching techniques. Principles of contrast. Weight and width. Relations and differences. The design process of Variable Fonts. Selection of tools. Scripting that can be automated. Models to differentiate between the best practice and arbitrary design choices.</p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A month of exercises, projects and 8 lessons, <strong>€1.700</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=top" src="images/Latin-Chinese-Metrcis.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="scripting-for-type-designers"/></p>
+<h2>Scripting for (Latin and non-Latin) type designers</h2>
+<p>Learn the basics of scripting for the editing tool that you are familiar with (RoboFont, Glyphs or FontLab). Sketching techniques. Patterns of Python code. How to disassemble a design problem into parts that can be automated. Writing some tools that are directly useful for you. Finding methods and directions for new tools, without the help of DD.S.</p>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<ul>
+<li>Initial online hangout, free of charge.</li>
+<li>A month of exercises, projects and 8 lessons, <strong>€1.700</strong> per student</li>
+<li>Daily feedback by e-mail on results for the duration of the study</li>
+<li>Document sharing and versioning through GitHub</li>
+<li>Design principles for planning, process, methods for feedback and testing criteria </li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=bottom" src="images/E-Upgrade.png" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphic_design.html">Graphic design</a></li>
+<li><a href="studies-design_spaces.html">Design spaces</a></li>
+<li><a href="studies-design_practice.html">Design practice</a></li>
+<li><a href="studies-design_education.html">Design education</a></li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=bottom" src="images/BK-Type-Design.png" /></p></document>

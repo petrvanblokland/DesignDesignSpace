@@ -55,7 +55,25 @@ theme = DDSTheme('light')
 
 SITE_NAME = 'DesignDesign.Space' # Also used as logo
 
-MD_PATH = 'Program2019-03-10-Scales.md'
+MD_PATHS = [
+    #'Program2019-03-25-Scales.md'
+    'DDS-home.md',
+    'DDS-studies.md',
+    'DDS-studies-type_design.md',
+    'DDS-studies-typography.md',
+    'DDS-studies-graphic_design.md',
+    'DDS-studies-spaces.md',
+    'DDS-studies-design_practice.md',
+    'DDS-studies-design_education.md',
+    'DDS-scales.md',
+    'DDS-scales-preparing_projects.md',
+    'DDS-scales-sketching.md',
+    'DDS-scales-programming_coding.md',
+    'DDS-scales-design_education.md',
+    'DDS-reviews.md',
+    'DDS-pricing.md',
+    'DDS-contact.md',
+]
 EXPORT_PATH = '_export/' + SITE_NAME # Export path for DO_FILE
 
 VERBOSE = False
@@ -131,7 +149,7 @@ def makeSite(styles, viewId):
     doc.theme = theme
 
     view = doc.view
-    view.resourcePaths = ('css','fonts','images','js')
+    view.resourcePaths = ('css','fonts','images', 'code', 'js')
     view.jsUrls = (
         URL_JQUERY, 
         'js/jquery.bbslider.min.js',
@@ -167,7 +185,8 @@ def makeSite(styles, viewId):
 
     # By default, the typesetter produces a single Galley with content and code blocks.    
     t = Typesetter(doc.context)
-    galley = t.typesetFile(MD_PATH)
+    for mdPath in MD_PATHS:
+        t.typesetFile(mdPath)
     
     # Create a Composer for this document, then create pages and fill content. 
     composer = Composer(doc)
@@ -175,7 +194,7 @@ def makeSite(styles, viewId):
     # The composer executes the embedded Python code blocks that indicate where content should go.
     # by the HtmlContext. Feedback by the code blocks is added to verbose and errors list
     targets = dict(doc=doc, page=page, template=template)
-    composer.compose(galley, targets=targets)
+    composer.compose(t.galley, targets=targets)
 
     if VERBOSE:
         if targets['verbose']:

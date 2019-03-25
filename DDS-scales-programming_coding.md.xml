@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><pre><code># ----------------------------------------
+# Scales:programming &amp; coding
+# ----------------------------------------
+template = doc.getTemplate('home')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Coding'
+page.url = 'Scales/programming_coding_400.html'
+
+content = page.select('Content')
+box = content.newBanner()
+</code></pre>
+
+<h1><a href="scales.html">Scales</a>: Programming &amp; Coding</h1>
+<pre><code>box = content.newIntroduction()
+</code></pre>
+
+<h1>Repeating tasks? Understanding how parameters works in your design? Coding your own tools? <a href="scales-programming_coding_400.html#Scale453">Programming prototypes?</a> <a href="scales-programming_coding_400.html#Scale490">Automating Corporate Identities?</a> Making websites?</h1>
+<pre><code>section = content.newSection()
+box = mainBox = section.newMain()
+</code></pre>
+
+<p><a name="Scale490"/></p>
+<h2>Make a recursive Sierpinski Square<sup>431</sup></h2>
+<p>Write a program in DrawBot that generates a recursive Sierpinski Square. <strong>2 hours</strong></p>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
+<h3>Challenge</h3>
+<p>The Droste Effect (Dutch origin), known in art as <strong>mise en abyme,</strong> is the effect of a picture recursively appearing within itself. Recursion is an important tool in parametric design processes. The challenge of this exercise is to get a feeling for what recursive programming is. </p>
+<h3>Hints</h3>
+<p>Take the supplied code and play around with the parameters. Try to  predict what happens, before you alter a value. </p>
+<p><a href="code/dds431.zip"><br />
+<img alt="" src="code/dds431/dds431-sierpinski-square-code.png" /><br />
+<caption>Click to download the code</caption><br />
+</a></p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="" src="code/dds431/dds431-sierpinski-square.png" /></p>
+<pre><code>section = content.newSection()
+box = mainBox = section.newMain()
+</code></pre>
+
+<p><a name="Scale453"/></p>
+<h2>Make a color matrix<sup>453</sup></h2>
+<p>Write a program in PageBot that generates pages for the standard theme palettes. Show them as translation in RGB, CMYK and spot-colors. <strong>3 hours</strong></p>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
+<h3>Challenge</h3>
+<p>In PageBot themes are containers of color palettes and their related functions. The script should write an overview of the existing theme palettes, organized in a matrix. </p>
+<h3>Resources</h3>
+<p>Download <a href="http://www.drawbot.com">DrawBot</a> and install <a href="https://github.com/PageBot/PageBot/blob/master/README.md">PageBot</a>.</p>
+<h3>Hints</h3>
+<p>Take the supplied code and play around with the parameters. Try to  predict what happens, before you alter a value. </p>
+<p><a href="code/dds453.zip"><br />
+<img alt="" src="code/dds453/dds453-theme-color-matrix-code.png" /><br />
+<caption>Click to download the code</caption><br />
+</a></p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="" src="code/dds453/dds453-theme-color-matrix.png" /></p>
+<pre><code>section = content.newSection()
+box = mainBox = section.newMain()
+</code></pre>
+
+<p><a name="Scale490"/></p>
+<h2>Make a mini Identity Generator<sup>490</sup></h2>
+<p>Write a program in DrawBot/PageBot that generates publications, where the “Corporate Identity” is defined by a set of parameters. <strong>1 day</strong></p>
+<pre><code>box = mainScale = mainBox.newInfo()
+</code></pre>
+
+<h3>Challenge</h3>
+<p>The challenge of this exercise is to design a set of consistent parameters that generates different publications with visual coherency. Some aspects of the publications – such as purpose, size and technique – may change, while they remain in the same group.</p>
+<h3>Hints</h3>
+<ul>
+<li>Take the list of most common visual parameters and divide them into two groups: which define coherency between publications and which can be divers, differentiating (e.g logo, color and typeface can be fixed, where the use of images and page size can change).</li>
+<li>Choose the parameters that can best defined in code, such as color, typeface and font size.</li>
+<li>Make sketches of what outcome you expect.</li>
+<li>Write the program in “pseudo-code” before you start coding Python.</li>
+</ul>
+<p>These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. </p>
+<h3>Feedback</h3>
+<p>Feedback on code is relatively simple. If it runs in DrawBot without errors, then that is a big first step. <br />
+Check the result to your sketches, is it what you intended as outcome?<br />
+Then ask others for feedback and think beforehand what questions you would ask. Instead of <strong>Do you like it?</strong>, you probably get more feedback from <strong>Would you recognize these pages as part of one identity?</strong>. </p>
+<hr />
+<h3>Example 490-3</h3>
+<h4>The “drawbot-snippet” version illustrating the principle of generative Corporate Identity design.</h4>
+<pre><code>box = mainScale.newInfo(infoOpen='?')
+</code></pre>
+
+<p>This example was part of the Just van Rossum-challenge to write DrawBot code snippets fitting in a single tweet. The code is a bit “smart-ass”, trying to fill as much functions as possible in the limited space, and as consequence reducing the clarity of the code. </p>
+<p>Due to the limited space of the “drawbot-snippet” the “Corporate Identity” is reduced to positioning a blue rectangle as “logo” on a relative fixed position of variable page sizes.</p>
+<p>See example 490-4 for a more extended version of the code.</p>
+<p><a href="code/dds490-3.zip"><br />
+<img alt="" src="code/dds490-3/dds490-3-corpid-code.png" /><br />
+<caption>Click to download the code</caption><br />
+</a></p>
+<pre><code>box = mainScale
+</code></pre>
+
+<hr />
+<h3>Example 490-4</h3>
+<h4>This extended version of the DDS490-3 code gives more readable comments about how it works.</h4>
+<pre><code>box = mainScale.newInfo(infoOpen='?')
+</code></pre>
+
+<p>In pseudo-programming the code reads like this:</p>
+<ul>
+<li>Fill the canvas white</li>
+<li>Define some parameters and the size of the matrix for pages.</li>
+<li>For each page position in the matrix</li>
+<li>Draw the page frame with random size</li>
+<li>Draw the logo as a colored rectangle</li>
+<li>Draw the suggestion of a text column as gray rectangle.</li>
+<li>Save as <strong>PNG</strong> document.</li>
+</ul>
+<p><a href="code/dds490-4.zip"><br />
+<img alt="" src="code/dds490-4/dds490-4-corpid-code.png" /><br />
+<caption>Click to download the code</caption><br />
+</a></p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="" src="code/dds490-4/dds490-4-corpid.svg" /></p>
+<pre><code>box = section.newMain()
+</code></pre>
+
+<p><a name="Scale490"/></p>
+<h2>Make a mini Identity Generator for web pages<sup>491</sup></h2>
+<p>Write a program in PageBot that generates web publications, where the “Corporate Identity” is defined by a set of parameters. This code can generate the HTML/CSS/JS, using build-in PageBot classes. <strong>2 days</strong></p>
+<pre><code>box = section.newSide()
+</code></pre></document>
