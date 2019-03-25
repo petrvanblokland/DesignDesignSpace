@@ -12,7 +12,7 @@ page.url = 'Scales/sketching_100.html'
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# Scales: Sketching
+# [Scales:](scales.html) Sketching
 
 ~~~
 box = content.newIntroduction()
