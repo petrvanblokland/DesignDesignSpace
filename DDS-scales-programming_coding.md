@@ -83,7 +83,7 @@ The challenge making such an “impossible” semi-3D drawing, is that the paths
 ~~~ 
 box = section.newCropped()
 ~~~
-![](code/dds432/SierpinskyTriangle33.png)
+![y=center](code/dds432/SierpinskyTriangle33.png)
 
 ~~~
 section = content.newSection()
