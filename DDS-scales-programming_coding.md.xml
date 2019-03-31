@@ -67,7 +67,7 @@ box = mainBox = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="y=center h=1000" src="code/dds432/SierpinskyTriangle33.svg" /></p>
+<p><img alt="" src="code/dds432/SierpinskyTriangle33.svg" /></p>
 <pre><code>section = content.newSection()
 box = mainBox = section.newMain()
 </code></pre>
