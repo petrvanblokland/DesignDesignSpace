@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><pre><code># ----------------------------------------
+# Scales:preparing projects
+# ----------------------------------------
+template = doc.getTemplate('home')
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Preparing projects'
+page.url = 'Scales/preparing_projects_0.html'
+
+content = page.select('Content')
+box = content.newBanner()
+</code></pre>
+
+<h1><a href="scales.html">Scales:</a> Preparing projects</h1>
+<pre><code>box = content.newIntroduction()
+</code></pre>
+
+<h1><a href="scales-preparing_projects_0.html#Scale20">Quoting a project?</a> Working for a pitch? Trying to make a planning? Researching the scope of testing? Designing the flow of feedback?</h1>
+<pre><code>section = content.newSection()
+box = mainBox = section.newMain()
+</code></pre>
+
+<p><a name="Scale10"/></p>
+<h2>Make a scaled model of a Thesis<sup>10</sup></h2>
+<p>Write a 2-page Thesis about something you would like to study, or any other topic of your choice. Include title, subtitle, summary, images, captions, literature references and footnotes.<br />
+Sketch the content and layout in multiple scales. Make short cycles. If you run out of time, decide on priorities. Final presentation in <strong>3 hours</strong></p>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
+<h3>Challenge</h3>
+<p>The challenge of this exercise is to scale the elements of a real thesis to fit in two pages and still make it complete. Or even better, guess what volume is needed and only make that. Draw a planning how to use the available time of three hours. How much time do you need for research, writing, creating the images and for making the final layout?</p>
+<h3>Hints</h3>
+<ul>
+<li>The most common mistake in this exercise it bad planning. Remember that the emphasis is on completeness and completion. Not on the depth of research or the volume of the text.</li>
+<li>Keep yourself to the hard deadline of three hours. You can always do the exercise again, if you fail to complete it in time. Doing another cycle is more rewarding than extending the deadline.</li>
+</ul>
+<p>These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. </p>
+<h3>Feedback</h3>
+<p>Ask others for feedback and think beforehand what questions you will ask. Instead of <strong>Do you like it?</strong>, you probably get more feedback with <strong>What do you think the conclusion of the thesis is?</strong>, <strong>Is it detailed enough?</strong> or <strong>What would you add for clarity?</strong>. </p>
+<pre><code>section = content.newSection()
+box = mainBox = section.newMain()
+</code></pre>
+
+<p><a name="Scale20"/></p>
+<h2>Quoting a project<sup>20</sup></h2>
+<p>Making a quote for a project is fundamentally impossible. You need to give a price and a planning, but you only know them for sure at the end of the project. Yet, your customer wants to know at the start.</p>
+<p>The solution is to run the entire project in simulation mode. In your head and on paper, alone and with others. Based on experience with similar projects and activities. What needs to be done and in what order? Which parts of a project are routine and which parts remain unknown black holes? </p>
+<p>Find ways to validate such a simulated quote. Who can you ask for feedback? And what do you expect to get as response? <strong>1 hour</strong></p>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
+<h3>Challenge</h3>
+<p>The challenge of this exercise is to make a mental model of what a project could be like. Can you see yourself in meetings, sketching cycles, scrums and final presentations, without doing them already? In what way would a sketch of the timeline help? How well is your sketching skill developed, to visualize the entire project in 10 minutes on a single sheet of paper? </p>
+<h3>Hints</h3>
+<ul>
+<li>The most common mistake is to think that quotes can only be made if all information is available. That never happens, so you need to dig into the experience with similar projects. What happened there – good or bad – is valuable information.</li>
+<li>Sketch info-graphics for the various aspects of the project, as many as you can. Which data can be expressed in graphs? Which flows can be drawn in time-lines? </li>
+<li>Learn to visualize your thoughts, so you can share them with others.</li>
+</ul>
+<p>These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. </p>
+<h3>Feedback</h3>
+<p>Design processes cannot be validated by themselves. There is always a purpose, even if it is deliberately left undefined.<br />
+Ask others for feedback and think beforehand what questions you would ask. Instead of <strong>Do you like it?</strong>, you probably get more feedback from <strong>How realistic is this quote?</strong> and <strong>Would you hire me?</strong>. And if not, <strong>What would need to change?</strong>. </p>
+<pre><code>section = content.newSection()
+box = mainBox = section.newMain()
+</code></pre>
+
+<p><a name="Scale20a"/></p>
+<h3>Describe an imaginary design project<sup>20a</sup></h3>
+<p>Take five minutes to select an imaginary design project. Break it down into parts and make an estimate for each one. Remember that designers always tend to guess too optimistic. Reality is that designers want to more time than planned, you would never get to a competing quote. Where is the realistic balance?</p>
+<p>Then assemble the parts back into a combined estimate for the project, still showing hours and costs for the individual parts. Try to find out how close or far-off that total is from projects that other designers did. And verify with a potential customer, how realistic your amount would be.</p>
+<p><strong>The fixed budget for this imaginary project is €2.000</strong></p>
+<p>What can you do for that amount? And would you take the risk? Iterate if your amount is too far off. Experience that making a competing project estimate and planning is a design process in itself. <strong>3 hours</strong></p>
+<pre><code>box = mainBox.newInfo()
+</code></pre>
+
+<h3>Challenge</h3>
+<p>The challenge of this exercise is to make a mental model of what a project could be like, an more importantly, how separate parts of a project behave and interact. </p></document>

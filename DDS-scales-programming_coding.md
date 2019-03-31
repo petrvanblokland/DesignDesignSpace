@@ -18,16 +18,16 @@ box = content.newBanner()
 box = content.newIntroduction()
 ~~~
 
-# Repeating tasks? Understanding how parameters works in your design? Coding your own tools? [Mapping proofs?](scales-programming_coding_400.html#Scale471) [Programming prototypes?](scales-programming_coding_400.html#Scale453) [Automating Corporate Identities?](scales-programming_coding_400.html#Scale490) Making websites?
+# Repeating tasks? Understanding how parameters works in your design? Coding your own tools? [Mapping proofs?](scales-programming_coding_400.html#Scale471) [Programming prototypes?](scales-programming_coding_400.html#Scale453) [Automating Corporate Identities?](scales-programming_coding_400.html#Scale490) [Understanding recursive coding?](scales-programming_coding_400.html#Scale432) Making websites?
 
 ~~~
 section = content.newSection()
 box = mainBox = section.newMain()
 ~~~
-<a name="Scale490"/>
+<a name="Scale431"/>
 ## Make a recursive Sierpinski Square^431 
 
-Write a program in DrawBot that generates a recursive Sierpinski Square. **2 hours**
+Write a program in **DrawBotApp** that generates a recursive Sierpinski Square. **2 hours**
 
 ~~~ 
 box = mainBox.newInfo()
@@ -53,6 +53,42 @@ box = section.newCropped()
 section = content.newSection()
 box = mainBox = section.newMain()
 ~~~
+<a name="Scale432"/>
+## Make a recursive Sierpinski Triangle^432 
+
+Write a program in **DrawBotApp** that generates a recursive Sierpinski Triangle with “Penrose” connections (thanks to a Tweet by @rudytheelder and @davelab6). **2 hours**
+
+~~~ 
+box = mainBox.newInfo()
+~~~
+
+### Challenge
+The Droste Effect (Dutch origin), known in art as **mise en abyme,** is the effect of a picture recursively appearing within itself. Recursion is an important tool in parametric design processes. The challenge of this exercise is to get a feeling for what recursive programming is. 
+
+The challenge making such an “impossible” semi-3D drawing, is that the paths of the cubes need to be sorted independent from the 3D position of the cubes.
+
+### Hints
+
+* Take the supplied code and play around with the parameters. Try to  predict what happens, before you alter a value. 
+* Start a new **DrawBotApp** document, and retype the supplied code, while adding comments about what you understand that the code is doing.
+* Verify the result with others, who did the same thing. How much of the comments is similar?
+
+<a href="code/dds432.zip">
+![](code/dds432/dds432-drawbot-sierpinski-triangle-code.png)
+*[[Click to download the code]]*
+</a>
+![](code/dds432/SierpinskyTriangle17.svg)
+*[[Play with the script parameters to make other sizes and recursive levels.]]*
+
+~~~ 
+box = section.newCropped()
+~~~
+![y=center h=1000](code/dds432/SierpinskyTriangle33.svg)
+
+~~~
+section = content.newSection()
+box = mainBox = section.newMain()
+~~~
 <a name="Scale453"/>
 ## Make a color matrix^453 
 
@@ -66,7 +102,7 @@ box = mainBox.newInfo()
 In PageBot themes are containers of color palettes and their related functions. The script should write an overview of the existing theme palettes, organized in a matrix. 
 
 ### Resources 
-Download [DrawBot](http://www.drawbot.com) and install [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md).
+Download [DrawBotApp](http://www.drawbot.com) and install [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md).
 
 ### Hints
 Take the supplied code and play around with the parameters. Try to  predict what happens, before you alter a value. 
@@ -98,12 +134,11 @@ box = mainBox.newInfo()
 Take an existing publication and convert it into parameters and algorithms. In this case it is a legacy type specimen. How do you translate the key map of late eighties into a modern glyph set such as **Bungee-Regular** by David Jonathan Ross?
 
 ### Resources 
-Download [DrawBot](http://www.drawbot.com) and install [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md).
+Download [DrawBotApp](http://www.drawbot.com) and install [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md).
 
 ### Hints
 
-* Download DrawBot and install PageBot
-* Download the code, open in DrawBot and try to understand what it does. 
+* Download the code, open in DrawBotApp and try to understand what it does. 
 * Play around with the parameters. Try to  predict what happens, before you alter a value. 
 
 <a href="code/dds471.zip">
@@ -123,7 +158,7 @@ box = mainBox = section.newMain()
 <a name="Scale490"/>
 ## Make a mini Identity Generator^490 
 
-Write a program in DrawBot/PageBot that generates publications, where the “Corporate Identity” is defined by a set of parameters. **1 day**
+Write a program in DrawBotApp/PageBot that generates publications, where the “Corporate Identity” is defined by a set of parameters. **1 day**
 
 ~~~
 box = mainScale = mainBox.newInfo()
@@ -140,7 +175,7 @@ The challenge of this exercise is to design a set of consistent parameters that 
 These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. 
 
 ### Feedback
-Feedback on code is relatively simple. If it runs in DrawBot without errors, then that is a big first step. 
+Feedback on code is relatively simple. If it runs in **DrawBotApp** without errors, then that is a big first step. 
 Check the result to your sketches, is it what you intended as outcome?
 Then ask others for feedback and think beforehand what questions you would ask. Instead of **Do you like it?**, you probably get more feedback from **Would you recognize these pages as part of one identity?**. 
 

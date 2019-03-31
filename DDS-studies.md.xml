@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><pre><code># ----------------------------------------
+# Studies/2019-studies.html
+# ----------------------------------------
+page = page.next
+page.applyTemplate(template)  
+page.name = 'Studies'
+page.url = 'studies.html'
+
+content = page.select('Content')
+box = content.newBanner()
+</code></pre>
+
+<h1>Examine the 2019 study suggestions</h1>
+<pre><code>box = content.newIntroduction()
+</code></pre>
+
+<h1><a href="studies-design_practice.html#design-of-design-models">Redesigning your current design process?</a> <a href="studies-design_practice.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> <a href="studies-design_spaces.html#design-a-workspace">Redoing your interior?</a> <a href="studies-design_practice.html#how-to-deal-with-clients">How to educate customers?</a> <a href="studies-design_education.html#virtual-studies-and-teaching-online">Directions for further design education?</a></h1>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<h2>Studies in 2019</h2>
+<p>We keep improving the curriculum. The mandatory design of design education. Instead of the fixed <a href="2018-program.html">2018</a> list of workshops, studies and dates, in practice, we found out that it is better to make the schedule entirely flexible. Hints of topics, templates of studies and suggestions for the process behind.</p>
+<hr />
+<h2>Pricing</h2>
+<p>Each lesson is an online hangout, lasting for a part of the day, morning or afternoon, depending on your timezone. The pricing is based on the length and intensity of a study. </p>
+<p>If a study is spread over a longer period time, intensity can be lower for the same price. However, such a schema requires more self-discipline from students to take full advantage of their study and the support we can offer them.</p>
+<p><a href="pricing.html">See more about pricing here.</a></p>
+<hr />
+<h2>Other study suggestions</h2>
+<ul>
+<li><a href="studies-type_design.html">Type design</a></li>
+<li><a href="studies-typography.html">Typography</a></li>
+<li><a href="studies-graphic_design.html">Graphic design</a></li>
+<li><a href="studies-design_spaces.html">Design spaces</a></li>
+<li><a href="studies-design_practice.html">Design practice</a></li>
+<li><a href="studies-design_education.html">Design education</a></li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="w=800 y=top" src="images/BK-Models-Design.png" /></p></document>
