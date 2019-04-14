@@ -16,24 +16,14 @@ box = content.newBanner()
 <pre><code>box = content.newIntroduction()
 </code></pre>
 
-<<<<<<< HEAD
-<h1>Repeating tasks? Understanding how parameters works in your design? Coding your own tools? <a href="scales-programming_coding_400.html#Scale471">Mapping proofs?</a> <a href="scales-programming_coding_400.html#Scale453">Programming prototypes?</a> <a href="scales-programming_coding_400.html#Scale490">Automating Corporate Identities?</a> Making websites?</h1>
-=======
 <h1>Repeating tasks? Understanding how parameters works in your design? Coding your own tools? <a href="scales-programming_coding_400.html#Scale471">Mapping proofs?</a> <a href="scales-programming_coding_400.html#Scale453">Programming prototypes?</a> <a href="scales-programming_coding_400.html#Scale490">Automating Corporate Identities?</a> <a href="scales-programming_coding_400.html#Scale432">Understanding recursive coding?</a> Making websites?</h1>
->>>>>>> d24c5b6e3f9e4933b04824cb50c6a29115238c4b
 <pre><code>section = content.newSection()
 box = mainBox = section.newMain()
 </code></pre>
 
-<<<<<<< HEAD
-<p><a name="Scale490"/></p>
-<h2>Make a recursive Sierpinski Square<sup>431</sup></h2>
-<p>Write a program in DrawBot that generates a recursive Sierpinski Square. <strong>2 hours</strong></p>
-=======
 <p><a name="Scale431"/></p>
 <h2>Make a recursive Sierpinski Square<sup>431</sup></h2>
 <p>Write a program in <strong>DrawBotApp</strong> that generates a recursive Sierpinski Square. <strong>2 hours</strong></p>
->>>>>>> d24c5b6e3f9e4933b04824cb50c6a29115238c4b
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
@@ -53,8 +43,6 @@ box = mainBox = section.newMain()
 box = mainBox = section.newMain()
 </code></pre>
 
-<<<<<<< HEAD
-=======
 <p><a name="Scale432"/></p>
 <h2>Make a recursive Sierpinski Triangle<sup>432</sup></h2>
 <p>Write a program in <strong>DrawBotApp</strong> that generates a recursive Sierpinski Triangle with “Penrose” connections (thanks to a Tweet by @rudytheelder and @davelab6). <strong>2 hours</strong></p>
@@ -84,7 +72,6 @@ box = mainBox = section.newMain()
 box = mainBox = section.newMain()
 </code></pre>
 
->>>>>>> d24c5b6e3f9e4933b04824cb50c6a29115238c4b
 <p><a name="Scale453"/></p>
 <h2>Make a color matrix<sup>453</sup></h2>
 <p>Write a program in PageBot that generates pages for the standard theme palettes. Show them as translation in RGB, CMYK and spot-colors. <strong>3 hours</strong></p>
@@ -94,11 +81,7 @@ box = mainBox = section.newMain()
 <h3>Challenge</h3>
 <p>In PageBot themes are containers of color palettes and their related functions. The script should write an overview of the existing theme palettes, organized in a matrix. </p>
 <h3>Resources</h3>
-<<<<<<< HEAD
-<p>Download <a href="http://www.drawbot.com">DrawBot</a> and install <a href="https://github.com/PageBot/PageBot/blob/master/README.md">PageBot</a>.</p>
-=======
 <p>Download <a href="http://www.drawbot.com">DrawBotApp</a> and install <a href="https://github.com/PageBot/PageBot/blob/master/README.md">PageBot</a>.</p>
->>>>>>> d24c5b6e3f9e4933b04824cb50c6a29115238c4b
 <h3>Hints</h3>
 <p>Take the supplied code and play around with the parameters. Try to  predict what happens, before you alter a value. </p>
 <p><a href="code/dds453.zip"><br />
@@ -122,18 +105,10 @@ box = mainBox = section.newMain()
 <h3>Challenge</h3>
 <p>Take an existing publication and convert it into parameters and algorithms. In this case it is a legacy type specimen. How do you translate the key map of late eighties into a modern glyph set such as <strong>Bungee-Regular</strong> by David Jonathan Ross?</p>
 <h3>Resources</h3>
-<<<<<<< HEAD
-<p>Download <a href="http://www.drawbot.com">DrawBot</a> and install <a href="https://github.com/PageBot/PageBot/blob/master/README.md">PageBot</a>.</p>
-<h3>Hints</h3>
-<ul>
-<li>Download DrawBot and install PageBot</li>
-<li>Download the code, open in DrawBot and try to understand what it does. </li>
-=======
 <p>Download <a href="http://www.drawbot.com">DrawBotApp</a> and install <a href="https://github.com/PageBot/PageBot/blob/master/README.md">PageBot</a>.</p>
 <h3>Hints</h3>
 <ul>
 <li>Download the code, open in DrawBotApp and try to understand what it does. </li>
->>>>>>> d24c5b6e3f9e4933b04824cb50c6a29115238c4b
 <li>Play around with the parameters. Try to  predict what happens, before you alter a value. </li>
 </ul>
 <p><a href="code/dds471.zip"><br />
@@ -150,11 +125,7 @@ box = mainBox = section.newMain()
 
 <p><a name="Scale490"/></p>
 <h2>Make a mini Identity Generator<sup>490</sup></h2>
-<<<<<<< HEAD
-<p>Write a program in DrawBot/PageBot that generates publications, where the “Corporate Identity” is defined by a set of parameters. <strong>1 day</strong></p>
-=======
 <p>Write a program in DrawBotApp/PageBot that generates publications, where the “Corporate Identity” is defined by a set of parameters. <strong>1 day</strong></p>
->>>>>>> d24c5b6e3f9e4933b04824cb50c6a29115238c4b
 <pre><code>box = mainScale = mainBox.newInfo()
 </code></pre>
 
@@ -169,11 +140,7 @@ box = mainBox = section.newMain()
 </ul>
 <p>These hints are by no means a boundary. But they help to focus on what the essential parts of this exercise are. Too many unknowns in the process will confuse. </p>
 <h3>Feedback</h3>
-<<<<<<< HEAD
-<p>Feedback on code is relatively simple. If it runs in DrawBot without errors, then that is a big first step. <br />
-=======
 <p>Feedback on code is relatively simple. If it runs in <strong>DrawBotApp</strong> without errors, then that is a big first step. <br />
->>>>>>> d24c5b6e3f9e4933b04824cb50c6a29115238c4b
 Check the result to your sketches, is it what you intended as outcome?<br />
 Then ask others for feedback and think beforehand what questions you would ask. Instead of <strong>Do you like it?</strong>, you probably get more feedback from <strong>Would you recognize these pages as part of one identity?</strong>. </p>
 <hr />
