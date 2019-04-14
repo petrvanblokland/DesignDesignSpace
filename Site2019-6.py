@@ -149,8 +149,8 @@ def makeSite(styles, viewId):
     doc.theme = theme
 
     view = doc.view
-    view.googleAdsAccount = '579-058-0554'
-    view.googleAnalyticsId = 'UA-7015465-2'
+    view.googleAdsAccount = '579-058-0554' 
+    view.googleAnalyticsId = 'UA-138308355-1' #'UA-7015465-2' 
     view.resourcePaths = ('css','fonts','images', 'code', 'js')
     view.jsUrls = (
         URL_JQUERY, 
