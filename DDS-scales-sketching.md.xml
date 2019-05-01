@@ -24,6 +24,7 @@ box = mainBox = section.newMain()
 <p><a name="Scale161"/></p>
 <h2>Sketch in volume<sup>161</sup></h2>
 <p>Buy an empty new Moleskin and a fresh black pencil. Select an event from the newspaper, research the topic and collect relevant data. Sketch an info-graphic that explains the event. One on each page. Repeat for all of the pages in your sketch book. Evaluate with others to select the best three pages. <strong>1 week</strong></p>
+<p><img alt="" src="images/IMG_0752.jpg" /></p>
 <pre><code>box = mainBox.newInfo()
 </code></pre>
 
