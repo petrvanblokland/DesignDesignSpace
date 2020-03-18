@@ -220,6 +220,18 @@ Exercise [Scale-260](#260) as start. Decide what aspects of the design could be 
 ## Grids^274
 See also [Scale-730](scales-design-education-700.html#730) and [Scale-730](scales-design-education-700.html#731) and relate the result to the use of grids in history. Write a 5-page Thesis with the result. Make multiple short cycles. Design a method for feedback by others. **5 days**
 
+# Scales: Practice
+
+## Starting a design studio
+### asking question and sketching directions.
+
+Ask a colleague-friend to sketch the visual identity of your new design studio, spending not more than 2 hours. Agree on a way to pay back later.
+What is your briefing?
+How does it feel to be on the seat of the seat?
+Do you dare not to make sketches yourself?
+Develop a method to discuss the result with your friend. How would you continue with the project from there?
+Find a way to get feedback from others. What questions do you aks. What answers do you expect from them?
+
 ~~~
 # ----------------------------------------
 # Scales/programming-coding.html
