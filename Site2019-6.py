@@ -24,7 +24,7 @@ from pagebot.composer import Composer
 from pagebot.typesetter import Typesetter
 from pagebot.elements import *
 from pagebot.conditions import *
-from pagebot.toolbox.color import color, whiteColor, blackColor, spot
+from pagebot.toolbox.color import color, whiteColor, blackColor, spotColor
 from pagebot.toolbox.units import em, pt
 from pagebot.elements.web.nanosite.siteelements import *
 
@@ -41,7 +41,7 @@ from pagebot.themes import *
 #   WordlyWise
 #   HappyHolidays
 
-DDS_LOGO = spot(165)
+DDS_LOGO = spotColor(165)
 
 class DDSTheme(BaseTheme):
     NAME = 'DesignDesign.Space'
@@ -82,7 +82,7 @@ DO_PDF = 'Pdf' # Save as PDF representation of the site.
 DO_FILE = 'File' # Generate website output in _export/SimpleSite and open browser on file index.html
 DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and open a localhost
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
-EXPORT_TYPE = DO_MAMP
+EXPORT_TYPES = [DO_MAMP, DO_GIT]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 
@@ -144,7 +144,7 @@ def makeTemplate(doc):
 
 def makeSite(styles, viewId):
     site = Site(styles=styles)
-    doc = site.newDocument(viewId=viewId, autoPages=1, defaultImageWidth=MAX_IMAGE_WIDTH)
+    doc = site.newDocument(name='DDS_Site', viewId=viewId, autoPages=1, defaultImageWidth=MAX_IMAGE_WIDTH)
     
     doc.theme = theme
 
@@ -215,18 +215,18 @@ def makeSite(styles, viewId):
 
     return doc
 
-if EXPORT_TYPE == DO_PDF: # PDF representation of the site
+if DO_PDF in EXPORT_TYPES: # PDF representation of the site
     doc = makeSite(styles=styles, viewId='Page')
     doc.solve() # Solve all layout and float conditions for pages and elements.
     doc.export(EXPORT_PATH + '.pdf')
 
-elif EXPORT_TYPE == DO_FILE:
+if DO_FILE in EXPORT_TYPES:
     doc = makeSite(styles=styles, viewId='Site')
     doc.export(EXPORT_PATH)
     openingPage = 'program-2019.html'
     os.system(u'/usr/bin/open "%s/%s"' % (EXPORT_PATH, openingPage))
 
-elif EXPORT_TYPE == DO_MAMP:
+if DO_MAMP in EXPORT_TYPES:
     # Internal CSS file may be switched off for development.
     doc = makeSite(styles=styles, viewId='Mamp')
     mampView = doc.view
@@ -245,7 +245,7 @@ elif EXPORT_TYPE == DO_MAMP:
         #t.doc.export('_export/%s.pdf' % NAME, multiPages=True)
         os.system(u'/usr/bin/open "%s"' % mampView.getUrl(SITE_NAME))
 
-elif EXPORT_TYPE == DO_GIT: # Not supported for SimpleSite, only one per repository?
+if DO_GIT in EXPORT_TYPES: # Not supported for SimpleSite, only one per repository?
     # Make sure outside always has the right generated CSS
     doc = makeSite(styles=styles, viewId='Git')
     gitView = doc.view
@@ -265,6 +265,8 @@ elif EXPORT_TYPE == DO_GIT: # Not supported for SimpleSite, only one per reposit
         os.system('/usr/bin/git push')
         #os.system(u'/usr/bin/open "%s"' % gitView.getUrl(DOMAIN))
 
-else: # No output view defined
-    print('Set EXPORTTYPE to DO_FILE or DO_MAMP or DO_GIT')
+#else: # No output view defined
+#    print('Set EXPORTTYPE to DO_FILE or DO_MAMP or DO_GIT')
+
+print('Done')
 

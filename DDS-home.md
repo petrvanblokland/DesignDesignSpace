@@ -34,7 +34,7 @@ page.url = 'index.html'
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# Which studies can we offer you in 2019?
+# Which studies can we offer you in 2020?
 ~~~
 from pagebot.constants import *
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
@@ -44,39 +44,37 @@ box = slideshow.slides
 ![Color squares w=800 y=top x=center](images/PepperTomColorSquares.png)
 ![White painted grid w=800 y=top x=center](images/IMG_1107.jpg)
 ![Sketched letters w=800 y=center](images/IMG_2848.jpg)
-![Pattern of beans w=800 y=top](images/IMG_1701.jpg)
-![S in light w=800 y=top x=center](images/IMG_2535.jpg)
+![Blue Orange cloth w=800 y=top x=center](images/IMG_3145.jpg)
 ![G-Cube variables w=800 y=center x=center](images/GN-Cube-Variable-e.png)
 ![Sketched toys w=800 y=top x=center](images/IMG_4905.jpg)
-![Info-graphics w=800 y=top x=center](images/IMG_3145.jpg)
-![Green structure w=800 y=center x=center](images/IMG_5840.jpg)
-![Sand and rocks w=800 y=center x=center](images/IMG_7616.jpg)
 ![Collage Blue and pear w=800 y=top x=center](images/IMG_8677.jpg)
 ![Theme colors w=800 y=top x=center](images/ThemeColorsByDocument_5.png)
+![Sketching details w=800 y=top x=center](images/DesignModels2.038.png)
 ![Shells on green wood w=800 y=top x=center](images/IMG_0752.jpg)
 ![Model interior w=800 y=center x=left](images/IMG_E8927.jpg)
-![Painting and rocks w=800 y=bottom x=center](images/IMG_5333.jpg)
+![Affiche Rituelen w=800 y=bottom x=center](images/affiche_rituelen.png)
 ![Triangle pattern w=800 y=bottom x=center](images/IMG_1447.jpg)
-![Red bars w=800 y=center x=center](images/IMG_5469.jpg)
 ![Corner write-black-green w=800 y=top x=center](images/IMG_6994.jpg)
+![Den Bosch letter door w=800 y=top x=center](images/IMG_6129.jpg)
 ![Interior sketch w=800 y=top x=center](images/IMG_E8874.jpg)
 
 ~~~ 
 box = slideshow.side
 ~~~
-### Example studies
 
-## Develop your process.<br/>Expand your skills.
+### Develop your process. Expand your skills.
 
-Design studies come in many different forms. There is never a single solution. It is the role of designers: search and select. Which type of study fits you best? What kind of topic, medium or intensity appeals to your way of learning? Let us know, we might have some challenging exercises for you.
+## Temporary free workshops
 
-# [Contact us](mailto:info@designdesign.space?subject=DesignDesign.Space%20Study%20Information)
+In Corona-world, life changed. Working and studying from home is for many the new reality. To distract yourself a bit from this new parallel universe, the question is: **What to do?** DesignDesign.Space offers you a series of **free workshops** in the upcoming months. Check them out.
+
+# [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
 ~~~
 box = content.newIntroduction()
 ~~~
 
-# [Discovering the basics of type design?](studies-type_design.html#discover-the-basics-of-type-design) [Improving your sketching techniques?](studies-design_practice.html#sketching-techniques) [Starting a studio?](studies-design_practice.html#live-coaching-while-starting-your-studio) [Programming pages?](studies-graphic_design.html#scripting-the-design-of-printed-publications) [Learning to code type specimens?](studies-type_design.html#automated-proofing-and-specimens) [Mastering typography?](studies-graphic_design.html#scripting-the-design-of-printed-publications) So are we.
+# Working from home? Studying online in Corona-world? DesignDesign.Space offers a series of free workshops. Check the dates and topics. Subscribe by [e-mail](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop). First come, first served.
 
 ~~~ 
 #box = section.newCropped()
@@ -88,48 +86,125 @@ box = content.newIntroduction()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## It all happens in DesignDesign.Space studies
+### Wednesday hangouts 19:00–22:00 Central European Time
+
+~~~
+box = section.newCropped()
+~~~
+![w=800 y=top](images/BK-Studio-Design.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## Coding designs in DrawBot 25/3 1/4 8/4
+
+* Start with one of your designs, or another favourite publication.
+* Analyze the existing layout and prepare measurements to be coded.
+* Learn to write the program that generates a similar PDF document.
+* Design methods to generalize your code for other publications.
+* Use the coding in your daily sketching process.
+
+The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
+
+~~~
+box = section.newCropped()
+~~~
+![w=800 y=top](images/BK-Studio-Design.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## What does your design space look like? 15/4 22/4 29/4
+
+* Take your current workspace as start to analyse.
+* Learn to look at the space with different eyes.
+* What do you want to keep? And what could be improved?
+* Develop sketching techniques to design your environment.
+
+The workshop assumes no experience with 3D design.
+
+
+~~~
+box = section.newCropped()
+~~~
+![Model interior w=800 y=center x=left](images/IMG_E8927.jpg)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## Type design crits 6/5 13/5 20/5
+
+* Start with one of your type designs that is under development. Or take one of your favourite existing typefaces.
+* We ask questions, you do the work, getting valuable feedback and directions.
+* Develop some proofing tools, using DrawBot Python.
+
+The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
+
+~~~
+box = section.newCropped()
+~~~
+![w=800 y=top](images/BK-Studio-Design.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## Coding typography in Python and CSS 27/5 3/6 10/6
+
+* The workshop dives into the most important parameters the make good typography. 
+* Learn about the differenve between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
+* Investigate methods to connect this knowledge with your daily design practice.
+
+~~~
+box = section.newCropped()
+~~~
+![w=800 y=top](images/BK-Studio-Design.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## Simple sketching techniques 17/6 24/6 1/7
+
+* What is your design process like, before you open InDesign or a font editor?
+* We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
+* Learn to appreciate short design cycles and mixed techniques.
+
+~~~
+box = section.newCropped()
+~~~
+![w=800 y=top](images/BK-Studio-Design.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## How free workshops work: some rules
+
+* Subscribe for a workshop of your choice, by sending an e-mail to [info@designdesign.space](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
+* Describe your daily profession and how that relates to the topic of the workshop. Add some samples of your work.
+* Workshop are limited to maximal 10 students. First come, first served. 
+* Using some small assignments, we challenge you to sketch, think, design and give feedback to others.
+* Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.
+* We create an online platform, accessable for all students of the workshop, to share work, questions, comments and documents.
+* You are kindly requested to join from start to end, not occupying the space for another designer.
+* DesignDesign.Space would appreciate to publish some of your work on this website.
+
+---
+## Why we offer this
+
+We are educators and we are designers, too. That means, we are curious how others design their design processes. We are open for suggestions about the workshops and about how you perceive the way we teach. For us, educating other designers is as much of a challenge as any design process.
+
+[Send us your request](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop) for topics that we never thought about. Or ideas about how the workshops can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.
 
 If you tell us what you want to study by mail or in a first free online hangout, we are happy to make suggestions. What would you like to achieve? Seeking a sparring partner for an interesting new design project? Improving your latent skills, while training your self-discipline? Or simply needing a refreshing break from your normal design practice? 
 
 ---
-## DesignDesign.Space as your coach
 
-**DesignDesign.Space** can help you to answer these questions and to achieve your goals. Coaching you through your study, the teachers can ask the toughest questions. They are also available to help you answering them: If you are happy with the design you have finished, what exactly are you happy with? How does that fit the expectations of the user? And how would you get there next time?
-
----
-## What is your design space?
-
-**DesignDesign.Space** offers a wide variety of study topics: ranging from graphic design to type design, typography, programming, identities, 3D and education.
-
----
-## How studies work
-
-* In a first free hangout, we will talk about what you want to achieve.
-* Together, we will find a way for you to get there. Topics & Tools. By painting, drawing, sketching or by coding. Or by a combination of all.
-* In sequences of relative short assignments, online hangouts, personal feedback and reflections, we explore the paths of your study project. And more importantly, we’ll teach you how to do that yourself.
-* The journey can take a day. Or a week. A month. A year. Whichever fits your goals, time and resources. We see it as our challenge to customize the study to what is realistic for you. And to make the result match with your daily practice.
-* As your plans are likely to change along the way, any change to your study plan can always be discussed.
-
-[More about pricing.](pricing.html)
-
-~~~
-box = section.newSide()
-~~~
-
-![w=800 y=top](images/BK-Studio-Design.png)
-
-## Challenge us
-
-We are educators and we are designers, too. That means, we are open for suggestions about the program and about the way we teach. For us, educating other designers is as much of a challenge as any design process.
-
-[Send us your request](mailto:info@designdesign.space?subject=What%20I%20would%20like%20to%20%20study%20in%20DesignDesign.Space...) for topics that we never thought about. Or ideas about how this website can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.
-
-~~~ 
-box = section.newMain()
-~~~
-
-## Study suggestions
+## Other (not free) study suggestions
 
 * [Type design](studies-type_design.html)
 * [Typography](studies-typography.html)
@@ -142,4 +217,4 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![IMG_3148.jpg w=800](images/IMG_3148.jpg)
+![w=800 y=top](images/BK-Studio-Design.png)

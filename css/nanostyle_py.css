@@ -1,7 +1,7 @@
 
 body {
     background-color: #E7E7E7;
-    color: #262626;
+    color: #434343;
     font-family: 'Upgrade-Regular', sans-serif;
     font-size: 17px;
     line-height: 1.4em;
@@ -27,7 +27,7 @@ p strong, li strong {
 }
 a {
     text-decoration: none;
-    color: #45454A;
+    color: #787881;
 }
 a:hover {
     text-decoration: none;
@@ -47,7 +47,13 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0; 
 }
 h1 {font-size: 2em; line-height: 1.2em;}
-h2 {font-size: 1.75em; line-height: 1.2em;}
+h2 {font-size: 1.75em; line-height: 1.2em;
+    -moz-font-feature-settings:"frac=1";
+    -moz-font-feature-settings:"frac";
+    -ms-font-feature-settings:"frac";
+    -webkit-font-feature-settings:"frac";
+    font-feature-settings:"frac";
+}
 h3 {font-size: 1.5em; line-height: 1.2em;}
 h4 {font-size: 1.25em; line-height: 1.2em;}
 h5 {font-size: 1em; line-height: 1.2em;}
@@ -59,46 +65,46 @@ h1 {
     color: #0E0E0E;
 }
 h1 a {
-    color: #434343;
+    color: #262626;
 }
 h1 a:hover {
-    color: #262626;
+    color: #434343;
     background-color: none;
 }
 
 h2 a {
-    color: #434343;
+    color: #262626;
     background-color: none;
 }
 h2 a:hover {
-    color: #262626;
+    color: #434343;
     background-color: none;
 }
 
 h3 a {
-    color: #434343;
+    color: #262626;
     background-color: none;
 }
 h3 a:hover {
-    color: #262626;
+    color: #434343;
     background-color: none;
 }
 
 h4 a {
-    color: #434343;
+    color: #262626;
     background-color: none;
 }
 h4 a:hover {
-    color: #262626;
+    color: #434343;
     background-color: none;
 }
 
 h5 a {
-    color: #434343;
+    color: #262626;
     background-color: none;
 }
 h5 a:hover {
-    color: #262626;
+    color: #434343;
     background-color: none;
 }
 
@@ -144,10 +150,10 @@ h5 a:hover {
 /* Rulers */
 
 .main hr {
-    border: 8px solid #787881;
+    border: 8px solid #45454A;
 }
 .side hr {
-    border: 1px solid #787881;
+    border: 1px solid #45454A;
 }
 
 /* Desktop navigation/menu */
@@ -198,7 +204,7 @@ ul.navmenu li a {
 
 ul.navmenu li a:hover { 
     color: #ccc;
-    background-color: #262626;
+    background-color: #434343;
 }
 
 li:hover ul.navmenu {
@@ -217,7 +223,7 @@ li:hover a {
 
 li:hover li a:hover { 
     background-color: #E7E7E7; 
-    color: #787881;
+    color: #45454A;
 }
 
 .main-navigation li ul.navmenu li { 
@@ -286,6 +292,17 @@ ul.navmenu:after {
     font-family: 'Upgrade-Regular', sans-serif;
     color: #808080;
 }
+.banner .textbox h1 a { /* TRY Link in headlines */
+    font-size: 0.75em;
+    line-height: 1.3em;
+    background-color: #808080;
+    font-family: 'Upgrade-Medium', sans-serif;
+    color: white;
+    padding: 0.2em;
+}
+.banner .textbox h1 a:hover { 
+    color: #DDD;
+}
 
 /* Collection */
 
@@ -299,7 +316,7 @@ ul.navmenu:after {
 }
 
 .introduction {
-    background-color: #333333;
+    background-color: #595959;
     padding: 1em;
 }
 .introduction .textbox h1 {
@@ -310,10 +327,10 @@ ul.navmenu:after {
 }
 .introduction .textbox h1 a {
     font-family: 'Upgrade-Book', sans-serif;
-    color: #CCCCCC;
+    color: #A6A6A6;
 }
 .introduction .textbox h1 a:hover {
-    color: #A6A6A6;
+    color: #CCCCCC;
 }
 
 /* Slide show */
@@ -323,13 +340,13 @@ ul.navmenu:after {
     grid-template-columns: 2fr 1fr;
     column-gap: 10px;
     row-gap: 10px;    
-    background-color: #333333;
+    background-color: #595959;
 }
 .slideshow {
-    background-color: #333333;
+    background-color: #595959;
 }
 .slideside {
-    background-color: #333333;
+    background-color: #595959;
     padding: 0 1em 1em 0;
 }
 .slideside .textbox h1 {
@@ -414,7 +431,7 @@ li sup { /* Superior Scale number in Menu */
 }
 .main {
     padding: 0 12pt;
-    border-top: 15px solid #595959;
+    border-top: 15px solid #333333;
 }
 .sides {
     display: grid;
@@ -424,14 +441,14 @@ li sup { /* Superior Scale number in Menu */
 }
 .side {
     padding: 0 12pt;
-    border-top: 15px solid #595959;
+    border-top: 15px solid #333333;
 }
 
 /* Cropped has attribute background-image and optional
 floating elements inside.*/
 .cropped {
     padding: 0;
-    border-top: 15px solid #595959;
+    border-top: 15px solid #333333;
 }
 /* Solve Cropped empty <p> first.
 .cropped .textbox {
