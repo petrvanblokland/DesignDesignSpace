@@ -209,6 +209,7 @@ box = section.newMain()
 * We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.
 * You are kindly requested to join from start to end, not occupying the space for another designer.
 * DesignDesign.Space would appreciate to publish some of your work on this website.
+* Successfully finishing one of the free workshops gives the right to **20% reduction** on one of the other DesignDesign.Space studies.
 
 ---
 ## Why we offer this for free
