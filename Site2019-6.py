@@ -186,7 +186,7 @@ def makeSite(styles, viewId):
     page.applyTemplate(template) # Copy element tree to page.
 
     # By default, the typesetter produces a single Galley with content and code blocks.    
-    t = Typesetter(doc.context, maxImageWidth=900)
+    t = Typesetter(doc.context, maxImageWidth=MAX_IMAGE_WIDTH)
     for mdPath in MD_PATHS:
         print('Typeset file', mdPath)
         t.typesetFile(mdPath)
