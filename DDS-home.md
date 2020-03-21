@@ -223,16 +223,17 @@ box = section.newMain()
 
 #### Subscribing
 
-* Subscribe for a workshop of your choice, by sending an e-mail to [info@designdesign.space](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
-* Describe your daily profession and how that relates to the topic of the workshop. Add some samples of your work.
-* Workshops are limited to a maximum 10 students. First come, first served. 
-
+* Subscribe for **just one** workshop of your choice, by sending an e-mail to [info@designdesign.space](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
+* Describe your daily profession and how that relates to the topic of your selected workshop. Add some samples of your work.
+* Workshops are limited to a maximum of 10 students. First come, first served. 
+ 
 #### The workshop
 
 * Using some small assignments, we challenge you to sketch, think, design and give feedback to others.
-* Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.
+* Each workshop spans several sessions. There is enough time between them to give you the opportunity to process the questions of one session into the next one.
 * We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.
-* You encouraged to join the whole workshop from start to end, following all sessions, not occupying the space for another designer.
+* You are encouraged to join the whole workshop from start to end, finishing with a micro-graduation project.
+* We appreciate that you – once started, follow all sessions, not occupying the space that another designer may have wanted.
 
 #### And after...
 
