@@ -48,4 +48,4 @@ If a study is spread over a longer period time, intensity can be lower for the s
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/BK-Models-Design.png)
+![cover y=top](images/BK-Models-Design.png)

@@ -41,25 +41,25 @@ slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3,
 box = slideshow.slides
 ~~~
 
-![Color squares w=800 y=top x=center](images/PepperTomColorSquares.png)
-![White painted grid w=800 y=top x=center](images/IMG_1107.jpg)
-![Sketched letters w=800 y=center](images/IMG_2848.jpg)
-![Pattern of beans w=800 y=top](images/IMG_1701.jpg)
-![S in light w=800 y=top x=center](images/IMG_2535.jpg)
-![G-Cube variables w=800 y=center x=center](images/GN-Cube-Variable-e.png)
-![Sketched toys w=800 y=top x=center](images/IMG_4905.jpg)
-![Info-graphics w=800 y=top x=center](images/IMG_3145.jpg)
-![Green structure w=800 y=center x=center](images/IMG_5840.jpg)
-![Sand and rocks w=800 y=center x=center](images/IMG_7616.jpg)
-![Collage Blue and pear w=800 y=top x=center](images/IMG_8677.jpg)
-![Theme colors w=800 y=top x=center](images/ThemeColorsByDocument_5.png)
-![Shells on green wood w=800 y=top x=center](images/IMG_0752.jpg)
-![Model interior w=800 y=center x=left](images/IMG_E8927.jpg)
-![Painting and rocks w=800 y=bottom x=center](images/IMG_5333.jpg)
-![Triangle pattern w=800 y=bottom x=center](images/IMG_1447.jpg)
-![Red bars w=800 y=center x=center](images/IMG_5469.jpg)
-![Corner write-black-green w=800 y=top x=center](images/IMG_6994.jpg)
-![Interior sketch w=800 y=top x=center](images/IMG_E8874.jpg)
+![Color squares cover y=top x=center](images/PepperTomColorSquares.png)
+![White painted grid cover y=top x=center](images/IMG_1107.jpg)
+![Sketched letters cover y=center](images/IMG_2848.jpg)
+![Pattern of beans cover y=top](images/IMG_1701.jpg)
+![S in light cover y=top x=center](images/IMG_2535.jpg)
+![G-Cube variables cover y=center x=center](images/GN-Cube-Variable-e.png)
+![Sketched toys cover y=top x=center](images/IMG_4905.jpg)
+![Info-graphics cover y=top x=center](images/IMG_3145.jpg)
+![Green structure cover y=center x=center](images/IMG_5840.jpg)
+![Sand and rocks cover y=center x=center](images/IMG_7616.jpg)
+![Collage Blue and pear cover y=top x=center](images/IMG_8677.jpg)
+![Theme colors cover y=top x=center](images/ThemeColorsByDocument_5.png)
+![Shells on green wood cover y=top x=center](images/IMG_0752.jpg)
+![Model interior cover y=center x=left](images/IMG_E8927.jpg)
+![Painting and rocks cover y=bottom x=center](images/IMG_5333.jpg)
+![Triangle pattern cover y=bottom x=center](images/IMG_1447.jpg)
+![Red bars cover y=center x=center](images/IMG_5469.jpg)
+![Corner write-black-green cover y=top x=center](images/IMG_6994.jpg)
+![Interior sketch cover y=top x=center](images/IMG_E8874.jpg)
 
 ~~~ 
 box = slideshow.side
@@ -117,7 +117,7 @@ If you tell us what you want to study by mail or in a first free online hangout,
 box = section.newSide()
 ~~~
 
-![w=800 y=top](images/BK-Studio-Design.png)
+![cover y=top](images/BK-Studio-Design.png)
 
 ## Challenge us
 
@@ -142,7 +142,7 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![IMG_3148.jpg w=800](images/IMG_3148.jpg)
+![IMG_3148.jpg cover](images/IMG_3148.jpg)
 
 ~~~
 # ----------------------------------------
@@ -194,7 +194,7 @@ If a study is spread over a longer period time, intensity can be lower for the s
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/BK-Models-Design.png)
+![cover y=top](images/BK-Models-Design.png)
 
 ~~~
 # ----------------------------------------
@@ -223,7 +223,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 x=center y=top](images/BK-Type-Design.png)
+![cover x=center y=top](images/BK-Type-Design.png)
 
 ~~~
 box = section.newMain()
@@ -253,7 +253,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/UpgradeFeatures.png)
+![cover y=top](images/UpgradeFeatures.png)
 
 ~~~
 box = section.newMain()
@@ -278,7 +278,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/SketchingTypeDesign.png)
+![cover y=top](images/SketchingTypeDesign.png)
 
 ~~~
 box = section.newMain()
@@ -288,7 +288,7 @@ box = section.newMain()
 
 How do you get your design process beyond the traditional Variable Font axes of weight, width and optical size? How to make your experience grow from Multiple Master Thinking into Variable Font thinking? Develop sketching techniques. Make the production and testing of Variable Fonts work inside the cycles of your design process.
 
-![w=800 y=top](images/NotesOndesignSpaces.png)
+![cover y=top](images/NotesOndesignSpaces.png)
 
 **Gerrit Noordzij Cube code by Just van Rossum**
 
@@ -307,7 +307,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 x=center y=top](images/tpCube.png)
+![cover x=center y=top](images/tpCube.png)
 
 ~~~
 box = section.newMain()
@@ -332,7 +332,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/TypeCooker.png)
+![cover y=top](images/TypeCooker.png)
 
 ~~~
 box = section.newMain()
@@ -357,7 +357,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/ATFSpecemin-Code04.png)
+![cover y=top](images/ATFSpecemin-Code04.png)
 
 ~~~
 box = section.newMain()
@@ -382,7 +382,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/TCTool01.png)
+![cover y=top](images/TCTool01.png)
 
 ~~~
 box = section.newMain()
@@ -406,7 +406,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/Latin-Chinese-Metrcis.png)
+![cover y=top](images/Latin-Chinese-Metrcis.png)
 
 ~~~
 box = section.newMain()
@@ -430,7 +430,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/E-Upgrade.png)
+![cover y=bottom](images/E-Upgrade.png)
 
 ~~~
 box = section.newMain()
@@ -449,7 +449,7 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/BK-Type-Design.png)
+![cover y=bottom](images/BK-Type-Design.png)
 
 ~~~
 # ----------------------------------------
@@ -476,7 +476,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/BK-Typography-Design.png)
+![cover y=top](images/BK-Typography-Design.png)
 
 ~~~
 box = section.newMain()
@@ -499,7 +499,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 x=left y=top](images/travelCoverPages_1.png)
+![cover x=left y=top](images/travelCoverPages_1.png)
 
 ~~~
 box = section.newMain()
@@ -525,7 +525,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/affiche_op_de_kaart.png)
+![cover y=top](images/affiche_op_de_kaart.png)
 
 
 ~~~
@@ -550,7 +550,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![TYPETR-Upgrade-Screen.png w=800 y=top x=center ](images/TYPETR-Upgrade-Screen.png)
+![TYPETR-Upgrade-Screen.png cover y=top x=center ](images/TYPETR-Upgrade-Screen.png)
 
 ~~~ 
 box = section.newMain()
@@ -569,7 +569,7 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![IMG_6120.jpg w=800 x=center y=center](images/IMG_6120.jpg)
+![IMG_6120.jpg cover x=center y=center](images/IMG_6120.jpg)
 
 ~~~
 # ----------------------------------------
@@ -596,7 +596,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=center](images/BK-Graphic-Design.png)
+![cover y=center](images/BK-Graphic-Design.png)
 
 ~~~
 box = section.newMain()
@@ -620,7 +620,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/IMG_E8891.jpg)
+![cover y=top](images/IMG_E8891.jpg)
 
 ~~~
 box = section.newMain()
@@ -671,7 +671,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_4925.jpg w=800 y=top](images/IMG_4925.jpg)
+![IMG_4925.jpg cover y=top](images/IMG_4925.jpg)
 
 ~~~
 box = section.newMain()
@@ -745,7 +745,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_2848.jpg w=800 x=center y=top](images/IMG_2848.jpg)
+![IMG_2848.jpg cover x=center y=top](images/IMG_2848.jpg)
 
 ~~~
 box = section.newMain()
@@ -755,7 +755,7 @@ box = section.newMain()
 
 Learn the basics of scripting your graphic design process. Sketching techniques. Decide what can be automated and what not. Patterns of Python code, using DrawBot and PageBot. Connect to InDesign. Parameters for magazines, websites, exhibition spaces and corporate identities.  Develop models to differentiate between best practice and arbitrary design choices.
 
-![w=800 y=top](images/PageBotSchema2.png)
+![cover y=top](images/PageBotSchema2.png)
 
 ~~~
 box = box.newInfo()
@@ -770,7 +770,7 @@ box = box.newInfo()
 box = section.newSide()
 ~~~
 
-![pageBotCode.png w=800 y=top](images/pageBotCode.png)
+![pageBotCode.png cover y=top](images/pageBotCode.png)
 *[[Using the programming language Python during the design process is a logical choice. Yet, Design Design Space studies assume no pre-existing knowledge or experience. We start at the your level.]]*
 
 ---
@@ -811,7 +811,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=center](images/BK-Environmental-Design.png)
+![cover y=center](images/BK-Environmental-Design.png)
 
 ~~~
 box = section.newMain()
@@ -836,7 +836,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/IMG_8940.jpg)
+![cover y=top](images/IMG_8940.jpg)
 
 ~~~
 box = section.newMain()
@@ -861,7 +861,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/IMG_8690.jpg)
+![cover y=top](images/IMG_8690.jpg)
 
 ~~~
 box = section.newMain()
@@ -885,7 +885,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/IMG_9439.jpg)
+![cover y=top](images/IMG_9439.jpg)
 
 ~~~
 box = section.newMain()
@@ -908,7 +908,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/IMG_2831.jpg)
+![cover y=bottom](images/IMG_2831.jpg)
 
 ~~~
 box = section.newMain()
@@ -932,7 +932,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_1132.jpg w=800 y=center x=center](images/IMG_8963.jpg)
+![IMG_1132.jpg cover y=center x=center](images/IMG_8963.jpg)
 
 ~~~
 box = section.newMain()
@@ -956,7 +956,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_1520.jpg w=800 y=top](images/IMG_1520.jpg)
+![IMG_1520.jpg cover y=top](images/IMG_1520.jpg)
 
 ~~~
 box = section.newMain()
@@ -982,7 +982,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=center x=center](images/IMG_E8927.jpg)
+![cover y=center x=center](images/IMG_E8927.jpg)
 
 ~~~
 box = section.newMain()
@@ -1005,7 +1005,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_1132.jpg w=800 y=top](images/IMG_1132.jpg)
+![IMG_1132.jpg cover y=top](images/IMG_1132.jpg)
 
 ~~~
 box = section.newMain()
@@ -1024,7 +1024,7 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/BK-Environmental-Design.png)
+![cover y=bottom](images/BK-Environmental-Design.png)
 
 ~~~
 # ----------------------------------------
@@ -1052,7 +1052,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=center](images/BK-Interaction-Design.png)
+![cover y=center](images/BK-Interaction-Design.png)
 
 ~~~
 box = section.newMain()
@@ -1075,7 +1075,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/DesignModels2-91-1.png)
+![cover y=top](images/DesignModels2-91-1.png)
 
 ~~~
 box = section.newMain()
@@ -1101,7 +1101,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![5ObjectenIcim.png w=800 y=top](images/5ObjectenIcim.png)
+![5ObjectenIcim.png cover y=top](images/5ObjectenIcim.png)
 
 ~~~
 box = section.newMain()
@@ -1125,7 +1125,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/PPG_Schetsen_01.png)
+![cover y=top](images/PPG_Schetsen_01.png)
 
 ~~~
 box = section.newMain()
@@ -1150,7 +1150,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/DSGNWK_0665BWCropped.jpg)
+![cover y=top](images/DSGNWK_0665BWCropped.jpg)
 
 ~~~
 box = section.newMain()
@@ -1173,7 +1173,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![Do you really need a designer w=800 y=top](images/DoYouReallyNeedADesigner.png)
+![Do you really need a designer cover y=top](images/DoYouReallyNeedADesigner.png)
 
 ~~~
 box = section.newMain()
@@ -1197,7 +1197,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/BNO-BuroBoek2008.png)
+![cover y=top](images/BNO-BuroBoek2008.png)
 
 ~~~
 box = section.newMain()
@@ -1249,7 +1249,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=center](images/BK-Interactive-Design.png)
+![cover y=center](images/BK-Interactive-Design.png)
 
 ~~~
 box = section.newMain()
@@ -1272,7 +1272,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/DesignDesignSpace-Site.png)
+![cover y=top](images/DesignDesignSpace-Site.png)
 
 ~~~
 box = section.newMain()
@@ -1302,7 +1302,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/IMG_2391Cropped.jpg)
+![cover y=top](images/IMG_2391Cropped.jpg)
 
 ~~~
 box = section.newMain()
@@ -1321,7 +1321,7 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/BK-Interactive-Design.png)
+![cover y=bottom](images/BK-Interactive-Design.png)
 
 ~~~
 # ----------------------------------------
@@ -1790,7 +1790,7 @@ box = mainBox.newInfo()
 box = section.newSide()
 ~~~ 
 
-![DDS-Drawing-June-Shin w=800 y=top](images/DDS-drawing-June-Shin.png)
+![DDS-Drawing-June-Shin cover y=top](images/DDS-drawing-June-Shin.png)
 *[[June Shin’s thank-you card to DesignDesign.Space, very much appreciated.]]*
 
 ~~~ 
@@ -1901,7 +1901,7 @@ from pagebot.constants import *
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=1, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
 box = slideshow.slides
 
-#![w=200 y=top](images/BK-Graphic-Design.png)
+#![cover y=top](images/BK-Graphic-Design.png)
 ~~~
 
 ![w=450 y=top](images/BK-Interactive-Design.png)
@@ -1940,7 +1940,7 @@ Besides lecturing, his current focus is on international projects, related to ty
 box = section.newSide()
 ~~~
 
-![PetrvanBlokland2019-03-05.jpg w=800 y=top](images/PetrvanBlokland2019-03-05.jpg)
+![PetrvanBlokland2019-03-05.jpg cover y=top](images/PetrvanBlokland2019-03-05.jpg)
 
 * [E-mail buro@petr.com](mailto:buro@petr.com) 
 * Mobile +31 6 24 219 502
@@ -1966,7 +1966,7 @@ She was co-founder and head of design for The Health Agency, publisher of online
 ~~~
 box = section.newSide()
 ~~~
-![claudiamens.jpg w=800 y=top](images/claudiamens.jpg)
+![claudiamens.jpg cover y=top](images/claudiamens.jpg)
 
 * E-mail [claudia@petr.com](mailto:claudia@petr.com) 
 * Mobile +31 6 41 367 689

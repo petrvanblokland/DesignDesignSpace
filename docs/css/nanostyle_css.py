@@ -359,6 +359,9 @@ ul.navmenu:after {
 .introduction .textbox h1 a:hover {
     color: #%(intro.textHover)s;
 }
+.introduction .textbox h1 strong {
+    font-family: 'Upgrade-Regular', sans-serif;
+}
 
 /* Slide show */
 
@@ -378,13 +381,14 @@ ul.navmenu:after {
 }
 .slideside .textbox h1 {
     color: #%(h2.textFillDiap)s;
-    letter-spacing: 0.025em;
+    letter-spacing: 0.04em;
     font-size: 1.4em;
     line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
 .slideside .textbox h1 a {
-    color: #%(base3)s;
+    color: #FC6F08;
+    /*color: #%(base3)s;*/
 }
 .slideside .textbox h1 a:hover {
     color: #%(base3.colorFront)s;
@@ -426,6 +430,13 @@ sup { /* Superior number <sup> by Upgrade OT-feature */
     -webkit-font-feature-settings:"sups";
     font-feature-settings:"sups";
 }
+.sup {
+    -moz-font-feature-settings:"sups=1";
+    -moz-font-feature-settings:"sups";
+    -ms-font-feature-settings:"sups";
+    -webkit-font-feature-settings:"sups";
+    font-feature-settings:"sups";
+}
 h1 sup { /* Superior Scale number in h1 */
     color: #%(h1.textFill)s;
 }
@@ -459,6 +470,18 @@ li sup { /* Superior Scale number in Menu */
 .main {
     padding: 0 %(side.padding)s;
     border-top: 15px solid #%(hr.stroke)s;
+}
+.main .textbox h2 {
+    font-family: 'Upgrade-Medium';
+    color: #%(base3)s;
+    /*color: #FC6F08;*/
+}
+.main .textbox h2 a {
+    color: #%(dark3)s;
+}
+.main .textbox h2 a.hover {
+    color: #%(light3)s;
+    background-color: #%(darker3)s;
 }
 .sides {
     display: grid;

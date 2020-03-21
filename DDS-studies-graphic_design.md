@@ -17,13 +17,13 @@ section = content.newSection()
 box = section.newIntroduction()
 ~~~
 
-# [Researching generative typography?](studies-typography.html#learn-how-to-use-type-and-typography-online) [Designing a series?](studies-design_spaces.html#creating-an-identity) [Discovering the basics of information design?](studies-graphic_design.html#info-graphics-the-design-of-automated-designs) [Improving your sketching techniques?](studies-design_practice.html#sketching-techniques) [Branding a client?](studies-graphic_design.html#identity-design)
+# [Researching generative typography?](studies-typography.html#learn-how-to-use-type-and-typography-online) [Designing a series of publications?](studies-design_spaces.html#creating-an-identity) [Discovering the basics of information design?](studies-graphic_design.html#info-graphics-the-design-of-automated-designs) [Improving your sketching techniques?](studies-design_practice.html#sketching-techniques) [Branding a client?](studies-graphic_design.html#identity-design)
 
 ~~~
 box = section.newCropped()
 ~~~
 
-![w=800 y=center](images/BK-Graphic-Design.png)
+![cover wi=1200 y=center](images/BK-Graphic-Design.png)
 
 ~~~
 box = section.newMain()
@@ -47,7 +47,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/IMG_E8891.jpg)
+![cover y=top](images/IMG_E8891.jpg)
 
 ~~~
 box = section.newMain()
@@ -74,7 +74,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![TheEndOfCss015M1.050.jpeg w=900 y=top](images/TheEndOfCss015M1.050.jpeg)
+![TheEndOfCss015M1.050.jpeg cover y=top](images/TheEndOfCss015M1.050.jpeg)
 
 ~~~
 box = section.newMain()
@@ -98,7 +98,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_4925.jpg w=800 y=top](images/IMG_4925.jpg)
+![IMG_4925.jpg cover y=top x=center](images/IMG_4925.jpg)
 
 ~~~
 box = section.newMain()
@@ -107,6 +107,8 @@ box = section.newMain()
 ## Scripting the design of printed publications
 
 Design systems that generate books, magazines, newspapers, brochures, manuals or catalogues, intended for print. How do you bridge the gap between unpredictable content, sketching design rules, the design of templates that use high level typographic standards, scriptable illustration techniques and applications for automated output, using DrawBot and PageBot (for OSX and Linux platforms).
+
+*Bier! design: Grafische Zaken/Wil Schipper*
 
 ~~~
 box = box.newInfo()
@@ -121,7 +123,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![F5.034.jpeg x=right y=bottom w=600](images/F5.034.jpeg)
+![F5.034.jpeg y=top w=100% cover](images/bierCoverPages2_1.png)
 
 ~~~
 box = section.newMain()
@@ -148,7 +150,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![TheEndOfCss015M1.089.jpeg w=900 x=right y=top](images/TheEndOfCss015M1.089.jpeg)
+![TheEndOfCss015M1.089.jpeg cover x=right y=top](images/TheEndOfCss015M1.089.jpeg)
 
 ~~~
 box = section.newMain()
@@ -172,7 +174,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_2848.jpg w=800 x=center y=top](images/IMG_2848.jpg)
+![IMG_2848.jpg cover x=center y=top](images/IMG_2848.jpg)
 
 ~~~
 box = section.newMain()
@@ -180,9 +182,11 @@ box = section.newMain()
 <a name="python-scripting-for-graphic-designers"/>
 ## Python scripting for graphic designers
 
-Learn the basics of scripting your graphic design process. Sketching techniques. Decide what can be automated and what not. Patterns of Python code, using DrawBot and PageBot. Connect to InDesign. Parameters for magazines, websites, exhibition spaces and corporate identities.  Develop models to differentiate between best practice and arbitrary design choices.
+Learn the basics of scripting your graphic design process. Sketching techniques. Decide what can be automated and what not. Patterns of Python code, using DrawBot and PageBot. Connect to InDesign. Parameters for magazines, websites, exhibition spaces and corporate identities.  Develop models to differentiate between best practice and arbitrary design choices. 
 
-![w=800 y=top](images/PageBotSchema2.png)
+We are interested in your opinion.
+
+![cover y=top](images/PageBotSchema2.png)
 
 ~~~
 box = box.newInfo()
@@ -197,8 +201,8 @@ box = box.newInfo()
 box = section.newSide()
 ~~~
 
-![pageBotCode.png w=800 y=top](images/pageBotCode.png)
-*[[Using the programming language Python during the design process is a logical choice. Yet, Design Design Space studies assume no pre-existing knowledge or experience. We start at the your level.]]*
+![pageBotCode.png cover y=top](images/pageBotCode.png)
+*[[Using the programming language Python during the design process is a logical choice. Yet, Design Design Space studies assume no pre-existing knowledge or experience. We start at your level.]]*
 
 ---
 

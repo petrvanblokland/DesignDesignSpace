@@ -21,7 +21,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 x=center y=top" src="images/BK-Type-Design.png" /></p>
+<p><img alt="cover x=center y=top" src="images/BK-Type-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -46,7 +46,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/UpgradeFeatures.png" /></p>
+<p><img alt="cover y=top" src="images/UpgradeFeatures.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -67,14 +67,14 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/SketchingTypeDesign.png" /></p>
+<p><img alt="cover y=top" src="images/SketchingTypeDesign.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
 <p><a name="the-design-process-of-variable-fonts"/></p>
 <h2>The design process of Variable Fonts</h2>
 <p>How do you get your design process beyond the traditional Variable Font axes of weight, width and optical size? How to make your experience grow from Multiple Master Thinking into Variable Font thinking? Develop sketching techniques. Make the production and testing of Variable Fonts work inside the cycles of your design process.</p>
-<p><img alt="w=800 y=top" src="images/NotesOndesignSpaces.png" /></p>
+<p><img alt="cover y=top" src="images/NotesOndesignSpaces.png" /></p>
 <p><strong>Gerrit Noordzij Cube code by Just van Rossum</strong></p>
 <pre><code>box = box.newInfo()
 </code></pre>
@@ -90,7 +90,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 x=center y=top" src="images/tpCube.png" /></p>
+<p><img alt="cover x=center y=top" src="images/tpCube.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -111,7 +111,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/TypeCooker.png" /></p>
+<p><img alt="cover y=top" src="images/TypeCooker.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -132,7 +132,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/ATFSpecemin-Code04.png" /></p>
+<p><img alt="cover y=top" src="images/ATFSpecemin-Code04.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -153,7 +153,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/TCTool01.png" /></p>
+<p><img alt="cover y=top" src="images/TCTool01.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -173,7 +173,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/Latin-Chinese-Metrcis.png" /></p>
+<p><img alt="cover y=top" src="images/Latin-Chinese-Metrcis.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -193,7 +193,7 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=bottom" src="images/E-Upgrade.png" /></p>
+<p><img alt="cover y=bottom" src="images/E-Upgrade.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -209,4 +209,4 @@ How the coaching is organized, depends on what you need, what works best. It can
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=bottom" src="images/BK-Type-Design.png" /></p></document>
+<p><img alt="cover y=bottom" src="images/BK-Type-Design.png" /></p></document>

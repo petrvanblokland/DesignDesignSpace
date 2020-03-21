@@ -60,4 +60,4 @@ Lessons can be extended in time, if multiple students attend at the same worksho
 box = section.newCropped()
 ~~~
 
-![IMG_5840.jpg w=900 y=center x=center](images/IMG_5840.jpg)
+![IMG_5840.jpg cover y=center x=center](images/IMG_5840.jpg)

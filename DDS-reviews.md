@@ -41,8 +41,8 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-<!--![DSGNWK_0468BW.jpg w=900 y=top x=center](images/DSGNWK_0468BW.jpg)-->
-![IMG_1107.jpg w=900 y=center x=center](images/IMG_1107.jpg)
+<!--![DSGNWK_0468BW.jpg cover y=top x=center](images/DSGNWK_0468BW.jpg)-->
+![IMG_1107.jpg cover y=center x=center](images/IMG_1107.jpg)
 
 ~~~ 
 box = content.newIntroduction()
@@ -119,7 +119,7 @@ box = mainBox.newInfo()
 box = section.newSide()
 ~~~ 
 
-![DDS-Drawing-June-Shin w=800 y=top](images/DDS-drawing-June-Shin.png)
+![DDS-Drawing-June-Shin cover y=top](images/DDS-drawing-June-Shin.png)
 *[[June Shin’s thank-you card to DesignDesign.Space, very much appreciated.]]*
 
 ~~~ 

@@ -26,7 +26,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=center](images/BK-Interactive-Design.png)
+![cover y=center](images/BK-Interactive-Design.png)
 
 ~~~
 box = section.newMain()
@@ -49,7 +49,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/DesignDesignSpace-Site.png)
+![cover y=top](images/DesignDesignSpace-Site.png)
 
 ~~~
 box = section.newMain()
@@ -79,7 +79,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/IMG_2391Cropped.jpg)
+![cover y=top](images/IMG_2391Cropped.jpg)
 
 ~~~
 box = section.newMain()
@@ -98,4 +98,4 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/BK-Interactive-Design.png)
+![cover y=bottom](images/BK-Interactive-Design.png)

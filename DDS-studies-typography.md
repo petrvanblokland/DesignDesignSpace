@@ -24,7 +24,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/BK-Typography-Design.png)
+![cover y=top](images/BK-Typography-Design.png)
 
 ~~~
 box = section.newMain()
@@ -47,7 +47,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 x=left y=top](images/travelCoverPages_1.png)
+![cover x=left y=top](images/travelCoverPages_1.png)
 
 ~~~
 box = section.newMain()
@@ -73,7 +73,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/affiche_op_de_kaart.png)
+![cover y=top](images/affiche_op_de_kaart.png)
 
 
 ~~~
@@ -98,7 +98,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![TYPETR-Upgrade-Screen.png w=800 y=top x=center ](images/TYPETR-Upgrade-Screen.png)
+![TYPETR-Upgrade-Screen.png cover y=top x=center ](images/TYPETR-Upgrade-Screen.png)
 
 ~~~ 
 box = section.newMain()
@@ -117,5 +117,5 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![IMG_6120.jpg w=800 x=center y=center](images/IMG_6120.jpg)
+![IMG_6120.jpg cover x=center y=center](images/IMG_6120.jpg)
 

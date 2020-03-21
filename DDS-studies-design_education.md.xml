@@ -21,7 +21,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=center" src="images/BK-Interactive-Design.png" /></p>
+<p><img alt="cover y=center" src="images/BK-Interactive-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -41,7 +41,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/DesignDesignSpace-Site.png" /></p>
+<p><img alt="cover y=top" src="images/DesignDesignSpace-Site.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -66,7 +66,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/IMG_2391Cropped.jpg" /></p>
+<p><img alt="cover y=top" src="images/IMG_2391Cropped.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -82,4 +82,4 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=bottom" src="images/BK-Interactive-Design.png" /></p></document>
+<p><img alt="cover y=bottom" src="images/BK-Interactive-Design.png" /></p></document>

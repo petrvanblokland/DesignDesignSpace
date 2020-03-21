@@ -43,22 +43,23 @@ slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3,
 box = slideshow.slides
 </code></pre>
 
-<p><img alt="Color squares w=800 y=top x=center" src="images/PepperTomColorSquares.png" /><br />
-<img alt="White painted grid w=800 y=top x=center" src="images/IMG_1107.jpg" /><br />
-<img alt="Sketched letters w=800 y=center" src="images/IMG_2848.jpg" /><br />
-<img alt="Blue Orange cloth w=800 y=top x=center" src="images/IMG_3145.jpg" /><br />
-<img alt="G-Cube variables w=800 y=center x=center" src="images/GN-Cube-Variable-e.png" /><br />
-<img alt="Sketched toys w=800 y=top x=center" src="images/IMG_4905.jpg" /><br />
-<img alt="Collage Blue and pear w=800 y=top x=center" src="images/IMG_8677.jpg" /><br />
-<img alt="Theme colors w=800 y=top x=center" src="images/ThemeColorsByDocument_5.png" /><br />
-<img alt="Sketching details w=800 y=top x=center" src="images/DesignModels2.038.png" /><br />
-<img alt="Shells on green wood w=800 y=top x=center" src="images/IMG_0752.jpg" /><br />
-<img alt="Model interior w=800 y=center x=left" src="images/IMG_E8927.jpg" /><br />
-<img alt="Affiche Rituelen w=800 y=bottom x=center" src="images/affiche_rituelen.png" /><br />
-<img alt="Triangle pattern w=800 y=bottom x=center" src="images/IMG_1447.jpg" /><br />
-<img alt="Corner write-black-green w=800 y=top x=center" src="images/IMG_6994.jpg" /><br />
-<img alt="Den Bosch letter door w=800 y=top x=center" src="images/IMG_6129.jpg" /><br />
-<img alt="Interior sketch w=800 y=top x=center" src="images/IMG_E8874.jpg" /></p>
+<p><img alt="Color squares cover y=top x=center" src="images/PepperTomColorSquares.png" /><br />
+<img alt="White painted grid cover y=top x=center" src="images/IMG_1107.jpg" /><br />
+<img alt="Sketched letters cover y=center" src="images/IMG_2848.jpg" /><br />
+<img alt="Blue Orange cloth cover y=top x=center" src="images/IMG_3145.jpg" /><br />
+<img alt="G-Cube variables cover y=center x=center" src="images/GN-Cube-Variable-e.png" /><br />
+<img alt="Sketched toys cover y=top x=center" src="images/IMG_4905.jpg" /><br />
+<img alt="DrawBotHomePage cover y=top x=center" src="images/DrawBotHomePage.png" /><br />
+<img alt="Collage Blue and pear cover y=top x=center" src="images/IMG_8677.jpg" /><br />
+<img alt="Theme colors cover y=top x=center" src="images/ThemeColorsByDocument_5.png" /><br />
+<img alt="Sketching details cover y=top x=center" src="images/DesignModels2.038.png" /><br />
+<img alt="Shells on green wood cover y=top x=center" src="images/IMG_0752.jpg" /><br />
+<img alt="Model interior cover y=center x=left" src="images/IMG_E8927.jpg" /><br />
+<img alt="Affiche Rituelen cover y=bottom x=center" src="images/affiche_rituelen.png" /><br />
+<img alt="Triangle pattern cover y=bottom x=center" src="images/IMG_1447.jpg" /><br />
+<img alt="Corner write-black-green cover y=top x=center" src="images/IMG_6994.jpg" /><br />
+<img alt="Den Bosch letter door cover y=top x=center" src="images/IMG_6129.jpg" /><br />
+<img alt="Interior sketch cover y=top x=center" src="images/IMG_E8874.jpg" /></p>
 <pre><code>box = slideshow.side
 </code></pre>
 
@@ -80,18 +81,21 @@ box = section.newMain()
 </code></pre>
 
 <h3>Wednesday hangouts 19:00–22:00 Central European Time</h3>
-<p>You are kindly requested to join from start to end, following all sessions, not occupying the space for another designer.</p>
-<p>Other times are possible, depending on where you live. </p>
+<ul>
+<li><em>Each workshop spans 2 weeks of work, including 3 hangouts, Slack and document sharing.</em></li>
+<li><em>Other times in the day are possible, depending on where you live.</em></li>
+<li><em>Some experience with typography and graphic design is helpful in the workshops.</em></li>
+</ul>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/IMG_3148.jpg" /></p>
+<p><img alt="cover y=top" src="images/IMG_3148.jpg" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>Coding your designs in <a href="http://www.drawbot.com">DrawBot</a></h2>
-<h3>March 25th + April 1st + April 8th</h3>
+<h3>March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span></h3>
 <ul>
 <li>Start with one of your designs, or select a favourite publication.</li>
 <li>Analyze the existing layout and prepare measurements to be coded.</li>
@@ -100,33 +104,34 @@ box = section.newMain()
 <li>Use the coding in your daily sketching process.</li>
 </ul>
 <p>The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. </p>
+<p><em>DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen</em></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/affiche_op_de_kaart.png" /></p>
+<p><img alt="cover y=top x=center" src="images/DrawBotHomePage.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>What does your design space look like?</h2>
-<h3>April 15th + April 22th + April 29th</h3>
+<h3>April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span></h3>
 <ul>
 <li>Take your current workspace as a start to analyse.</li>
 <li>Learn to look at the space from different points of view.</li>
 <li>What do you want to keep? And what could be improved?</li>
 <li>Develop sketching techniques to design your environment.</li>
 </ul>
-<p>The workshop assumes no experience with 3D design.</p>
+<p>The workshop requires no prior experience with 3D design.</p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="Model interior w=100% y=center" src="images/IMG_E8927.jpg" /></p>
+<p><img alt="Model interior cover y=center" src="images/IMG_E8927.jpg" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>Type design crits</h2>
-<h3>May 6th + May 13th + May 20th</h3>
+<h3>May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span></h3>
 <ul>
 <li>Start with one of your type designs that is being developed. Or take one of your favourite existing typefaces.</li>
 <li>We ask questions, you do the work, getting valuable feedback and directions.</li>
@@ -137,13 +142,13 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/IMG_5640.jpg" /></p>
+<p><img alt="cover y=top" src="images/IMG_5640.jpg" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>Coding typography in Python and CSS</h2>
-<h3>May 27th + June 3rd + June 10th</h3>
+<h3>May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span></h3>
 <ul>
 <li>The workshop dives into the most important parameters, that make good typography. </li>
 <li>Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).</li>
@@ -152,13 +157,13 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/ATFSpecemin-Code04.png" /></p>
+<p><img alt="cover y=top" src="images/ATFSpecemin-Code04.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>Simple sketching techniques</h2>
-<h3>June 17th + June 24th + July 1st</h3>
+<h3>June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span></h3>
 <ul>
 <li>What is your design process like, before you open InDesign or a font editor?</li>
 <li>We will look into exercises by sketching paper, as well as connecting them to your digital tools. </li>
@@ -167,13 +172,13 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/DesignModels2.038.png" /></p>
+<p><img alt="cover y=top" src="images/DesignModels2.038.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>Running a small studio</h2>
-<h3>July 8th + July 15th + July 22nd</h3>
+<h3>July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span></h3>
 <ul>
 <li>Tips and tricks on how to deal with customers.</li>
 <li>Methods for planning and pricing. </li>
@@ -182,28 +187,37 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/BNO-BuroBoek2008.png" /></p>
+<p><img alt="cover y=top" src="images/BNO-BuroBoek2008.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
 <h2>How free workshops work: some rules</h2>
+<h4>Subscribing</h4>
 <ul>
 <li>Subscribe for a workshop of your choice, by sending an e-mail to <a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">info@designdesign.space</a></li>
 <li>Describe your daily profession and how that relates to the topic of the workshop. Add some samples of your work.</li>
 <li>Workshops are limited to a maximum 10 students. First come, first served. </li>
+</ul>
+<h4>The workshop</h4>
+<ul>
 <li>Using some small assignments, we challenge you to sketch, think, design and give feedback to others.</li>
 <li>Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.</li>
 <li>We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.</li>
-<li>You are kindly requested to join from start to end, following all sessions, not occupying the space for another designer.</li>
+<li>You encouraged to join the whole workshop from start to end, following all sessions, not occupying the space for another designer.</li>
+</ul>
+<h4>And after...</h4>
+<ul>
 <li>DesignDesign.Space would appreciate to publish some of your work on this website.</li>
 <li>Successfully finishing one of the free workshops gives the right to <strong>20% reduction</strong> on one of the other DesignDesign.Space studies.</li>
 </ul>
 <hr />
 <h2>Why we offer this for free</h2>
-<p>We like to share and express our solidatiry with you.</p>
+<p>We like to share and express our solidarity with you.</p>
 <p>Also, we are educators and we are designers, too. That means, we are curious how others design their design processes. We are open for suggestions about the workshops and about how you perceive the way we teach. For us, educating other designers is as much of a challenge as any design process.</p>
+<h4>New topics</h4>
 <p><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Send us your request</a> for topics that we never thought about. Or ideas about how the workshops can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.</p>
+<h4>We love your feedback</h4>
 <p>If you tell us what you want to study by mail or in a first free online hangout, we are happy to make suggestions. What would you like to achieve? Seeking a sparring partner for an interesting new design project? Improving your latent skills, while training your self-discipline? Or simply needing a refreshing break from your normal design practice? </p>
 <hr />
 <h2>Other study suggestions</h2>
@@ -215,8 +229,8 @@ box = section.newMain()
 <li><a href="studies-design_practice.html">Design practice</a></li>
 <li><a href="studies-design_education.html">Design education</a></li>
 </ul>
-<p>These studies are regular DesignDesign.Space products. Check <a href="pricing.html">here</a> for prices.</p>
+<p>These studies are regular DesignDesign.Space products. Check <a href="pricing.html">here</a> for prices.<br/>Typeface of this site: <a href="http://upgrade.typenetwork.com">TYPETR Upgrade</a></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/BK-Studio-Design.png" /></p></document>
+<p><img alt="cover y=top" src="images/BK-Studio-Design.png" /></p></document>

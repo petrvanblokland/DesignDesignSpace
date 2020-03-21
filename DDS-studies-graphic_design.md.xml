@@ -17,11 +17,11 @@ box = content.newBanner()
 box = section.newIntroduction()
 </code></pre>
 
-<h1><a href="studies-typography.html#learn-how-to-use-type-and-typography-online">Researching generative typography?</a> <a href="studies-design_spaces.html#creating-an-identity">Designing a series?</a> <a href="studies-graphic_design.html#info-graphics-the-design-of-automated-designs">Discovering the basics of information design?</a> <a href="studies-design_practice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphic_design.html#identity-design">Branding a client?</a></h1>
+<h1><a href="studies-typography.html#learn-how-to-use-type-and-typography-online">Researching generative typography?</a> <a href="studies-design_spaces.html#creating-an-identity">Designing a series of publications?</a> <a href="studies-graphic_design.html#info-graphics-the-design-of-automated-designs">Discovering the basics of information design?</a> <a href="studies-design_practice.html#sketching-techniques">Improving your sketching techniques?</a> <a href="studies-graphic_design.html#identity-design">Branding a client?</a></h1>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=center" src="images/BK-Graphic-Design.png" /></p>
+<p><img alt="cover wi=1200 y=center" src="images/BK-Graphic-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -41,7 +41,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/IMG_E8891.jpg" /></p>
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -62,7 +62,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.050.jpeg w=900 y=top" src="images/TheEndOfCss015M1.050.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.050.jpeg cover y=top" src="images/TheEndOfCss015M1.050.jpeg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -82,13 +82,14 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_4925.jpg w=800 y=top" src="images/IMG_4925.jpg" /></p>
+<p><img alt="IMG_4925.jpg cover y=top x=center" src="images/IMG_4925.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
 <p><a name="scripting-the-design-of-printed-publications"/></p>
 <h2>Scripting the design of printed publications</h2>
 <p>Design systems that generate books, magazines, newspapers, brochures, manuals or catalogues, intended for print. How do you bridge the gap between unpredictable content, sketching design rules, the design of templates that use high level typographic standards, scriptable illustration techniques and applications for automated output, using DrawBot and PageBot (for OSX and Linux platforms).</p>
+<p><em>Bier! design: Grafische Zaken/Wil Schipper</em></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -101,7 +102,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="F5.034.jpeg x=right y=bottom w=600" src="images/F5.034.jpeg" /></p>
+<p><img alt="F5.034.jpeg y=top w=100% cover" src="images/bierCoverPages2_1.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -123,7 +124,7 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="TheEndOfCss015M1.089.jpeg w=900 x=right y=top" src="images/TheEndOfCss015M1.089.jpeg" /></p>
+<p><img alt="TheEndOfCss015M1.089.jpeg cover x=right y=top" src="images/TheEndOfCss015M1.089.jpeg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -143,14 +144,15 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_2848.jpg w=800 x=center y=top" src="images/IMG_2848.jpg" /></p>
+<p><img alt="IMG_2848.jpg cover x=center y=top" src="images/IMG_2848.jpg" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
 <p><a name="python-scripting-for-graphic-designers"/></p>
 <h2>Python scripting for graphic designers</h2>
-<p>Learn the basics of scripting your graphic design process. Sketching techniques. Decide what can be automated and what not. Patterns of Python code, using DrawBot and PageBot. Connect to InDesign. Parameters for magazines, websites, exhibition spaces and corporate identities.  Develop models to differentiate between best practice and arbitrary design choices.</p>
-<p><img alt="w=800 y=top" src="images/PageBotSchema2.png" /></p>
+<p>Learn the basics of scripting your graphic design process. Sketching techniques. Decide what can be automated and what not. Patterns of Python code, using DrawBot and PageBot. Connect to InDesign. Parameters for magazines, websites, exhibition spaces and corporate identities.  Develop models to differentiate between best practice and arbitrary design choices. </p>
+<p>We are interested in your opinion.</p>
+<p><img alt="cover y=top" src="images/PageBotSchema2.png" /></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -163,8 +165,8 @@ How to write scripts to automate (parts of) the models for your parameters testi
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="pageBotCode.png w=800 y=top" src="images/pageBotCode.png" /><br />
-<caption>Using the programming language Python during the design process is a logical choice. Yet, Design Design Space studies assume no pre-existing knowledge or experience. We start at the your level.</caption></p>
+<p><img alt="pageBotCode.png cover y=top" src="images/pageBotCode.png" /><br />
+<caption>Using the programming language Python during the design process is a logical choice. Yet, Design Design Space studies assume no pre-existing knowledge or experience. We start at your level.</caption></p>
 <hr />
 <h2>Other study suggestions</h2>
 <ul>

@@ -90,7 +90,7 @@ NUM_CONTENT = 2 # Number of content elements on a page.
 NUM_SIDES = 1 # Number of side elements next to a main content element,
 
 # Max image size of scaled cache (used mulitplied by resolution per image type DEFAULT_RESOLUTION_FACTORS
-MAX_IMAGE_WIDTH = 800 
+MAX_IMAGE_WIDTH = pt(800) 
 
 
 styles = dict(

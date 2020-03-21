@@ -21,7 +21,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/BK-Typography-Design.png" /></p>
+<p><img alt="cover y=top" src="images/BK-Typography-Design.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -39,7 +39,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 x=left y=top" src="images/travelCoverPages_1.png" /></p>
+<p><img alt="cover x=left y=top" src="images/travelCoverPages_1.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -60,7 +60,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=800 y=top" src="images/affiche_op_de_kaart.png" /></p>
+<p><img alt="cover y=top" src="images/affiche_op_de_kaart.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -80,7 +80,7 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="TYPETR-Upgrade-Screen.png w=800 y=top x=center " src="images/TYPETR-Upgrade-Screen.png" /></p>
+<p><img alt="TYPETR-Upgrade-Screen.png cover y=top x=center " src="images/TYPETR-Upgrade-Screen.png" /></p>
 <pre><code>box = section.newMain()
 </code></pre>
 
@@ -96,4 +96,4 @@ box = section.newIntroduction()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_6120.jpg w=800 x=center y=center" src="images/IMG_6120.jpg" /></p></document>
+<p><img alt="IMG_6120.jpg cover x=center y=center" src="images/IMG_6120.jpg" /></p></document>

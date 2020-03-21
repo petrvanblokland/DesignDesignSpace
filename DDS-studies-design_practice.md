@@ -25,7 +25,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 y=center](images/BK-Interaction-Design.png)
+![cover y=center](images/BK-Interaction-Design.png)
 
 ~~~
 box = section.newMain()
@@ -48,7 +48,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/DesignModels2-91-1.png)
+![cover y=top](images/DesignModels2-91-1.png)
 
 ~~~
 box = section.newMain()
@@ -74,7 +74,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![5ObjectenIcim.png w=800 y=top](images/5ObjectenIcim.png)
+![5ObjectenIcim.png cover y=top](images/5ObjectenIcim.png)
 
 ~~~
 box = section.newMain()
@@ -98,7 +98,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/PPG_Schetsen_01.png)
+![cover y=top](images/PPG_Schetsen_01.png)
 
 ~~~
 box = section.newMain()
@@ -123,7 +123,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/DSGNWK_0665BWCropped.jpg)
+![cover y=top](images/DSGNWK_0665BWCropped.jpg)
 
 ~~~
 box = section.newMain()
@@ -146,7 +146,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![Do you really need a designer w=800 y=top](images/DoYouReallyNeedADesigner.png)
+![Do you really need a designer cover y=top](images/DoYouReallyNeedADesigner.png)
 
 ~~~
 box = section.newMain()
@@ -170,7 +170,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/BNO-BuroBoek2008.png)
+![cover y=top](images/BNO-BuroBoek2008.png)
 
 ~~~
 box = section.newMain()

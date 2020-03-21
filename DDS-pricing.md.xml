@@ -53,4 +53,4 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="IMG_5840.jpg w=900 y=center x=center" src="images/IMG_5840.jpg" /></p></document>
+<p><img alt="IMG_5840.jpg cover y=center x=center" src="images/IMG_5840.jpg" /></p></document>

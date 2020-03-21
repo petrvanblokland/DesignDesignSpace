@@ -37,9 +37,9 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<!--![DSGNWK_0468BW.jpg w=900 y=top x=center](images/DSGNWK_0468BW.jpg)-->
+<!--![DSGNWK_0468BW.jpg cover y=top x=center](images/DSGNWK_0468BW.jpg)-->
 
-<p><img alt="IMG_1107.jpg w=900 y=center x=center" src="images/IMG_1107.jpg" /></p>
+<p><img alt="IMG_1107.jpg cover y=center x=center" src="images/IMG_1107.jpg" /></p>
 <pre><code>box = content.newIntroduction()
 </code></pre>
 
@@ -95,7 +95,7 @@ box = mainBox = section.newMain()
 <pre><code>box = section.newSide()
 </code></pre>
 
-<p><img alt="DDS-Drawing-June-Shin w=800 y=top" src="images/DDS-drawing-June-Shin.png" /><br />
+<p><img alt="DDS-Drawing-June-Shin cover y=top" src="images/DDS-drawing-June-Shin.png" /><br />
 <caption>June Shin’s thank-you card to DesignDesign.Space, very much appreciated.</caption></p>
 <pre><code>box = content.newIntroduction()
 </code></pre>

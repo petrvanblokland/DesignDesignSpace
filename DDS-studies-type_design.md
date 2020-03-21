@@ -26,7 +26,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![w=800 x=center y=top](images/BK-Type-Design.png)
+![cover x=center y=top](images/BK-Type-Design.png)
 
 ~~~
 box = section.newMain()
@@ -56,7 +56,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/UpgradeFeatures.png)
+![cover y=top](images/UpgradeFeatures.png)
 
 ~~~
 box = section.newMain()
@@ -81,7 +81,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/SketchingTypeDesign.png)
+![cover y=top](images/SketchingTypeDesign.png)
 
 ~~~
 box = section.newMain()
@@ -91,7 +91,7 @@ box = section.newMain()
 
 How do you get your design process beyond the traditional Variable Font axes of weight, width and optical size? How to make your experience grow from Multiple Master Thinking into Variable Font thinking? Develop sketching techniques. Make the production and testing of Variable Fonts work inside the cycles of your design process.
 
-![w=800 y=top](images/NotesOndesignSpaces.png)
+![cover y=top](images/NotesOndesignSpaces.png)
 
 **Gerrit Noordzij Cube code by Just van Rossum**
 
@@ -110,7 +110,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 x=center y=top](images/tpCube.png)
+![cover x=center y=top](images/tpCube.png)
 
 ~~~
 box = section.newMain()
@@ -135,7 +135,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/TypeCooker.png)
+![cover y=top](images/TypeCooker.png)
 
 ~~~
 box = section.newMain()
@@ -160,7 +160,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/ATFSpecemin-Code04.png)
+![cover y=top](images/ATFSpecemin-Code04.png)
 
 ~~~
 box = section.newMain()
@@ -185,7 +185,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/TCTool01.png)
+![cover y=top](images/TCTool01.png)
 
 ~~~
 box = section.newMain()
@@ -209,7 +209,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/Latin-Chinese-Metrcis.png)
+![cover y=top](images/Latin-Chinese-Metrcis.png)
 
 ~~~
 box = section.newMain()
@@ -233,7 +233,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/E-Upgrade.png)
+![cover y=bottom](images/E-Upgrade.png)
 
 ~~~
 box = section.newMain()
@@ -252,4 +252,4 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![w=800 y=bottom](images/BK-Type-Design.png)
+![cover y=bottom](images/BK-Type-Design.png)
