@@ -90,16 +90,22 @@ box = section.newMain()
 ~~~
 ### Wednesday hangouts 19:00–22:00 Central European Time
 
+You are kindly requested to join from start to end, following all sessions, not occupying the space for another designer.
+
+Other times are possible, depending on where you live. 
+
 ~~~
 box = section.newCropped()
 ~~~
-![w=800 y=top](images/IMG_3148.jpg)
+![w=100% y=top](images/IMG_3148.jpg)
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding your designs in DrawBot 25/3 1/4 8/4
+## Coding your designs in [DrawBot](http://www.drawbot.com) 
+
+### March 25th + April 1st + April 8th
 
 * Start with one of your designs, or select a favourite publication.
 * Analyze the existing layout and prepare measurements to be coded.
@@ -112,13 +118,15 @@ The workshop assumes no experience with programming in Python. An Apple computer
 ~~~
 box = section.newCropped()
 ~~~
-![w=800 y=top](images/BK-Studio-Design.png)
+![w=100% y=top](images/affiche_op_de_kaart.png)
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-## What does your design space look like? 15/4 22/4 29/4
+## What does your design space look like? 
+
+### April 15th + April 22th + April 29th
 
 * Take your current workspace as a start to analyse.
 * Learn to look at the space from different points of view.
@@ -131,30 +139,35 @@ The workshop assumes no experience with 3D design.
 ~~~
 box = section.newCropped()
 ~~~
-![Model interior w=800 y=center x=left](images/IMG_E8927.jpg)
+![Model interior w=100% y=center](images/IMG_E8927.jpg)
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Type design crits 6/5 13/5 20/5
+## Type design crits 
+
+### May 6th + May 13th + May 20th
 
 * Start with one of your type designs that is being developed. Or take one of your favourite existing typefaces.
 * We ask questions, you do the work, getting valuable feedback and directions.
 * Develop some proofing tools, using Python and DrawBot.
+* Addressing topics, such as process, methods, variable design spaces, features and tools.
 
 The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
 
 ~~~
 box = section.newCropped()
 ~~~
-![w=800 y=top](images/BK-Studio-Design.png)
+![w=100% y=top](images/IMG_5640.jpg)
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding typography in Python and CSS 27/5 3/6 10/6
+## Coding typography in Python and CSS 
+
+### May 27th + Junr 3rd + June 10th
 
 * The workshop dives into the most important parameters, that make good typography. 
 * Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
@@ -163,13 +176,15 @@ box = section.newMain()
 ~~~
 box = section.newCropped()
 ~~~
-![w=800 y=top](images/BK-Studio-Design.png)
+![w=100% y=top](images/ATFSpecemin-Code04.png)
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Simple sketching techniques 17/6 24/6 1/7
+## Simple sketching techniques
+
+### June 17th + June 24th + July 1st
 
 * What is your design process like, before you open InDesign or a font editor?
 * We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
@@ -178,22 +193,24 @@ box = section.newMain()
 ~~~
 box = section.newCropped()
 ~~~
-![w=800 y=top](images/BK-Studio-Design.png)
+![w=100% y=top](images/DesignModels2.038.png)
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Running a small studio 8/7 15/7 22/7
+## Running a small studio
+
+### July 8th + July 15th + July 22nd
 
 * Tips and tricks on how to deal with customers.
-* Some hints for planning and pricing. 
-* Design your process.
+* Methods for planning and pricing. 
+* Design your process. Small iterations. Testing and feedback.
 
 ~~~
 box = section.newCropped()
 ~~~
-![w=800 y=top](images/BK-Studio-Design.png)
+![w=100% y=top](images/BNO-BuroBoek2008.png)
 
 ~~~
 section = content.newSection()
@@ -207,14 +224,16 @@ box = section.newMain()
 * Using some small assignments, we challenge you to sketch, think, design and give feedback to others.
 * Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.
 * We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.
-* You are kindly requested to join from start to end, not occupying the space for another designer.
+* You are kindly requested to join from start to end, following all sessions, not occupying the space for another designer.
 * DesignDesign.Space would appreciate to publish some of your work on this website.
 * Successfully finishing one of the free workshops gives the right to **20% reduction** on one of the other DesignDesign.Space studies.
 
 ---
 ## Why we offer this for free
 
-We are educators and we are designers, too. That means, we are curious how others design their design processes. We are open for suggestions about the workshops and about how you perceive the way we teach. For us, educating other designers is as much of a challenge as any design process.
+We like to share and express our solidatiry with you.
+
+Also, we are educators and we are designers, too. That means, we are curious how others design their design processes. We are open for suggestions about the workshops and about how you perceive the way we teach. For us, educating other designers is as much of a challenge as any design process.
 
 [Send us your request](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop) for topics that we never thought about. Or ideas about how the workshops can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.
 
@@ -236,4 +255,4 @@ These studies are regular DesignDesign.Space products. Check [here](pricing.html
 box = section.newCropped()
 ~~~
 
-![w=800 y=top](images/BK-Studio-Design.png)
+![w=100% y=top](images/BK-Studio-Design.png)
