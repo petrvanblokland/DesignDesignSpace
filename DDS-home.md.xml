@@ -83,13 +83,13 @@ box = section.newMain()
 <h3>Wednesday hangouts 19:00–22:00 Central European Time</h3>
 <ul>
 <li><em>Each workshop spans 2 weeks of work, including 3 hangouts, Slack and document sharing.</em></li>
-<li><em>Other times in the day are possible, depending on where you live.</em></li>
+<li><em>Other times in the day are possible, depending on other participants and where you live.</em></li>
 <li><em>Some experience with typography and graphic design is helpful in the workshops.</em></li>
 </ul>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top" src="images/IMG_3148.jpg" /></p>
+<p><img alt="cover y=top" src="images/IMG_8940.jpg" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>

@@ -92,13 +92,13 @@ box = section.newMain()
 ### Wednesday hangouts 19:00–22:00 Central European Time
 
 * *Each workshop spans 2 weeks of work, including 3 hangouts, Slack and document sharing.*
-* *Other times in the day are possible, depending on where you live.*
+* *Other times in the day are possible, depending on other participants and where you live.*
 * *Some experience with typography and graphic design is helpful in the workshops.*
 
 ~~~
 box = section.newCropped()
 ~~~
-![cover y=top](images/IMG_3148.jpg)
+![cover y=top](images/IMG_8940.jpg)
 
 ~~~
 section = content.newSection()
