@@ -82,7 +82,7 @@ DO_PDF = 'Pdf' # Save as PDF representation of the site.
 DO_FILE = 'File' # Generate website output in _export/SimpleSite and open browser on file index.html
 DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and open a localhost
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
-EXPORT_TYPES = [DO_MAMP, DO_GIT]
+EXPORT_TYPES = [DO_MAMP]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 
@@ -119,7 +119,7 @@ def makeTemplate(doc):
 
     # D E F A U L T
 
-    default = Template('Default', context=doc.context)
+    default = Template('Default', context=doc.context, parent=doc)
     wrapper = Wrapper(parent=default) # Create main page wrapper
     
     header = Header(parent=wrapper) # Header to hold logo and navigation elements
@@ -144,14 +144,14 @@ def makeTemplate(doc):
 
 def makeSite(styles, viewId):
     site = Site(styles=styles)
-    doc = site.newDocument(name='DDS_Site', viewId=viewId, autoPages=1, defaultImageWidth=MAX_IMAGE_WIDTH)
+    doc = site.newDocument(name='DDS_Site', viewId=viewId, autoPages=1)
     
     doc.theme = theme
 
     view = doc.view
     view.googleAdsAccount = '579-058-0554' 
     view.googleAnalyticsId = 'UA-138308355-1' #'UA-7015465-2' 
-    view.resourcePaths = ('css','fonts','images', 'code', 'js')
+    view.resourcePaths = ('css','fonts','scaled', 'code', 'js') # ./images/* get copy/scaled
     view.jsUrls = (
         URL_JQUERY, 
         'js/jquery.bbslider.min.js',
@@ -186,8 +186,9 @@ def makeSite(styles, viewId):
     page.applyTemplate(template) # Copy element tree to page.
 
     # By default, the typesetter produces a single Galley with content and code blocks.    
-    t = Typesetter(doc.context)
+    t = Typesetter(doc.context, maxImageWidth=900)
     for mdPath in MD_PATHS:
+        print('Typeset file', mdPath)
         t.typesetFile(mdPath)
     
     # Create a Composer for this document, then create pages and fill content. 
@@ -195,6 +196,7 @@ def makeSite(styles, viewId):
 
     # The composer executes the embedded Python code blocks that indicate where content should go.
     # by the HtmlContext. Feedback by the code blocks is added to verbose and errors list
+    print('Composing pages')
     targets = dict(doc=doc, page=page, template=template)
     composer.compose(t.galley, targets=targets)
 
@@ -206,12 +208,13 @@ def makeSite(styles, viewId):
             print('Errors\n', '\n'.join(targets['errors']))
     
     # Find the navigation elements and fill them, now we know all the pages.
+    print('Make navigation')
     makeNavigation(doc)
 
     # https://www.hyphenator.net/en/word/...
-    unknownWords = doc.spellCheck(LANGUAGE_EN)
-    if unknownWords:
-        print(unknownWords)
+    #unknownWords = doc.spellCheck(LANGUAGE_EN)
+    #if unknownWords:
+    #    print(unknownWords)
 
     return doc
 
@@ -258,7 +261,7 @@ if DO_GIT in EXPORT_TYPES: # Not supported for SimpleSite, only one per reposito
 
     # Open the css file in the default editor of your local system.
     if 0:
-        os.system('/usr/bin/git pull')
+        os.system('/usr/bin/git pull')  
         os.system('/usr/bin/git add *')
         os.system('/usr/bin/git commit -m "Updating website changes."')
         os.system('/usr/bin/git pull')

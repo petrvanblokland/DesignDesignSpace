@@ -33,8 +33,10 @@ page.name = 'Home'
 page.url = 'index.html'
 content = page.select('Content')
 box = content.newBanner()
-~~~
+
 # Which studies can we offer you in 2020?
+~~~
+# Free workshops in 2020
 ~~~
 from pagebot.constants import *
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
@@ -66,7 +68,7 @@ box = slideshow.side
 
 ## Temporary free workshops
 
-In Corona-world, life changed. Working and studying from home is for many the new reality. To distract yourself a bit from this new parallel universe, the question is: **What to do?** DesignDesign.Space offers you a series of **free workshops** in the upcoming months. Check them out.
+In Corona world, life has changed. Working and studying from home is the new reality for many. To distract yourself a bit from this new parallel universe, the question is: **What to do?** DesignDesign.Space offers you a series of **free workshops** in the upcoming months. Check them out.
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
@@ -74,7 +76,7 @@ In Corona-world, life changed. Working and studying from home is for many the ne
 box = content.newIntroduction()
 ~~~
 
-# Working from home? Studying online in Corona-world? DesignDesign.Space offers a series of free workshops. Check the dates and topics. Subscribe by [e-mail](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop). First come, first served.
+# Working from home? Studying online in Corona world? DesignDesign.Space offers a series of **free workshops**. Check the dates and topics. Subscribe by [e-mail](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop). Limited places. First come, first served.
 
 ~~~ 
 #box = section.newCropped()
@@ -91,17 +93,17 @@ box = section.newMain()
 ~~~
 box = section.newCropped()
 ~~~
-![w=800 y=top](images/BK-Studio-Design.png)
+![w=800 y=top](images/IMG_3148.jpg)
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding designs in DrawBot 25/3 1/4 8/4
+## Coding your designs in DrawBot 25/3 1/4 8/4
 
-* Start with one of your designs, or another favourite publication.
+* Start with one of your designs, or select a favourite publication.
 * Analyze the existing layout and prepare measurements to be coded.
-* Learn to write the program that generates a similar PDF document.
+* Learn to write a program that generates a similar PDF document.
 * Design methods to generalize your code for other publications.
 * Use the coding in your daily sketching process.
 
@@ -118,8 +120,8 @@ box = section.newMain()
 ~~~
 ## What does your design space look like? 15/4 22/4 29/4
 
-* Take your current workspace as start to analyse.
-* Learn to look at the space with different eyes.
+* Take your current workspace as a start to analyse.
+* Learn to look at the space from different points of view.
 * What do you want to keep? And what could be improved?
 * Develop sketching techniques to design your environment.
 
@@ -137,9 +139,9 @@ box = section.newMain()
 ~~~
 ## Type design crits 6/5 13/5 20/5
 
-* Start with one of your type designs that is under development. Or take one of your favourite existing typefaces.
+* Start with one of your type designs that is being developed. Or take one of your favourite existing typefaces.
 * We ask questions, you do the work, getting valuable feedback and directions.
-* Develop some proofing tools, using DrawBot Python.
+* Develop some proofing tools, using Python and DrawBot.
 
 The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
 
@@ -154,8 +156,8 @@ box = section.newMain()
 ~~~
 ## Coding typography in Python and CSS 27/5 3/6 10/6
 
-* The workshop dives into the most important parameters the make good typography. 
-* Learn about the differenve between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
+* The workshop dives into the most important parameters, that make good typography. 
+* Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
 * Investigate methods to connect this knowledge with your daily design practice.
 
 ~~~
@@ -182,19 +184,34 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
+## Running a small studio 8/7 15/7 22/7
+
+* Tips and tricks on how to deal with customers.
+* Some hints for planning and pricing. 
+* Design your process.
+
+~~~
+box = section.newCropped()
+~~~
+![w=800 y=top](images/BK-Studio-Design.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
 ## How free workshops work: some rules
 
 * Subscribe for a workshop of your choice, by sending an e-mail to [info@designdesign.space](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 * Describe your daily profession and how that relates to the topic of the workshop. Add some samples of your work.
-* Workshop are limited to maximal 10 students. First come, first served. 
+* Workshops are limited to a maximum 10 students. First come, first served. 
 * Using some small assignments, we challenge you to sketch, think, design and give feedback to others.
 * Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.
-* We create an online platform, accessable for all students of the workshop, to share work, questions, comments and documents.
+* We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.
 * You are kindly requested to join from start to end, not occupying the space for another designer.
 * DesignDesign.Space would appreciate to publish some of your work on this website.
 
 ---
-## Why we offer this
+## Why we offer this for free
 
 We are educators and we are designers, too. That means, we are curious how others design their design processes. We are open for suggestions about the workshops and about how you perceive the way we teach. For us, educating other designers is as much of a challenge as any design process.
 
@@ -204,7 +221,7 @@ If you tell us what you want to study by mail or in a first free online hangout,
 
 ---
 
-## Other (not free) study suggestions
+## Other study suggestions
 
 * [Type design](studies-type_design.html)
 * [Typography](studies-typography.html)
@@ -213,6 +230,7 @@ If you tell us what you want to study by mail or in a first free online hangout,
 * [Design practice](studies-design_practice.html)
 * [Design education](studies-design_education.html)
 
+These studies are regular DesignDesign.Space products. Check [here](pricing.html) for prices.
 ~~~
 box = section.newCropped()
 ~~~
