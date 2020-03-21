@@ -270,4 +270,4 @@ These studies are regular DesignDesign.Space products. Check [here](pricing.html
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/BK-Studio-Design.png)
+![w=100% y=top](images/BK-Studio-Design.png)
