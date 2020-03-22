@@ -71,6 +71,9 @@ box = slideshow.side
 
 In Corona world, life has changed. Working and studying from home is the new reality for many. To distract yourself a bit from this new parallel universe, the question is: **What to do?** DesignDesign.Space offers you a series of **free workshops** in the upcoming months. Check them out.
 
+#[How this works](#how-free-workshops-work)
+#[Why we offer this for free](#why-we-offer-this-for-free)
+<br/>
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
 ~~~
@@ -219,6 +222,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
+<a name="how-free-workshops-work"/>
 ## How free workshops work: some rules
 
 #### Subscribing
@@ -230,10 +234,9 @@ box = section.newMain()
 #### The workshop
 
 * Using some small assignments, we challenge you to sketch, think, design and give feedback to others.
-* Each workshop spans several sessions. There is enough time between them to give you the opportunity to process the questions of one session into the next one.
+* Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.
 * We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.
-* You are encouraged to join the whole workshop from start to end, finishing with a micro-graduation project.
-* We appreciate that you – once started, follow all sessions, not occupying the space that another designer may have wanted.
+* You are encouraged to join the whole workshop from start to end, following all sessions, not occupying the space for another designer.
 
 #### And after...
 
@@ -241,6 +244,7 @@ box = section.newMain()
 * Successfully finishing one of the free workshops gives the right to **20% reduction** on one of the other DesignDesign.Space studies.
 
 ---
+<a name="why-we-offer-this-for-free"/>
 ## Why we offer this for free
 
 We like to share and express our solidarity with you.
@@ -264,7 +268,8 @@ If you tell us what you want to study by mail or in a first free online hangout,
 * [Design practice](studies-design_practice.html)
 * [Design education](studies-design_education.html)
 
-These studies are regular DesignDesign.Space products. Check [here](pricing.html) for prices.<br/>Typeface of this site: [TYPETR Upgrade](http://upgrade.typenetwork.com)
+These studies are regular DesignDesign.Space products. Check [here](pricing.html) for prices.<br/>
+Typeface of this site: [TYPETR Upgrade](http://upgrade.typenetwork.com)
 
 ~~~
 box = section.newCropped()

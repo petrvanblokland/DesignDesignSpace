@@ -66,6 +66,9 @@ box = slideshow.slides
 <h3>Develop your process. Expand your skills.</h3>
 <h2>Temporary free workshops</h2>
 <p>In Corona world, life has changed. Working and studying from home is the new reality for many. To distract yourself a bit from this new parallel universe, the question is: <strong>What to do?</strong> DesignDesign.Space offers you a series of <strong>free workshops</strong> in the upcoming months. Check them out.</p>
+<h1><a href="#how-free-workshops-work">How this works</a></h1>
+<h1><a href="#why-we-offer-this-for-free">Why we offer this for free</a></h1>
+<p><br/></p>
 <h1><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Contact us</a></h1>
 <pre><code>box = content.newIntroduction()
 </code></pre>
@@ -192,6 +195,7 @@ box = section.newMain()
 box = section.newMain()
 </code></pre>
 
+<p><a name="how-free-workshops-work"/></p>
 <h2>How free workshops work: some rules</h2>
 <h4>Subscribing</h4>
 <ul>
@@ -202,10 +206,9 @@ box = section.newMain()
 <h4>The workshop</h4>
 <ul>
 <li>Using some small assignments, we challenge you to sketch, think, design and give feedback to others.</li>
-<li>Each workshop spans several sessions. There is enough time between them to give you the opportunity to process the questions of one session into the next one.</li>
+<li>Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.</li>
 <li>We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.</li>
-<li>You are encouraged to join the whole workshop from start to end, finishing with a micro-graduation project.</li>
-<li>We appreciate that you – once started, follow all sessions, not occupying the space that another designer may have wanted.</li>
+<li>You are encouraged to join the whole workshop from start to end, following all sessions, not occupying the space for another designer.</li>
 </ul>
 <h4>And after...</h4>
 <ul>
@@ -213,6 +216,7 @@ box = section.newMain()
 <li>Successfully finishing one of the free workshops gives the right to <strong>20% reduction</strong> on one of the other DesignDesign.Space studies.</li>
 </ul>
 <hr />
+<p><a name="why-we-offer-this-for-free"/></p>
 <h2>Why we offer this for free</h2>
 <p>We like to share and express our solidarity with you.</p>
 <p>Also, we are educators and we are designers, too. That means, we are curious how others design their design processes. We are open for suggestions about the workshops and about how you perceive the way we teach. For us, educating other designers is as much of a challenge as any design process.</p>
@@ -230,7 +234,8 @@ box = section.newMain()
 <li><a href="studies-design_practice.html">Design practice</a></li>
 <li><a href="studies-design_education.html">Design education</a></li>
 </ul>
-<p>These studies are regular DesignDesign.Space products. Check <a href="pricing.html">here</a> for prices.<br/>Typeface of this site: <a href="http://upgrade.typenetwork.com">TYPETR Upgrade</a></p>
+<p>These studies are regular DesignDesign.Space products. Check <a href="pricing.html">here</a> for prices.<br/><br />
+Typeface of this site: <a href="http://upgrade.typenetwork.com">TYPETR Upgrade</a></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
