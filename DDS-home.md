@@ -107,7 +107,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding your designs in [DrawBot](http://www.drawbot.com) 
+## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked]
 
 ### March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span>
 
