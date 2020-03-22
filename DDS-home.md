@@ -151,7 +151,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Type design crits [5 places left]
+## Type design crits [4 places left]
 
 ### May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span>
 
