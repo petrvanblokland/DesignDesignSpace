@@ -151,9 +151,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Type design crits [4 places left]
+## Type design crits
 
-### May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span>
+### May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span> [4 places left]
 
 * Start with one of your type designs that is being developed. Or take one of your favourite existing typefaces.
 * We ask questions, you do the work, getting valuable feedback and directions.
@@ -171,9 +171,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding typography in Python and CSS [8 places left]
+## Coding typography in Python and CSS 
 
-### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span>
+### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [8 places left]
 
 * The workshop dives into the most important parameters, that make good typography. 
 * Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
@@ -188,9 +188,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Simple sketching techniques [10 places left]
+## Simple sketching techniques 
 
-### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span>
+### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [10 places left]
 
 * What is your design process like, before you open InDesign or a font editor?
 * We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
@@ -205,9 +205,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Running a small studio [9 places left]
+## Running a small studio 
 
-### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span>
+### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span> [9 places left]
 
 * Tips and tricks on how to deal with customers.
 * Methods for planning and pricing. 
