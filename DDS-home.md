@@ -130,9 +130,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## What does your design space look like? [9 places left]
+## What does your design space look like? 
 
-### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span>
+### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [9 places left]
 
 * Take your current workspace as a start to analyse.
 * Learn to look at the space from different points of view.
