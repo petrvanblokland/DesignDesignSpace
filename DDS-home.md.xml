@@ -134,7 +134,7 @@ box = section.newMain()
 </code></pre>
 
 <h2>Type design crits</h2>
-<h3>May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span> [4 places left]</h3>
+<h3>May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span> [3 places left]</h3>
 <ul>
 <li>Start with one of your type designs that is being developed. Or take one of your favourite existing typefaces.</li>
 <li>We ask questions, you do the work, getting valuable feedback and directions.</li>
@@ -151,10 +151,11 @@ box = section.newMain()
 </code></pre>
 
 <h2>Coding typography in Python and CSS</h2>
-<h3>May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [8 places left]</h3>
+<h3>May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [7 places left]</h3>
 <ul>
 <li>The workshop dives into the most important parameters, that make good typography. </li>
 <li>Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).</li>
+<li>We may have a look at <a href="https://github.com/PageBot/PageBot/blob/master/README.md">PageBot</a></li>
 <li>Investigate methods to connect this knowledge with your daily design practice.</li>
 </ul>
 <pre><code>box = section.newCropped()
@@ -234,8 +235,8 @@ box = section.newMain()
 <li><a href="studies-design_practice.html">Design practice</a></li>
 <li><a href="studies-design_education.html">Design education</a></li>
 </ul>
-<p>These studies are regular DesignDesign.Space products. Check <a href="pricing.html">here</a> for prices.<br/><br />
-Typeface of this site: <a href="http://upgrade.typenetwork.com">TYPETR Upgrade</a></p>
+<p>These studies are regular DesignDesign.Space products. Check <a href="pricing.html">here</a> for prices.</p>
+<h4>Typeface of this website: <a href="http://upgrade.typenetwork.com">TYPETR Upgrade</a></h4>
 <pre><code>box = section.newCropped()
 </code></pre>
 

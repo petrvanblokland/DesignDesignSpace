@@ -153,7 +153,7 @@ box = section.newMain()
 ~~~
 ## Type design crits
 
-### May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span> [4 places left]
+### May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span> [3 places left]
 
 * Start with one of your type designs that is being developed. Or take one of your favourite existing typefaces.
 * We ask questions, you do the work, getting valuable feedback and directions.
@@ -173,11 +173,13 @@ box = section.newMain()
 ~~~
 ## Coding typography in Python and CSS 
 
-### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [8 places left]
+### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [7 places left]
 
 * The workshop dives into the most important parameters, that make good typography. 
 * Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
+* We may have a look at [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md)
 * Investigate methods to connect this knowledge with your daily design practice.
+
 
 ~~~
 box = section.newCropped()
@@ -268,8 +270,9 @@ If you tell us what you want to study by mail or in a first free online hangout,
 * [Design practice](studies-design_practice.html)
 * [Design education](studies-design_education.html)
 
-These studies are regular DesignDesign.Space products. Check [here](pricing.html) for prices.<br/>
-Typeface of this site: [TYPETR Upgrade](http://upgrade.typenetwork.com)
+These studies are regular DesignDesign.Space products. Check [here](pricing.html) for prices.
+
+#### Typeface of this website: [TYPETR Upgrade](http://upgrade.typenetwork.com)
 
 ~~~
 box = section.newCropped()
