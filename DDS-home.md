@@ -130,7 +130,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## What does your design space look like? 
+## What does your design space look like? [9 places left]
 
 ### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span>
 
@@ -151,7 +151,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Type design crits 
+## Type design crits [5 places left]
 
 ### May 6<span class="sup">th</span> + 13<span class="sup">th</span> + 20<span class="sup">th</span>
 
@@ -171,7 +171,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding typography in Python and CSS 
+## Coding typography in Python and CSS [8 places left]
 
 ### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span>
 
@@ -188,7 +188,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Simple sketching techniques
+## Simple sketching techniques [10 places left]
 
 ### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span>
 
@@ -205,7 +205,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Running a small studio
+## Running a small studio [9 places left]
 
 ### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span>
 
