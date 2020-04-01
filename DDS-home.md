@@ -176,7 +176,7 @@ box = section.newMain()
 ~~~
 ## Coding typography in Python and CSS 
 
-### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [2 places left]
+### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [1 place left]
 
 * The workshop dives into the most important parameters, that make good typography. 
 * Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
