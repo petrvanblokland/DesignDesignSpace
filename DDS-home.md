@@ -107,7 +107,7 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked]
+## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked, currently running]
 
 ### March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span>
 
@@ -132,7 +132,7 @@ box = section.newMain()
 ~~~
 ## What does your design space look like? 
 
-### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [9 places left]
+### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [7 places left]
 
 * Take your current workspace as a start to analyse.
 * Learn to look at the space from different points of view.
@@ -141,6 +141,7 @@ box = section.newMain()
 
 The workshop requires no prior experience with 3D design.
 
+*If you applied, and did not get feedback from us yet, please email again.*
 
 ~~~
 box = section.newCropped()
@@ -162,6 +163,8 @@ box = section.newMain()
 
 The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
 
+*If you applied, and did not get feedback from us yet, please email again.*
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -173,13 +176,14 @@ box = section.newMain()
 ~~~
 ## Coding typography in Python and CSS 
 
-### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [4 places left]
+### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [2 places left]
 
 * The workshop dives into the most important parameters, that make good typography. 
 * Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
 * We may have a look at [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md)
 * Investigate methods to connect this knowledge with your daily design practice.
 
+*If you applied, and did not get feedback from us yet, please email again.*
 
 ~~~
 box = section.newCropped()
@@ -192,11 +196,13 @@ box = section.newMain()
 ~~~
 ## Simple sketching techniques 
 
-### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [9 places left]
+### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [7 places left]
 
 * What is your design process like, before you open InDesign or a font editor?
 * We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
 * Learn to appreciate short design cycles and mixed techniques.
+
+*If you applied, and did not get feedback from us yet, please email again.*
 
 ~~~
 box = section.newCropped()
@@ -209,11 +215,13 @@ box = section.newMain()
 ~~~
 ## Running a small studio 
 
-### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span> [8 places left]
+### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span> [4 places left]
 
 * Tips and tricks on how to deal with customers.
 * Methods for planning and pricing. 
 * Design your process. Small iterations. Testing and feedback.
+
+*If you applied, and did not get feedback from us yet, please email again.*
 
 ~~~
 box = section.newCropped()
