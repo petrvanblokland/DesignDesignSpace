@@ -196,7 +196,7 @@ box = section.newMain()
 ~~~
 ## Simple sketching techniques 
 
-### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [7 places left]
+### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [5 places left]
 
 * What is your design process like, before you open InDesign or a font editor?
 * We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
