@@ -174,9 +174,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Coding typography in Python and CSS 
+## Coding typography in Python and CSS [Fully booked]
 
-### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> [1 place left]
+### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> 
 
 * The workshop dives into the most important parameters, that make good typography. 
 * Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
