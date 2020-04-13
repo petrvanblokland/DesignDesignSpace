@@ -164,7 +164,9 @@ box = section.newMain()
 * We may have a look at [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md)
 * Investigate methods to connect this knowledge with your daily design practice.
 
-*If you applied, and did not get feedback from us yet, please email again.*
+The workshop assumes no experience with programming in Python or CSS. An Apple computer is required to run the DrawBot application. 
+
+*DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen*
 
 ~~~
 box = section.newCropped()
