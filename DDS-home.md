@@ -275,7 +275,7 @@ box = section.newMain()
 ~~~
 # Finished free workshops
 
-## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked, finishing]
+## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked, finished]
 
 ### March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span>
 
