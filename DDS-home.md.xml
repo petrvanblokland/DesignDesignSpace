@@ -86,32 +86,15 @@ box = section.newMain()
 <h3>Wednesday hangouts 19:00–22:00 Central European Time</h3>
 <ul>
 <li><em>Each workshop spans 2 weeks of work, including 3 hangouts, Slack and document sharing.</em></li>
-<li><em>Other times in the day are possible, depending on other participants and where you live.</em></li>
+<li><em>Other times in the day are possible, depending on the location of participants.</em></li>
 <li><em>Some experience with typography and graphic design is helpful in the workshops.</em></li>
 </ul>
+<h3>If the free workshops of your choice are fully booked, keep checking here for new ones being offered in the future. And of course... You can always decide to do a paid study, which can start anytime.</h3>
+<h3>Get 20% off your next paid workshop, after finishing one of the free ones.</h3>
 <pre><code>box = section.newCropped()
 </code></pre>
 
 <p><img alt="cover y=top" src="images/IMG_8940.jpg" /></p>
-<pre><code>section = content.newSection()
-box = section.newMain()
-</code></pre>
-
-<h2>Coding your designs in <a href="http://www.drawbot.com">DrawBot</a> [Fully booked, finishing today]</h2>
-<h3>March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span></h3>
-<ul>
-<li>Start with one of your designs, or select a favourite publication.</li>
-<li>Analyze the existing layout and prepare measurements to be coded.</li>
-<li>Learn to write a program that generates a similar PDF document.</li>
-<li>Design methods to generalize your code for other publications.</li>
-<li>Use the coding in your daily sketching process.</li>
-</ul>
-<p>The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. </p>
-<p><em>DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen</em></p>
-<pre><code>box = section.newCropped()
-</code></pre>
-
-<p><img alt="cover y=top x=center" src="images/DrawBotHomePage.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
@@ -185,8 +168,8 @@ box = section.newMain()
 box = section.newMain()
 </code></pre>
 
-<h2>Running a small studio</h2>
-<h3>July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span> [4 places left]</h3>
+<h2>Running a small studio [Fully booked]</h2>
+<h3>July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span></h3>
 <ul>
 <li>Tips and tricks on how to deal with customers.</li>
 <li>Methods for planning and pricing. </li>
@@ -245,4 +228,24 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="w=100% y=top" src="images/BK-Studio-Design.png" /></p></document>
+<p><img alt="w=100% y=top" src="images/BK-Studio-Design.png" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<h1>Finished free workshops</h1>
+<h2>Coding your designs in <a href="http://www.drawbot.com">DrawBot</a> [Fully booked, finishing]</h2>
+<h3>March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span></h3>
+<ul>
+<li>Start with one of your designs, or select a favourite publication.</li>
+<li>Analyze the existing layout and prepare measurements to be coded.</li>
+<li>Learn to write a program that generates a similar PDF document.</li>
+<li>Design methods to generalize your code for other publications.</li>
+<li>Use the coding in your daily sketching process.</li>
+</ul>
+<p>The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. </p>
+<p><em>DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen</em></p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top x=center" src="images/DrawBotHomePage.png" /></p></document>

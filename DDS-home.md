@@ -95,36 +95,17 @@ box = section.newMain()
 ### Wednesday hangouts 19:00–22:00 Central European Time
 
 * *Each workshop spans 2 weeks of work, including 3 hangouts, Slack and document sharing.*
-* *Other times in the day are possible, depending on other participants and where you live.*
+* *Other times in the day are possible, depending on the location of participants.*
 * *Some experience with typography and graphic design is helpful in the workshops.*
+
+### If the free workshops of your choice are fully booked, keep checking here for new ones being offered in the future. And of course... You can always decide to do a paid study, which can start anytime.
+
+### Get 20% off your next paid workshop, after finishing one of the free ones.
 
 ~~~
 box = section.newCropped()
 ~~~
 ![cover y=top](images/IMG_8940.jpg)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked, finishing today]
-
-### March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span>
-
-* Start with one of your designs, or select a favourite publication.
-* Analyze the existing layout and prepare measurements to be coded.
-* Learn to write a program that generates a similar PDF document.
-* Design methods to generalize your code for other publications.
-* Use the coding in your daily sketching process.
-
-The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
-
-*DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen*
-
-~~~
-box = section.newCropped()
-~~~
-![cover y=top x=center](images/DrawBotHomePage.png)
 
 ~~~
 section = content.newSection()
@@ -213,9 +194,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Running a small studio 
+## Running a small studio [Fully booked]
 
-### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span> [4 places left]
+### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span> 
 
 * Tips and tricks on how to deal with customers.
 * Methods for planning and pricing. 
@@ -287,3 +268,29 @@ box = section.newCropped()
 ~~~
 
 ![w=100% y=top](images/BK-Studio-Design.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+# Finished free workshops
+
+## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked, finishing]
+
+### March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span>
+
+* Start with one of your designs, or select a favourite publication.
+* Analyze the existing layout and prepare measurements to be coded.
+* Learn to write a program that generates a similar PDF document.
+* Design methods to generalize your code for other publications.
+* Use the coding in your daily sketching process.
+
+The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
+
+*DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen*
+
+~~~
+box = section.newCropped()
+~~~
+![cover y=top x=center](images/DrawBotHomePage.png)
+
