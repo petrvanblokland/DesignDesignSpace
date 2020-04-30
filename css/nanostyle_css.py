@@ -157,7 +157,7 @@ h5 a:hover {
 .clearfix {
   overflow: auto; /* CSS hack to grow div including all child content. */
 }
-.textbox {
+.text {
     width: 100%%;
 }
 
@@ -313,13 +313,13 @@ ul.navmenu:after {
     margin: 6pt 0 6pt 0;
     background-color: #%(banner.fill)s;
 }
-.banner .textbox h1 {
+.banner .text h1 {
     font-size: 3em;
     line-height: 1.3em;
     font-family: 'Upgrade-Regular', sans-serif;
     color: #%(banner.textFill)s;
 }
-.banner .textbox h1 a { /* TRY Link in headlines */
+.banner .text h1 a { /* TRY Link in headlines */
     font-size: 0.75em;
     line-height: 1.3em;
     background-color: #%(banner.textFill)s;
@@ -327,7 +327,7 @@ ul.navmenu:after {
     color: white;
     padding: 0.2em;
 }
-.banner .textbox h1 a:hover { 
+.banner .text h1 a:hover { 
     color: #DDD;
 }
 
@@ -346,20 +346,20 @@ ul.navmenu:after {
     background-color: #%(intro.fill)s;
     padding: 1em;
 }
-.introduction .textbox h1 {
+.introduction .text h1 {
     font-size: 3em;
     line-height: 1.2em;
     font-family: 'Upgrade-Light', sans-serif;
     color: #%(intro.textFill)s;
 }
-.introduction .textbox h1 a {
+.introduction .text h1 a {
     font-family: 'Upgrade-Book', sans-serif;
     color: #%(intro.textLink)s;
 }
-.introduction .textbox h1 a:hover {
+.introduction .text h1 a:hover {
     color: #%(intro.textHover)s;
 }
-.introduction .textbox h1 strong {
+.introduction .text h1 strong {
     font-family: 'Upgrade-Regular', sans-serif;
 }
 
@@ -379,42 +379,42 @@ ul.navmenu:after {
     background-color: #%(group.fillDiap)s;
     padding: 0 1em 1em 0;
 }
-.slideside .textbox h1 {
+.slideside .text h1 {
     color: #%(h2.textFillDiap)s;
     letter-spacing: 0.04em;
     font-size: 1.4em;
     line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
-.slideside .textbox h1 a {
+.slideside .text h1 a {
     color: #FC6F08;
     /*color: #%(base3)s;*/
 }
-.slideside .textbox h1 a:hover {
+.slideside .text h1 a:hover {
     color: #%(base3.colorFront)s;
 }
-.slideside .textbox h2 {
+.slideside .text h2 {
     color: #%(h2.textFillDiap)s;
     letter-spacing: 0.025em;
     font-size: 1.4em;
     line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
-.slideside .textbox h3 {
+.slideside .text h3 {
     color: #%(h3.textFillDiap)s;
     letter-spacing: 0.025em;
     font-size: 1.1em;
     line-height: 1.2em;
     font-family: 'Upgrade-Medium';
 }
-.slideside .textbox p {
+.slideside .text p {
     color: #%(p.textFillDiap)s;
     letter-spacing: 0.025em;
     font-size: 1em;
     line-height: 1.4em;
     font-family: 'Upgrade-Regular';
 }
-.slideside .textbox p em {
+.slideside .text p em {
     fony-style: normal;
     font-family: 'Upgrade-RegularItalic';
 }
@@ -449,7 +449,7 @@ li sup { /* Superior Scale number in Menu */
 .content {
     padding:1em;
 }
-.caption .textbox {
+.caption .text {
     font-family: 'Upgrade-RegularItalic';
     font-size: 1em;
     line-height: 1.4em;
@@ -468,18 +468,18 @@ li sup { /* Superior Scale number in Menu */
     row-gap: 10px;    
 }
 .main {
-    padding: 0 %(side.padding)s;
+    padding: 0 %(side.pr)s;
     border-top: 15px solid #%(hr.stroke)s;
 }
-.main .textbox h2 {
+.main .text h2 {
     font-family: 'Upgrade-Medium';
     color: #%(base3)s;
     /*color: #FC6F08;*/
 }
-.main .textbox h2 a {
+.main .text h2 a {
     color: #%(dark3)s;
 }
-.main .textbox h2 a.hover {
+.main .text h2 a.hover {
     color: #%(light3)s;
     background-color: #%(darker3)s;
 }
@@ -490,7 +490,7 @@ li sup { /* Superior Scale number in Menu */
     row-gap: 10px;    
 }
 .side {
-    padding: 0 %(side.padding)s;
+    padding: 0 %(side.pr)s;
     border-top: 15px solid #%(hr.stroke)s;
 }
 
@@ -501,7 +501,7 @@ floating elements inside.*/
     border-top: 15px solid #%(hr.stroke)s;
 }
 /* Solve Cropped empty <p> first.
-.cropped .textbox {
+.cropped .text {
     padding: 0.5em 1em;
     background-color: rgba(255, 255, 255, 0.8);
 }
@@ -583,15 +583,15 @@ MEDIAQUERIES
     .mobilemenu .button2 {
         font-size: 1.5em;
     }
-    .banner .textbox h1 {
+    .banner .text h1 {
         font-size: 2.4em;
         line-height: 1.15em;
     }
-    .banner .textbox h2 {
+    .banner .text h2 {
         font-size: 2.2em;
         line-height: 1.15em;
     }
-    .banner .textbox p {
+    .banner .text p {
         font-size: 1.25em;
         line-height: 1.3em;
     }
@@ -602,15 +602,15 @@ MEDIAQUERIES
         padding-left: 12pt;
         padding-right: 12pt;
     }
-    .slideside .textbox p {
+    .slideside .text p {
         font-size: 1.25em;
         line-height: 1.3em;
     }
-    .introduction .textbox h1 {
+    .introduction .text h1 {
         font-size: 2.25em;
         line-height: 1.2em;
     }
-    .caption .textbox {
+    .caption .text {
         font-family: 'Upgrade-RegularItalic';
         font-size: 1.25em;
         line-height: 1.3em;
@@ -649,7 +649,7 @@ MEDIAQUERIES
         display: none;
     }
 
-    .banner .textbox h1 {
+    .banner .text h1 {
         font-size: 3em;
         line-height: 1em;
     }
@@ -672,7 +672,7 @@ MEDIAQUERIES
         display: none;
     }
 
-    .banner .textbox h1 {
+    .banner .text h1 {
         font-size: 2.5em;
         line-height: 1.1em;
     }

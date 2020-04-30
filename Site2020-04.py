@@ -18,12 +18,12 @@ import os
 import shutil
 import webbrowser
 
+from pagebot.contexts import getContext
 from pagebot.publications.publication import Publication
 from pagebot.constants import URL_JQUERY, LANGUAGE_EN
 from pagebot.composer import Composer
 from pagebot.typesetter import Typesetter
 from pagebot.elements import *
-from pagebot.conditions import *
 from pagebot.toolbox.color import color, whiteColor, blackColor, spotColor
 from pagebot.toolbox.units import em, pt
 from pagebot.elements.web.nanosite.siteelements import *
@@ -53,10 +53,12 @@ class DDSTheme(BaseTheme):
 
 theme = DDSTheme('light')
 
+context = getContext('Html')
+assert context is not None
+
 SITE_NAME = 'DesignDesign.Space' # Also used as logo
 
 MD_PATHS = [
-    #'Program2019-03-25-Scales.md'
     'DDS-home.md',
     'DDS-studies.md',
     'DDS-studies-type_design.md',
@@ -82,7 +84,7 @@ DO_PDF = 'Pdf' # Save as PDF representation of the site.
 DO_FILE = 'File' # Generate website output in _export/SimpleSite and open browser on file index.html
 DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and open a localhost
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
-EXPORT_TYPES = [DO_MAMP, DO_GIT]
+EXPORT_TYPES = [DO_GIT, DO_MAMP]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 
@@ -119,7 +121,7 @@ def makeTemplate(doc):
 
     # D E F A U L T
 
-    default = Template('Default', context=doc.context, parent=doc)
+    default = Template('Default', parent=doc)
     wrapper = Wrapper(parent=default) # Create main page wrapper
     
     header = Header(parent=wrapper) # Header to hold logo and navigation elements
@@ -142,9 +144,9 @@ def makeTemplate(doc):
     doc.addTemplate('default', default)
     return default
 
-def makeSite(styles, viewId):
+def makeSite(styles, viewId, context):
     site = Site(styles=styles)
-    doc = site.newDocument(name='DDS_Site', viewId=viewId, autoPages=1)
+    doc = site.newDocument(name='DDS_Site', viewId=viewId, autoPages=1, context=context)
     
     doc.theme = theme
 
@@ -161,7 +163,7 @@ def makeSite(styles, viewId):
     
     # Generate css by mapping theme.mood on cssPy 
     cssPath = 'css/nanostyle_py.css'
-    doc.context.b.writeCss(cssPath, cssPy % theme.mood)
+    view.context.b.writeCss(cssPath, cssPy % theme.mood)
 
     view.cssUrls = (
         'css/jquery.bbslider.css',
@@ -186,7 +188,7 @@ def makeSite(styles, viewId):
     page.applyTemplate(template) # Copy element tree to page.
 
     # By default, the typesetter produces a single Galley with content and code blocks.    
-    t = Typesetter(doc.context, maxImageWidth=MAX_IMAGE_WIDTH)
+    t = Typesetter(view.context, maxImageWidth=MAX_IMAGE_WIDTH)
     for mdPath in MD_PATHS:
         print('Typeset file', mdPath)
         t.typesetFile(mdPath)
@@ -219,19 +221,19 @@ def makeSite(styles, viewId):
     return doc
 
 if DO_PDF in EXPORT_TYPES: # PDF representation of the site
-    doc = makeSite(styles=styles, viewId='Page')
+    doc = makeSite(styles=styles, viewId='Page', context=context)
     doc.solve() # Solve all layout and float conditions for pages and elements.
     doc.export(EXPORT_PATH + '.pdf')
 
 if DO_FILE in EXPORT_TYPES:
-    doc = makeSite(styles=styles, viewId='Site')
+    doc = makeSite(styles=styles, viewId='Site', context=context)
     doc.export(EXPORT_PATH)
-    openingPage = 'program-2019.html'
+    openingPage = 'program-2020.html'
     os.system(u'/usr/bin/open "%s/%s"' % (EXPORT_PATH, openingPage))
 
 if DO_MAMP in EXPORT_TYPES:
     # Internal CSS file may be switched off for development.
-    doc = makeSite(styles=styles, viewId='Mamp')
+    doc = makeSite(styles=styles, viewId='Mamp', context=context)
     mampView = doc.view
     MAMP_PATH = '/Applications/MAMP/htdocs/' 
     filePath = MAMP_PATH + SITE_NAME 
@@ -250,7 +252,7 @@ if DO_MAMP in EXPORT_TYPES:
 
 if DO_GIT in EXPORT_TYPES: # Not supported for SimpleSite, only one per repository?
     # Make sure outside always has the right generated CSS
-    doc = makeSite(styles=styles, viewId='Git')
+    doc = makeSite(styles=styles, viewId='Git', context=context)
     gitView = doc.view
     GIT_PATH = 'docs/' 
     if VERBOSE:

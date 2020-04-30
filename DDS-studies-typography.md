@@ -1,7 +1,7 @@
 
 ~~~
 # ----------------------------------------
-# Studies/2019 Studies/typography.html
+# Studies/2020 Studies/typography.html
 # ----------------------------------------
 page = page.next
 page.applyTemplate(template)  

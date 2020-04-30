@@ -1,6 +1,6 @@
 ~~~
 # ----------------------------------------
-# Studies/2019-studies.html
+# Studies/2020-studies.html
 # ----------------------------------------
 page = page.next
 page.applyTemplate(template)  
@@ -10,7 +10,7 @@ page.url = 'studies.html'
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# Examine the 2019 study suggestions
+# Examine the 2020 study suggestions
 ~~~
 box = content.newIntroduction()
 ~~~
@@ -21,7 +21,7 @@ box = content.newIntroduction()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Studies in 2019
+## Studies in 2020
 
 We keep improving the curriculum. The mandatory design of design education. Instead of the fixed [2018](2018-program.html) list of workshops, studies and dates, in practice, we found out that it is better to make the schedule entirely flexible. Hints of topics, templates of studies and suggestions for the process behind.
 

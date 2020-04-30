@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document><pre><code># ----------------------------------------
-# Studies/2019-studies.html
+# Studies/2020-studies.html
 # ----------------------------------------
 page = page.next
 page.applyTemplate(template)  
@@ -11,7 +11,7 @@ content = page.select('Content')
 box = content.newBanner()
 </code></pre>
 
-<h1>Examine the 2019 study suggestions</h1>
+<h1>Examine the 2020 study suggestions</h1>
 <pre><code>box = content.newIntroduction()
 </code></pre>
 
@@ -20,7 +20,7 @@ box = content.newBanner()
 box = section.newMain()
 </code></pre>
 
-<h2>Studies in 2019</h2>
+<h2>Studies in 2020</h2>
 <p>We keep improving the curriculum. The mandatory design of design education. Instead of the fixed <a href="2018-program.html">2018</a> list of workshops, studies and dates, in practice, we found out that it is better to make the schedule entirely flexible. Hints of topics, templates of studies and suggestions for the process behind.</p>
 <hr />
 <h2>Pricing</h2>

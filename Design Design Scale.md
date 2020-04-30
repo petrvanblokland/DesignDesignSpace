@@ -2,7 +2,6 @@
 
 Notice: Design Design Space soon starts a new initiative. Under the name of Design Design Scales, a series of small design assignment + how to solve them, will be published, each fitting in a single tweet.
 Check them out, and there is a range of others going on this year still, all online. Or we create something personal.
-The program of 2019 will be published in August.
 
 If you don't manage to finalize the assignment in the given amount of time, then either your experience with the topic, your skill-set or the scale of details is not at the right level. Try to adapt either of them to finish the assignment, without increasing the time or the amount of pages of the Thesis.
 

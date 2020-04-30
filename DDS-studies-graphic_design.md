@@ -1,6 +1,6 @@
 ~~~
 # ----------------------------------------
-# Studies/2019 Studies/graphic_design.html
+# Studies/2020 Studies/graphic_design.html
 # ----------------------------------------
 page = page.next
 page.applyTemplate(template)  

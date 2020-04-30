@@ -84,8 +84,8 @@ box = content.newIntroduction()
 
 ~~~ 
 #box = section.newCropped()
-## ![Sponsoring Typographics2019]()
-#![Typographics2019Logo.png x=center y=center](images/Typographics2019Logo.png)
+## ![Sponsoring Typographics2020]()
+#![Typographics2020Logo.png x=center y=center](images/Typographics2020Logo.png)
 ~~~
 
 ~~~
@@ -106,28 +106,6 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 ![cover y=top](images/IMG_8940.jpg)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-## What does your design space look like? 
-
-### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [7 places left]
-
-* Take your current workspace as a start to analyse.
-* Learn to look at the space from different points of view.
-* What do you want to keep? And what could be improved?
-* Develop sketching techniques to design your environment.
-
-The workshop requires no prior experience with 3D design.
-
-*If you applied, and did not get feedback from us yet, please email again.*
-
-~~~
-box = section.newCropped()
-~~~
-![Model interior cover y=center](images/IMG_E8927.jpg)
 
 ~~~
 section = content.newSection()
@@ -179,7 +157,7 @@ box = section.newMain()
 ~~~
 ## Simple sketching techniques 
 
-### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [5 places left]
+### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [3 places left]
 
 * What is your design process like, before you open InDesign or a font editor?
 * We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
@@ -276,6 +254,27 @@ section = content.newSection()
 box = section.newMain()
 ~~~
 # Finished free workshops
+
+## What does your design space look like? 
+
+### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [Finished]
+
+* Take your current workspace as a start to analyse.
+* Learn to look at the space from different points of view.
+* What do you want to keep? And what could be improved?
+* Develop sketching techniques to design your environment.
+
+The workshop requires no prior experience with 3D design.
+
+~~~
+box = section.newCropped()
+~~~
+![Model interior cover y=center](images/IMG_E8927.jpg)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
 
 ## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked, finished]
 

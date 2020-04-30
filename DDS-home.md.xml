@@ -75,8 +75,8 @@ box = slideshow.slides
 
 <h1>Working from home? Studying online in Corona world? DesignDesign.Space offers a series of <strong>free workshops</strong>. Check the dates and topics. Subscribe by <a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">e-mail</a>. Limited places. First come, first served.</h1>
 <pre><code>#box = section.newCropped()
-## ![Sponsoring Typographics2019]()
-#![Typographics2019Logo.png x=center y=center](images/Typographics2019Logo.png)
+## ![Sponsoring Typographics2020]()
+#![Typographics2020Logo.png x=center y=center](images/Typographics2020Logo.png)
 </code></pre>
 
 <pre><code>section = content.newSection()
@@ -95,24 +95,6 @@ box = section.newMain()
 </code></pre>
 
 <p><img alt="cover y=top" src="images/IMG_8940.jpg" /></p>
-<pre><code>section = content.newSection()
-box = section.newMain()
-</code></pre>
-
-<h2>What does your design space look like?</h2>
-<h3>April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [7 places left]</h3>
-<ul>
-<li>Take your current workspace as a start to analyse.</li>
-<li>Learn to look at the space from different points of view.</li>
-<li>What do you want to keep? And what could be improved?</li>
-<li>Develop sketching techniques to design your environment.</li>
-</ul>
-<p>The workshop requires no prior experience with 3D design.</p>
-<p><em>If you applied, and did not get feedback from us yet, please email again.</em></p>
-<pre><code>box = section.newCropped()
-</code></pre>
-
-<p><img alt="Model interior cover y=center" src="images/IMG_E8927.jpg" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
@@ -154,7 +136,7 @@ box = section.newMain()
 </code></pre>
 
 <h2>Simple sketching techniques</h2>
-<h3>June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [5 places left]</h3>
+<h3>June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [3 places left]</h3>
 <ul>
 <li>What is your design process like, before you open InDesign or a font editor?</li>
 <li>We will look into exercises by sketching paper, as well as connecting them to your digital tools. </li>
@@ -235,6 +217,23 @@ box = section.newMain()
 </code></pre>
 
 <h1>Finished free workshops</h1>
+<h2>What does your design space look like?</h2>
+<h3>April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [Finished]</h3>
+<ul>
+<li>Take your current workspace as a start to analyse.</li>
+<li>Learn to look at the space from different points of view.</li>
+<li>What do you want to keep? And what could be improved?</li>
+<li>Develop sketching techniques to design your environment.</li>
+</ul>
+<p>The workshop requires no prior experience with 3D design.</p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="Model interior cover y=center" src="images/IMG_E8927.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
 <h2>Coding your designs in <a href="http://www.drawbot.com">DrawBot</a> [Fully booked, finished]</h2>
 <h3>March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span></h3>
 <ul>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document><pre><code># ----------------------------------------
-# Studies/2019 Studies/design_education.html
+# Studies/2020 Studies/design_education.html
 # ----------------------------------------
 page = page.next
 page.applyTemplate(template)  
