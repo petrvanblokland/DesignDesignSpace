@@ -135,8 +135,8 @@ box = section.newMain()
 box = section.newMain()
 </code></pre>
 
-<h2>Simple sketching techniques</h2>
-<h3>June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [3 places left]</h3>
+<h2>Simple sketching techniques [Fully booked]</h2>
+<h3>June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span></h3>
 <ul>
 <li>What is your design process like, before you open InDesign or a font editor?</li>
 <li>We will look into exercises by sketching paper, as well as connecting them to your digital tools. </li>
@@ -163,6 +163,16 @@ box = section.newMain()
 </code></pre>
 
 <p><img alt="cover y=top" src="images/BNO-BuroBoek2008.png" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="all-free-workshop-fully-booked"/></p>
+<h2>All free workshops are fully booked now.</h2>
+<ul>
+<li>Please regularly check this site, we may start a new series of free workshops after the summer.</li>
+<li>Or... you decide for a regular – paid – study, which can start any time, for any length and about any topic. Consider the option!</li>
+</ul>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>

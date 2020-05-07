@@ -155,9 +155,9 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## Simple sketching techniques 
+## Simple sketching techniques [Fully booked]
 
-### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> [3 places left]
+### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> 
 
 * What is your design process like, before you open InDesign or a font editor?
 * We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
@@ -188,6 +188,16 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 ![cover y=top](images/BNO-BuroBoek2008.png)
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="all-free-workshop-fully-booked"/>
+## All free workshops are fully booked now.
+
+* Please regularly check this site, we may start a new series of free workshops after the summer.
+* Or... you decide for a regular – paid – study, which can start any time, for any length and about any topic. Consider the option!
 
 ~~~
 section = content.newSection()
