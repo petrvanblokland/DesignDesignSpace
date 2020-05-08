@@ -71,9 +71,13 @@ box = slideshow.slides
 <p><br/></p>
 <h1><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Contact us</a></h1>
 <pre><code>box = content.newIntroduction()
+
+&quot;&quot;&quot;
+# Working from home? Studying online in Corona world? DesignDesign.Space offers a series of **free workshops**. Check the dates and topics. Subscribe by [e-mail](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop). Limited places. First come, first served.
+&quot;&quot;&quot;
 </code></pre>
 
-<h1>Working from home? Studying online in Corona world? DesignDesign.Space offers a series of <strong>free workshops</strong>. Check the dates and topics. Subscribe by <a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">e-mail</a>. Limited places. First come, first served.</h1>
+<h1>Working from home? Studying online in Corona world? All <strong>free workshops</strong> are fully booked now, but regular studies can start any time, for any length and about any topic. Consider the option! Subscribe by <a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">e-mail</a>.</h1>
 <pre><code>#box = section.newCropped()
 ## ![Sponsoring Typographics2020]()
 #![Typographics2020Logo.png x=center y=center](images/Typographics2020Logo.png)
@@ -89,7 +93,7 @@ box = section.newMain()
 <li><em>Other times in the day are possible, depending on the location of participants.</em></li>
 <li><em>Some experience with typography and graphic design is helpful in the workshops.</em></li>
 </ul>
-<h3>If the free workshops of your choice are fully booked, keep checking here for new ones being offered in the future. And of course... You can always decide to do a paid study, which can start anytime.</h3>
+<h3>Since all workshops are fully booked, keep checking here for new ones being offered in the future. And of course... You can always decide to do a paid study, which can start anytime.</h3>
 <h3>Get 20% off your next paid workshop, after finishing one of the free ones.</h3>
 <pre><code>box = section.newCropped()
 </code></pre>
@@ -173,6 +177,10 @@ box = section.newMain()
 <li>Please regularly check this site, we may start a new series of free workshops after the summer.</li>
 <li>Or... you decide for a regular – paid – study, which can start any time, for any length and about any topic. Consider the option!</li>
 </ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/HowToApplyForArtSchool.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>

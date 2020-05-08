@@ -78,9 +78,13 @@ In Corona world, life has changed. Working and studying from home is the new rea
 
 ~~~
 box = content.newIntroduction()
+
+"""
+# Working from home? Studying online in Corona world? DesignDesign.Space offers a series of **free workshops**. Check the dates and topics. Subscribe by [e-mail](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop). Limited places. First come, first served.
+"""
 ~~~
 
-# Working from home? Studying online in Corona world? DesignDesign.Space offers a series of **free workshops**. Check the dates and topics. Subscribe by [e-mail](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop). Limited places. First come, first served.
+# Working from home? Studying online in Corona world? All **free workshops** are fully booked now, but regular studies can start any time, for any length and about any topic. Consider the option! Subscribe by [e-mail](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop).
 
 ~~~ 
 #box = section.newCropped()
@@ -98,7 +102,7 @@ box = section.newMain()
 * *Other times in the day are possible, depending on the location of participants.*
 * *Some experience with typography and graphic design is helpful in the workshops.*
 
-### If the free workshops of your choice are fully booked, keep checking here for new ones being offered in the future. And of course... You can always decide to do a paid study, which can start anytime.
+### Since all workshops are fully booked, keep checking here for new ones being offered in the future. And of course... You can always decide to do a paid study, which can start anytime.
 
 ### Get 20% off your next paid workshop, after finishing one of the free ones.
 
@@ -198,6 +202,11 @@ box = section.newMain()
 
 * Please regularly check this site, we may start a new series of free workshops after the summer.
 * Or... you decide for a regular – paid – study, which can start any time, for any length and about any topic. Consider the option!
+
+~~~ 
+box = section.newCropped()
+~~~
+![cover y=top](images/HowToApplyForArtSchool.png)
 
 ~~~
 section = content.newSection()
