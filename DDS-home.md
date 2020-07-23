@@ -80,7 +80,7 @@ box = content.newIntroduction()
 
 ~~~
 
-# Working from home? Studying online in Corona world? Select your workshops. Develop your profession. [Subscribe here](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop).
+# Working from home? Studying online in Corona world? Select the workshops that you like. Develop your profession. [Subscribe here](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop).
 
 ~~~ 
 #box = section.newCropped()
@@ -92,21 +92,20 @@ box = content.newIntroduction()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## A DD.S workshop: what is it like?
+## A DesignDesign.Space workshop: what is it like?
 
 Each workshop runs for 3 weeks, including live lectures, addressing theory, showing examples and feedback on the exercises that we do.
 
-* 3 weeks, from Monday to Sunday
-* Intensive exercises and personal feedback
-* 6 hangouts of one hour each, with theory, models, templates and example documents. 
+* 2 weeks, from Monday to Sunday
+* 4 hangouts with theory, models, templates and example documents. 
+* Intensive exercises and daily personal feedback
 * Maximal 8 participants per workshop
-* Daily exercises and updates.
 * The result of the exercises is shared on a closed Slack channel. 
-* Feedback from the educators and the other students.
+* Feedback comes from the educators and the other students.
 * DesignDesign.Space offers a safe online study envionment, where any question can be asked. 
-* On finalizing all exercises, a certificate is given for each workshop.
+* On finalizing all exercises, a certificate is given for completion of each workshop.
 
-Some workshops combine as a sequence. You can do them all, but you also can estimate your current level of experience and just do some of them. Or you can combine individual workshops from other topics in any combination. Every 5th workshop is free of charge.
+Some workshops combine as a sequence. You can do them all, but you also can estimate your current level of experience and just do some of them. Or you can combine individual workshops from other topics in any combination. Every 4<span class="sup">th</span> workshop if 50% off. Every 5<span class="sup">th</span> workshop is free of charge.
 
 ~~~
 box = section.newCropped()
@@ -118,101 +117,147 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## €290 per workshop of 3 weeks
+## €290 per workshop
 
-1. workshop €290 ($330)
-2. workshops €580 ($660)
-3. workshops €870 ($990)
-4. workshops €1015 ($1155) 50% off
-5. workshops €1015 ($1155) Free
+### Get discount by doing more of them
 
-Add €10 per workshop if paying by PayPal.
+* 1<span class="sup">st</span> workshop €290 ($330)
+* 2<span class="sup">nd</span> workshop €290 ($330)
+* 3<span class="sup">rd</span> workshop €290 ($330)
+* 4<span class="sup">th</span> workshop €145 ($165) 50% off
+* 5<span class="sup">th</span> workshop Free
+
+If the price of workshops is the only reason for you not considering to start, then let us know. We can discuss a solution.
+
+Discount only applies for the workshops within the 2020-2021 study year.
+
+Add €10 per workshop, if paying by PayPal or Credit Card.
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
 
-## Process 
+## Schedule for 2020-2021
+### Process 
 
-#### [2020-08-31 Workshop Visual grammar design #1: using the parameters of Bertin and others](#visual-grammar-design1)
-#### [2020-09-12 Workshop Visual grammar design #2: balancing diversity and coherency](#visual-grammar-design2)
-#### [2021-03-29 Running a studio #1: Making mood boards and presentations](#running-a-studio1)
-#### [2021-03-08 Running a studio #2: Making quotes, table of requirements and plannings](#running-a-studio2)
-#### [2021-02-15 General sketching techniques](#general-sketching-techniques)
+##### [2020-08-31 Visual grammar #1: The parameters of Bertin](#visual-grammar1)
+##### [2020-09-12 Visual grammar #2: Balance diversity and coherency](#visual-grammar2)
+##### [2021-02-15 General sketching techniques](#general-sketching-techniques)
+##### [2021-03-08 Running a studio #1: Making presentations](#running-a-studio1)
+##### [2021-03-29 Running a studio #2: Making quotes](#running-a-studio2)
 
-## Programming
+### Programming
 
-#### [2020-09-21 Basic principles of coding in Python #1: design by parameters](#coding-in-python1)
-#### [2020-10-02 Basic principles of coding in Python #2: Functions, methods and classes](#coding-in-python2)
+##### [2020-09-21 Basic coding in Python #1: Design by parameters](#coding-in-python1)
+##### [2020-10-02 Basic coding in Python #2: Functions, methods and classes](#coding-in-python2)
 #### [2020-12-14 Coding simple scripted tools](#coding-simple-tools)
-#### [2021-01-04 Coding tools with user interface](#coding-tools-with-ui)
+#### [2021-01-04 Coding tools with a user interface](#coding-tools-with-ui)
 #### [2021-04-19 Version management, testing and the creation of automated manuals](#version-management)
 
-## Type design
+### Type design
 
-#### [2020-11-23 Basic principles of type design](#basic-principles-of-type-design)
-#### [2021-01-25 Sketching, feedback, process and planning in type design](#sketching-feedback-process-planning)
-#### [2021-05-10 Designing design spaces for Variable Fonts](#designing-design-spaces-for-variable-fonts)
-#### [2021-05-31 Design process and tools for Variable Fonts](#design-process-and-tools-for-variable-fonts)
-#### [2021-06-21 Scripting for RoboFont](#scripting-for-robofont)
+##### [2020-11-23 Basic principles of type design](#basic-principles-of-type-design)
+##### [2021-01-25 Sketching, feedback, process and planning in type design](#sketching-feedback-process-planning)
+##### [2021-05-10 Design design spaces for Variable Fonts](#designing-design-spaces-for-variable-fonts)
+##### [2021-05-31 Design the process and tools for Variable Fonts](#design-process-and-tools-for-variable-fonts)
+##### [2021-06-21 Scripting for RoboFont](#scripting-for-robofont)
 
-## Design education
+### Design education
 
-#### [2021-07-12 Teaching online, making exercises, methods for feedback and evaluation](#teaching-online)
-#### [2021-08-02 Simulations and games](#simulation-and-games)
+##### [2021-07-12 Teaching online, making exercises, methods for feedback and evaluation](#teaching-online)
+##### [2021-08-02 Simulations and games](#simulation-and-games)
 
-## Typography
+### Typography
 
-#### [2021-01-18 Typography for web and print, how to select typefaces](#typography-for-web-and-print)
-#### [2021-02-08 Coding automated type specimens](#coding-automated-type-specimens)
+##### [2021-01-18 Typography for web and print, how to select typefaces](#typography-for-web-and-print)
+##### [2021-02-08 Coding automated type specimens](#coding-automated-type-specimens)
 
-## Graphic design
+### Graphic design
 
-### Grids for print and web
+#### Grids for print and web
 
-#### [2021-03-01 Basics of grid design](#basics-of-grid-design)
-#### [2021-03-22 Coding grids for print and web](#coding-grids-for-print-and-web)
+##### [2021-03-01 Basics of grid design](#basics-of-grid-design)
+##### [2021-03-22 Coding grids for print and web](#coding-grids-for-print-and-web)
 
-### Publications (for web and print)
+#### Publications (for web and print)
 
-#### [2021-04-12 Basics of typography and layout](#basics-of-typography-and-layout)
-#### [2021-05-03 Coding publications as website, Sketch and InDesign](#coding-publications-as-website-sketch-indesign)
+##### [2021-04-12 Basics of typography and layout](#basics-of-typography-and-layout)
+##### [2021-05-03 Coding publications as website, Sketch and InDesign](#coding-publications-as-website-sketch-indesign)
 
-### Corporate identities (for web and print)
+#### Corporate identities (for web and print)
 
-#### [2021-05-24 Logo design](#logo-design)
-#### [2021-06-14 Coding logo variations](#coding-logo-variations)
+##### [2021-05-24 Logo design](#logo-design)
+##### [2021-06-14 Coding logo variations](#coding-logo-variations)
 
-### Design of info-graphics
+#### Design of info-graphics
 
-#### [2021-07-05 Basics, models and databases](#basics-models-databases)
-#### [2021-07-26 Coding templates and visual grammar](#coding-templates-and-visual-grammar)
+##### [2021-07-05 Basics, models and databases](#basics-models-databases)
+##### [2021-07-26 Coding templates and visual grammar](#coding-templates-and-visual-grammar)
 
-## Spacial design
+### Spacial design
 
-#### [2021-08-16 Floor plan design](#floor-plan-design)
-#### [2021-09-06 Workspace design, running a studio from home](#workspace-design)
+##### [2021-08-16 Floor plan design](#floor-plan-design)
+##### [2021-09-06 Workspace design, running a studio from home](#workspace-design)
 
+<!-- P R O C E S S -->
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-<a name="visual-grammar-design1"/>
-## Visual grammar design #1: using the parameters of Bertin and others
+<a name="visual-grammar1"/>
+## Visual grammar #1
 
-### Start August 31<span class="sup">st</span> 2020 • 3 weeks • €290
+### Learn to use the seven parameters of Bertin
+
+#### Start August 31<span class="sup">st</span> 2020 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()
 ~~~
 
-Disassemble your graphic design into parameters, models and methods. Why do you choose a color or a typeface? How to separate **this one** from **this kind of**, when making a series of covers, or different types of publications within one identity.
+Disassemble your graphic design into basic parameters. Why do you choose a color or a typeface? What other options do you have, other than choosing a color by number? How to define the visual grammar of a corporate identity?
 
-* Study proportions and contrast in shape, color, layout and typography.
-* In a series of simple assignments you learn to combine 
-* Addressing other topics too, such as the design process, wotking methods and the use of tools.
+In this workshop Jacques Bertin’s model of seven visual parameters (**color, contrast, texture, angle, position, size and shape**) is used as starting point for a number of exercises.
+
+* Design simple pages to examine the relation between the seven parameters, such as color, contrast and size.
+* Make gray scales and color circles, using paint and digital tools; 
+* Understand the difference between additive and subtractive colors;
+* Make the darkest black on earth.
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=top](images/IMG_8940.jpg)
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="visual-grammar2"/>
+## Visual grammar #2
+
+### Learn to balance diversity and coherency
+
+#### Start September 12<span class="sup">th</span> 2020 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+Learn methods to distinguish between **this one** and **this kind of**. What makes different letters belong to the same typeface? How to make coherent color palettes? How to balance typographic elements on the same page? 
+
+The excercises of this workshop give insight in the various methods to balance visual grammar.
+
+* Solve typographic puzzles. Which letters belong to the same typeface and which are too different?
+* Design a series of different covers. Why do they visually belong to the same group?
+* Organize a number of objects in a given space. What are your options to make a composition. How to create a structure?
+
+Completion of workshop [Visual grammar #1](#visual-grammar1) is recommended.
 
 ~~~
 box = section.newCropped()
@@ -222,24 +267,30 @@ box = section.newCropped()
 
 
 
+
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
-<a name="visual-grammar-design2"/>
-## Visual grammar design #2: balancing diversity and coherency
+<a name="general-sketching-techniques"/>
+## General sketching techniques
 
-### Start Steptember 12<span class="sup">th</span> 2020 • 3 weeks • €290
+### Learn the basic skill to visualise your ideas
+
+#### Start February 15<span class="sup">th</span> 2020 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()
 ~~~
 
-Xxxxx
+Sketching is the basis of every design process. Scribble early ideas to communicate with yourself and others. It is the ideal method for rapid prototyping. 
 
-* Aaaa
-* Bbbb
-* Cccc
+The workshop gives insight in various sketching techniques, using pen on paper as well as digital tools.
+
+* Sketch the pages of future publications;
+* Sketch typefaces, using recipes from TypeCooker;
+* Sketch a series of info-graphics, visualizing narrative and data;
+* Sketch abstract processes, such a the design of a website.
 
 ~~~
 box = section.newCropped()
@@ -255,19 +306,141 @@ section = content.newSection()
 box = section.newMain()
 ~~~
 <a name="running-a-studio1"/>
-## Running a studio #1: Making mood boards and presentations
+## Running a studio #1
 
-### Start Steptember 12<span class="sup">th</span> 2020 • 3 weeks • €290
+### Experience the making of mood boards and presentations
+
+#### Start March 29<span class="sup">th</span> 2021 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()
 ~~~
 
-Xxxxx
+Adding the process of sketching, presentation techniques help to get ideas come across. Convince yourself and others about the values of your design. Making mood boards an presentations is just another form of rapid prototyping.
 
-* Aaaa
-* Bbbb
-* Cccc
+The workshop gives an overview of making presentation, using materials, 3D and digital tools.
+
+* Choose a topic or select one of your former projects. Visualize the design decisions in 3 mood boards.
+* Sketch presentations in a small scale. What do you want to show in such a story board?
+* Present a existing design project in no more than 5 slides. Pay attention to consistency of layout, typegraphy and the use of color.
+* Can you present what makes your design so unique?
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=top](images/IMG_E8891.jpg)
+
+
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="running-a-studio2"/>
+## Running a studio #2
+
+### Learn the making of quotes, briefings, plannings and requirement lists
+
+#### Start April 8<span class="sup">th</span> 2020 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+Doing administration work is often seen as a boring by-product of running a studio. Planning projects is vital, but often ignored. Learn to look at these processes with the eye of a designer. They can even be fun. Or they can become one of your products. 
+
+The workshop shows methods to design the process of administration, as if it was an interesting graphic design project.
+
+* Design templates for quotes and invoices, using spreadsheet applications and Google Docs.
+* Learn to distinguish between the “go” and “no-go” requirements of a design;
+* Sketch info-graphics that show the iterations of a design process. Visualise the planning for your customer;
+* Automate the generation of progress reports.
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=top](images/IMG_E8891.jpg)
+
+
+
+
+<!-- P R O G R A M M I N G -->
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="coding-in-python1"/>
+## Basic coding in Python #1
+
+### Design by parameters
+
+#### Start August 21<span class="sup">st</span> 2020 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+Take one if your design and try to find the numbers and rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by using color themes and different page sizes.
+
+The workshop assumes no prior knowledge of programming and Python coding. Existing Open Source libraries are used, such as DrawBot and PageBotNano. Exercises take you step by step through the process of coding your graphic design.
+
+* Select a publication and analyze the typographic proportions that you can find.
+* Sketch the relations between the extracted values, e.g. what are the possibilities for width and height of its pages?
+* Learn the basics of generating pages by code.
+* Automate the generation of alternative color themes and page layouts.
+
+The use of DrawBot in this workshop requires a MacOS computer.
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=top](images/IMG_E8891.jpg)
+
+
+
+#### [2020-10-02 Basic coding in Python #2: Functions, methods and classes](#coding-in-python2)
+#### [2020-12-14 Coding simple scripted tools](#coding-simple-tools)
+#### [2021-01-04 Coding tools with a user interface](#coding-tools-with-ui)
+#### [2021-04-19 Version management, testing and the creation of automated manuals](#version-management)
+
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="coding-in-python2"/>
+## Basic coding in Python #2
+
+### Functions, methods and classes
+
+#### Start October 2<span class="sup">nd</span> 2020 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+After finishing [Basic coding in Python #1](#coding-in-python1), you have a program that is doing one specific task. Great as that it is, it is also hard to reuse the code for other projects. How nice would it be to create a “library” of code that can be called for similar designs in the future?
+
+The focus of this workshop is in making code more sustainable, using **functions, methods and classes**. Existing Open Source libraries are used, such as DrawBot and PageBotNano. Exercises take you step by step through the process of coding your graphic design. Instead of manually building a car, it may be more profitable to build a factory for cars instead. 
+
+
+* Make a selection of different publications and analyze the variety of typographic proportions that you can find;
+* Sketch the relations between the extracted values and write them as coded rules;
+* Store these rules as a library of classes;
+* Learn to use this library for future design project.
+
+The use of DrawBot in this workshop requires a MacOS computer.
+
+Completion of workshop [Basic coding in Python #1](#coding-in-python1) is recommended.
 
 ~~~
 box = section.newCropped()
@@ -282,147 +455,19 @@ section = content.newSection()
 box = section.newMain()
 ~~~
 
-* Start with one of your type designs that is being developed. Or take one of your favourite existing typefaces.
-* We ask questions, you do the work, getting valuable feedback and directions.
-* Develop some proofing tools, using Python and DrawBot.
-* Addressing topics, such as process, methods, variable design spaces, features and tools.
+# Suggested workshop packages
 
-### What you get from it
-
-
-The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
-
-~~~
-box = section.newCropped()
-~~~
-![cover y=top](images/IMG_5640.jpg)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-## Coding typography in Python and CSS [Fully booked]
-
-### May 27<span class="sup">th</span> + June 3<span class="sup">rd</span> + 10<span class="sup">th</span> 
-
-* The workshop dives into the most important parameters, that make good typography. 
-* Learn about the difference between Python parameters (e.g. generating PDF documents) and CSS (used in websites).
-* We may have a look at [PageBot](https://github.com/PageBot/PageBot/blob/master/README.md)
-* Investigate methods to connect this knowledge with your daily design practice.
-
-The workshop assumes no experience with programming in Python or CSS. An Apple computer is required to run the DrawBot application. 
-
-*DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen*
-
-~~~
-box = section.newCropped()
-~~~
-![cover y=top](images/ATFSpecemin-Code04.png)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-## Simple sketching techniques [Fully booked]
-
-### June 17<span class="sup">th</span> + 24<span class="sup">th</span> + July 1<span class="sup">st</span> 
-
-* What is your design process like, before you open InDesign or a font editor?
-* We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
-* Learn to appreciate short design cycles and mixed techniques.
-
-*If you applied, and did not get feedback from us yet, please email again.*
-
-~~~
-box = section.newCropped()
-~~~
-![cover y=top](images/DesignModels2.038.png)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-## Running a small studio [Fully booked]
-
-### July 8<span class="sup">th</span> + 15<span class="sup">th</span> + 22<span class="sup">nd</span> 
-
-* Tips and tricks on how to deal with customers.
-* Methods for planning and pricing. 
-* Design your process. Small iterations. Testing and feedback.
-
-*If you applied, and did not get feedback from us yet, please email again.*
-
-~~~
-box = section.newCropped()
-~~~
-![cover y=top](images/BNO-BuroBoek2008.png)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-<a name="all-free-workshop-fully-booked"/>
-## All free workshops are fully booked now.
-
-* Please regularly check this site, we may start a new series of free workshops after the summer.
-* Or... you decide for a regular – paid – study, which can start any time, for any length and about any topic. Consider the option!
-
-~~~ 
-box = section.newCropped()
-~~~
-![cover y=top](images/HowToApplyForArtSchool.png)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-<a name="how-free-workshops-work"/>
-## How free workshops work: some rules
-
-#### Subscribing
-
-* Subscribe for **just one** workshop of your choice, by sending an e-mail to [info@designdesign.space](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
-* Describe your daily profession and how that relates to the topic of your selected workshop. Add some samples of your work.
-* Workshops are limited to a maximum of 10 students. First come, first served. 
- 
-#### The workshop
-
-* Using some small assignments, we challenge you to sketch, think, design and give feedback to others.
-* Each workshop spans several sessions. There is enough time between them, to give you the opportunity to process the questions of one session into the next one.
-* We create an online platform, accessible for all students of the workshop, to share work, questions, comments and documents.
-* You are encouraged to join the whole workshop from start to end, following all sessions, not occupying the space for another designer.
-
-#### And after...
-
-* DesignDesign.Space would appreciate to publish some of your work on this website.
-* Successfully finishing one of the free workshops gives the right to **20% reduction** on one of the other DesignDesign.Space studies.
-
----
-<a name="why-we-offer-this-for-free"/>
-## Why we offer this for free
-
-We like to share and express our solidarity with you.
-
-Also, we are educators and we are designers, too. That means, we are curious how others design their design processes. We are open for suggestions about the workshops and about how you perceive the way we teach. For us, educating other designers is as much of a challenge as any design process.
-
-#### New topics
-[Send us your request](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop) for topics that we never thought about. Or ideas about how the workshops can be improved. Lure us into teaching you in a different way than what we suggest here. We’ll likely take the challenge.
-
-#### We love your feedback
-If you tell us what you want to study by mail or in a first free online hangout, we are happy to make suggestions. What would you like to achieve? Seeking a sparring partner for an interesting new design project? Improving your latent skills, while training your self-discipline? Or simply needing a refreshing break from your normal design practice? 
-
----
-
-## Other study suggestions
-
+## New to type design
 * [Type design](studies-type_design.html)
 * [Typography](studies-typography.html)
 * [Graphic design](studies-graphic_design.html)
 * [Design spaces](studies-design_spaces.html)
 * [Design practice](studies-design_practice.html)
-* [Design education](studies-design_education.html)
 
-These studies are regular DesignDesign.Space products. Check [here](pricing.html) for prices.
+And of course you are free to substitute workshops by other, if that better fits your needs.
+
+## Experienced type designer
+---
 
 #### Typeface of this website: [TYPETR Upgrade](http://upgrade.typenetwork.com)
 
@@ -431,50 +476,4 @@ box = section.newCropped()
 ~~~
 
 ![w=100% y=top](images/BK-Studio-Design.png)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-# Finished free workshops
-
-## What does your design space look like? 
-
-### April 15<span class="sup">th</span> + 22<span class="sup">th</span> + 29<span class="sup">th</span> [Finished]
-
-* Take your current workspace as a start to analyse.
-* Learn to look at the space from different points of view.
-* What do you want to keep? And what could be improved?
-* Develop sketching techniques to design your environment.
-
-The workshop requires no prior experience with 3D design.
-
-~~~
-box = section.newCropped()
-~~~
-![Model interior cover y=center](images/IMG_E8927.jpg)
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-
-## Coding your designs in [DrawBot](http://www.drawbot.com) [Fully booked, finished]
-
-### March 25<span class="sup">th</span> + April 1<span class="sup">st</span> + 8<span class="sup">th</span>
-
-* Start with one of your designs, or select a favourite publication.
-* Analyze the existing layout and prepare measurements to be coded.
-* Learn to write a program that generates a similar PDF document.
-* Design methods to generalize your code for other publications.
-* Use the coding in your daily sketching process.
-
-The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
-
-*DrawBot is an Open Source application by Just van Rossum and Frederik Berlaen*
-
-~~~
-box = section.newCropped()
-~~~
-![cover y=top x=center](images/DrawBotHomePage.png)
 
