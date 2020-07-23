@@ -105,22 +105,21 @@ box = section.newMain()
 </code></pre>
 
 <h2>€290 per workshop</h2>
-<h3>Get discount by doing more of them</h3>
+<h3>Get one free for every three</h3>
 <ul>
 <li>1<span class="sup">st</span> workshop €290 ($330)</li>
 <li>2<span class="sup">nd</span> workshop €290 ($330)</li>
 <li>3<span class="sup">rd</span> workshop €290 ($330)</li>
-<li>4<span class="sup">th</span> workshop €145 ($165) 50% off</li>
-<li>5<span class="sup">th</span> workshop Free</li>
+<li>4<span class="sup">th</span> workshop Free</li>
 </ul>
-<p>If the price of workshops is the only reason for you not considering to start, then let us know. We can discuss a solution.</p>
+<p>If the price of workshops is the only reason for you not to considering a study, then let us know. We can discuss a solution.</p>
 <p>Discount only applies for the workshops within the 2020-2021 study year.</p>
-<p>Add €10 per workshop, if paying by PayPal or Credit Card.</p>
+<p>Add €10 administration fee per workshop, if paying by PayPal or Credit Card.</p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
 
-<h2>Schedule for 2020-2021</h2>
+<h2>Schedule for 2020-2021 by topic</h2>
 <h3>Process</h3>
 <h5><a href="#visual-grammar1">2020-08-31 Visual grammar #1: The parameters of Bertin</a></h5>
 <h5><a href="#visual-grammar2">2020-09-12 Visual grammar #2: Balance diversity and coherency</a></h5>
@@ -130,12 +129,12 @@ box = section.newMain()
 <h3>Programming</h3>
 <h5><a href="#coding-in-python1">2020-09-21 Basic coding in Python #1: Design by parameters</a></h5>
 <h5><a href="#coding-in-python2">2020-10-02 Basic coding in Python #2: Functions, methods and classes</a></h5>
-<h4><a href="#coding-simple-tools">2020-12-14 Coding simple scripted tools</a></h4>
-<h4><a href="#coding-tools-with-ui">2021-01-04 Coding tools with a user interface</a></h4>
-<h4><a href="#version-management">2021-04-19 Version management, testing and the creation of automated manuals</a></h4>
+<h5><a href="#coding-simple-scripted-tools">2020-12-14 Coding simple scripted tools</a></h5>
+<h5><a href="#coding-simple-ui-tools">2021-01-04 Coding simple tools with a user interface</a></h5>
+<h5><a href="#version-management">2021-04-19 Version management, testing and the creation of automated manuals</a></h5>
 <h3>Type design</h3>
 <h5><a href="#basic-principles-of-type-design">2020-11-23 Basic principles of type design</a></h5>
-<h5><a href="#sketching-feedback-process-planning">2021-01-25 Sketching, feedback, process and planning in type design</a></h5>
+<h5><a href="#sketching-feedback-planning">2021-01-25 Sketching, feedback and planning in type design</a></h5>
 <h5><a href="#designing-design-spaces-for-variable-fonts">2021-05-10 Design design spaces for Variable Fonts</a></h5>
 <h5><a href="#design-process-and-tools-for-variable-fonts">2021-05-31 Design the process and tools for Variable Fonts</a></h5>
 <h5><a href="#scripting-for-robofont">2021-06-21 Scripting for RoboFont</a></h5>
@@ -159,6 +158,38 @@ box = section.newMain()
 <h5><a href="#basics-models-databases">2021-07-05 Basics, models and databases</a></h5>
 <h5><a href="#coding-templates-and-visual-grammar">2021-07-26 Coding templates and visual grammar</a></h5>
 <h3>Spacial design</h3>
+<h5><a href="#floor-plan-design">2021-08-16 Floor plan design</a></h5>
+<h5><a href="#workspace-design">2021-09-06 Workspace design, running a studio from home</a></h5>
+<h2>Schedule for 2020-2021 by date</h2>
+<h3>2020</h3>
+<h5><a href="#visual-grammar1">2020-08-31 Visual grammar #1: The parameters of Bertin</a></h5>
+<h5><a href="#visual-grammar2">2020-09-12 Visual grammar #2: Balance diversity and coherency</a></h5>
+<h5><a href="#coding-in-python1">2020-09-21 Basic coding in Python #1: Design by parameters</a></h5>
+<h5><a href="#coding-in-python2">2020-10-02 Basic coding in Python #2: Functions, methods and classes</a></h5>
+<h5><a href="#basic-principles-of-type-design">2020-11-23 Basic principles of type design</a></h5>
+<h5><a href="#coding-simple-scripted-tools">2020-12-14 Coding simple scripted tools</a></h5>
+<h3>2021</h3>
+<h5><a href="#coding-simple-ui-tools">2021-01-04 Coding simple tools with a user interface</a></h5>
+<h5><a href="#typography-for-web-and-print">2021-01-18 Typography for web and print, how to select typefaces</a></h5>
+<h5><a href="#sketching-feedback-planning">2021-01-25 Sketching, feedback and planning in type design</a></h5>
+<h5><a href="#coding-automated-type-specimens">2021-02-08 Coding automated type specimens</a></h5>
+<h5><a href="#general-sketching-techniques">2021-02-15 General sketching techniques</a></h5>
+<h5><a href="#basics-of-grid-design">2021-03-01 Basics of grid design</a></h5>
+<h5><a href="#running-a-studio1">2021-03-08 Running a studio #1: Making presentations</a></h5>
+<h5><a href="#coding-grids-for-print-and-web">2021-03-22 Coding grids for print and web</a></h5>
+<h5><a href="#running-a-studio2">2021-03-29 Running a studio #2: Making quotes</a></h5>
+<h5><a href="#basics-of-typography-and-layout">2021-04-12 Basics of typography and layout</a></h5>
+<h5><a href="#version-management">2021-04-19 Version management, testing and the creation of automated manuals</a></h5>
+<h5><a href="#coding-publications-as-website-sketch-indesign">2021-05-03 Coding publications as website, Sketch and InDesign</a></h5>
+<h5><a href="#designing-design-spaces-for-variable-fonts">2021-05-10 Design design spaces for Variable Fonts</a></h5>
+<h5><a href="#logo-design">2021-05-24 Logo design</a></h5>
+<h5><a href="#design-process-and-tools-for-variable-fonts">2021-05-31 Design the process and tools for Variable Fonts</a></h5>
+<h5><a href="#coding-logo-variations">2021-06-14 Coding logo variations</a></h5>
+<h5><a href="#scripting-for-robofont">2021-06-21 Scripting for RoboFont</a></h5>
+<h5><a href="#basics-models-databases">2021-07-05 Basics, models and databases</a></h5>
+<h5><a href="#teaching-online">2021-07-12 Teaching online, making exercises, methods for feedback and evaluation</a></h5>
+<h5><a href="#coding-templates-and-visual-grammar">2021-07-26 Coding templates and visual grammar</a></h5>
+<h5><a href="#simulation-and-games">2021-08-02 Simulations and games</a></h5>
 <h5><a href="#floor-plan-design">2021-08-16 Floor plan design</a></h5>
 <h5><a href="#workspace-design">2021-09-06 Workspace design, running a studio from home</a></h5>
 <!-- P R O C E S S -->
@@ -220,11 +251,11 @@ box = section.newMain()
 <pre><code>box = box.newInfo()
 </code></pre>
 
-<p>Sketching is the basis of every design process. Scribble early ideas to communicate with yourself and others. It is the ideal method for rapid prototyping. </p>
+<p>Sketching is the basis of every design process. Scribble early ideas to communicate with yourself and others. It is the ideal method for rapid prototyping, without spending much time on presentations. </p>
 <p>The workshop gives insight in various sketching techniques, using pen on paper as well as digital tools.</p>
 <ul>
-<li>Sketch the pages of future publications;</li>
-<li>Sketch typefaces, using recipes from TypeCooker;</li>
+<li>Sketch the pages of some future publications;</li>
+<li>Sketch typefaces, using TypeCooker recipes;</li>
 <li>Sketch a series of info-graphics, visualizing narrative and data;</li>
 <li>Sketch abstract processes, such a the design of a website.</li>
 </ul>
@@ -266,7 +297,7 @@ box = section.newMain()
 <pre><code>box = box.newInfo()
 </code></pre>
 
-<p>Doing administration work is often seen as a boring by-product of running a studio. Planning projects is vital, but often ignored. Learn to look at these processes with the eye of a designer. They can even be fun. Or they can become one of your products. </p>
+<p>Doing administration work is often seen as a boring by-product of running a studio. Planning projects is vital, but often ignored. Learn to look at these processes as if they were regular design jobs. Doing them can be fun. And they can even become one of your products. </p>
 <p>The workshop shows methods to design the process of administration, as if it was an interesting graphic design project.</p>
 <ul>
 <li>Design templates for quotes and invoices, using spreadsheet applications and Google Docs.</li>
@@ -291,23 +322,19 @@ box = section.newMain()
 <pre><code>box = box.newInfo()
 </code></pre>
 
-<p>Take one if your design and try to find the numbers and rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by using color themes and different page sizes.</p>
+<p>Take one if your designs and try to find the numbers and rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by using color themes and different page sizes.</p>
 <p>The workshop assumes no prior knowledge of programming and Python coding. Existing Open Source libraries are used, such as DrawBot and PageBotNano. Exercises take you step by step through the process of coding your graphic design.</p>
 <ul>
-<li>Select a publication and analyze the typographic proportions that you can find.</li>
-<li>Sketch the relations between the extracted values, e.g. what are the possibilities for width and height of its pages?</li>
+<li>Select a publication and analyze the (typographic) proportions that it contains.</li>
+<li>Sketch the relations between the extracted values, e.g. what are the possibilities for various page sizes?</li>
 <li>Learn the basics of generating pages by code.</li>
-<li>Automate the generation of alternative color themes and page layouts.</li>
+<li>Automate the generation of equivalent color themes and alternative layouts.</li>
 </ul>
 <p>The use of DrawBot in this workshop requires a MacOS computer.</p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
 <p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
-<h4><a href="#coding-in-python2">2020-10-02 Basic coding in Python #2: Functions, methods and classes</a></h4>
-<h4><a href="#coding-simple-tools">2020-12-14 Coding simple scripted tools</a></h4>
-<h4><a href="#coding-tools-with-ui">2021-01-04 Coding tools with a user interface</a></h4>
-<h4><a href="#version-management">2021-04-19 Version management, testing and the creation of automated manuals</a></h4>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
@@ -319,16 +346,231 @@ box = section.newMain()
 <pre><code>box = box.newInfo()
 </code></pre>
 
-<p>After finishing <a href="#coding-in-python1">Basic coding in Python #1</a>, you have a program that is doing one specific task. Great as that it is, it is also hard to reuse the code for other projects. How nice would it be to create a “library” of code that can be called for similar designs in the future?</p>
-<p>The focus of this workshop is in making code more sustainable, using <strong>functions, methods and classes</strong>. Existing Open Source libraries are used, such as DrawBot and PageBotNano. Exercises take you step by step through the process of coding your graphic design. Instead of manually building a car, it may be more profitable to build a factory for cars instead. </p>
+<p>After finishing <a href="#coding-in-python1">Basic coding in Python #1</a>, you have a program that is doing one specific task. Great as that may be, it is hard to reuse the code for other projects. How nice would it be, to create a <strong>“library”</strong> of code that can be called for similar designs, without writing it all from scratch?</p>
+<p>The focus of this workshop is in making code more sustainable, using <strong>functions, methods and classes</strong>. Existing Open Source libraries are used, such as <strong>DrawBot</strong> and <strong>PageBotNano</strong>. Exercises take you step by step through the process of coding your graphic design. Instead of manually building a car, it may be more profitable to build a factory for cars. </p>
 <ul>
-<li>Make a selection of different publications and analyze the variety of typographic proportions that you can find;</li>
+<li>Make a selection of different publications and analyze the variety of (typographic) proportions that they share;</li>
 <li>Sketch the relations between the extracted values and write them as coded rules;</li>
-<li>Store these rules as a library of classes;</li>
-<li>Learn to use this library for future design project.</li>
+<li>Store these rules as a library of Python classes;</li>
+<li>Learn to use this library in future design project.</li>
 </ul>
 <p>The use of DrawBot in this workshop requires a MacOS computer.</p>
 <p>Completion of workshop <a href="#coding-in-python1">Basic coding in Python #1</a> is recommended.</p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="coding-simple-scripted-tools"/></p>
+<h2>Coding simple scripted tools</h2>
+<h3>Automate repeating tasks in the design process</h3>
+<h4>Start December 14<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>After finishing <a href="#coding-in-python1">Basic coding in Python #1</a>, you are equiped with the basic coding skill to automate certain tasks that sometimes make a design process boring and lengthy.</p>
+<p>Focus of the workshop is on very short script, only a couple of lines long, that aautomat repeating tasks in the design process. The result is a set of example scripts that can later be modified to be used in real life projects.</p>
+<p>You can make a selection from the following exercises. And it is also possible to bring your own ideas.</p>
+<ul>
+<li>Make a script that runs through folders with images and applies Photoshop-like filters on each of them;</li>
+<li>Make a script that draws graphs based on information from a spreadsheet. Save the pages in PDF documents using your own layout;</li>
+<li>Make a script that generates a simple website, based on content in a Markdown file.</li>
+<li>Make a script that checks a font on mistakes in spacing and kerning;</li>
+<li>Make a script that generates TTF and OTF fonts, after doing some automated operations on the outlines.</li>
+</ul>
+<p>The use of DrawBot in this workshop requires a MacOS computer.</p>
+<p>Completion of workshop <a href="#coding-in-python1">Basic coding in Python #1</a> is recommended.</p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="coding-simple-ui-tools"/></p>
+<h2>Coding simple tools with a user interface</h2>
+<h3>Make scripted tools more user friendly</h3>
+<h4>Start Januari 4<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Once project grow larger, it may become necessary to get other developers involved. This workshop addresses the use of Github for version management. </p>
+<p>Focus of the workshop is on how to program user interaction. Extract the various options into popups and menus.</p>
+<p>You can make a selection from the following exercises. And it is also possible to bring your own ideas.</p>
+<ul>
+<li>Make an interface that allows the user to choose from the avaible image filter, before it runs through the entire set of image files.</li>
+<li>Make an interface that allows to choose from templates of graphs;</li>
+<li>Make an interface that shows the available color themes, before generating a website;</li>
+<li>Make an interface to show the various testing schemes on a font;</li>
+</ul>
+<p>The use of DrawBot in this workshop requires a MacOS computer.</p>
+<p>Completion of workshop <a href="#simple-scripted-tools">Coding simple scripted tools</a> is recommended.</p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="version-management"/></p>
+<h2>Version management</h2>
+<h3>Using Githib, consistency testing and the creation of automated manuals</h3>
+<h4>Start April 19<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>After finishing <a href="#coding-simple-scripted-tools">Coding simple scripted tools</a>, it is time to concentrate more on the user interface. If scripts are used by other designers than yourself, it is more user friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.</p>
+<ul>
+<li>Set up your existing (typedesign) projects as Github repository, so you can share changes are update with other designers, who work on the same project;</li>
+<li>Add tests inside your sources to ensure the validity of the code;</li>
+<li>Write scripts that generate automated manuals from the projects that you made.</li>
+</ul>
+<p>The use of DrawBot in this workshop requires a MacOS computer.</p>
+<p>Completion of workshop <a href="#simple-scripted-tools">Coding simple scripted tools</a> is recommended.</p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="basic-principles-of-type-design"/></p>
+<h2>Basic principles of type design</h2>
+<h3>Understanding contrast by writing. Experiment with width and weight alterations</h3>
+<h4>Start November 23<span class="sup">rd</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>After finishing <a href="#coding-simple-scripted-tools">Coding simple scripted tools</a>, it is time to concetrate more on the user interface. If scripts are used by other designers than yourself, it is more user friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.</p>
+<ul>
+<li>Write alphabets with the broad nib pencil to experience the construction of “translation” contrast;</li>
+<li>Write with sharp pencils to experience the construction of “expansion” contrast;</li>
+<li>Learn the behaviour of letter shapes, varying weight and width </li>
+<li>Digitize your writings into outlines, using your favourite type editor;</li>
+<li>Learn the basics about capitals, roman, italic, spacing and kerning.</li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<!-- T Y P E  D E S I G N -->
+
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="basic-principles-of-type-design"/></p>
+<h2>Basic principles of type design</h2>
+<h3>Understanding contrast by writing. Experiment with width and weight alterations</h3>
+<h4>Start November 23<span class="sup">rd</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>After finishing <a href="#coding-simple-scripted-tools">Coding simple scripted tools</a>, it is time to concetrate more on the user interface. If scripts are used by other designers than yourself, it is more user friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.</p>
+<ul>
+<li>Write alphabets with the broad nib pencil to experience the construction of “translation” contrast;</li>
+<li>Write with sharp pencils to experience the construction of “expansion” contrast;</li>
+<li>Learn the behaviour of letter shapes, varying weight and width </li>
+<li>Digitize your writings into outlines, using your favourite type editor;</li>
+<li>Learn the basics about capitals, roman, italic, spacing and kerning.</li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="sketching-feedback-planning"/></p>
+<h2>Sketching, feedback and planning in type design</h2>
+<h3>Smoothing the process</h3>
+<h4>Start Januari 25<span class="sup">rd</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Working on type projects can take a long time. It is not always easy to keep track of progress and quality, if zoomed into so many details.</p>
+<p>This workshop shows methods to get through lengthy projects, staying focussed while keeping an eye on the horizon.</p>
+<ul>
+<li>Learn about sketching techniques, in combination with methods of feedback;</li>
+<li>Make templates for planning;</li>
+<li>Automate ongoing checks on the validity of your font sources;</li>
+<li>Develop testing methods for QA and proofing.</li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="designing-design-spaces-for-variable-fonts"/></p>
+<h2>Design design spaces for Variable Fonts</h2>
+<h3>Sketching, design and implementation of variable axes</h3>
+<h4>Start May 10<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Making Variable Fonts beyond the standard <strong>width</strong> and <strong>weight</strong> axis can easily become a project of exponential complexity. What is the best approach to solve that problem? Which techniques can be used to keep the amount of work within realistic proportions?</p>
+<p>This workshop shows methods to visualize the complexity, including strategies for sketching and design.</p>
+<ul>
+<li>Sketching various forms of design spaces;</li>
+<li>Adapt your design process to what is needed for Variable Fonts;</li>
+<li>Develop design strategies, using regular type design tools;</li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="design-process-and-tools-for-variable-fonts"/></p>
+<h2>Design the process and tools for Variable Fonts</h2>
+<h3>Tools to support design and production</h3>
+<h4>Start May 31<span class="sup">st</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Taking the design and production of Variable Fonts outside the scope of your type design application allows for more automation. Create scripts the run in the background on your computer take the production of your TTF/OTF file to an industrial level.<br />
+Automate the creation of proofing documents, output both on web and as PDF.</p>
+<p>This workshop shows methods develop and run scripts for font production.</p>
+<ul>
+<li>Learn to use the supplied scripts;</li>
+<li>Make yourself accustomed with some dedicated Python libraries;</li>
+<li>Find ways to adapt the optional parameters to your own project.</li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p>
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="scripting-for-robofont"/></p>
+<h2>Scripting for RoboFont</h2>
+<h3>Methods, scripts and templates</h3>
+<h4>Start June 21<span class="sup">st</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Taking the design and production of Variable Fonts outside the scope of your type design application allows for more automation. Create scripts the run in the background on your computer take the production of your TTF/OTF file to an industrial level.<br />
+Automate the creation of proofing documents, output both on web and as PDF.</p>
+<p>This workshop shows methods develop and run scripts for font production.</p>
+<ul>
+<li>Learn to use the supplied scripts;</li>
+<li>Make yourself accustomed with some dedicated Python libraries;</li>
+<li>Find ways to adapt the optional parameters to your own project.</li>
+</ul>
 <pre><code>box = section.newCropped()
 </code></pre>
 
