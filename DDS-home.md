@@ -157,19 +157,19 @@ box = box.newInfo()
 
 ### Process 
 
-##### <span class="tab">2020-09-21</span> • [(V1) Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
+##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity and coherency](#visual-grammar2)
-##### <span class="tab">2020-11-16</span> • [(S1) General sketching techniques](#general-sketching-techniques)
+##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
 ##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards and presentations](#running-a-studio1)
 ##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes and plannings](#running-a-studio2)
 ##### <span class="tab">2021-01-04</span> • [Teaching online, making exercises, methods for feedback and evaluation](#teaching-online)
 
 ### Programming
 
-##### <span class="tab">2020-08-24</span> • [(P1) Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-09-07</span> • [(P2) Basic coding in Python #2: Functions, methods and classes](#coding-in-python2)
-##### <span class="tab">2020-10-19</span> • [(T1) Coding simple scripted tools](#coding-simple-scripted-tools)
-##### <span class="tab">2020-11-02</span> •  Coding tools with a user interface](#coding-simple-ui-tools)
+##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
+##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods and classes](#coding-in-python2)
+##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
+##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
 ##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
 
 ### Type design
@@ -275,7 +275,7 @@ section = content.newSection()
 box = section.newMain()
 ~~~
 <a name="coding-in-python1"/>
-## (P1) Basic coding in Python #1
+## Basic coding in Python #1
 
 ### Design by parameters
 
@@ -317,7 +317,7 @@ box = section.newMain()
 
 ### Functions, methods and classes
 
-#### (P2) Start September 7<span class="sup">th</span> 2020 • 2 weeks • €290
+#### Start September 7<span class="sup">th</span> 2020 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()
@@ -355,7 +355,7 @@ box = section.newMain()
 
 ### Learn to use the seven parameters of Bertin
 
-#### (V1) Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290
+#### Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()
@@ -389,7 +389,7 @@ box = section.newMain()
 
 ### Learn to balance diversity and coherency
 
-#### (V2) Start October 5<span class="sup">th</span> 2020 • 2 weeks • €290
+#### Start October 5<span class="sup">th</span> 2020 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()

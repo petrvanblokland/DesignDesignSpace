@@ -133,17 +133,17 @@ box = section.newMain()
 </code></pre>
 
 <h3>Process</h3>
-<h5><span class="tab">2020-09-21</span> • <a href="#visual-grammar1">(V1) Visual grammar #1: The seven parameters of Bertin</a></h5>
+<h5><span class="tab">2020-09-21</span> • <a href="#visual-grammar1">Visual grammar #1: The seven parameters of Bertin</a></h5>
 <h5><span class="tab">2020-10-05</span> • <a href="#visual-grammar2">Visual grammar #2: Balance diversity and coherency</a></h5>
-<h5><span class="tab">2020-11-16</span> • <a href="#general-sketching-techniques">(S1) General sketching techniques</a></h5>
+<h5><span class="tab">2020-11-16</span> • <a href="#general-sketching-techniques">General sketching techniques</a></h5>
 <h5><span class="tab">2020-11-30</span> • <a href="#running-a-studio1">Running a studio #1: Moodboards and presentations</a></h5>
 <h5><span class="tab">2020-12-14</span> • <a href="#running-a-studio2">Running a studio #2: Requirements, quotes and plannings</a></h5>
 <h5><span class="tab">2021-01-04</span> • <a href="#teaching-online">Teaching online, making exercises, methods for feedback and evaluation</a></h5>
 <h3>Programming</h3>
-<h5><span class="tab">2020-08-24</span> • <a href="#coding-in-python1">(P1) Basic coding in Python #1: Design by parameters</a></h5>
-<h5><span class="tab">2020-09-07</span> • <a href="#coding-in-python2">(P2) Basic coding in Python #2: Functions, methods and classes</a></h5>
-<h5><span class="tab">2020-10-19</span> • <a href="#coding-simple-scripted-tools">(T1) Coding simple scripted tools</a></h5>
-<h5><span class="tab">2020-11-02</span> •  Coding tools with a user interface](#coding-simple-ui-tools)</h5>
+<h5><span class="tab">2020-08-24</span> • <a href="#coding-in-python1">Basic coding in Python #1: Design by parameters</a></h5>
+<h5><span class="tab">2020-09-07</span> • <a href="#coding-in-python2">Basic coding in Python #2: Functions, methods and classes</a></h5>
+<h5><span class="tab">2020-10-19</span> • <a href="#coding-simple-scripted-tools">Coding simple scripted tools</a></h5>
+<h5><span class="tab">2020-11-02</span> • <a href="#coding-simple-ui-tools">Coding tools with a user interface</a></h5>
 <h5><span class="tab">2021-03-15</span> • <a href="#scripting-for-robofont">Scripting for RoboFont</a></h5>
 <h3>Type design</h3>
 <h5><span class="tab">2021-01-18</span> • <a href="#basic-principles-of-type-design">Basic principles of type design: For graphic designers</a></h5>
@@ -229,7 +229,7 @@ box = section.newMain()
 </code></pre>
 
 <p><a name="coding-in-python1"/></p>
-<h2>(P1) Basic coding in Python #1</h2>
+<h2>Basic coding in Python #1</h2>
 <h3>Design by parameters</h3>
 <h4>Start August 24<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
@@ -256,7 +256,7 @@ box = section.newMain()
 <p><a name="coding-in-python2"/></p>
 <h2>Basic coding in Python #2</h2>
 <h3>Functions, methods and classes</h3>
-<h4>(P2) Start September 7<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
+<h4>Start September 7<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -281,7 +281,7 @@ box = section.newMain()
 <p><a name="visual-grammar1"/></p>
 <h2>Visual grammar #1</h2>
 <h3>Learn to use the seven parameters of Bertin</h3>
-<h4>(V1) Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290</h4>
+<h4>Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -305,7 +305,7 @@ box = section.newMain()
 <p><a name="visual-grammar2"/></p>
 <h2>Visual grammar #2</h2>
 <h3>Learn to balance diversity and coherency</h3>
-<h4>(V2) Start October 5<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
+<h4>Start October 5<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
 
