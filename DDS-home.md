@@ -639,7 +639,7 @@ box = section.newMain()
 <a name="basic-principles-of-type-design"/>
 ## Basic principles of type design
 
-### Understanding contrast by writing. Experiment with width and weight alterations
+### Understanding contrast by writing. Experiment with weight and width variations
 
 #### Start January 18<span class="sup">th</span> 2021 • 2 weeks • €290
 
@@ -649,9 +649,9 @@ box = box.newInfo()
 
 After finishing [Coding simple scripted tools](#coding-simple-scripted-tools), it is time to concetrate more on the user interface. If scripts are used by other designers than yourself, it is more user friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.
 
-* Write alphabets with the broad nib pencil to experience the construction of “translation” contrast;
-* Write with sharp pencils to experience the construction of “expansion” contrast;
-* Learn the behaviour of letter shapes, varying weight and width 
+* Write alphabets with the broad nib pencil to experience the construction of **“translation”** contrast;
+* Write with sharp pencils to experience the construction of **“expansion”** contrast;
+* Learn the behaviour of glyph shapes, varying weight and width 
 * Digitize your writings into outlines, using your favourite type editor;
 * Learn the basics about capitals, roman, italic, spacing and kerning.
 
