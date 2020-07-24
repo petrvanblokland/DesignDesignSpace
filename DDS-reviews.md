@@ -11,12 +11,12 @@ page.url = 'reviews.html'
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# What happened in 2018
+# What happened in before
 
 ~~~
 box = content.newIntroduction()
 ~~~
-# Around 120 students have joined one or more of the workshops and studies in 2018. Read some of their testimonials. 
+# Around 200 students have joined one or more of the workshops and studies since we started in 2017. Read some of their testimonials. 
 
 ~~~
 section = content.newSection()
@@ -36,6 +36,7 @@ box = section.newMain()
 * Design the design process (10 days)
 * Mapping the profession in detail, for type design students (12 days)
 * Various individual coaching projects, ranging from type-crit to support at the background of regular design studies
+* Six free workshops in Corona time (12 weeks)
 
 ~~~
 box = section.newCropped()

@@ -16,7 +16,7 @@ box = content.newBanner()
 ~~~
 box = content.newIntroduction()
 ~~~
-# The prices of DD.S studies are based on individual coaching and custom made design challenges with personal feedback. That is different from standard online courses.
+# The prices of DD.S studies are based on customised design challenges with personal feedback. Combine workshops based on your own preference. Select three to get one for free.
 ~~~
 section = content.newSection()
 box = section.newMain()
@@ -24,37 +24,47 @@ box = section.newMain()
 
 ## Pricing
 
-Each lesson is an online hangout, lasting for part of the day, morning or afternoon, depending on your timezone. The total price is based on the length and intensity of your study. 
+Each workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and give feedback on the exercises that you do.
 
-If a study is spread over a longer period of time, intensity can be lower for the same price. However, it requires more self-discipline for a student to take full advantage of the study and the support that we can offer.
+* 2 weeks, from Monday to Sunday
+* 4 hangouts with theory, models, templates and example documents. 
+* Maximal 8 participants per workshop
+* Intensive exercises and daily personal feedback
+* The result of the exercises is shared on a closed Slack channel for the duration of the workshop. 
+* Feedback comes from the educators and the other students.
+* DesignDesign.Space offers a safe online study environment, where any question can be asked. 
 
-The prices of the studies are indicators: a specific topic can be addressed in a couple of days. Or it can be the subject of a thorough study, taking a month or longer to complete.
+Some workshops combine as a sequence. It is recommended to do them in the right order. Every 4<span class="sup">th</span> workshop is free of charge.
 
-Lessons can be extended in time, if multiple students attend at the same workshop or study.
+~~~
+box = section.newCropped()
+~~~
+![cover y=top](images/IMG_8940.jpg)
 
-* Initial online hangout, free of charge.
-* A single lesson, full of exercises for a whole day: **€170** per student
-* A week of exercises and 3 lessons: **€450** per student
-* A month of exercises, projects and 8 lessons: **€1.700** per student
-* A season of exercises, projects and personal coaching: **€3.400**
-* A full year: **Ask how that could work.**
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## €290 per workshop
 
-### Furthermore, for all studies and workshops:
+### Get one free for every three
 
-* Daily feedback by e-mail on results for the duration of the study
-* Document sharing and versioning through GitHub
-* Software and typeface licenses where applicable
-* Design principles for planning, process, methods for feedback and testing criteria 
+* 1<span class="sup">st</span> workshop €290 ($330)
+* 2<span class="sup">nd</span> workshop €290 ($330)
+* 3<span class="sup">rd</span> workshop €290 ($330)
+* 4<span class="sup">th</span> workshop Free
 
-### Methods of payment
+You can subscribe and pay for the workshops one by one.
 
-* All pricing is in Euro's.
-* Inside The Netherlands add 21% VAT.
-* Inside Europe no VAT adds, if you have a VAT registration number.
-* Outside Europe no VAT is added.
-* We send an invoice over the total amount.
-* Direct bank transfer is preference. 
-* Add 3% to the total if PayPal is used.
+DesignDesign.Space keeps track of the total amount of workshops that you did. 
+
+Pricing is for students, single designers and small studios.
+
+Your place in a workshop is confirmed, once the payment is received.
+
+Pricing for corporate usage and custom made workshops is upon request.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~ 
 box = section.newCropped()

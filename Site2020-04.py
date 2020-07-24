@@ -85,7 +85,7 @@ DO_FILE = 'File' # Generate website output in _export/SimpleSite and open browse
 DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and open a localhost
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
 EXPORT_TYPES = [DO_MAMP, DO_GIT]
-EXPORT_TYPES = [DO_MAMP]
+#EXPORT_TYPES = [DO_MAMP]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 

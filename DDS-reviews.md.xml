@@ -11,11 +11,11 @@ content = page.select('Content')
 box = content.newBanner()
 </code></pre>
 
-<h1>What happened in 2018</h1>
+<h1>What happened in before</h1>
 <pre><code>box = content.newIntroduction()
 </code></pre>
 
-<h1>Around 120 students have joined one or more of the workshops and studies in 2018. Read some of their testimonials.</h1>
+<h1>Around 200 students have joined one or more of the workshops and studies since we started in 2017. Read some of their testimonials.</h1>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
@@ -33,6 +33,7 @@ box = section.newMain()
 <li>Design the design process (10 days)</li>
 <li>Mapping the profession in detail, for type design students (12 days)</li>
 <li>Various individual coaching projects, ranging from type-crit to support at the background of regular design studies</li>
+<li>Six free workshops in Corona time (12 weeks)</li>
 </ul>
 <pre><code>box = section.newCropped()
 </code></pre>

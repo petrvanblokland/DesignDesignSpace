@@ -11,7 +11,7 @@ page.url = 'contact.html'
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# Contact us for a free initial hangout
+# Contact us for more info.
 
 ~~~
 from pagebot.constants import *

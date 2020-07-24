@@ -350,28 +350,29 @@ ul.navmenu:after {
 }
 .slideside {
     background-color: #595959;
-    padding: 0 1em 1em 0;
+    padding: 1em 1em 1em 0.5em;
 }
 .slideside .text h1 {
-    color: #E7E7E7;
+    color: white; /* #E7E7E7; */
     letter-spacing: 0.04em;
-    font-size: 1.4em;
+    font-size: 1.8em;
     line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
 .slideside .text h1 a {
-    color: #FC6F08;
+    color: #E7E7E7;
+    /*color: #FC6F08;*/
     /*color: #F96302;*/
 }
 .slideside .text h1 a:hover {
-    color: #642801;
+    color: #45454A;
 }
-.slideside .text h2 {
+.slideside .text h2, .slideside .text li  {
     color: #E7E7E7;
     letter-spacing: 0.025em;
     font-size: 1.4em;
     line-height: 1.2em;
-    font-family: 'Upgrade-Regular';
+    font-family: 'Upgrade-Book';
 }
 .slideside .text h3 {
     color: #E7E7E7;
@@ -416,6 +417,15 @@ h1 sup { /* Superior Scale number in h1 */
 li sup { /* Superior Scale number in Menu */
     color: #000000;
 }
+/* Tabular figures */
+.tab {
+    -moz-font-feature-settings:"tnum=1";
+    -moz-font-feature-settings:"tnum";
+    -ms-font-feature-settings:"tnum";
+    -webkit-font-feature-settings:"tnum";
+    font-feature-settings:"tnum";
+}
+
 
 /* Content */
 

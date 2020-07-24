@@ -377,28 +377,29 @@ ul.navmenu:after {
 }
 .slideside {
     background-color: #%(group.fillDiap)s;
-    padding: 0 1em 1em 0;
+    padding: 1em 1em 1em 0.5em;
 }
 .slideside .text h1 {
-    color: #%(h2.textFillDiap)s;
+    color: white; /* #%(h2.textFillDiap)s; */
     letter-spacing: 0.04em;
-    font-size: 1.4em;
+    font-size: 1.8em;
     line-height: 1.2em;
     font-family: 'Upgrade-Regular';
 }
 .slideside .text h1 a {
-    color: #FC6F08;
+    color: #%(h2.textFillDiap)s;
+    /*color: #FC6F08;*/
     /*color: #%(base3)s;*/
 }
 .slideside .text h1 a:hover {
-    color: #%(base3.colorFront)s;
+    color: #%(base2.colorFront)s;
 }
-.slideside .text h2 {
+.slideside .text h2, .slideside .text li  {
     color: #%(h2.textFillDiap)s;
     letter-spacing: 0.025em;
     font-size: 1.4em;
     line-height: 1.2em;
-    font-family: 'Upgrade-Regular';
+    font-family: 'Upgrade-Book';
 }
 .slideside .text h3 {
     color: #%(h3.textFillDiap)s;
@@ -443,6 +444,15 @@ h1 sup { /* Superior Scale number in h1 */
 li sup { /* Superior Scale number in Menu */
     color: #%(li.textFill)s;
 }
+/* Tabular figures */
+.tab {
+    -moz-font-feature-settings:"tnum=1";
+    -moz-font-feature-settings:"tnum";
+    -ms-font-feature-settings:"tnum";
+    -webkit-font-feature-settings:"tnum";
+    font-feature-settings:"tnum";
+}
+
 
 /* Content */
 
