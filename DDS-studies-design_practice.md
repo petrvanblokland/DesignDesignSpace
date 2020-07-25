@@ -39,8 +39,9 @@ Develop and select design methods. What is available beyond “scrum”? Which m
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of projects and personal coaching, **€1.500** per student
+* A season of projects and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -64,9 +65,9 @@ This study is a follow up on the **Design of design models**, but can be also jo
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of projects and personal coaching, **€1.500** per student
+* A season of projects and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -88,9 +89,9 @@ Similar to the “Rapid Prototyping” workshop, this study addresses the manage
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+** A month of projects and personal coaching, **€1.500** per student
+* A season of projects and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -113,8 +114,8 @@ Coaching is organized depending on your needs. It varies from a single lesson of
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of projects, coaching and 8 lessons, **€1.700** per student
+* A month of projects and personal coaching, **€1.500** per student
+* A season of projects and personal coaching **€2.500** per student
 * Document sharing and versioning through GitHub
 * Daily support and feedback on results for the duration of the study
 * Design principles for planning, process, methods for feedback and testing criteria 
@@ -137,8 +138,8 @@ Use of cases, models, simulations, sketching and presentation techniques are the
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* Document sharing and versioning through GitHub
+* A month of projects and personal coaching, **€1.500** per student
+* A season of projects and personal coaching **€2.500** per student
 * Daily support and feedback on results for the duration of the study
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -161,7 +162,8 @@ The workshop gives students a wide variety of strategies and scenarios.
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
+* A month of projects and personal coaching, **€1.500** per student
+* A season of projects and personal coaching **€2.500** per student
 * Document sharing and versioning through GitHub
 * Daily support and feedback on results for the duration of the study
 * Design principles for planning, process, methods for feedback and testing criteria 

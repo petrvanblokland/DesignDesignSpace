@@ -376,7 +376,7 @@ ul.navmenu:after {
     background-color: #%(group.fillDiap)s;
 }
 .slideside {
-    background-color: #%(group.fillDiap)s;
+    background-color: #%(logo.textFill)s; /* #%(group.fillDiap)s; */
     padding: 1em 1em 1em 0.5em;
 }
 .slideside .text h1 {

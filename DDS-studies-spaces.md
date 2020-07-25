@@ -40,9 +40,9 @@ In a sequence of exercises, the student will develop ways to look, measure and c
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -65,9 +65,9 @@ Sketching, making models and making presentations in all different stages in the
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -89,9 +89,9 @@ Making one-off designs is relatively easy. There are no other requirement than f
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -112,9 +112,9 @@ You have a project that starts with a pile of legacy publications. Or the conten
 ~~~
 box = box.newInfo()
 ~~~
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -136,9 +136,9 @@ Design the interior of a workspace, based on requirements, planning, budget and 
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -160,9 +160,9 @@ Design an exhibition space, based on requirements, planning, budget and usage. D
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -186,9 +186,9 @@ Through a variety of exercises – writing, sketching, making an inventory of en
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -209,9 +209,9 @@ Even design projects with a high degree of routine can benefit from built-in san
 ~~~
 box = box.newInfo()
 ~~~
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 

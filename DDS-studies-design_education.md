@@ -39,8 +39,8 @@ With a total of 60+ years of educating design, both in physical space, as well a
 ~~~
 box = box.newInfo()
 ~~~
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
 * Document sharing and versioning through GitHub
 * Daily support and feedback on results for the duration of the study
 * Design principles for planning, process, methods for feedback and testing criteria 
@@ -66,10 +66,8 @@ box = box.newInfo()
 ~~~
 
 * Initial online hangout, free of charge.
-* A single lesson with many exercises for a day: **€170** per student
-* A week of exercises and 3 lessons, **€450** per student
-* A month of projects and 8 lessons, **€1.700** per student
-* A season of projects and coaching **€3.400**
+* A month of projects and personal coaching, **€1.900** per student
+* A season of projects and personal coaching **€2.900** per student
 * A full year: **Ask about what we can do.**
 * Document sharing and versioning through GitHub
 * Daily support and feedback on results for the duration of the study

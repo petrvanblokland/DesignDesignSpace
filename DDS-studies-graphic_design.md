@@ -37,9 +37,9 @@ Disassemble your graphic design into parameters, models and methods. Why do you 
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -65,8 +65,9 @@ Learn to use PageBot to script sites like this one.
 box = box.newInfo()
 ~~~
 
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -88,9 +89,9 @@ Design systems that generate info-graphics. For online use and for print. How to
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -114,8 +115,9 @@ Design systems that generate books, magazines, newspapers, brochures, manuals or
 box = box.newInfo()
 ~~~
 
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -140,9 +142,9 @@ What is the best usage of graphic elements in a brand? Which are used for recogn
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -164,9 +166,9 @@ What are the criteria for choosing the best type design for a particular graphic
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -192,8 +194,9 @@ We are interested in your opinion.
 box = box.newInfo()
 ~~~
 
-* An month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 

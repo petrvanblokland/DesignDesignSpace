@@ -44,10 +44,9 @@ box = box.newInfo()
 ~~~
 
 * Initial online hangout, free of charge.
-* A single lesson of exercises for a whole day, **€170** per student
-* A week of exercises and 3 lessons, **€450** per student
-* Or with regular intervals during the duration of the project, **€90** per hour
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Coaching the development of scripts to support the design process.
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
@@ -71,9 +70,9 @@ box = box.newInfo()
 ~~~
 
 * Initial online hangout, free of charge.
-* A single lesson of exercises for a whole day, **€170** per student
-* A week of exercises and 3 lessons, **€450** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, the process, methods for feedback and testing criteria 
 
@@ -100,9 +99,9 @@ box = box.newInfo()
 ~~~
 
 * Initial online hangout, free of charge.
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -124,10 +123,9 @@ Learn to improve your sketching techniques for type and typography, using Erik v
 box = box.newInfo()
 ~~~
 
-* A single lesson, **€170** per student
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -149,10 +147,9 @@ Learn the basics of scripting proofs and specimens for TTF, OTF and UFO. Sketchi
 box = box.newInfo()
 ~~~
 
-* A single lesson, **€170** per student
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -174,10 +171,9 @@ Learn the basics of scripting, testing the quality of TTF, OTF and UFO fonts dur
 box = box.newInfo()
 ~~~
 
-* A single lesson, **€170** per student
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -200,8 +196,9 @@ box = box.newInfo()
 ~~~
 
 * Initial online hangout, free of charge.
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -224,8 +221,9 @@ box = box.newInfo()
 ~~~
 
 * Initial online hangout, free of charge.
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 

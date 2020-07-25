@@ -288,7 +288,7 @@ In each round a new assignment is given, where the formation of the studios stay
 ### Round 1: Corporate Identity
 The first round takes 2 hours to design and present a corporate identity. Details and requirements are given at the start of each round. 
 
-Studios have the possibility to present to their customer through digital media, e.g. by e-mail and hangout, asking questions, showing intermediate sketches.
+Studios have the possibility to present to their customer through digital media, e.g. on Slack and hangout, asking questions, showing intermediate sketches.
 
 At the end of each round, the final design of every studio is presented to their customers and the other studios. The customers will judge the process and the result and give feedback.
 

@@ -349,7 +349,7 @@ ul.navmenu:after {
     background-color: #595959;
 }
 .slideside {
-    background-color: #595959;
+    background-color: #F96302; /* #595959; */
     padding: 1em 1em 1em 0.5em;
 }
 .slideside .text h1 {

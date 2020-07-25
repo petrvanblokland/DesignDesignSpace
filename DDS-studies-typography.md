@@ -63,9 +63,9 @@ The right application of type and typography can also save money for your client
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
@@ -88,9 +88,9 @@ The use of type in websites using CSS has many issues to check on for typographe
 box = box.newInfo()
 ~~~
 
-* A week of exercises and 3 lessons, **€450** per student
-* A month of exercises, projects and 8 lessons, **€1.700** per student
-* Daily feedback by e-mail on results for the duration of the study
+* A month of exercises and personal coaching, **€1.500** per student
+* A season of exercises and personal coaching **€2.500** per student
+* Daily feedback on Slack for the duration of the study
 * Document sharing and versioning through GitHub
 * Design principles for planning, process, methods for feedback and testing criteria 
 
