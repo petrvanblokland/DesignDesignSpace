@@ -71,6 +71,7 @@ box = slideshow.side
 * Limited to 8 students
 * Live lectures
 * Exercises and feedback
+* €290, every 4<span class="sup">th</span> workshop is free;
 
 # <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
