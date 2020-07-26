@@ -71,7 +71,7 @@ box = slideshow.side
 * Limited to 8 students
 * Live lectures
 * Exercises and feedback
-* €290, every 4<span class="sup">th</span> workshop is free;
+* €290, 4<span class="sup">th</span> workshop free;
 
 # <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
@@ -591,6 +591,8 @@ Doing administration work is often seen as a boring by-product of running a stud
 
 The workshop shows methods to design the process of administration, as if it was an interesting graphic design project.
 
+#### Example exercises
+
 * Design templates for quotes and invoices, using spreadsheet applications and Google Docs.
 * Learn to distinguish between the “go” and “no-go” requirements of a design;
 * Sketch info-graphics that show the iterations of a design process. Visualise the planning for your customer;
@@ -660,6 +662,8 @@ box = box.newInfo()
 
 After finishing [Coding simple scripted tools](#coding-simple-scripted-tools), it is time to concetrate more on the user interface. If scripts are used by other designers than yourself, it is more user-friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.
 
+#### Example exercises
+
 * Write alphabets with a broad nib pencil to experience the construction of **“translation”** contrast;
 * Write with sharp pencils to experience the construction of **“expansion”** contrast;
 * Learn the behaviour of glyph shapes, varying weight and width 
@@ -691,6 +695,8 @@ box = box.newInfo()
 Working on type projects can take a long time. It is not always easy to keep the track of progress and quality, if zoomed into so many details.
 
 This workshop shows methods to get through lengthy projects, staying focused while keeping an eye on the horizon.
+
+#### Example exercises
 
 * Learn about sketching techniques, in combination with methods of feedback;
 * Make templates for planning;
@@ -782,6 +788,8 @@ box = box.newInfo()
 ~~~
 
 This workshop offers two weeks of writing scripts that support your type design process. Many time consuming tasks can be automated. Even a script of 10 lines, that costs 2 days to script is profitable if it saves 2 weeks of repeatative work.
+
+#### Example exercises
 
 * Learn to use the supplied example scripts;
 * Analyse your current way of working. Which parts of that could be automated?

@@ -69,7 +69,7 @@ box = slideshow.slides
 <li>Limited to 8 students</li>
 <li>Live lectures</li>
 <li>Exercises and feedback</li>
-<li>€290, every 4<span class="sup">th</span> workshop is free;</li>
+<li>€290, 4<span class="sup">th</span> workshop free;</li>
 </ul>
 <h1><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></h1>
 <h1><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Contact us</a></h1>
@@ -441,6 +441,7 @@ box = section.newMain()
 
 <p>Doing administration work is often seen as a boring by-product of running a studio. Planning projects is vital, but is often ignored. Learn to look at these processes as if they were regular design jobs. Doing them can be fun. And they can even become one of your products. </p>
 <p>The workshop shows methods to design the process of administration, as if it was an interesting graphic design project.</p>
+<h4>Example exercises</h4>
 <ul>
 <li>Design templates for quotes and invoices, using spreadsheet applications and Google Docs.</li>
 <li>Learn to distinguish between the “go” and “no-go” requirements of a design;</li>
@@ -502,6 +503,7 @@ box = section.newMain()
 </code></pre>
 
 <p>After finishing <a href="#coding-simple-scripted-tools">Coding simple scripted tools</a>, it is time to concetrate more on the user interface. If scripts are used by other designers than yourself, it is more user-friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.</p>
+<h4>Example exercises</h4>
 <ul>
 <li>Write alphabets with a broad nib pencil to experience the construction of <strong>“translation”</strong> contrast;</li>
 <li>Write with sharp pencils to experience the construction of <strong>“expansion”</strong> contrast;</li>
@@ -526,6 +528,7 @@ box = section.newMain()
 
 <p>Working on type projects can take a long time. It is not always easy to keep the track of progress and quality, if zoomed into so many details.</p>
 <p>This workshop shows methods to get through lengthy projects, staying focused while keeping an eye on the horizon.</p>
+<h4>Example exercises</h4>
 <ul>
 <li>Learn about sketching techniques, in combination with methods of feedback;</li>
 <li>Make templates for planning;</li>
@@ -616,6 +619,7 @@ box = section.newMain()
 </code></pre>
 
 <p>This workshop offers two weeks of writing scripts that support your type design process. Many time consuming tasks can be automated. Even a script of 10 lines, that costs 2 days to script is profitable if it saves 2 weeks of repeatative work.</p>
+<h4>Example exercises</h4>
 <ul>
 <li>Learn to use the supplied example scripts;</li>
 <li>Analyse your current way of working. Which parts of that could be automated?</li>
