@@ -71,7 +71,7 @@ box = slideshow.side
 * Limited to 8 students
 * Live lectures
 * Exercises and feedback
-* 4<span class="sup">th</span> workshop free;
+* 4<span class="sup">th</span> workshop free
 
 # <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
@@ -103,16 +103,16 @@ Each online workshop runs for 2 weeks, including live lectures, addressing theor
 * Intensive exercises and daily personal feedback;
 * The result of the exercises is shared on a closed Slack channel for the duration of the workshop;
 * Feedback comes from the educators and the other students;
-* DesignDesign.Space offers a safe online study environment, where any question can be asked 
-* €290;
+* DesignDesign.Space offers a safe online study environment, where any question can be asked;
+* €290 per workshop;
 * Every 4<span class="sup">th</span> workshop is free.
 
-Some workshops combine as a sequence. It is recommended to do them in the right order to get the best connection.
+Some workshops combine as a sequence. It is recommended to do them in the right order to get the best continuation.
 
 ~~~
 box = section.newCropped()
 ~~~
-![cover y=top](images/DSGNWK_0468BW.jpg)
+![cover y=top x=center](images/DSGNWK_0468BW.jpg)
 
 
 ~~~
@@ -269,6 +269,8 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 This workshop is followed up by [Basic coding in Python #2](#coding-in-python2).
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -309,6 +311,8 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 Completion of workshop [Basic coding in Python #1](#coding-in-python1) is recommended.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -326,7 +330,7 @@ box = section.newMain()
 <a name="visual-grammar1"/>
 ## Visual grammar #1
 
-### Learn to use the seven parameters of Bertin
+### Learn to use the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.
 
 #### Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290
 
@@ -346,6 +350,8 @@ In this workshop Jacques Bertin’s model of seven visual parameters (**color, c
 * Make the darkest black on Earth.
 
 This workshop is followed up by [Visual grammar #2](#"visual-grammar2).
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
@@ -382,6 +388,8 @@ The excercises of this workshop give insight in the various methods to balance v
 * Organize a number of objects in a given space. What are your options to make a composition? How to create a structure?
 
 Completion of workshop [(V1) Visual grammar #1](#visual-grammar1) is recommended.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
@@ -424,6 +432,8 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) is recommended.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -462,6 +472,8 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -498,6 +510,8 @@ The workshop gives insight in various sketching techniques, using pen on paper a
 * Sketch a series of info-graphics, visualizing narrative and data;
 * Sketch abstract processes, such as a website design.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -532,6 +546,8 @@ The workshop gives an overview of making a presentation, using materials, 3D and
 * Sketch presentations in a small scale. What do you want to show in such a storyboard?
 * Present an existing design project in no more than 5 slides. Pay attention to consistency of layout, typegraphy and the use of color.
 * Can you present what makes your design so unique?
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
@@ -569,6 +585,8 @@ The workshop shows methods to design the process of administration, as if it was
 * Sketch info-graphics that show the iterations of a design process. Visualise the planning for your customer;
 * Automate the generation of progress reports.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -603,6 +621,8 @@ This workshop shares our experience of teaching online with DesignDesign.Space w
 * Learn to write exercises that can be done through digital media;
 * Develop methods for feedback, evaluation and validation of student work;
 * An introduction on simulation games, that can be played with students in an online environment.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
@@ -681,6 +701,8 @@ Graphic designers work with type all day. It is one of their most important tool
 * Learn the basics about capitals, roman, italic, spacing and kerning.
 * Digitize your writings into outlines, using your favourite type editor;
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -718,11 +740,13 @@ This workshop shows different types of processes to design a logo. Match the lis
 * Study the effects of size and resolution on logos;
 * How to extract the visual grammar of a logo, to be applied separately in publications and manuals.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_5640.jpg)
+![cover y=top x=center](images/IMG_5776.jpg)
 
 
 ~~~
@@ -752,6 +776,8 @@ This workshop shows methods to get through lengthy projects, staying focused whi
 * Develop testing methods for QA and proofing;
 * Online storage and versioning;
 * Developing code for automoated production of font files.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
@@ -850,6 +876,8 @@ This workshop offers two weeks of writing scripts that support your type design 
 
 Completion of workshops [Basic coding in Python #1](#coding-in-python1), [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
@@ -886,11 +914,13 @@ This workshop offers two weeks of analysing typography and layours in existing p
 
 Completion of workshops [Basic coding in Python #1](#coding-in-python1), [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/upgradeeditwindow.png)
+![cover y=top x=center](images/pic06page.png)
 
 
 
@@ -920,13 +950,17 @@ This workshop dpes focus on the coding the [Basics of typography, grids and layo
 * Design and write the code for new types of page elements, such as the proofing of Variable Fonts and live info-graphics that depend on web-data;
 * Generate the functionality of your code as automated generative manuals for print and web.
 
+The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
+
 Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) and [Basics of typography, grids and layout](#basics-of-typography-grid-and-layout) is recommended.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/upgradeeditwindow.png)
+![cover y=top x=center](images/F5.034.jpeg)
 
 
 
@@ -961,7 +995,7 @@ This pricing is for students, single designers and small studios. Pricing for co
 ~~~
 box = section.newCropped()
 ~~~
-![cover y=top](images/BK-Interactive-Design.png)
+![cover y=top](images/bookCoverPages2_1.png)
 
 
 

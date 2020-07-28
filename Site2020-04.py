@@ -20,12 +20,13 @@ import webbrowser
 
 from pagebot.contexts import getContext
 from pagebot.publications.publication import Publication
-from pagebot.constants import URL_JQUERY, LANGUAGE_EN
+from pagebot.publications.instagram import InstagramPost
+from pagebot.constants import URL_JQUERY, LANGUAGE_EN, InstagramSquare, CENTER
 from pagebot.composer import Composer
 from pagebot.typesetter import Typesetter
 from pagebot.elements import *
 from pagebot.toolbox.color import color, whiteColor, blackColor, spotColor
-from pagebot.toolbox.units import em, pt
+from pagebot.toolbox.units import em, pt, px
 from pagebot.elements.web.nanosite.siteelements import *
 
 from css.nanostyle_css import cssPy
@@ -77,6 +78,7 @@ MD_PATHS = [
     'DDS-contact.md',
 ]
 EXPORT_PATH = '_export/' + SITE_NAME # Export path for DO_FILE
+INSTAGRAM_PATH = '_export/Instagram.jpg'
 
 VERBOSE = False
 
@@ -84,9 +86,12 @@ DO_PDF = 'Pdf' # Save as PDF representation of the site.
 DO_FILE = 'File' # Generate website output in _export/SimpleSite and open browser on file index.html
 DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and open a localhost
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
+DO_TWITTER = 'Twitter' # Generate banners for each workshop on optimal Twitter size.
+DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Instagram square size.
 #EXPORT_TYPES = [DO_GIT]
 EXPORT_TYPES = [DO_MAMP, DO_GIT]
 #EXPORT_TYPES = [DO_MAMP]
+EXPORT_TYPES = [DO_INSTAGRAM]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 
@@ -118,6 +123,86 @@ def makeNavigation(doc):
             navigation = page.select('Navigation')
             if navigation is not None:
                 navigation.pageTree = doc.getPageTree() # Get a fresh one for each page
+
+def makeTwitter(styles=styles):
+    context = getContext('DrawBot')
+    tweets = TwitterPost(styles=styles)
+    doc = tweets.newDocument(name='Tweets', viewId=viewId, autoPages=1, context=context)
+
+    return doc
+
+def makeInstagram(styles=styles):
+    context = getContext('DrawBot')
+    instagram = InstagramPost(styles=styles)
+    w, h = InstagramSquare
+    doc = instagram.newDocument(name='Instagram', w=w, h=h, context=context)
+
+    # By default, the typesetter produces a single Galley with content and code blocks.    
+    t = Typesetter(context, maxImageWidth=MAX_IMAGE_WIDTH)
+    mdPath = MD_PATHS[0] # Only make instagram posts from the home page.
+    t.typesetFile(mdPath)
+
+    # Filter all h2/h3/image combinations, to make instagram banners.
+    bannerData = []
+    h2 = h3 = h4 = None
+    for e in t.galley.elements:
+        if e.isText:
+            for run in e.bs.runs:
+                if run.style.get('name') == 'h2':
+                    h2 = run.s.strip()
+                    h3 = h4 = None
+                elif h3 is None and run.style.get('name') == 'h3':
+                    h3 = run.s.strip()
+                    h4 = None
+                elif h4 is None and run.style.get('name') == 'h4':
+                    h4 = run.s.strip()
+        elif e.isImage:
+            if h2 and h3 and h4:            
+                print(e.alt)
+                bannerData.append((h2, h3, h4, e.path, e.alt))
+                h2 = h3 = h4 = None
+    
+    # Header styles
+    pad = px(50)
+    tPad = px(25)
+    h2Style = dict(font='Upgrade-Medium', fontSize=px(120), leading=em(1), textFill=color(1))
+    h3Style = dict(font='Upgrade-Regular', fontSize=px(90), leading=em(1), textFill=color(1))
+    h4Style = dict(font='Upgrade-Semibold', fontSize=px(90), leading=em(1), textFill=color(1))
+
+    # Now we have all content, we can create the pages, one per post
+    page = doc[1]
+    for h2, h3, h4, imagePath, alt in bannerData:
+        #print(h2, h3, h4, imagePath)
+        iw, ih = context.imageSize(imagePath)
+        if iw > ih:
+            iw, ih = None, h
+        else:
+            iw, ih = w, None
+        if 'x=center' in alt:
+            xAlign = CENTER
+            x = w/2
+        else:
+            xAlign = None
+            x = 0
+        newImage(path=imagePath, parent=page, x=x, y=0, w=iw, h=ih, xAlign=xAlign)
+
+        bs = context.newString(h2, h2Style)
+        tw, th = context.textSize(bs, w=w-2*pad-2*tPad)
+        newRect(x=pad, y=h-th-2*tPad, fill=color(rgb='red', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
+        newText(bs, x=pad+tPad, y=h-2*tPad, w=w-2*pad-2*tPad, parent=page)
+
+        bs = context.newString(h3, h3Style)
+        tw, th = context.textSize(bs, w=w-2*pad-2*tPad)
+        newRect(x=pad, y=h/2-3.5*tPad, fill=color(rgb='darkblue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
+        newText(bs, x=pad+tPad, y=h/2, w=w-2*pad-2*tPad, parent=page)
+
+        bs = context.newString(h4, h4Style)
+        tw, th = context.textSize(bs, w=w-2*pad-2*tPad)
+        newRect(x=pad, y=0, fill=color(rgb='blue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
+        newText(bs, x=pad+tPad, y=2*tPad, w=w-2*pad-2*tPad, parent=page)
+
+        page = page.next
+    return doc
 
 def makeTemplate(doc):
 
@@ -194,7 +279,8 @@ def makeSite(styles, viewId, context):
     for mdPath in MD_PATHS:
         print('Typeset file', mdPath)
         t.typesetFile(mdPath)
-    
+    t.galley.fill = color(1)
+
     # Create a Composer for this document, then create pages and fill content. 
     composer = Composer(doc)
 
@@ -271,6 +357,14 @@ if DO_GIT in EXPORT_TYPES: # Not supported for SimpleSite, only one per reposito
         os.system('/usr/bin/git pull')
         os.system('/usr/bin/git push')
         #os.system(u'/usr/bin/open "%s"' % gitView.getUrl(DOMAIN))
+
+if DO_TWITTER in EXPORT_TYPES: 
+    doc = makeTwitter(styles=styles)
+    doc.export(INSTAGRAM_PATH, multiPages=True)
+
+if DO_INSTAGRAM in EXPORT_TYPES:
+    doc = makeInstagram(styles=styles)
+    doc.export(INSTAGRAM_PATH)
 
 #else: # No output view defined
 #    print('Set EXPORTTYPE to DO_FILE or DO_MAMP or DO_GIT')
