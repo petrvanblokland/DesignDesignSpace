@@ -67,11 +67,11 @@ box = slideshow.side
 
 # Develop your process. Expand your skills.
 
-* 2 weeks
+* 2 weeks online
 * Limited to 8 students
 * Live lectures
 * Exercises and feedback
-* €290, 4<span class="sup">th</span> workshop free;
+* 4<span class="sup">th</span> workshop free;
 
 # <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
@@ -95,18 +95,19 @@ box = section.newMain()
 ~~~
 ## DesignDesign.Space workshops: what are they like?
 
-Each workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and giving feedback on the exercises that you do.
+Each online workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and giving feedback on the exercises that you do.
 
-* €290, every 4<span class="sup">th</span> workshop is free;
 * 2 weeks, from Monday to Sunday;
 * 4 hangouts with theory, models, templates and example documents;
 * Maximum of 8 participants per workshop;
 * Intensive exercises and daily personal feedback;
 * The result of the exercises is shared on a closed Slack channel for the duration of the workshop;
 * Feedback comes from the educators and the other students;
-* DesignDesign.Space offers a safe online study environment, where any question can be asked. 
+* DesignDesign.Space offers a safe online study environment, where any question can be asked 
+* €290;
+* Every 4<span class="sup">th</span> workshop is free.
 
-Some workshops combine as a sequence. It is recommended to do them in the right order. Every 4<span class="sup">th</span> workshop is free of charge.
+Some workshops combine as a sequence. It is recommended to do them in the right order to get the best connection.
 
 ~~~
 box = section.newCropped()
@@ -118,49 +119,23 @@ box = section.newCropped()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## €290 per workshop
-
-### Get one free for every three
-
-* 1<span class="sup">st</span> workshop €290 ($330)
-* 2<span class="sup">nd</span> workshop €290 ($330)
-* 3<span class="sup">rd</span> workshop €290 ($330)
-* 4<span class="sup">th</span> workshop Free
-
-You can subscribe and pay for the workshops one by one. DesignDesign.Space keeps track of the total amount of workshops that you did. 
-
-Your place in a workshop is confirmed, once the payment is received.
-
-This pricing is for students, single designers and small studios. Pricing for corporate usage and custom made workshops is upon request.
-
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
-~~~
-box = section.newCropped()
-~~~
-![cover y=top](images/BK-Interactive-Design.png)
-
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
+<a name="planned-workshops-by-category"/>
 
 ## Planned workshops by category
 
 ### Process 
 
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
-##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity and coherency](#visual-grammar2)
+##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 ##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
-##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards and presentations](#running-a-studio1)
-##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes and plannings](#running-a-studio2)
-##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback and evaluation](#teaching-online)
+##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations](#running-a-studio1)
+##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings](#running-a-studio2)
+##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation](#teaching-online)
 
 ### Programming
 
 ##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods and classes](#coding-in-python2)
+##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
 ##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
 ##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
 ##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
@@ -170,12 +145,12 @@ box = section.newMain()
 ##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers](#basic-principles-of-type-design)
 ##### <span class="tab">2021-02-01</span> • [Basics of logo design](#logo-design)
 ##### <span class="tab">2021-02-15</span> • [Coding advanced logo variations](#coding-advanced-logo-variations)
-##### <span class="tab">2021-03-01</span> • [Sketching, feedback and planning in type design](#sketching-feedback-planning)
+##### <span class="tab">2021-03-01</span> • [Sketching, feedback & planning in type design](#sketching-feedback-planning)
 
 ### Publications for web and print
 
-##### <span class="tab">2021-03-29</span> • [Basics of typography, grids and layout](#basics-of-typography-grids-and-layout)
-##### <span class="tab">2021-04-12</span> • [Coding advanced typography and layouts for print and web](#basics-of-grid-design)
+##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout](#basics-of-typography-grids-and-layout)
+##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web](#basics-of-grid-design)
 
 ~~~
 box = section.newCropped()
@@ -234,25 +209,25 @@ box = box.newInfo()
 ### 2020
 
 ##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods and classes](#coding-in-python2)
+##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
-##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity and coherency](#visual-grammar2)
+##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 ##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
 ##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
 ##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
-##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards and presentations](#running-a-studio1)
-##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes and plannings](#running-a-studio2)
+##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations](#running-a-studio1)
+##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings](#running-a-studio2)
 
 ### 2021
 
-##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback and evaluation](#teaching-online)
+##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation](#teaching-online)
 ##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers](#basic-principles-of-type-design)
 ##### <span class="tab">2021-02-01</span> • [Basics of logo design](#logo-design)
 ##### <span class="tab">2021-02-15</span> • [Coding advanced logo variations](#coding-advanced-logo-variations)
-##### <span class="tab">2021-03-01</span> • [Sketching, feedback and planning in type design](#sketching-feedback-planning)
+##### <span class="tab">2021-03-01</span> • [Sketching, feedback & planning in type design](#sketching-feedback-planning)
 ##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
-##### <span class="tab">2021-03-29</span> • [Basics of typography, grids and layout](#basics-of-typography-grids-and-layout)
-##### <span class="tab">2021-04-12</span> • [Coding advanced typography and layouts for print and web](#basics-of-grid-design)
+##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout](#basics-of-typography-grids-and-layout)
+##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web](#basics-of-grid-design)
 
 ~~~
 box = section.newCropped()
@@ -298,7 +273,7 @@ This workshop is followed up by [Basic coding in Python #2](#coding-in-python2).
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/DrawBotHomePage.png)
+![cover y=top x=center](images/DrawBotHomePage.png)
 
 
 
@@ -338,7 +313,7 @@ Completion of workshop [Basic coding in Python #1](#coding-in-python1) is recomm
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/pageBotCode.png)
+![cover y=top x=center](images/pageBotCode.png)
 
 
 
@@ -412,7 +387,7 @@ Completion of workshop [(V1) Visual grammar #1](#visual-grammar1) is recommended
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/DesignModels2.074.png)
+![cover y=top x=center](images/DesignModels2.074.png)
 
 
 
@@ -462,9 +437,9 @@ section = content.newSection()
 box = section.newMain()
 ~~~
 <a name="coding-simple-ui-tools"/>
-## Coding simple tools with a user interface
+## Coding tools with a user interface
 
-### Make scripted tools more user-friendly
+### Make your scripted tools more user-friendly
 
 #### Start November 11<span class="sup">th</span> 2020 • 2 weeks • €290
 
@@ -472,24 +447,20 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
-Once a project grows larger, it may become necessary to get other developers involved. This workshop addresses the use of Github for version management. 
+The focus of this workshop is on how to program user interaction. Extract the various options into menus, popups and checkboxes.
 
-The focus of this workshop is on how to program user interaction. Extract the various options into popups and menus.
-
-You can make a selection from the following exercises. And it is also possible to bring your own ideas.
+You can select several from the following exercises. And it is also possible to bring your own ideas.
 
 #### Example exercises
 
-* Make an interface that allows user to choose from the avaible image filters, before it runs through the entire set of image files.
-* Make an interface that allows to choose from templates of graphs;
+* Make an interface that allows users to choose from the available image filters, before it runs through the entire set of image files.
+* Make an interface that helps to choose from templates of graphs;
 * Make an interface that shows the available color themes, before generating a website;
-* Make an interface to show the various testing schemes on a font;
+* Make an interface to show the various testing schemes on a font.
 
 The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
 
-Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) is recommended.
-
-Completion of workshop [Coding simple scripted tools](#simple-scripted-tools) is recommended.
+Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
 
 ~~~
 box = section.newCropped()
@@ -607,6 +578,44 @@ box = section.newCropped()
 
 
 
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="scripting-for-robofont"/>
+## Teaching online
+
+### Making exercises, methods for feedback and evaluation
+
+#### Start January 4<span class="sup">th</span> 2021 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+The world has suddenly changed. Teaching in class rooms is no longer possible. As experienced as you are, educating designers, the new skills are required for online teaching. 
+
+This workshop shares our experience of teaching online with DesignDesign.Space workshops for 4 years now. And also, we love to show how we organized the latest TypeLab.
+
+#### Example exercises
+
+* Learn to write exercises that can be done through digital media;
+* Develop methods for feedback, evaluation and validation of student work;
+* An introduction on simulation games, that can be played with students in an online environment.
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=top x=center](images/IMG_E8891.jpg)
+
+
+
+
+
+
+
 <!--
 
 ~~~
@@ -626,6 +635,8 @@ box = box.newInfo()
 
 After finishing [Coding simple scripted tools](#coding-simple-scripted-tools), it is time to concentrate more on the user interface. If scripts are used by other designers than yourself, it is more user-friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.
 
+Once a project grows larger, it may become necessary to get other developers involved. This workshop addresses the use of Github for version management. 
+
 * Set up your existing (type design) projects as a Github repository, so you can share changes and updates with the other designers, who work on the same project;
 * Add tests inside your sources to ensure the validity of the code;
 * Write scripts that generate automated manuals from the projects that you made.
@@ -642,7 +653,6 @@ box = section.newCropped()
 
 -->
 
-<!-- T Y P E  D E S I G N -->
 
 
 ~~~
@@ -652,7 +662,7 @@ box = section.newMain()
 <a name="basic-principles-of-type-design"/>
 ## Basic principles of type design
 
-### Understanding contrast by writing. Experiment with weight and width variations
+### For graphic designers: how to select a typeface. Understanding contrast by writing. Experiment with weight and width variations.
 
 #### Start January 18<span class="sup">th</span> 2021 • 2 weeks • €290
 
@@ -660,21 +670,59 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
-After finishing [Coding simple scripted tools](#coding-simple-scripted-tools), it is time to concetrate more on the user interface. If scripts are used by other designers than yourself, it is more user-friendly to offer a window with checkboxes and buttons, than altering the options directly in the code.
+Graphic designers work with type all day. It is one of their most important tools. Yet, it may not be obvious to select an appreciate the differences between existing typefaces. Which one to select for a certain task? Which type works best in logos? How to write a brief that communcates with typographers and type designers?
 
 #### Example exercises
 
 * Write alphabets with a broad nib pencil to experience the construction of **“translation”** contrast;
 * Write with sharp pencils to experience the construction of **“expansion”** contrast;
 * Learn the behaviour of glyph shapes, varying weight and width 
-* Digitize your writings into outlines, using your favourite type editor;
+* Study variantions by <a href="http://www.typecooker.com" target="external">Type Cooker</a>;
 * Learn the basics about capitals, roman, italic, spacing and kerning.
+* Digitize your writings into outlines, using your favourite type editor;
 
 ~~~
 box = section.newCropped()
 ~~~
 
 ![cover y=top](images/IMG_2848.jpg)
+
+
+
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="logo-design"/>
+## Basics of logo design
+
+### Learn the essentials of branding, visual grammar and type design.
+
+#### Start Februari 1<span class="sup">st</span> 2021 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+The design of visual identities is often confused with the drawing a logo. What more is needed to create a visual grammar that people will recognize? What are the parameters that lead to remembering a name or a brand? 
+
+This workshop shows different types of processes to design a logo. Match the list of requirements with the intended function. Various methods for sketching, design, testing and feedback are topic of the two weeks. Also it is part of the exercises to see how  different techniques and medium influence the shape and meaning of logos.
+
+#### Example exercises
+
+* Learn about sketching techniques, in combination with methods of feedback. How to test different versions?
+* Practice some essentials of type design;
+* Study the effects of size and resolution on logos;
+* How to extract the visual grammar of a logo, to be applied separately in publications and manuals.
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=top](images/IMG_5640.jpg)
 
 
 ~~~
@@ -684,7 +732,7 @@ box = section.newMain()
 <a name="sketching-feedback-planning"/>
 ## Sketching, feedback and planning in type design
 
-### Smoothing the process
+### Designing the process
 
 #### Start Januari 25<span class="sup">th</span> 2021 • 2 weeks • €290
 
@@ -694,14 +742,16 @@ box = box.newInfo()
 
 Working on type projects can take a long time. It is not always easy to keep the track of progress and quality, if zoomed into so many details.
 
-This workshop shows methods to get through lengthy projects, staying focused while keeping an eye on the horizon.
+This workshop shows methods to get through lengthy projects, staying focused while keeping an eye on the horizon. Also we’ll look at version management and how to cooperate on the same project with multiple designers and developers.
 
 #### Example exercises
 
 * Learn about sketching techniques, in combination with methods of feedback;
 * Make templates for planning;
 * Automate ongoing checks on the validity of your font sources;
-* Develop testing methods for QA and proofing.
+* Develop testing methods for QA and proofing;
+* Online storage and versioning;
+* Developing code for automoated production of font files.
 
 ~~~
 box = section.newCropped()
@@ -772,6 +822,8 @@ box = section.newCropped()
 ![cover y=top](images/IMG_E8891.jpg)
 -->
 
+
+
 ~~~
 section = content.newSection()
 box = section.newMain()
@@ -796,47 +848,120 @@ This workshop offers two weeks of writing scripts that support your type design 
 * Write some scripts for those tasks by adapting the example scripts;
 * Learn to generalize code to be useful for future projects.
 
-Completion of the workshops [Coding simple scripted tools](#simple-scripted-tools) and [Basic coding in Python #1](#coding-in-python1) is recommended.
+Completion of workshops [Basic coding in Python #1](#coding-in-python1), [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
 
 ~~~
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/upgradeeditwindow.png)
+![cover y=top x=center](images/upgradeeditwindow.png)
 
 
-<!-- D E S I G N  E D U C A T I O N -->
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="basics-of-typography-grid-and-layout"/>
+## Basics of typography, grids and layout
+
+### Parametric design for print and web
+
+#### Start March 29<span class="sup">th</span> 2021 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+This workshop offers two weeks of analysing typography and layours in existing publications. Then take the resulting rules into possible variantions. Study the basics of responsive layouts and generative design. What makes good typography? What is influence of various media on text?
+
+#### Example exercises
+
+* Collect representative publications and analyse the structure of their content and measurements;
+* Define rules and visual dependencies;
+* Design variations, e.g. what happens if the page size changes?
+* Learn the behaviour of grids in relation to typography.
+
+Completion of workshops [Basic coding in Python #1](#coding-in-python1), [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=top x=center](images/upgradeeditwindow.png)
+
+
+
+
 
 ~~~
 section = content.newSection()
 box = section.newMain()
 ~~~
 <a name="scripting-for-robofont"/>
-## Teaching online
+## Coding advanced typography and layouts for print and web
 
-### Making exercises, methods for feedback and evaluation
+### Parametric design with PageBot for print and web
 
-#### Start January 4<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start April 12<span class="sup">th</span> 2021 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()
 ~~~
 
-The world has suddenly changed. Teaching in class rooms is no longer possible. As experienced as you are, educating designers, the new skills are required for online teaching. 
-
-This workshop shares our experience of teaching online with DesignDesign.Space workshops for 4 years now. And also, we love to show how we organized the latest TypeLab.
+This workshop dpes focus on the coding the [Basics of typography, grids and layout](basics-of-typography-grid-and-layout) workshop results. Automate the production of documents for print and convert them into websites. A good understanding of coding in Python is recommended.
 
 #### Example exercises
 
-* Learn to write exercises that can be done through digital media;
-* Develop methods for feedback, evaluation and validation of student work;
-* An introduction on simulation games, that can be played with students in an online environment.
+* Experiment with the Element classes in PageBot;
+* Convert the results of earliers workshops into working code;
+* Design and write the code for new types of page elements, such as the proofing of Variable Fonts and live info-graphics that depend on web-data;
+* Generate the functionality of your code as automated generative manuals for print and web.
+
+Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) and [Basics of typography, grids and layout](#basics-of-typography-grid-and-layout) is recommended.
 
 ~~~
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_E8891.jpg)
+![cover y=top x=center](images/upgradeeditwindow.png)
+
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+## €290 per workshop
+
+### Get one free for every three
+
+* 1<span class="sup">st</span> workshop €290 ($330)
+* 2<span class="sup">nd</span> workshop €290 ($330)
+* 3<span class="sup">rd</span> workshop €290 ($330)
+* 4<span class="sup">th</span> workshop Free
+
+You can subscribe and pay for the workshops one by one. DesignDesign.Space keeps track of the total amount of workshops that you did. 
+
+All payments in Euro's.
+Inside The Netherlands 21% VAT is added.
+Inside the rest of Europe no VAT is added, if you have a VAT registration number.
+Outside Europe no VAT is added.
+We send an invoice over the total amount.
+
+Your place in a workshop is confirmed, once the payment is received.
+
+This pricing is for students, single designers and small studios. Pricing for corporate usage and custom made workshops is upon request.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
+~~~
+box = section.newCropped()
+~~~
+![cover y=top](images/BK-Interactive-Design.png)
 
 
 
@@ -853,6 +978,8 @@ box = section.newMain()
 * [Graphic design](studies-graphic_design.html)
 * [Design spaces](studies-design_spaces.html)
 * [Design practice](studies-design_practice.html)
+
+# [Workshops by category](#workshops-by-category)
 
 ---
 
