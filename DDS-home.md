@@ -438,7 +438,7 @@ Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Bas
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/WritingDrawingDuringLesson6.png)
+![cover y=top x=center](images/WritingDrawingDuringLesson6.png)
 
 
 
@@ -1013,11 +1013,11 @@ box = section.newMain()
 * [Design spaces](studies-design_spaces.html)
 * [Design practice](studies-design_practice.html)
 
-# [Workshops by category](#workshops-by-category)
+### [Workshops by category](#workshops-by-category)
 
 ---
 
-#### Typeface of this website: [TYPETR Upgrade](http://upgrade.typenetwork.com)
+#### Typeface of this website: <a href="http://upgrade.typenetwork.com" target="external">TYPETR Upgrade</a>
 
 ~~~
 box = section.newCropped()

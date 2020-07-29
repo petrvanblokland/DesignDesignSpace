@@ -338,7 +338,7 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top" src="images/WritingDrawingDuringLesson6.png" /></p>
+<p><img alt="cover y=top x=center" src="images/WritingDrawingDuringLesson6.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
@@ -763,9 +763,9 @@ box = section.newMain()
 <li><a href="studies-design_spaces.html">Design spaces</a></li>
 <li><a href="studies-design_practice.html">Design practice</a></li>
 </ul>
-<h1><a href="#workshops-by-category">Workshops by category</a></h1>
+<h3><a href="#workshops-by-category">Workshops by category</a></h3>
 <hr />
-<h4>Typeface of this website: <a href="http://upgrade.typenetwork.com">TYPETR Upgrade</a></h4>
+<h4>Typeface of this website: <a href="http://upgrade.typenetwork.com" target="external">TYPETR Upgrade</a></h4>
 <pre><code>box = section.newCropped()
 </code></pre>
 

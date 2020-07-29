@@ -142,26 +142,6 @@ def makeInstagram(styles=styles):
     mdPath = MD_PATHS[0] # Only make instagram posts from the home page.
     t.typesetFile(mdPath)
 
-    # Filter all h2/h3/image combinations, to make instagram banners.
-    bannerData = []
-    h2 = h3 = h4 = None
-    for e in t.galley.elements:
-        if e.isText:
-            for run in e.bs.runs:
-                if run.style.get('name') == 'h2':
-                    h2 = run.s.strip()
-                    h3 = h4 = None
-                elif h3 is None and run.style.get('name') == 'h3':
-                    h3 = run.s.strip()
-                    h4 = None
-                elif h4 is None and run.style.get('name') == 'h4':
-                    h4 = run.s.strip()
-        elif e.isImage:
-            if h2 and h3 and h4:            
-                print(e.alt)
-                bannerData.append((h2, h3, h4, e.path, e.alt))
-                h2 = h3 = h4 = None
-    
     # Header styles
     pad = px(50)
     tPad = px(25)
@@ -169,10 +149,32 @@ def makeInstagram(styles=styles):
     h3Style = dict(font='Upgrade-Regular', fontSize=px(90), leading=em(1), textFill=color(1))
     h4Style = dict(font='Upgrade-Semibold', fontSize=px(90), leading=em(1), textFill=color(1))
 
+    # Filter all h2/h3/image combinations, to make instagram banners.
+    bannerData = []
+    bs2 = bs3 = bs4 = None
+    for e in t.galley.elements:
+        if e.isText:
+            for run in e.bs.runs:
+                if bs2 is None and run.style.get('name') == 'h2':
+                    bs2 = context.newString(run.s.strip(), h2Style)
+                    bs3 = bs4 = None
+                elif bs3 is None and run.style.get('name') == 'h3':
+                    bs3 = context.newString(run.s.strip(), h3Style)
+                    bs4 = context.newString('', h4Style)
+                elif run.style.get('name') == 'h4':
+                    bs4 += context.newString(run.s.strip(), h4Style)
+                elif run.style.get('name') == 'sup':
+                    bs4 += context.newString(run.s.strip(), h4Style)
+        elif e.isImage:
+            if not None in (bs2, bs3, bs4):            
+                bannerData.append((bs2, bs3, bs4, e.path, e.alt))
+                bs2 = bs3 = bs4 = None
+    
+
     # Now we have all content, we can create the pages, one per post
     page = doc[1]
-    for h2, h3, h4, imagePath, alt in bannerData:
-        #print(h2, h3, h4, imagePath)
+    for bs2, bs3, bs4, imagePath, alt in bannerData:
+        #print(bs2, bs3, bs4, imagePath)
         iw, ih = context.imageSize(imagePath)
         if iw > ih:
             iw, ih = None, h
@@ -186,20 +188,20 @@ def makeInstagram(styles=styles):
             x = 0
         newImage(path=imagePath, parent=page, x=x, y=0, w=iw, h=ih, xAlign=xAlign)
 
-        bs = context.newString(h2, h2Style)
-        tw, th = context.textSize(bs, w=w-2*pad-2*tPad)
-        newRect(x=pad, y=h-th-2*tPad, fill=color(rgb='red', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
-        newText(bs, x=pad+tPad, y=h-2*tPad, w=w-2*pad-2*tPad, parent=page)
+        if bs2 is not None:
+            tw, th = context.textSize(bs2, w=w-2*pad-2*tPad)
+            newRect(x=pad, y=h-th-2*tPad, fill=color(rgb='red', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
+            newText(bs2, x=pad+tPad, y=h-2*tPad, w=w-2*pad-2*tPad, parent=page)
 
-        bs = context.newString(h3, h3Style)
-        tw, th = context.textSize(bs, w=w-2*pad-2*tPad)
-        newRect(x=pad, y=h/2-3.5*tPad, fill=color(rgb='darkblue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
-        newText(bs, x=pad+tPad, y=h/2, w=w-2*pad-2*tPad, parent=page)
+        if bs3 is not None:
+            tw, th = context.textSize(bs3, w=w-2*pad-2*tPad)
+            newRect(x=pad, y=h/2-3.5*tPad, fill=color(rgb='darkblue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
+            newText(bs3, x=pad+tPad, y=h/2, w=w-2*pad-2*tPad, parent=page)
 
-        bs = context.newString(h4, h4Style)
-        tw, th = context.textSize(bs, w=w-2*pad-2*tPad)
-        newRect(x=pad, y=0, fill=color(rgb='blue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
-        newText(bs, x=pad+tPad, y=2*tPad, w=w-2*pad-2*tPad, parent=page)
+        if bs4 is not None:
+            tw, th = context.textSize(bs4, w=w-2*pad-2*tPad)
+            newRect(x=pad, y=0, fill=color(rgb='blue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
+            newText(bs4, x=pad+tPad, y=2*tPad, w=w-2*pad-2*tPad, parent=page)
 
         page = page.next
     return doc
