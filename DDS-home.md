@@ -93,7 +93,7 @@ box = content.newIntroduction()
 section = content.newSection()
 box = section.newMain()
 ~~~
-## DesignDesign.Space workshops: what are they like?
+## Workshops: what is it like?
 
 Each online workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and giving feedback on the exercises that you do.
 
@@ -112,7 +112,7 @@ Some workshops combine as a sequence. It is recommended to do them in the right 
 ~~~
 box = section.newCropped()
 ~~~
-![cover y=top x=center](images/DSGNWK_0468BW.jpg)
+![cover y=top x=center](images/DSGNWK_0665BW.jpg)
 
 
 ~~~
@@ -330,7 +330,7 @@ box = section.newMain()
 <a name="visual-grammar1"/>
 ## Visual grammar #1
 
-### Learn to use the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.
+### Using the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.
 
 #### Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290
 
@@ -368,7 +368,7 @@ box = section.newMain()
 <a name="visual-grammar2"/>
 ## Visual grammar #2
 
-### Learn to balance diversity and coherency
+### Study the balance between diversity and coherency
 
 #### Start October 5<span class="sup">th</span> 2020 • 2 weeks • €290
 
@@ -438,7 +438,7 @@ Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Bas
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/WritingDrawingDuringLesson6.png)
+![cover y=top x=center](images/NotesOnDesignSpaces.png)
 
 
 
@@ -566,7 +566,7 @@ box = section.newMain()
 <a name="running-a-studio2"/>
 ## Running a studio #2
 
-### Learn the making of quotes, briefings, plannings and requirement lists
+### The making of quotes, briefings, plannings and requirement lists
 
 #### Start December 14<span class="sup">th</span> 2020 • 2 weeks • €290
 
@@ -604,7 +604,7 @@ box = section.newMain()
 <a name="scripting-for-robofont"/>
 ## Teaching online
 
-### Making exercises, methods for feedback and evaluation
+### The making of exercises, methods for feedback and evaluation
 
 #### Start January 4<span class="sup">th</span> 2021 • 2 weeks • €290
 

@@ -87,7 +87,7 @@ box = slideshow.slides
 box = section.newMain()
 </code></pre>
 
-<h2>DesignDesign.Space workshops: what are they like?</h2>
+<h2>Workshops: what is it like?</h2>
 <p>Each online workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and giving feedback on the exercises that you do.</p>
 <ul>
 <li>2 weeks, from Monday to Sunday;</li>
@@ -104,7 +104,7 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top x=center" src="images/DSGNWK_0468BW.jpg" /></p>
+<p><img alt="cover y=top x=center" src="images/DSGNWK_0665BW.jpg" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
@@ -264,7 +264,7 @@ box = section.newMain()
 
 <p><a name="visual-grammar1"/></p>
 <h2>Visual grammar #1</h2>
-<h3>Learn to use the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.</h3>
+<h3>Using the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.</h3>
 <h4>Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
@@ -290,7 +290,7 @@ box = section.newMain()
 
 <p><a name="visual-grammar2"/></p>
 <h2>Visual grammar #2</h2>
-<h3>Learn to balance diversity and coherency</h3>
+<h3>Study the balance between diversity and coherency</h3>
 <h4>Start October 5<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
@@ -338,7 +338,7 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top x=center" src="images/WritingDrawingDuringLesson6.png" /></p>
+<p><img alt="cover y=top x=center" src="images/NotesOnDesignSpaces.png" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>
@@ -422,7 +422,7 @@ box = section.newMain()
 
 <p><a name="running-a-studio2"/></p>
 <h2>Running a studio #2</h2>
-<h3>Learn the making of quotes, briefings, plannings and requirement lists</h3>
+<h3>The making of quotes, briefings, plannings and requirement lists</h3>
 <h4>Start December 14<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
@@ -447,7 +447,7 @@ box = section.newMain()
 
 <p><a name="scripting-for-robofont"/></p>
 <h2>Teaching online</h2>
-<h3>Making exercises, methods for feedback and evaluation</h3>
+<h3>The making of exercises, methods for feedback and evaluation</h3>
 <h4>Start January 4<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>

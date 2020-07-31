@@ -91,7 +91,7 @@ DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Insta
 #EXPORT_TYPES = [DO_GIT]
 EXPORT_TYPES = [DO_MAMP, DO_GIT]
 #EXPORT_TYPES = [DO_MAMP]
-EXPORT_TYPES = [DO_INSTAGRAM]
+#EXPORT_TYPES = [DO_INSTAGRAM]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 
