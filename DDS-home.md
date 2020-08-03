@@ -50,7 +50,7 @@ box = slideshow.slides
 ![G-Cube variables cover y=center x=center](images/GN-Cube-Variable-e.png)
 ![Sketched toys cover y=top x=center](images/IMG_4905.jpg)
 ![DrawBotHomePage cover y=top x=center](images/DrawBotHomePage.png)
-![Collage Blue and pear cover y=top x=center](images/IMG_8677.jpg)
+![Collage Coffee pot and textile y=top x=center](images/IMG_6704.jpg)
 ![Theme colors cover y=top x=center](images/ThemeColorsByDocument_5.png)
 ![Sketching details cover y=top x=center](images/DesignModels2.038.png)
 ![Shells on green wood cover y=top x=center](images/IMG_0752.jpg)
@@ -553,7 +553,7 @@ The workshop gives an overview of making a presentation, using materials, 3D and
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_8690.jpg)
+![cover y=top x=center](images/IMG_6704.jpg)
 
 
 
@@ -721,7 +721,7 @@ box = section.newMain()
 <a name="logo-design"/>
 ## Basics of logo design
 
-### Learn the essentials of branding, visual grammar and type design.
+### Learn the essentials of branding, visual grammar and logo oriented type design.
 
 #### Start Februari 1<span class="sup">st</span> 2021 • 2 weeks • €290
 
@@ -973,9 +973,9 @@ box = section.newMain()
 
 ### Get one free for every three
 
-* 1<span class="sup">st</span> workshop €290 ($330)
-* 2<span class="sup">nd</span> workshop €290 ($330)
-* 3<span class="sup">rd</span> workshop €290 ($330)
+* 1<span class="sup">st</span> workshop €290 (±$330)
+* 2<span class="sup">nd</span> workshop €290 (±$330)
+* 3<span class="sup">rd</span> workshop €290 (±$330)
 * 4<span class="sup">th</span> workshop Free
 
 You can subscribe and pay for the workshops one by one. DesignDesign.Space keeps track of the total amount of workshops that you did. 
