@@ -363,6 +363,57 @@ ul.navmenu:after {
     font-family: 'Upgrade-Regular', sans-serif;
 }
 
+/* Youtube link */
+
+.youtubelink {
+    background-color: black; /* #%(group.fillDiap)s; */
+}
+.youtubeside {
+    background-color: #%(logo.textFill)s; /* #%(group.fillDiap)s; */
+    padding: 1em 1em 1em 0.5em;
+}
+.youtubeside .text h1 {
+    color: white; /* #%(h2.textFillDiap)s; */
+    letter-spacing: 0.04em;
+    font-size: 1.8em;
+    line-height: 1.2em;
+    font-family: 'Upgrade-Semibold';
+}
+.youtubeside .text h1 a {
+    color: #%(h2.textFillDiap)s;
+    /*color: #FC6F08;*/
+    /*color: #%(base3)s;*/
+}
+.youtubeside .text h1 a:hover {
+    color: #%(base2.colorFront)s;
+}
+.youtubeside .text h2, 
+.youtubeside .text li  {
+    color: #%(h2.textFillDiap)s;
+    letter-spacing: 0.025em;
+    font-size: 1.4em;
+    line-height: 1.2em;
+    font-family: 'Upgrade-Regular';
+}
+.youtubeside .text h3 {
+    color: #%(h3.textFillDiap)s;
+    letter-spacing: 0.025em;
+    font-size: 1.1em;
+    line-height: 1.2em;
+    font-family: 'Upgrade-Medium';
+}
+.youtubeside .text p {
+    color: #%(p.textFillDiap)s;
+    letter-spacing: 0.025em;
+    font-size: 1em;
+    line-height: 1.4em;
+    font-family: 'Upgrade-Regular';
+}
+.youtubeside .text p em {
+    fony-style: normal;
+    font-family: 'Upgrade-RegularItalic';
+}
+
 /* Slide show */
 
 .slideshowgroup {

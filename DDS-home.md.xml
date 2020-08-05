@@ -40,15 +40,15 @@ box = content.newBanner()
 
 <h1>New workshops in 2020-2021</h1>
 <pre><code>section = content.newSection()
-box = section.newMain(fill=color('black'))
+box = section.newMain(cssClass='youtubelink')
 </code></pre>
 
 <p><a href="https://www.youtube.com/watch?v=WfSPzaiU7Qs" target="External"><img alt="" src="images/TypeTricksTroves-Cover.png" /></a></p>
-<pre><code>box = section.newSide(fill=color(rgb=0xF44b09))
+<pre><code>box = section.newSide(cssClass='youtubeside')
 </code></pre>
 
-<h2>Watch the new lecture</h2>
-<h3>Any of the subjects can be topic of your new study.</h3>
+<h1>Watch the new lecture</h1>
+<h2>Any of these subjects can be the topic of your new study.</h2>
 <ul>
 <li>2 weeks online</li>
 <li>Limited to 8 students</li>
@@ -56,8 +56,8 @@ box = section.newMain(fill=color('black'))
 <li>Exercises and feedback</li>
 <li>4<span class="sup">th</span> workshop free</li>
 </ul>
-<h3><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></h3>
-<h3><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Contact us</a></h3>
+<h1><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></h1>
+<h1><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Contact us</a></h1>
 <!--
 
 <pre><code>from pagebot.constants import *

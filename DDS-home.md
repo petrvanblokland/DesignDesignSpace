@@ -41,17 +41,17 @@ box = content.newBanner()
 
 ~~~
 section = content.newSection()
-box = section.newMain(fill=color('black'))
+box = section.newMain(cssClass='youtubelink')
 ~~~
 
 <a href="https://www.youtube.com/watch?v=WfSPzaiU7Qs" target="External">![](images/TypeTricksTroves-Cover.png)</a>
 
 ~~~
-box = section.newSide(fill=color(rgb=0xF44b09))
+box = section.newSide(cssClass='youtubeside')
 ~~~
-## Watch the new lecture
+# Watch the new lecture
 
-### Any of the subjects can be topic of your new study.
+## Any of these subjects can be the topic of your new study.
 
 * 2 weeks online
 * Limited to 8 students
@@ -59,12 +59,12 @@ box = section.newSide(fill=color(rgb=0xF44b09))
 * Exercises and feedback
 * 4<span class="sup">th</span> workshop free
 
-### <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+# <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
-### [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
-
+# [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
 <!--
+
 ~~~
 from pagebot.constants import *
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)

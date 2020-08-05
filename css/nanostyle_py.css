@@ -336,6 +336,57 @@ ul.navmenu:after {
     font-family: 'Upgrade-Regular', sans-serif;
 }
 
+/* Youtube link */
+
+.youtubelink {
+    background-color: black; /* #595959; */
+}
+.youtubeside {
+    background-color: #F96302; /* #595959; */
+    padding: 1em 1em 1em 0.5em;
+}
+.youtubeside .text h1 {
+    color: white; /* #E7E7E7; */
+    letter-spacing: 0.04em;
+    font-size: 1.8em;
+    line-height: 1.2em;
+    font-family: 'Upgrade-Semibold';
+}
+.youtubeside .text h1 a {
+    color: #E7E7E7;
+    /*color: #FC6F08;*/
+    /*color: #F96302;*/
+}
+.youtubeside .text h1 a:hover {
+    color: #45454A;
+}
+.youtubeside .text h2, 
+.youtubeside .text li  {
+    color: #E7E7E7;
+    letter-spacing: 0.025em;
+    font-size: 1.4em;
+    line-height: 1.2em;
+    font-family: 'Upgrade-Regular';
+}
+.youtubeside .text h3 {
+    color: #E7E7E7;
+    letter-spacing: 0.025em;
+    font-size: 1.1em;
+    line-height: 1.2em;
+    font-family: 'Upgrade-Medium';
+}
+.youtubeside .text p {
+    color: #F3F3F4;
+    letter-spacing: 0.025em;
+    font-size: 1em;
+    line-height: 1.4em;
+    font-family: 'Upgrade-Regular';
+}
+.youtubeside .text p em {
+    fony-style: normal;
+    font-family: 'Upgrade-RegularItalic';
+}
+
 /* Slide show */
 
 .slideshowgroup {
