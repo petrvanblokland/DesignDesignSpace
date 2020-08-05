@@ -281,7 +281,7 @@ def makeSite(styles, viewId, context):
     for mdPath in MD_PATHS:
         print('Typeset file', mdPath)
         t.typesetFile(mdPath)
-    t.galley.fill = color(1)
+    #t.galley.fill = color(1)
 
     # Create a Composer for this document, then create pages and fill content. 
     composer = Composer(doc)
@@ -289,7 +289,7 @@ def makeSite(styles, viewId, context):
     # The composer executes the embedded Python code blocks that indicate where content should go.
     # by the HtmlContext. Feedback by the code blocks is added to verbose and errors list
     print('Composing pages')
-    targets = dict(doc=doc, page=page, template=template)
+    targets = dict(doc=doc, page=page, template=template, theme=theme)
     composer.compose(t.galley, targets=targets)
 
     if VERBOSE:

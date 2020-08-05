@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document><pre><code>doc.title = 'Design&amp;nbsp;Design&amp;nbsp;Space'
+<document><pre><code>from pagebot.toolbox.color import color
+doc.title = 'Design&amp;nbsp;Design&amp;nbsp;Space'
 
 doc.footerHtml = &quot;&quot;&quot;Let us know what you think. Do you have any questions for us? &lt;a href=&quot;mailto:info@designdesign.space?subject=Tell me more about DesignDesign.Space&quot;&gt;info@designdesign.space&lt;/a&gt;&quot;&quot;&quot;
 
@@ -38,32 +39,16 @@ box = content.newBanner()
 </code></pre>
 
 <h1>New workshops in 2020-2021</h1>
-<pre><code>from pagebot.constants import *
-slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
-box = slideshow.slides
+<pre><code>section = content.newSection()
+box = section.newMain(fill=color('black'))
 </code></pre>
 
-<p><img alt="Color squares cover y=top x=center" src="images/PepperTomColorSquares.png" /><br />
-<img alt="White painted grid cover y=top x=center" src="images/IMG_1107.jpg" /><br />
-<img alt="Sketched letters cover y=center" src="images/IMG_2848.jpg" /><br />
-<img alt="Blue Orange cloth cover y=top x=center" src="images/IMG_3145.jpg" /><br />
-<img alt="G-Cube variables cover y=center x=center" src="images/GN-Cube-Variable-e.png" /><br />
-<img alt="Sketched toys cover y=top x=center" src="images/IMG_4905.jpg" /><br />
-<img alt="DrawBotHomePage cover y=top x=center" src="images/DrawBotHomePage.png" /><br />
-<img alt="Collage Coffee pot and textile y=top x=center" src="images/IMG_6704.jpg" /><br />
-<img alt="Theme colors cover y=top x=center" src="images/ThemeColorsByDocument_5.png" /><br />
-<img alt="Sketching details cover y=top x=center" src="images/DesignModels2.038.png" /><br />
-<img alt="Shells on green wood cover y=top x=center" src="images/IMG_0752.jpg" /><br />
-<img alt="Model interior cover y=center x=left" src="images/IMG_E8927.jpg" /><br />
-<img alt="Affiche Rituelen cover y=bottom x=center" src="images/affiche_rituelen.png" /><br />
-<img alt="Triangle pattern cover y=bottom x=center" src="images/IMG_1447.jpg" /><br />
-<img alt="Corner write-black-green cover y=top x=center" src="images/IMG_6994.jpg" /><br />
-<img alt="Den Bosch letter door cover y=top x=center" src="images/IMG_6129.jpg" /><br />
-<img alt="Interior sketch cover y=top x=center" src="images/IMG_E8874.jpg" /></p>
-<pre><code>box = slideshow.side
+<p><a href="https://www.youtube.com/watch?v=WfSPzaiU7Qs" target="External"><img alt="" src="images/TypeTricksTroves-Cover.png" /></a></p>
+<pre><code>box = section.newSide(fill=color(rgb=0xF44b09))
 </code></pre>
 
-<h1>Develop your process. Expand your skills.</h1>
+<h2>Watch the new lecture</h2>
+<h3>Any of the subjects can be topic of your new study.</h3>
 <ul>
 <li>2 weeks online</li>
 <li>Limited to 8 students</li>
@@ -71,10 +56,53 @@ box = slideshow.slides
 <li>Exercises and feedback</li>
 <li>4<span class="sup">th</span> workshop free</li>
 </ul>
-<h1><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></h1>
-<h1><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Contact us</a></h1>
-<pre><code>box = content.newIntroduction()
+<h3><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></h3>
+<h3><a href="mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop">Contact us</a></h3>
+<!--
 
+<pre><code>from pagebot.constants import *
+slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
+box = slideshow.slides
+</code></pre>
+
+
+![Color squares cover y=top x=center](images/PepperTomColorSquares.png)
+![White painted grid cover y=top x=center](images/IMG_1107.jpg)
+![Sketched letters cover y=center](images/IMG_2848.jpg)
+![Blue Orange cloth cover y=top x=center](images/IMG_3145.jpg)
+![G-Cube variables cover y=center x=center](images/GN-Cube-Variable-e.png)
+![Sketched toys cover y=top x=center](images/IMG_4905.jpg)
+![DrawBotHomePage cover y=top x=center](images/DrawBotHomePage.png)
+![Collage Coffee pot and textile y=top x=center](images/IMG_6704.jpg)
+![Theme colors cover y=top x=center](images/ThemeColorsByDocument_5.png)
+![Sketching details cover y=top x=center](images/DesignModels2.038.png)
+![Shells on green wood cover y=top x=center](images/IMG_0752.jpg)
+![Model interior cover y=center x=left](images/IMG_E8927.jpg)
+![Affiche Rituelen cover y=bottom x=center](images/affiche_rituelen.png)
+![Triangle pattern cover y=bottom x=center](images/IMG_1447.jpg)
+![Corner write-black-green cover y=top x=center](images/IMG_6994.jpg)
+![Den Bosch letter door cover y=top x=center](images/IMG_6129.jpg)
+![Interior sketch cover y=top x=center](images/IMG_E8874.jpg)
+
+
+<pre><code>box = slideshow.side
+</code></pre>
+
+
+# Develop your process. Expand your skills.
+
+* 2 weeks online
+* Limited to 8 students
+* Live lectures
+* Exercises and feedback
+* 4<span class="sup">th</span> workshop free
+
+# <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
+# [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
+-->
+
+<pre><code>box = content.newIntroduction()
 </code></pre>
 
 <h1>Working from home? Studying online in the Corona world? Select the workshops you like. Develop your profession. <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></h1>

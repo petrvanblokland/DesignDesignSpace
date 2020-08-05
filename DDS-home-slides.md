@@ -1,5 +1,4 @@
 ~~~
-from pagebot.toolbox.color import color
 doc.title = 'Design&nbsp;Design&nbsp;Space'
 
 doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space?subject=Tell me more about DesignDesign.Space">info@designdesign.space</a>"""
@@ -38,33 +37,6 @@ box = content.newBanner()
 # Which studies can we offer you in 2020?
 ~~~
 # New workshops in 2020-2021
-
-~~~
-section = content.newSection()
-box = section.newMain(fill=color('black'))
-~~~
-
-<a href="https://www.youtube.com/watch?v=WfSPzaiU7Qs" target="External">![](images/TypeTricksTroves-Cover.png)</a>
-
-~~~
-box = section.newSide(fill=color(rgb=0xF44b09))
-~~~
-## Watch the new lecture
-
-### Any of the subjects can be topic of your new study.
-
-* 2 weeks online
-* Limited to 8 students
-* Live lectures
-* Exercises and feedback
-* 4<span class="sup">th</span> workshop free
-
-### <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
-### [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
-
-
-<!--
 ~~~
 from pagebot.constants import *
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
@@ -104,10 +76,10 @@ box = slideshow.side
 # <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
--->
 
 ~~~
 box = content.newIntroduction()
+
 ~~~
 
 # Working from home? Studying online in the Corona world? Select the workshops you like. Develop your profession. <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
