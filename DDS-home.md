@@ -42,9 +42,14 @@ box = content.newBanner()
 ~~~
 section = content.newSection()
 box = section.newMain(cssClass='youtubelink')
+
+#<a href="https://www.youtube.com/watch?v=WfSPzaiU7Qs" target="External">![](images/TypeTricksTroves-Cover.png)</a>
+
+#  picture-in-picture
+
 ~~~
 
-<a href="https://www.youtube.com/watch?v=WfSPzaiU7Qs" target="External">![](images/TypeTricksTroves-Cover.png)</a>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/WfSPzaiU7Qs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen="1"></iframe>
 
 ~~~
 box = section.newSide(cssClass='youtubeside')
