@@ -37,6 +37,7 @@ box = content.newBanner()
 
 # Which studies can we offer you in 2020?
 ~~~
+
 # New workshops in 2020-2021
 
 ~~~
@@ -49,11 +50,15 @@ box = section.newMain(cssClass='youtubelink')
 
 ~~~
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/WfSPzaiU7Qs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen="1"></iframe>
+<iframe id="video1" style="display:none;" width="100%" height="400px" src="https://www.youtube.com/embed/WfSPzaiU7Qs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen="1"></iframe>
+
+<a onclick="document.getElementById('video1').style.display = 'block';">![](images/TypeTricksTroves-Cover.png)</a>
 
 ~~~
 box = section.newSide(cssClass='youtubeside')
 ~~~
+# Type: Tricks & Troves
+
 # Watch the new lecture
 
 ## Any of these subjects can be the topic of your new study.
