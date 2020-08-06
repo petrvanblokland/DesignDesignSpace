@@ -42,25 +42,19 @@ box = content.newBanner()
 <pre><code>section = content.newSection()
 box = section.newMain(cssClass='youtubelink')
 
-#&lt;a href=&quot;https://www.youtube.com/watch?v=WfSPzaiU7Qs&quot; target=&quot;External&quot;&gt;![](images/TypeTricksTroves-Cover.png)&lt;/a&gt;
-
-#  picture-in-picture
-
+box = box.newMovie(url='https://www.youtube.com/embed/WfSPzaiU7Qs')
 </code></pre>
 
-<iframe id="video1" style="display:none;" width="100%" height="400px" src="https://www.youtube.com/embed/WfSPzaiU7Qs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen="1"></iframe>
-
-<p><a onclick="document.getElementById('video1').style.display = 'block';"><img alt="" src="images/TypeTricksTroves-Cover.png" /></a></p>
+<p><img alt="" src="images/TypeTricksTroves-Cover.png" /></p>
 <pre><code>box = section.newSide(cssClass='youtubeside')
 </code></pre>
 
 <h1>Type: Tricks &amp; Troves</h1>
-<h1>Watch the new lecture</h1>
-<h2>Any of these subjects can be the topic of your new study.</h2>
+<h2>Watch the new lecture. Any of these subjects can be the topic of your new study.</h2>
 <ul>
-<li>2 weeks online</li>
+<li>2 weeks online workshop</li>
 <li>Limited to 8 students</li>
-<li>Live lectures</li>
+<li>Interactive lessons</li>
 <li>Exercises and feedback</li>
 <li>4<span class="sup">th</span> workshop free</li>
 </ul>
@@ -127,7 +121,7 @@ box = section.newMain()
 <p>Each online workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and giving feedback on the exercises that you do.</p>
 <ul>
 <li>2 weeks, from Monday to Sunday;</li>
-<li>4 hangouts with theory, models, templates and example documents;</li>
+<li>4 interactive hangouts with theory, models, templates and example documents;</li>
 <li>Maximum of 8 participants per workshop;</li>
 <li>Intensive exercises and daily personal feedback;</li>
 <li>The result of the exercises is shared on a closed Slack channel for the duration of the workshop;</li>

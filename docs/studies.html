@@ -45,11 +45,11 @@
 	<body>
 <!-- Start Wrapper.wrapper
  --><div class="wrapper clearfix" id="Wrapper">
-<!-- Start 91377745e17a.header
+<!-- Start 913875a315cc.header
  -->
-		<header class="header" id="91377745e17a">
-<!-- Start 913777453113.logo
- --><div class="logo clearfix" id="913777453113">
+		<header class="header" id="913875a315cc">
+<!-- Start 913875a398b0.logo
+ --><div class="logo clearfix" id="913875a398b0">
 <a href="index.html">
 <h1>
 <div class="text">
@@ -58,14 +58,14 @@ DesignDesign.Space</div>
 
 </a>
 </div>
-<!-- End 913777453113.logo
- --><!-- Start 91377744e9c1.burgerbutton
- --><div class="burgerbutton clearfix" id="91377744e9c1">
+<!-- End 913875a398b0.logo
+ --><!-- Start 913875a39bba.burgerbutton
+ --><div class="burgerbutton clearfix" id="913875a39bba">
 <h1 onclick="toggleMobileMenu('MobileMenu')">
 ☰</h1>
 
 </div>
-<!-- End 91377744e9c1.burgerbutton
+<!-- End 913875a39bba.burgerbutton
  --><!-- Start Navigation.navigation --><nav class="navigation" id="Navigation" role="navigation">
 <div class="navigation-menu">
 
@@ -216,27 +216,27 @@ Contact
 <!-- End MobileMenu.mobilemenu
  -->
 		</header>
-<!-- End 91377745e17a.header
- --><!-- Start 913777457752.content
- --><div class="content clearfix" id="913777457752">
-<!-- Start 252CEB5518112ED2AF0.banner
- --><div class="banner clearfix" id="252CEB5518112ED2AF0">
+<!-- End 913875a315cc.header
+ --><!-- Start 913875a45355.content
+ --><div class="content clearfix" id="913875a45355">
+<!-- Start 252D2C7368107D84790.banner
+ --><div class="banner clearfix" id="252D2C7368107D84790">
 <div class="text">
 <h1>Examine the 2020 study suggestions</h1>
 </div>
 </div>
-<!-- End 252CEB5518112ED2AF0.banner
- --><!-- Start 252CEB5518112ED2A00.introduction
- --><div class="introduction clearfix" id="252CEB5518112ED2A00">
+<!-- End 252D2C7368107D84790.banner
+ --><!-- Start 252D2C7368107D846A0.introduction
+ --><div class="introduction clearfix" id="252D2C7368107D846A0">
 <div class="text">
 <h1><a href="studies-design_practice.html#design-of-design-models">Redesigning your current design process?</a> <a href="studies-design_practice.html#rapid-prototyping-for-graphic-designers">Methods for rapid prototyping?</a> <a href="studies-design_spaces.html#design-a-workspace">Redoing your interior?</a> <a href="studies-design_practice.html#how-to-deal-with-clients">How to educate customers?</a> <a href="studies-design_education.html#virtual-studies-and-teaching-online">Directions for further design education?</a></h1>
 </div>
 </div>
-<!-- End 252CEB5518112ED2A00.introduction
- --><!-- Start 252CEB5518112F29520.section
- --><div class="section clearfix" id="252CEB5518112F29520">
-<!-- Start 252CEB5518112F2D220.main
- --><div class="main clearfix" id="252CEB5518112F2D220">
+<!-- End 252D2C7368107D846A0.introduction
+ --><!-- Start 252D2C7368107DDC1C0.section
+ --><div class="section clearfix" id="252D2C7368107DDC1C0">
+<!-- Start 252D2C7368107DDFE80.main
+ --><div class="main clearfix" id="252D2C7368107DDFE80">
 <div class="text">
 <h2>Studies in 2020</h2>
 <p>We keep improving the curriculum. The mandatory design of design education. Instead of the fixed <a href="2018-program.html">2018</a> list of workshops, studies and dates, in practice, we found out that it is better to make the schedule entirely flexible. Hints of topics, templates of studies and suggestions for the process behind.</p>
@@ -257,21 +257,21 @@ Contact
 </ul>
 </div>
 </div>
-<!-- End 252CEB5518112F2D220.main
- --><!-- Start 252CEB5518112ED13A0.cropped --><div class="cropped clearfix" id="252CEB5518112ED13A0" style="background-image:url('scaled/bk-models-design-w800pt-h1610.39pt-i0.png');background-position:left top;background-size:cover;">
+<!-- End 252D2C7368107DDFE80.main
+ --><!-- Start 252D2C7368107DDF040.cropped --><div class="cropped clearfix" id="252D2C7368107DDF040" style="background-image:url('scaled/bk-models-design-w800pt-h1610.39pt-i0.png');background-position:left top;background-size:cover;">
 <div class="text">
 <p></div>
 <div class="text">
 </p></div>
 </div>
-<!-- End 252CEB5518112ED13A0.cropped --></div>
-<!-- End 252CEB5518112F29520.section
+<!-- End 252D2C7368107DDF040.cropped --></div>
+<!-- End 252D2C7368107DDC1C0.section
  --></div>
-<!-- End 913777457752.content
- --><!-- Start 913777457018.footer
- --><div class="footer clearfix" id="913777457018">
+<!-- End 913875a45355.content
+ --><!-- Start 913875a35be6.footer
+ --><div class="footer clearfix" id="913875a35be6">
 </div>
-<!-- End 913777457018.footer
+<!-- End 913875a35be6.footer
  --></div>
 <!-- End Wrapper.wrapper
  --><script charset="UTF-8" type="text/javascript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -285,6 +285,13 @@ function toggleMobileMenu(eId){
                 x.style.display = "none";
             }
         }
+
+$('.slideshow').bbslider({autoHeight: true, dynamicHeight: false, start: 1, easing: 'ease', carousel: 2, duration: 700, auto: true, timer: 4000, loop: true, transition: 'slide'});
+
+function hideVideoCover(eId1, eId2){
+                document.getElementById(eId1).style.display = "block";
+                document.getElementById(eId2).style.display = "none";
+            }
 
 function toggleInfo(eId1, eId2){
             var e1 = document.getElementById(eId2).style.display = "block";

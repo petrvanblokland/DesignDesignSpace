@@ -45,11 +45,11 @@
 	<body>
 <!-- Start Wrapper.wrapper
  --><div class="wrapper clearfix" id="Wrapper">
-<!-- Start 91377745b297.header
+<!-- Start 913875a483f2.header
  -->
-		<header class="header" id="91377745b297">
-<!-- Start 91377745dd85.logo
- --><div class="logo clearfix" id="91377745dd85">
+		<header class="header" id="913875a483f2">
+<!-- Start 913875a5cd3f.logo
+ --><div class="logo clearfix" id="913875a5cd3f">
 <a href="index.html">
 <h1>
 <div class="text">
@@ -58,14 +58,14 @@ DesignDesign.Space</div>
 
 </a>
 </div>
-<!-- End 91377745dd85.logo
- --><!-- Start 91377745216e.burgerbutton
- --><div class="burgerbutton clearfix" id="91377745216e">
+<!-- End 913875a5cd3f.logo
+ --><!-- Start 913875a5d177.burgerbutton
+ --><div class="burgerbutton clearfix" id="913875a5d177">
 <h1 onclick="toggleMobileMenu('MobileMenu')">
 ☰</h1>
 
 </div>
-<!-- End 91377745216e.burgerbutton
+<!-- End 913875a5d177.burgerbutton
  --><!-- Start Navigation.navigation --><nav class="navigation" id="Navigation" role="navigation">
 <div class="navigation-menu">
 
@@ -216,27 +216,27 @@ Contact
 <!-- End MobileMenu.mobilemenu
  -->
 		</header>
-<!-- End 91377745b297.header
- --><!-- Start 91377744d4d3.content
- --><div class="content clearfix" id="91377744d4d3">
-<!-- Start 252CEB551811321EA30.banner
- --><div class="banner clearfix" id="252CEB551811321EA30">
+<!-- End 913875a483f2.header
+ --><!-- Start 913875a5aaad.content
+ --><div class="content clearfix" id="913875a5aaad">
+<!-- Start 252D2C73CC108064AF0.banner
+ --><div class="banner clearfix" id="252D2C73CC108064AF0">
 <div class="text">
 <h1>Practice your scales</h1>
 </div>
 </div>
-<!-- End 252CEB551811321EA30.banner
- --><!-- Start 252CEB551811321E7C0.introduction
- --><div class="introduction clearfix" id="252CEB551811321E7C0">
+<!-- End 252D2C73CC108064AF0.banner
+ --><!-- Start 252D2C73CC108064A60.introduction
+ --><div class="introduction clearfix" id="252D2C73CC108064A60">
 <div class="text">
 <h1>Similar to music, the learning of design skills comes by practicing a lot. Playing scales over and over and over again.</h1>
 </div>
 </div>
-<!-- End 252CEB551811321E7C0.introduction
- --><!-- Start 252CEB55181132682E0.section
- --><div class="section clearfix" id="252CEB55181132682E0">
-<!-- Start 252CEB551811326AFA0.main
- --><div class="main clearfix" id="252CEB551811326AFA0">
+<!-- End 252D2C73CC108064A60.introduction
+ --><!-- Start 252D2C73CC1080AA580.section
+ --><div class="section clearfix" id="252D2C73CC1080AA580">
+<!-- Start 252D2C73CC1080B0280.main
+ --><div class="main clearfix" id="252D2C73CC1080B0280">
 <div class="text">
 <h2>Excercise by yourself.</h2>
 <h2>Or use DesignDesign.Space as your coach.</h2>
@@ -250,9 +250,9 @@ Contact
 <p>Are you doing any Scale assignments from this site? Then send us the result. We will give you feedback on it for free, if you make a serious attempt and if you allow us to place it on this site as example. Credited or anonymous, as you like. </p>
 </div>
 </div>
-<!-- End 252CEB551811326AFA0.main
- --><!-- Start 252CEB551811326A160.side
- --><div class="side clearfix" id="252CEB551811326A160">
+<!-- End 252D2C73CC1080B0280.main
+ --><!-- Start 252D2C73CC1080AD400.side
+ --><div class="side clearfix" id="252D2C73CC1080AD400">
 <div class="text">
 <h2>Scaled exercises</h2>
 <ul>
@@ -265,15 +265,15 @@ Contact
 <p>(Will be extended soon)</p>
 </div>
 </div>
-<!-- End 252CEB551811326A160.side
+<!-- End 252D2C73CC1080AD400.side
  --></div>
-<!-- End 252CEB55181132682E0.section
+<!-- End 252D2C73CC1080AA580.section
  --></div>
-<!-- End 91377744d4d3.content
- --><!-- Start 91377744c161.footer
- --><div class="footer clearfix" id="91377744c161">
+<!-- End 913875a5aaad.content
+ --><!-- Start 913875a457ba.footer
+ --><div class="footer clearfix" id="913875a457ba">
 </div>
-<!-- End 91377744c161.footer
+<!-- End 913875a457ba.footer
  --></div>
 <!-- End Wrapper.wrapper
  --><script charset="UTF-8" type="text/javascript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -287,6 +287,13 @@ function toggleMobileMenu(eId){
                 x.style.display = "none";
             }
         }
+
+$('.slideshow').bbslider({autoHeight: true, dynamicHeight: false, start: 1, easing: 'ease', carousel: 2, duration: 700, auto: true, timer: 4000, loop: true, transition: 'slide'});
+
+function hideVideoCover(eId1, eId2){
+                document.getElementById(eId1).style.display = "block";
+                document.getElementById(eId2).style.display = "none";
+            }
 
 function toggleInfo(eId1, eId2){
             var e1 = document.getElementById(eId2).style.display = "block";

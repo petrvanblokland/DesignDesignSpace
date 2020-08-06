@@ -44,28 +44,21 @@ box = content.newBanner()
 section = content.newSection()
 box = section.newMain(cssClass='youtubelink')
 
-#<a href="https://www.youtube.com/watch?v=WfSPzaiU7Qs" target="External">![](images/TypeTricksTroves-Cover.png)</a>
-
-#  picture-in-picture
-
+box = box.newMovie(url='https://www.youtube.com/embed/WfSPzaiU7Qs')
 ~~~
 
-<iframe id="video1" style="display:none;" width="100%" height="400px" src="https://www.youtube.com/embed/WfSPzaiU7Qs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen="1"></iframe>
-
-<a onclick="document.getElementById('video1').style.display = 'block';">![](images/TypeTricksTroves-Cover.png)</a>
+![](images/TypeTricksTroves-Cover.png)
 
 ~~~
 box = section.newSide(cssClass='youtubeside')
 ~~~
 # Type: Tricks & Troves
 
-# Watch the new lecture
+## Watch the new lecture. Any of these subjects can be the topic of your new study.
 
-## Any of these subjects can be the topic of your new study.
-
-* 2 weeks online
+* 2 weeks online workshop
 * Limited to 8 students
-* Live lectures
+* Interactive lessons
 * Exercises and feedback
 * 4<span class="sup">th</span> workshop free
 
@@ -136,7 +129,7 @@ box = section.newMain()
 Each online workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and giving feedback on the exercises that you do.
 
 * 2 weeks, from Monday to Sunday;
-* 4 hangouts with theory, models, templates and example documents;
+* 4 interactive hangouts with theory, models, templates and example documents;
 * Maximum of 8 participants per workshop;
 * Intensive exercises and daily personal feedback;
 * The result of the exercises is shared on a closed Slack channel for the duration of the workshop;
