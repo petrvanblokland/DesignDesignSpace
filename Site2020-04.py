@@ -88,9 +88,9 @@ DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and 
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
 DO_TWITTER = 'Twitter' # Generate banners for each workshop on optimal Twitter size.
 DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Instagram square size.
-#EXPORT_TYPES = [DO_GIT]
-EXPORT_TYPES = [DO_MAMP, DO_GIT]
-#EXPORT_TYPES = [DO_MAMP]
+EXPORT_TYPES = [DO_GIT]
+#EXPORT_TYPES = [DO_MAMP, DO_GIT]
+EXPORT_TYPES = [DO_MAMP]
 #EXPORT_TYPES = [DO_INSTAGRAM]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.

@@ -1,4 +1,5 @@
 ~~~
+from pagebot.toolbox.color import color
 doc.title = 'Design&nbsp;Design&nbsp;Space'
 
 doc.footerHtml = """Let us know what you think. Do you have any questions for us? <a href="mailto:info@designdesign.space?subject=Tell me more about DesignDesign.Space">info@designdesign.space</a>"""
@@ -36,7 +37,37 @@ box = content.newBanner()
 
 # Which studies can we offer you in 2020?
 ~~~
+
 # New workshops in 2020-2021
+
+~~~
+section = content.newSection()
+box = section.newMain(cssClass='youtubelink')
+
+box = box.newMovie(url='https://www.youtube.com/embed/WfSPzaiU7Qs')
+~~~
+
+![](images/TypeTricksTroves-Cover.png)
+
+~~~
+box = section.newSide(cssClass='youtubeside')
+~~~
+# Type: Tricks & Troves
+
+## Watch the new lecture. Any of these subjects can be the topic of your new study.
+
+* 2 weeks online workshop
+* Limited to 8 students
+* Interactive lessons
+* Exercises and feedback
+* 4<span class="sup">th</span> workshop free
+
+# <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
+# [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
+
+<!--
+
 ~~~
 from pagebot.constants import *
 slideshow = content.newSlideShow(h=300, slideW='100%', slideH=300, startIndex=3, autoHeight=True, carousel=2, dynamicHeight=False, transition='slide', easing=CSS_EASE, frameDuration=4, duration=0.7, pauseOnHit=True, randomPlay=False)
@@ -76,10 +107,10 @@ box = slideshow.side
 # <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
+-->
 
 ~~~
 box = content.newIntroduction()
-
 ~~~
 
 # Working from home? Studying online in the Corona world? Select the workshops you like. Develop your profession. <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
@@ -98,7 +129,7 @@ box = section.newMain()
 Each online workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and giving feedback on the exercises that you do.
 
 * 2 weeks, from Monday to Sunday;
-* 4 hangouts with theory, models, templates and example documents;
+* 4 interactive hangouts with theory, models, templates and example documents;
 * Maximum of 8 participants per workshop;
 * Intensive exercises and daily personal feedback;
 * The result of the exercises is shared on a closed Slack channel for the duration of the workshop;
@@ -123,6 +154,14 @@ box = section.newMain()
 
 ## Planned workshops by category
 
+### Programming
+
+##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
+##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
+##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
+##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
+##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
+
 ### Process 
 
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
@@ -131,14 +170,6 @@ box = section.newMain()
 ##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations](#running-a-studio1)
 ##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings](#running-a-studio2)
 ##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation](#teaching-online)
-
-### Programming
-
-##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
-##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
-##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
-##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
 
 ### Type design
 
