@@ -49,19 +49,22 @@ box = section.newMain()
 
 ### Get one free for every three
 
-* 1<span class="sup">st</span> workshop €290 ($330)
-* 2<span class="sup">nd</span> workshop €290 ($330)
-* 3<span class="sup">rd</span> workshop €290 ($330)
-* 4<span class="sup">th</span> workshop Free
+* 1<span class="sup">st</span> workshop €290 (±$330)
+* 2<span class="sup">nd</span> workshop €290 (±$330)
+* 3<span class="sup">rd</span> workshop €290 (±$330)
+* Every 4<span class="sup">th</span> workshop Free
 
-You can subscribe and pay for the workshops one by one.
-
+You can subscribe and pay for the workshops one by one. We send separate invoices for each one..
 DesignDesign.Space keeps track of the total amount of workshops that you did. 
 
-Pricing is for students, single designers and small studios.
+All payments in Euro's.
+Inside The Netherlands 21% VAT is added.
+Inside the rest of Europe no VAT is added, if you have a VAT registration number.
+Outside Europe no VAT is added.
 
-Your place in a workshop is confirmed, once the payment is received.
+Your place in a workshop is confirmed, once the payment for that workshop is received.
 
+This pricing is for students, single designers and small studios.
 Pricing for corporate usage and custom made workshops is upon request.
 
 <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
