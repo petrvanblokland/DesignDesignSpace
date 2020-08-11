@@ -242,7 +242,7 @@ box = section.newMain()
 <h2>Basic coding in Python #1</h2>
 <h3>Design by parameters</h3>
 <h4>Start August 24<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
-<pre><code>box = box.newInfo()
+<pre><code>#box = box.newInfo()
 </code></pre>
 
 <p>Take one of your designs and try to find the rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by the use of color themes, different page sizes and other parameters.</p>
@@ -258,10 +258,16 @@ box = section.newMain()
 <p>The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.</p>
 <p>This workshop is followed up by <a href="#coding-in-python2">Basic coding in Python #2</a>.</p>
 <p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
-<pre><code>box = section.newCropped()
+<pre><code>#box = section.newCropped()
+box = section.newSide()
+
+# ![cover y=top x=center](images/DrawBotHomePage.png)
+
 </code></pre>
 
-<p><img alt="cover y=top x=center" src="images/DrawBotHomePage.png" /></p>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external"><br />
+<img alt="cover y=top x=center" src="images/01_Instagram_FewSpaces_4.jpg" /><br />
+</a></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>

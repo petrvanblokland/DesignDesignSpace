@@ -282,7 +282,7 @@ box = section.newMain()
 #### Start August 24<span class="sup">th</span> 2020 • 2 weeks • €290
 
 ~~~
-box = box.newInfo()
+#box = box.newInfo()
 ~~~
 
 Take one of your designs and try to find the rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by the use of color themes, different page sizes and other parameters.
@@ -304,14 +304,16 @@ This workshop is followed up by [Basic coding in Python #2](#coding-in-python2).
 <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
-box = section.newCropped()
+#box = section.newCropped()
+box = section.newSide()
+
+# ![cover y=top x=center](images/DrawBotHomePage.png)
+
 ~~~
 
-![cover y=top x=center](images/DrawBotHomePage.png)
-
-
-
-
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
+![cover y=top x=center](images/01_Instagram_FewSpaces_4.jpg)
+</a>
 
 ~~~
 section = content.newSection()
@@ -350,10 +352,6 @@ box = section.newCropped()
 ~~~
 
 ![cover y=top x=center](images/pageBotCode.png)
-
-
-
-
 
 ~~~
 section = content.newSection()
