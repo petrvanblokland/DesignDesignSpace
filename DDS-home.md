@@ -312,7 +312,7 @@ box = section.newSide()
 ~~~
 
 <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
-![cover y=top x=center](images/01_Instagram_FewSpaces_4.jpg)
+![cover y=top x=center](images/01_Instagram_Running_4.jpg)
 </a>
 
 ~~~
@@ -327,7 +327,7 @@ box = section.newMain()
 #### Start September 7<span class="sup">th</span> 2020 • 2 weeks • €290
 
 ~~~
-box = box.newInfo()
+#box = box.newInfo() # No popup-arrow for running and upcoming workshops
 ~~~
 
 After finishing [Basic coding in Python #1](#coding-in-python1), you have made a program that is doing one specific task. Great as that may be, it is hard to reuse that code for other projects. How nice would it be, to create a **“library”** with knowledge, that can be called for similar designs, without writing everything from scratch again?
@@ -348,10 +348,13 @@ Completion of workshop [Basic coding in Python #1](#coding-in-python1) is recomm
 <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
-box = section.newCropped()
+#box = section.newCropped()
+box = section.newSide() # Full visible image, not as cropped background
+
 ~~~
 
-![cover y=top x=center](images/pageBotCode.png)
+<!--![cover y=top x=center](images/pageBotCode.png)-->
+![cover y=top x=center](images/01_Instagram_FewSpaces_5.jpg)
 
 ~~~
 section = content.newSection()

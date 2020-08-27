@@ -35,7 +35,8 @@ from pagebot.elements import *
 import flat
 """
 
-FEW_SPACES = True
+FEW_SPACES = False
+WORKSHOP_RUNNING = True
 
 # Example image that has nice areas to put text as example.
 imagePath = getResourcesPath() + '/images/pagebot.png'
@@ -44,6 +45,7 @@ EXPORT_PATH_PNG = '_export/01_Instagram.png'
 EXPORT_PATH_JPG = '_export/01_Instagram.jpg' 
 # Add extra layer
 EXPORT_PATH_FEWSPACES_JPG = '_export/01_Instagram_FewSpaces.jpg' 
+EXPORT_PATH_RUNNING_JPG = '_export/01_Instagram_Running.jpg' 
 MD_PATHS = ['DDS-home.md']
 
 h2Style = dict(font='Upgrade-Medium', fontSize=pt(80), leading=em(1), tracking=0.02, textFill=color(1))
@@ -51,6 +53,7 @@ h3Style = dict(font='Upgrade-Regular', fontSize=pt(60), leading=em(1), tracking=
 h4Style = dict(font='Upgrade-Medium', fontSize=pt(60), leading=em(1), tracking=0.02, textFill=color(1))
 supStyle = dict(font='Upgrade-Medium', fontSize=pt(60), leading=em(1), tracking=0.02, textFill=color(1,0,0))
 fewSpacesStyle = dict(font='Upgrade-Bold', fontSize=pt(130), leading=em(1), tracking=0.02, textFill=color(1,1,1))
+runningStyle = dict(font='Upgrade-Bold', fontSize=pt(160), leading=em(1), tracking=22, textFill=color(1,1,1))
 
 styles = dict(
     h2=h2Style,
@@ -180,11 +183,26 @@ for bs2, bs3, bs4, imagePath, alt in bannerData:
         context.textBox(bs5, (pad*8+tPadW, page.h/2-4*pad-th-tPadH+bs3.descender/3, w-4*pad-2*tPadW, th))
         context.b.restore()
   
+    elif WORKSHOP_RUNNING: 
+        bs5 = context.newString('RUNNING', runningStyle)
+        tw, th = context.textSize(bs5, w=w-2*pad-4*tPadW)
+        context.b.save()
+        context.b.rotate(20)
+        context.b.save()
+        context.b.shadow((10, -10), 20, (0, 0, 0, 0.7))
+        context.fill(color(rgb=0xF44B09, a=0.82))
+        context.rect(x=pad*8, y=page.h/2-4*pad-th-2*tPadH, w=w-4*pad, h=th+2*tPadH)
+        context.b.restore()
+        context.textBox(bs5, (pad*8+tPadW*1.4, page.h/2-4*pad-th-tPadH+bs3.descender/5, w-4*pad-2*tPadW, th))
+        context.b.restore()
+  
 
     page = page.next
 
 if FEW_SPACES:
     context.saveImage(EXPORT_PATH_FEWSPACES_JPG, multiPage=True)
+elif WORKSHOP_RUNNING:
+    context.saveImage(EXPORT_PATH_RUNNING_JPG, multiPage=True)
 else:
     context.saveImage(EXPORT_PATH_PDF, multiPage=True)
     context.saveImage(EXPORT_PATH_PNG, multiPage=True)

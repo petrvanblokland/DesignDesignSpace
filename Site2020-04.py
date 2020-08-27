@@ -42,6 +42,19 @@ from pagebot.themes import *
 #   WordlyWise
 #   HappyHolidays
 
+VERBOSE = False
+
+DO_PDF = 'Pdf' # Save as PDF representation of the site.
+DO_FILE = 'File' # Generate website output in _export/SimpleSite and open browser on file index.html
+DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and open a localhost
+DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
+DO_TWITTER = 'Twitter' # Generate banners for each workshop on optimal Twitter size.
+DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Instagram square size.
+EXPORT_TYPES = [DO_GIT]
+#EXPORT_TYPES = [DO_MAMP, DO_GIT]
+#EXPORT_TYPES = [DO_MAMP]
+#EXPORT_TYPES = [DO_INSTAGRAM]
+
 DDS_LOGO = spotColor(165)
 
 class DDSTheme(BaseTheme):
@@ -79,19 +92,6 @@ MD_PATHS = [
 ]
 EXPORT_PATH = '_export/' + SITE_NAME # Export path for DO_FILE
 INSTAGRAM_PATH = '_export/Instagram.jpg'
-
-VERBOSE = False
-
-DO_PDF = 'Pdf' # Save as PDF representation of the site.
-DO_FILE = 'File' # Generate website output in _export/SimpleSite and open browser on file index.html
-DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and open a localhost
-DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
-DO_TWITTER = 'Twitter' # Generate banners for each workshop on optimal Twitter size.
-DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Instagram square size.
-#EXPORT_TYPES = [DO_GIT]
-EXPORT_TYPES = [DO_MAMP, DO_GIT]
-#EXPORT_TYPES = [DO_MAMP]
-#EXPORT_TYPES = [DO_INSTAGRAM]
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 

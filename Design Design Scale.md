@@ -40,7 +40,7 @@ Paint (guache) a 5-step gray scale (white, light, middle, dark, black) in 60x30 
 ### 105.1 Paint a 7-gray scale
 Do #105 first. Then extend the scale to a 7-step gray scale in 60x30 rectangles, that are visually equal apart. Make multiple iterations, pick the best. Show others and ask if they see visual breaks. 1 day
 
-### 105.1 Paint a 9-gray scale
+### 105.2 Paint a 9-gray scale
 Do #105.1 and #105.2 first. Then extend the scale to a 9-step gray scale in 60x30 rectangles, that are visually equal apart. Make multiple iterations, pick the best. Show others and ask if they see visual breaks. 1 day
 
 ## 161 Sketch in volume
@@ -101,7 +101,7 @@ Write a script (DrawBot/PageBot) that generates variations of grids for CSS. Use
 ## 740 Educate exhibition design
 Do #1320. Write a 5-page Theses about the process to be used for teaching purposes. Design a method to evaluate the result with students. Make multiple iterations. 1 day
 
-# Type and typography
+# 1000 Type and typography
 
 ## 1002 Optical circle size
 Draw a filled black square on white background of 6x6 centimeter. Draw a filled circle and A-triangle on the same baseline, that appear to have the same size. 1 hour
@@ -124,9 +124,9 @@ Select a ﬁctional company or product. Open Erik van Blokland’s http://typeco
 
 # 1300 Publication design
 
-## 1320 Design an exhibition
+## 1320 Design a book exhibition
 Choose a book. Design an exhibition about the content.
 Make models 1:10. Make movies as presentation. Design a method to validate the result with a group. 5 hours
 
-## 1321 Design an exhibition
+## 1321 Design a new exhibition
 Choose a topic from the news. Research and collect data. Design an exhibition about the result. Make models 1:10. Make movies as presentation. Design a method to validate the result with a group. 1 day.
