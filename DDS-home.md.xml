@@ -298,7 +298,10 @@ box = section.newSide() # Full visible image, not as cropped background
 
 <!--![cover y=top x=center](images/pageBotCode.png)-->
 
-<p><img alt="cover y=top x=center" src="images/01_Instagram_FewSpaces_5.jpg" /></p>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external"><br />
+<img alt="cover y=top x=center" src="images/01_Instagram_FewSpaces_5.jpg" /><br />
+</a></p>
+<h2><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a></h2>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>

@@ -354,7 +354,12 @@ box = section.newSide() # Full visible image, not as cropped background
 ~~~
 
 <!--![cover y=top x=center](images/pageBotCode.png)-->
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
 ![cover y=top x=center](images/01_Instagram_FewSpaces_5.jpg)
+</a>
+
+## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
 
 ~~~
 section = content.newSection()
