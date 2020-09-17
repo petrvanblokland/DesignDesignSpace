@@ -157,10 +157,14 @@ box = section.newMain()
 
 ### Programming
 
+<!-- 
 ##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
 ##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
+-->
 ##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
 ##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
+##### <span class="tab">2020-11-16</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
+##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
 ##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
 
 ### Process 
@@ -240,13 +244,17 @@ box = box.newInfo()
 
 ### 2020
 
+<!-- 
 ##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
 ##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
+-->
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 ##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
 ##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
 ##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
+##### <span class="tab">2020-11-16</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
+##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
 ##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations](#running-a-studio1)
 ##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings](#running-a-studio2)
 
@@ -268,99 +276,6 @@ box = section.newCropped()
 
 
 
-
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-<a name="coding-in-python1"/>
-## Basic coding in Python #1
-
-### Design by parameters
-
-#### Start August 24<span class="sup">th</span> 2020 • 2 weeks • €290
-
-~~~
-#box = box.newInfo()
-~~~
-
-Take one of your designs and try to find the rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by the use of color themes, different page sizes and other parameters.
-
-The workshop assumes no prior knowledge of programming. Existing Open Source libraries are used, such as DrawBot and PageBotNano. Exercises take you step by step through the process of coding your graphic design.
-
-#### Example exercises 
-
-* Select a publication and analyze the (typographic) proportions that it contains. 
-* Find out how these measures relate to each other.
-* Sketch the relations between the extracted values, e.g. what are the possibilities for various page sizes?
-* Learn the basics of generating pages by code.
-* Automate the generation of equivalent color themes and alternative layouts.
-
-The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
-
-This workshop is followed up by [Basic coding in Python #2](#coding-in-python2).
-
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
-~~~
-#box = section.newCropped()
-box = section.newSide()
-
-# ![cover y=top x=center](images/DrawBotHomePage.png)
-
-~~~
-
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
-![cover y=top x=center](images/01_Instagram_Running_4.jpg)
-</a>
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-<a name="coding-in-python2"/>
-## Basic coding in Python #2
-
-### Functions, methods and classes
-
-#### Start September 7<span class="sup">th</span> 2020 • 2 weeks • €290
-
-~~~
-#box = box.newInfo() # No popup-arrow for running and upcoming workshops
-~~~
-
-After finishing [Basic coding in Python #1](#coding-in-python1), you have made a program that is doing one specific task. Great as that may be, it is hard to reuse that code for other projects. How nice would it be, to create a **“library”** with knowledge, that can be called for similar designs, without writing everything from scratch again?
-
-The focus of this workshop is in making code more sustainable, using **functions, methods and classes**. Existing Open Source libraries are used, such as **DrawBot** and **PageBotNano**. Exercises take you step by step through the process of coding your graphic design. Instead of manually building a metaforical car, it may be more profitable to build a factory for cars. 
-
-#### Example exercises
-
-* Make a selection of different publications and analyze the variety of (typographic) proportions that they share;
-* Sketch the relations between the extracted values and write them as coded rules;
-* Store these rules as a library of Python classes;
-* Learn to use this library in future design projects.
-
-The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
-
-Completion of workshop [Basic coding in Python #1](#coding-in-python1) is recommended.
-
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
-~~~
-#box = section.newCropped()
-box = section.newSide() # Full visible image, not as cropped background
-
-~~~
-
-<!--![cover y=top x=center](images/pageBotCode.png)-->
-
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
-![cover y=top x=center](images/01_Instagram_FewSpaces_5.jpg)
-</a>
-
-## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
-
 ~~~
 section = content.newSection()
 box = section.newMain()
@@ -373,7 +288,7 @@ box = section.newMain()
 #### Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290
 
 ~~~
-box = box.newInfo()
+#box = box.newInfo()
 ~~~
 
 Disassemble your graphic design into basic parameters. Why do you choose a color or a typeface? What other options do you have, other than choosing a color by number? How to define the visual grammar of a corporate identity?
@@ -387,16 +302,22 @@ In this workshop Jacques Bertin’s model of seven visual parameters (**color, c
 * Understand the difference between additive and subtractive colors;
 * Make the darkest black on Earth.
 
-This workshop is followed up by [Visual grammar #2](#"visual-grammar2).
+This workshop is followed up by [Visual grammar #2](#visual-grammar2).
 
 <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
-box = section.newCropped()
+#box = section.newCropped()
+box = section.newSide() # Full visible image, not as cropped background
+
 ~~~
 
+<!--
 ![cover y=top](images/IMG_8940.jpg)
+-->
+![cover y=top](images/01_Instagram_FewSpaces_6.jpg)
 
+## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
 
 
 ~~~
@@ -433,9 +354,7 @@ Completion of workshop [(V1) Visual grammar #1](#visual-grammar1) is recommended
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/DesignModels2.074.png)
-
-
+![cover y=middle x=center](images/DesignModels2.074.png)
 
 ~~~
 section = content.newSection()
@@ -555,6 +474,108 @@ box = section.newCropped()
 ~~~
 
 ![cover y=top](images/PPG_Schetsen_01.png)
+
+
+
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="coding-in-python1"/>
+## Basic coding in Python #1
+
+### Design by parameters
+
+#### Start November 16<span class="sup">th</span> 2020 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+Take one of your designs and try to find the rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by the use of color themes, different page sizes and other parameters.
+
+The workshop assumes no prior knowledge of programming. Existing Open Source libraries are used, such as DrawBot and PageBotNano. Exercises take you step by step through the process of coding your graphic design.
+
+#### Example exercises 
+
+* Select a publication and analyze the (typographic) proportions that it contains. 
+* Find out how these measures relate to each other.
+* Sketch the relations between the extracted values, e.g. what are the possibilities for various page sizes?
+* Learn the basics of generating pages by code.
+* Automate the generation of equivalent color themes and alternative layouts.
+
+The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
+
+This workshop is followed up by [Basic coding in Python #2](#coding-in-python2).
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
+~~~
+box = section.newCropped()
+#box = section.newSide()
+
+~~~
+![cover y=top x=center](images/DrawBotHomePage.png)
+
+<!--
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
+![cover y=top x=center](images/01_Instagram_Running_4.jpg)
+</a>
+
+-->
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="coding-in-python2"/>
+## Basic coding in Python #2
+
+### Functions, methods and classes
+
+#### Start November 30<span class="sup">th</span> 2020 • 2 weeks • €290
+
+~~~
+box = box.newInfo() # No popup-arrow for running and upcoming workshops
+~~~
+
+After finishing [Basic coding in Python #1](#coding-in-python1), you have made a program that is doing one specific task. Great as that may be, it is hard to reuse that code for other projects. How nice would it be, to create a **“library”** with knowledge, that can be called for similar designs, without writing everything from scratch again?
+
+The focus of this workshop is in making code more sustainable, using **functions, methods and classes**. Existing Open Source libraries are used, such as **DrawBot** and **PageBotNano**. Exercises take you step by step through the process of coding your graphic design. Instead of manually building a metaforical car, it may be more profitable to build a factory for cars. 
+
+#### Example exercises
+
+* Make a selection of different publications and analyze the variety of (typographic) proportions that they share;
+* Sketch the relations between the extracted values and write them as coded rules;
+* Store these rules as a library of Python classes;
+* Learn to use this library in future design projects.
+
+The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
+
+Completion of workshop [Basic coding in Python #1](#coding-in-python1) is recommended.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
+~~~
+box = section.newCropped()
+#box = section.newSide() # Full visible image, not as cropped background
+
+~~~
+
+![cover y=top x=center](images/pageBotCode.png)
+
+<!--
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
+![cover y=top x=center](images/01_Instagram_FewSpaces_5.jpg)
+</a>
+
+## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
+
+-->
+
 
 
 

@@ -36,7 +36,7 @@ import flat
 """
 
 FEW_SPACES = False
-WORKSHOP_RUNNING = True
+WORKSHOP_RUNNING = False
 
 # Example image that has nice areas to put text as example.
 imagePath = getResourcesPath() + '/images/pagebot.png'
