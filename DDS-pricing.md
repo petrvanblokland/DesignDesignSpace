@@ -26,12 +26,12 @@ box = section.newMain()
 
 Each workshop runs for 2 weeks, including live lectures, addressing theory, showing examples and give feedback on the exercises that you do.
 
-* 2 weeks, from Monday to Sunday
-* 4 hangouts with theory, models, templates and example documents. 
-* Maximal 8 participants per workshop
-* Intensive exercises and daily personal feedback
-* The result of the exercises is shared on a closed Slack channel for the duration of the workshop. 
-* Feedback comes from the educators and the other students.
+* 2 weeks, from Monday to Sunday;
+* Over 12 hours of live interactive hangouts with theory, models, templates and example documents; 
+* Maximal 8 participants per workshop;
+* Intensive exercises and daily personal feedback;
+* The result of the exercises is shared on a closed Slack channel for the duration of the workshop; 
+* Feedback comes from the educators and the other students;
 * DesignDesign.Space offers a safe online study environment, where any question can be asked. 
 
 Some workshops combine as a sequence. It is recommended to do them in the right order. Every 4<span class="sup">th</span> workshop is free of charge.
@@ -49,9 +49,9 @@ box = section.newMain()
 
 ### Get one free for every three
 
-* 1<span class="sup">st</span> workshop €290 (±$330)
-* 2<span class="sup">nd</span> workshop €290 (±$330)
-* 3<span class="sup">rd</span> workshop €290 (±$330)
+* 1<span class="sup">st</span> workshop €290 (±340)
+* 2<span class="sup">nd</span> workshop €290 (±$340)
+* 3<span class="sup">rd</span> workshop €290 (±$340)
 * Every 4<span class="sup">th</span> workshop Free
 
 You can subscribe and pay for the workshops one by one. We send separate invoices for each one..

@@ -973,9 +973,9 @@ box = section.newMain()
 
 ### Get one free for every three
 
-* 1<span class="sup">st</span> workshop €290 (±$330)
-* 2<span class="sup">nd</span> workshop €290 (±$330)
-* 3<span class="sup">rd</span> workshop €290 (±$330)
+* 1<span class="sup">st</span> workshop €290 (±$340)
+* 2<span class="sup">nd</span> workshop €290 (±$340)
+* 3<span class="sup">rd</span> workshop €290 (±$340)
 * 4<span class="sup">th</span> workshop Free
 
 You can subscribe and pay for the workshops one by one. DesignDesign.Space keeps track of the total amount of workshops that you did. 
