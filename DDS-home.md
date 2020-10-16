@@ -169,12 +169,16 @@ box = section.newMain()
 
 ### Process 
 
+<!--
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
+-->
 ##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
 ##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations](#running-a-studio1)
 ##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings](#running-a-studio2)
 ##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation](#teaching-online)
+##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
+##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 
 ### Type design
 
@@ -247,9 +251,9 @@ box = box.newInfo()
 <!-- 
 ##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
 ##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
--->
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
+-->
 ##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
 ##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
 ##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
@@ -268,93 +272,14 @@ box = box.newInfo()
 ##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
 ##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout](#basics-of-typography-grids-and-layout)
 ##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web](#basics-of-grid-design)
+##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
+##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 
 ~~~
 box = section.newCropped()
 ~~~
 ![cover y=top](images/BNO-BuroBoek2008.png)
 
-
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-<a name="visual-grammar1"/>
-## Visual grammar #1
-
-### Using the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.
-
-#### Start September 21<span class="sup">st</span> 2020 • 2 weeks • €290
-
-~~~
-#box = box.newInfo()
-~~~
-
-Disassemble your graphic design into basic parameters. Why do you choose a color or a typeface? What other options do you have, other than choosing a color by number? How to define the visual grammar of a corporate identity?
-
-In this workshop Jacques Bertin’s model of seven visual parameters (**color, contrast, texture, angle, position, size and shape**) is used as starting point for a number of exercises.
-
-#### Example exercises
-
-* Design simple pages to examine the relation between the seven parameters, such as color, contrast and size.
-* Make gray scales and color circles, using paint and digital tools; 
-* Understand the difference between additive and subtractive colors;
-* Make the darkest black on Earth.
-
-This workshop is followed up by [Visual grammar #2](#visual-grammar2).
-
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
-~~~
-#box = section.newCropped()
-box = section.newSide() # Full visible image, not as cropped background
-
-~~~
-
-<!--
-![cover y=top](images/IMG_8940.jpg)
--->
-![cover y=top](images/01_Instagram_FewSpaces_6.jpg)
-
-## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
-
-
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-<a name="visual-grammar2"/>
-## Visual grammar #2
-
-### Study the balance between diversity and coherency
-
-#### Start October 5<span class="sup">th</span> 2020 • 2 weeks • €290
-
-~~~
-box = box.newInfo()
-~~~
-
-Learn methods to distinguish between **this one** and **this kind of**. What makes different letters belong to the same typeface? How to make coherent color palettes? How to balance typographic elements on the same page? 
-
-The excercises of this workshop give insight in the various methods to balance visual grammar.
-
-#### Example exercises
-
-* Solve typographic puzzles. Which letters belong to the same typeface and which are too different?
-* What is the size of circles to appear having the same size as squares?
-* Design a series of different covers. Why do they visually belong to the same group?
-* Organize a number of objects in a given space. What are your options to make a composition? How to create a structure?
-
-Completion of workshop [(V1) Visual grammar #1](#visual-grammar1) is recommended.
-
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
-~~~
-box = section.newCropped()
-~~~
-
-![cover y=middle x=center](images/DesignModels2.074.png)
 
 ~~~
 section = content.newSection()
@@ -373,7 +298,7 @@ box = box.newInfo()
 
 After finishing [Basic coding in Python #1](#coding-in-python1), you are equipped with the basic coding skill to automate certain tasks that sometimes make a design process boring and lengthy.
 
-The workshop is focused on a very short script, only a couple of lines long, that automates repeating tasks in the design process. The result is a set of example scripts that can later be modified to be used in real life projects.
+The workshop is focused on very short scripts, only a couple of lines long, that automate repeating tasks in the design process. The result is a set of example scripts that can later be modified to be used in real life projects.
 
 You can make a selection from the following exercises. And it is also possible to bring your own ideas.
 
@@ -427,7 +352,7 @@ You can select several from the following exercises. And it is also possible to 
 
 The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
 
-Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
+Completion of workshops [Basic coding in Python #1](#coding-in-python1) and [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#coding-simple-scripted-tools) is recommended.
 
 <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
@@ -1021,6 +946,88 @@ box = section.newCropped()
 
 ![cover y=top x=center](images/F5.034.jpeg)
 
+
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="visual-grammar1"/>
+## Visual grammar #1
+
+### Using the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.
+
+#### Start April 26<span class="sup">th</span> 2021 • 2 weeks • €290
+
+~~~
+#box = box.newInfo()
+~~~
+
+Disassemble your graphic design into basic parameters. Why do you choose a color or a typeface? What other options do you have, other than choosing a color by number? How to define the visual grammar of a corporate identity?
+
+In this workshop Jacques Bertin’s model of seven visual parameters (**color, contrast, texture, angle, position, size and shape**) is used as starting point for a number of exercises.
+
+#### Example exercises
+
+* Design simple pages to examine the relation between the seven parameters, such as color, contrast and size.
+* Make gray scales and color circles, using paint and digital tools; 
+* Understand the difference between additive and subtractive colors;
+* Make the darkest black on Earth.
+
+This workshop is followed up by [Visual grammar #2](#visual-grammar2).
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
+~~~
+#box = section.newCropped()
+box = section.newSide() # Full visible image, not as cropped background
+
+~~~
+
+<!--
+![cover y=top](images/IMG_8940.jpg)
+-->
+![cover y=top](images/01_Instagram_FewSpaces_6.jpg)
+
+## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
+
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+<a name="visual-grammar2"/>
+## Visual grammar #2
+
+### Study the balance between diversity and coherency
+
+#### Start May 10<span class="sup">th</span> 2021 • 2 weeks • €290
+
+~~~
+box = box.newInfo()
+~~~
+
+Learn methods to distinguish between **this one** and **this kind of**. What makes different letters belong to the same typeface? How to make coherent color palettes? How to balance typographic elements on the same page? 
+
+The excercises of this workshop give insight in the various methods to balance visual grammar.
+
+#### Example exercises
+
+* Solve typographic puzzles. Which letters belong to the same typeface and which are too different?
+* What is the size of circles to appear having the same size as squares?
+* Design a series of different covers. Why do they visually belong to the same group?
+* Organize a number of objects in a given space. What are your options to make a composition? How to create a structure?
+
+Completion of workshop [(V1) Visual grammar #1](#visual-grammar1) is recommended.
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
+~~~
+box = section.newCropped()
+~~~
+
+![cover y=middle x=center](images/DesignModels2.074.png)
 
 
 

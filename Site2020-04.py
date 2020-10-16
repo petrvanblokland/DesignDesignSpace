@@ -22,8 +22,8 @@ from pagebot.contexts import getContext
 from pagebot.publications.publication import Publication
 from pagebot.publications.instagram import InstagramPost
 from pagebot.constants import URL_JQUERY, LANGUAGE_EN, InstagramSquare, CENTER
-from pagebot.composer import Composer
-from pagebot.typesetter import Typesetter
+from pagebot.base.composer import Composer
+from pagebot.base.typesetter import Typesetter
 from pagebot.elements import *
 from pagebot.toolbox.color import color, whiteColor, blackColor, spotColor
 from pagebot.toolbox.units import em, pt, px
