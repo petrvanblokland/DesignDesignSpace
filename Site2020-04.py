@@ -325,7 +325,8 @@ if DO_MAMP in EXPORT_TYPES:
     # Internal CSS file may be switched off for development.
     doc = makeSite(styles=styles, viewId='Mamp', context=context)
     mampView = doc.view
-    MAMP_PATH = '/Applications/MAMP/htdocs/' 
+    #MAMP_PATH = '/Applications/MAMP/htdocs/' 
+    MAMP_PATH = '~/Sites/' 
     filePath = MAMP_PATH + SITE_NAME 
     if VERBOSE:
         print('Site path: %s' % MAMP_PATH)

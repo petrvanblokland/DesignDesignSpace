@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="1000" version="1.1" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="M102,75 l0,50 l51,25 l0,-50 l-51,-25 Z M102,75" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,125 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,125" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l0,50 l51,25 l0,-50 l-51,-25 Z M102,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,75 l0,50 l51,25 l0,-50 l-51,-25 Z M102,75" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,125 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,125" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,175 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,175" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,250 l0,50 l51,25 l0,-50 l-51,-25 Z M153,250" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,100 l0,50 l51,25 l0,-50 l-51,-25 Z M153,100" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,150 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,150" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,175 l0,50 l51,25 l0,-50 l-51,-25 Z M102,175" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,225 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,225" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,225 l0,50 l51,25 l0,-50 l-51,-25 Z M204,225" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,275 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,275" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,125 l0,50 l51,25 l0,-50 l-51,-25 Z M204,125" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,175 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,175" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,225 l0,50 l51,25 l0,-50 l-51,-25 Z M102,225" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,275" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,200 l0,50 l51,25 l0,-50 l-51,-25 Z M255,200" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,250 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,250" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l0,50 l51,25 l0,-50 l-51,-25 Z M102,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,175 l0,50 l51,25 l0,-50 l-51,-25 Z M306,175" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,225 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,225" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,175 l0,50 l51,25 l0,-50 l-51,-25 Z M306,175" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,225 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,225" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l0,50 l51,25 l0,-50 l-51,-25 Z M102,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l0,50 l51,25 l0,-50 l-51,-25 Z M102,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l0,50 l51,25 l0,-50 l-51,-25 Z M102,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,375 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,375" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,450 l0,50 l51,25 l0,-50 l-51,-25 Z M153,450" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,300 l0,50 l51,25 l0,-50 l-51,-25 Z M153,300" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,350 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,350" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,375 l0,50 l51,25 l0,-50 l-51,-25 Z M102,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,425 l0,50 l51,25 l0,-50 l-51,-25 Z M204,425" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,475 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,475" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,325 l0,50 l51,25 l0,-50 l-51,-25 Z M204,325" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,375 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,375" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,425 l0,50 l51,25 l0,-50 l-51,-25 Z M102,425" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,475" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,400 l0,50 l51,25 l0,-50 l-51,-25 Z M255,400" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,450 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,450" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l0,50 l51,25 l0,-50 l-51,-25 Z M102,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,375 l0,50 l51,25 l0,-50 l-51,-25 Z M306,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,375 l0,50 l51,25 l0,-50 l-51,-25 Z M306,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,175 l0,50 l51,25 l0,-50 l-51,-25 Z M306,175" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,225 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,225" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,375 l0,50 l51,25 l0,-50 l-51,-25 Z M306,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,175 l0,50 l51,25 l0,-50 l-51,-25 Z M306,175" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,225 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,225" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,275 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,275" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,350 l0,50 l51,25 l0,-50 l-51,-25 Z M357,350" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,200 l0,50 l51,25 l0,-50 l-51,-25 Z M357,200" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,250 l-51,25 l51,25 l51,-25 l-51,-25 Z M357,250" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,275 l0,50 l51,25 l0,-50 l-51,-25 Z M306,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,325 l0,50 l51,25 l0,-50 l-51,-25 Z M408,325" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,375 l-51,25 l51,25 l51,-25 l-51,-25 Z M408,375" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,225 l0,50 l51,25 l0,-50 l-51,-25 Z M408,225" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,275 l-51,25 l51,25 l51,-25 l-51,-25 Z M408,275" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,325 l0,50 l51,25 l0,-50 l-51,-25 Z M306,325" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,375 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,375" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,300 l0,50 l51,25 l0,-50 l-51,-25 Z M459,300" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,350 l-51,25 l51,25 l51,-25 l-51,-25 Z M459,350" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,375 l0,50 l51,25 l0,-50 l-51,-25 Z M306,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,275 l0,50 l51,25 l0,-50 l-51,-25 Z M510,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,275 l0,50 l51,25 l0,-50 l-51,-25 Z M510,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l0,50 l51,25 l0,-50 l-51,-25 Z M102,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l0,50 l51,25 l0,-50 l-51,-25 Z M102,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l0,50 l51,25 l0,-50 l-51,-25 Z M102,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,575 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,575" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,650 l0,50 l51,25 l0,-50 l-51,-25 Z M153,650" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,500 l0,50 l51,25 l0,-50 l-51,-25 Z M153,500" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,550 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,550" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,575 l0,50 l51,25 l0,-50 l-51,-25 Z M102,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,625 l0,50 l51,25 l0,-50 l-51,-25 Z M204,625" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,675 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,675" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,525 l0,50 l51,25 l0,-50 l-51,-25 Z M204,525" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,575 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,575" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,625 l0,50 l51,25 l0,-50 l-51,-25 Z M102,625" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,675" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,600 l0,50 l51,25 l0,-50 l-51,-25 Z M255,600" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,650 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,650" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l0,50 l51,25 l0,-50 l-51,-25 Z M102,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,575 l0,50 l51,25 l0,-50 l-51,-25 Z M306,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,575 l0,50 l51,25 l0,-50 l-51,-25 Z M306,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l0,50 l51,25 l0,-50 l-51,-25 Z M102,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,875 l0,50 l51,25 l0,-50 l-51,-25 Z M102,875" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,925 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,925" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l0,50 l51,25 l0,-50 l-51,-25 Z M102,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,775 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,775" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,850 l0,50 l51,25 l0,-50 l-51,-25 Z M153,850" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,700 l0,50 l51,25 l0,-50 l-51,-25 Z M153,700" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,750 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,750" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,775 l0,50 l51,25 l0,-50 l-51,-25 Z M102,775" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,825 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,825" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,825 l0,50 l51,25 l0,-50 l-51,-25 Z M204,825" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,875 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,875" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,725 l0,50 l51,25 l0,-50 l-51,-25 Z M204,725" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,775 l-51,25 l51,25 l51,-25 l-51,-25 Z M204,775" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,825 l0,50 l51,25 l0,-50 l-51,-25 Z M102,825" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,875 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,875" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,800 l0,50 l51,25 l0,-50 l-51,-25 Z M255,800" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,850 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,850" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,875 l0,50 l51,25 l0,-50 l-51,-25 Z M102,875" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,925 l-51,25 l51,25 l51,-25 l-51,-25 Z M102,925" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,775 l0,50 l51,25 l0,-50 l-51,-25 Z M306,775" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,825 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,825" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,775 l0,50 l51,25 l0,-50 l-51,-25 Z M306,775" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,825 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,825" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,575 l0,50 l51,25 l0,-50 l-51,-25 Z M306,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,775 l0,50 l51,25 l0,-50 l-51,-25 Z M306,775" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,825 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,825" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,575 l0,50 l51,25 l0,-50 l-51,-25 Z M306,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,675 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,675" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,750 l0,50 l51,25 l0,-50 l-51,-25 Z M357,750" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,600 l0,50 l51,25 l0,-50 l-51,-25 Z M357,600" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,650 l-51,25 l51,25 l51,-25 l-51,-25 Z M357,650" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,675 l0,50 l51,25 l0,-50 l-51,-25 Z M306,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,725 l0,50 l51,25 l0,-50 l-51,-25 Z M408,725" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,775 l-51,25 l51,25 l51,-25 l-51,-25 Z M408,775" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,625 l0,50 l51,25 l0,-50 l-51,-25 Z M408,625" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,675 l-51,25 l51,25 l51,-25 l-51,-25 Z M408,675" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,725 l0,50 l51,25 l0,-50 l-51,-25 Z M306,725" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,775 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,775" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,700 l0,50 l51,25 l0,-50 l-51,-25 Z M459,700" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,750 l-51,25 l51,25 l51,-25 l-51,-25 Z M459,750" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,775 l0,50 l51,25 l0,-50 l-51,-25 Z M306,775" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,825 l-51,25 l51,25 l51,-25 l-51,-25 Z M306,825" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l0,50 l51,25 l0,-50 l-51,-25 Z M510,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l0,50 l51,25 l0,-50 l-51,-25 Z M510,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,275 l0,50 l51,25 l0,-50 l-51,-25 Z M510,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l0,50 l51,25 l0,-50 l-51,-25 Z M510,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,275 l0,50 l51,25 l0,-50 l-51,-25 Z M510,275" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,325 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,325" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,375 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,375" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,450 l0,50 l51,25 l0,-50 l-51,-25 Z M561,450" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,300 l0,50 l51,25 l0,-50 l-51,-25 Z M561,300" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,350 l-51,25 l51,25 l51,-25 l-51,-25 Z M561,350" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,375 l0,50 l51,25 l0,-50 l-51,-25 Z M510,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,425 l0,50 l51,25 l0,-50 l-51,-25 Z M612,425" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,475 l-51,25 l51,25 l51,-25 l-51,-25 Z M612,475" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,325 l0,50 l51,25 l0,-50 l-51,-25 Z M612,325" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,375 l-51,25 l51,25 l51,-25 l-51,-25 Z M612,375" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,425 l0,50 l51,25 l0,-50 l-51,-25 Z M510,425" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,475" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,400 l0,50 l51,25 l0,-50 l-51,-25 Z M663,400" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,450 l-51,25 l51,25 l51,-25 l-51,-25 Z M663,450" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l0,50 l51,25 l0,-50 l-51,-25 Z M510,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,375 l0,50 l51,25 l0,-50 l-51,-25 Z M714,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,375 l0,50 l51,25 l0,-50 l-51,-25 Z M714,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l0,50 l51,25 l0,-50 l-51,-25 Z M510,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l0,50 l51,25 l0,-50 l-51,-25 Z M510,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l0,50 l51,25 l0,-50 l-51,-25 Z M510,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,575 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,575" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,650 l0,50 l51,25 l0,-50 l-51,-25 Z M561,650" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,500 l0,50 l51,25 l0,-50 l-51,-25 Z M561,500" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,550 l-51,25 l51,25 l51,-25 l-51,-25 Z M561,550" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,575 l0,50 l51,25 l0,-50 l-51,-25 Z M510,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,625 l0,50 l51,25 l0,-50 l-51,-25 Z M612,625" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,675 l-51,25 l51,25 l51,-25 l-51,-25 Z M612,675" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,525 l0,50 l51,25 l0,-50 l-51,-25 Z M612,525" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,575 l-51,25 l51,25 l51,-25 l-51,-25 Z M612,575" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,625 l0,50 l51,25 l0,-50 l-51,-25 Z M510,625" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,675" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,600 l0,50 l51,25 l0,-50 l-51,-25 Z M663,600" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,650 l-51,25 l51,25 l51,-25 l-51,-25 Z M663,650" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l0,50 l51,25 l0,-50 l-51,-25 Z M510,675" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,725 l-51,25 l51,25 l51,-25 l-51,-25 Z M510,725" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,575 l0,50 l51,25 l0,-50 l-51,-25 Z M714,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,575 l0,50 l51,25 l0,-50 l-51,-25 Z M714,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,375 l0,50 l51,25 l0,-50 l-51,-25 Z M714,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,575 l0,50 l51,25 l0,-50 l-51,-25 Z M714,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,375 l0,50 l51,25 l0,-50 l-51,-25 Z M714,375" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,425 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,425" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,475 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,475" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M765,550 l0,50 l51,25 l0,-50 l-51,-25 Z M765,550" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M765,400 l0,50 l51,25 l0,-50 l-51,-25 Z M765,400" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M765,450 l-51,25 l51,25 l51,-25 l-51,-25 Z M765,450" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,475 l0,50 l51,25 l0,-50 l-51,-25 Z M714,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M816,525 l0,50 l51,25 l0,-50 l-51,-25 Z M816,525" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M816,575 l-51,25 l51,25 l51,-25 l-51,-25 Z M816,575" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M816,425 l0,50 l51,25 l0,-50 l-51,-25 Z M816,425" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M816,475 l-51,25 l51,25 l51,-25 l-51,-25 Z M816,475" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,525 l0,50 l51,25 l0,-50 l-51,-25 Z M714,525" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,575 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,575" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M867,500 l0,50 l51,25 l0,-50 l-51,-25 Z M867,500" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M867,550 l-51,25 l51,25 l51,-25 l-51,-25 Z M867,550" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,575 l0,50 l51,25 l0,-50 l-51,-25 Z M714,575" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,625 l-51,25 l51,25 l51,-25 l-51,-25 Z M714,625" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M918,475 l0,50 l51,25 l0,-50 l-51,-25 Z M918,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M918,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M918,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M918,475 l0,50 l51,25 l0,-50 l-51,-25 Z M918,475" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M918,525 l-51,25 l51,25 l51,-25 l-51,-25 Z M918,525" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,125 l0,50 l51,25 l0,-50 l-51,-25 Z M102,125" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,325 l0,50 l51,25 l0,-50 l-51,-25 Z M102,325" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,225 l0,50 l51,25 l0,-50 l-51,-25 Z M306,225" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,525 l0,50 l51,25 l0,-50 l-51,-25 Z M102,525" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,725 l0,50 l51,25 l0,-50 l-51,-25 Z M102,725" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,625 l0,50 l51,25 l0,-50 l-51,-25 Z M306,625" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,325 l0,50 l51,25 l0,-50 l-51,-25 Z M510,325" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,525 l0,50 l51,25 l0,-50 l-51,-25 Z M510,525" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,425 l0,50 l51,25 l0,-50 l-51,-25 Z M714,425" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,300 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,300" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,500 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,500" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,400 l-51,25 l51,25 l51,-25 l-51,-25 Z M357,400" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,700 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,700" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,900 l-51,25 l51,25 l51,-25 l-51,-25 Z M153,900" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,800 l-51,25 l51,25 l51,-25 l-51,-25 Z M357,800" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,500 l-51,25 l51,25 l51,-25 l-51,-25 Z M561,500" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,700 l-51,25 l51,25 l51,-25 l-51,-25 Z M561,700" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M765,600 l-51,25 l51,25 l51,-25 l-51,-25 Z M765,600" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,200 l0,50 l-51,25 l0,-50 l51,-25 Z M255,200" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,600 l0,50 l-51,25 l0,-50 l51,-25 Z M255,600" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,400 l0,50 l-51,25 l0,-50 l51,-25 Z M663,400" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,75 l0,50 l-51,25 l0,-50 l51,-25 Z M102,75" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l0,50 l-51,25 l0,-50 l51,-25 Z M102,275" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,125 l0,50 l-51,25 l0,-50 l51,-25 Z M102,125" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,250 l0,50 l-51,25 l0,-50 l51,-25 Z M153,250" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,175 l0,50 l-51,25 l0,-50 l51,-25 Z M102,175" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,176 l0,48 Z M102,176" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,225 l0,50 l-51,25 l0,-50 l51,-25 Z M204,225" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,225 l0,50 l-51,25 l0,-50 l51,-25 Z M102,225" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,226 l0,48 Z M102,226" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l0,50 l-51,25 l0,-50 l51,-25 Z M102,275" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,275 l0,50 l-51,25 l0,-50 l51,-25 Z M102,275" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l0,50 l-51,25 l0,-50 l51,-25 Z M102,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,325 l0,50 l-51,25 l0,-50 l51,-25 Z M102,325" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,450 l0,50 l-51,25 l0,-50 l51,-25 Z M153,450" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,375 l0,50 l-51,25 l0,-50 l51,-25 Z M102,375" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,376 l0,48 Z M102,376" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,425 l0,50 l-51,25 l0,-50 l51,-25 Z M204,425" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,425 l0,50 l-51,25 l0,-50 l51,-25 Z M102,425" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,426 l0,48 Z M102,426" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,400 l0,50 l-51,25 l0,-50 l51,-25 Z M255,400" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l0,50 l-51,25 l0,-50 l51,-25 Z M102,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,375 l0,50 l-51,25 l0,-50 l51,-25 Z M306,375" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,225 l0,50 l-51,25 l0,-50 l51,-25 Z M306,225" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,350 l0,50 l-51,25 l0,-50 l51,-25 Z M357,350" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,275 l0,50 l-51,25 l0,-50 l51,-25 Z M306,275" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,276 l0,48 Z M306,276" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,325 l0,50 l-51,25 l0,-50 l51,-25 Z M408,325" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,325 l0,50 l-51,25 l0,-50 l51,-25 Z M306,325" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,326 l0,48 Z M306,326" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,300 l0,50 l-51,25 l0,-50 l51,-25 Z M459,300" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,375 l0,50 l-51,25 l0,-50 l51,-25 Z M306,375" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,275 l0,50 l-51,25 l0,-50 l51,-25 Z M510,275" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,475 l0,50 l-51,25 l0,-50 l51,-25 Z M102,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l0,50 l-51,25 l0,-50 l51,-25 Z M102,675" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,525 l0,50 l-51,25 l0,-50 l51,-25 Z M102,525" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,650 l0,50 l-51,25 l0,-50 l51,-25 Z M153,650" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,575 l0,50 l-51,25 l0,-50 l51,-25 Z M102,575" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,576 l0,48 Z M102,576" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,625 l0,50 l-51,25 l0,-50 l51,-25 Z M204,625" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,625 l0,50 l-51,25 l0,-50 l51,-25 Z M102,625" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,626 l0,48 Z M102,626" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l0,50 l-51,25 l0,-50 l51,-25 Z M102,675" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,675 l0,50 l-51,25 l0,-50 l51,-25 Z M102,675" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,875 l0,50 l-51,25 l0,-50 l51,-25 Z M102,875" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,725 l0,50 l-51,25 l0,-50 l51,-25 Z M102,725" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M153,850 l0,50 l-51,25 l0,-50 l51,-25 Z M153,850" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,775 l0,50 l-51,25 l0,-50 l51,-25 Z M102,775" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,776 l0,48 Z M102,776" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M204,825 l0,50 l-51,25 l0,-50 l51,-25 Z M204,825" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,825 l0,50 l-51,25 l0,-50 l51,-25 Z M102,825" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,826 l0,48 Z M102,826" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,800 l0,50 l-51,25 l0,-50 l51,-25 Z M255,800" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,875 l0,50 l-51,25 l0,-50 l51,-25 Z M102,875" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,775 l0,50 l-51,25 l0,-50 l51,-25 Z M306,775" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,625 l0,50 l-51,25 l0,-50 l51,-25 Z M306,625" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M357,750 l0,50 l-51,25 l0,-50 l51,-25 Z M357,750" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,675 l0,50 l-51,25 l0,-50 l51,-25 Z M306,675" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,676 l0,48 Z M306,676" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M408,725 l0,50 l-51,25 l0,-50 l51,-25 Z M408,725" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,725 l0,50 l-51,25 l0,-50 l51,-25 Z M306,725" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,726 l0,48 Z M306,726" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,700 l0,50 l-51,25 l0,-50 l51,-25 Z M459,700" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,775 l0,50 l-51,25 l0,-50 l51,-25 Z M306,775" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l0,50 l-51,25 l0,-50 l51,-25 Z M510,675" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,275 l0,50 l-51,25 l0,-50 l51,-25 Z M510,275" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l0,50 l-51,25 l0,-50 l51,-25 Z M510,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,325 l0,50 l-51,25 l0,-50 l51,-25 Z M510,325" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,450 l0,50 l-51,25 l0,-50 l51,-25 Z M561,450" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,375 l0,50 l-51,25 l0,-50 l51,-25 Z M510,375" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,376 l0,48 Z M510,376" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,425 l0,50 l-51,25 l0,-50 l51,-25 Z M612,425" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,425 l0,50 l-51,25 l0,-50 l51,-25 Z M510,425" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,426 l0,48 Z M510,426" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l0,50 l-51,25 l0,-50 l51,-25 Z M510,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,475 l0,50 l-51,25 l0,-50 l51,-25 Z M510,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l0,50 l-51,25 l0,-50 l51,-25 Z M510,675" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,525 l0,50 l-51,25 l0,-50 l51,-25 Z M510,525" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M561,650 l0,50 l-51,25 l0,-50 l51,-25 Z M561,650" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,575 l0,50 l-51,25 l0,-50 l51,-25 Z M510,575" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,576 l0,48 Z M510,576" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M612,625 l0,50 l-51,25 l0,-50 l51,-25 Z M612,625" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,625 l0,50 l-51,25 l0,-50 l51,-25 Z M510,625" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,626 l0,48 Z M510,626" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,600 l0,50 l-51,25 l0,-50 l51,-25 Z M663,600" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,675 l0,50 l-51,25 l0,-50 l51,-25 Z M510,675" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,575 l0,50 l-51,25 l0,-50 l51,-25 Z M714,575" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,425 l0,50 l-51,25 l0,-50 l51,-25 Z M714,425" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M765,550 l0,50 l-51,25 l0,-50 l51,-25 Z M765,550" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,475 l0,50 l-51,25 l0,-50 l51,-25 Z M714,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,476 l0,48 Z M714,476" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M816,525 l0,50 l-51,25 l0,-50 l51,-25 Z M816,525" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,525 l0,50 l-51,25 l0,-50 l51,-25 Z M714,525" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,526 l0,48 Z M714,526" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M867,500 l0,50 l-51,25 l0,-50 l51,-25 Z M867,500" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,575 l0,50 l-51,25 l0,-50 l51,-25 Z M714,575" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M918,475 l0,50 l-51,25 l0,-50 l51,-25 Z M918,475" fill="rgb(101,101,153)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,126 l0,48 Z M102,126" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,326 l0,48 Z M102,326" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,226 l0,48 Z M306,226" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,526 l0,48 Z M102,526" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M102,726 l0,48 Z M102,726" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M306,626 l0,48 Z M306,626" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,326 l0,48 Z M510,326" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M510,526 l0,48 Z M510,526" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M714,426 l0,48 Z M714,426" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,150 l0,50 l51,25 l0,-50 l-51,-25 Z M255,150" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,350 l0,50 l51,25 l0,-50 l-51,-25 Z M255,350" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,250 l0,50 l51,25 l0,-50 l-51,-25 Z M459,250" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,550 l0,50 l51,25 l0,-50 l-51,-25 Z M255,550" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,750 l0,50 l51,25 l0,-50 l-51,-25 Z M255,750" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,650 l0,50 l51,25 l0,-50 l-51,-25 Z M459,650" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,350 l0,50 l51,25 l0,-50 l-51,-25 Z M663,350" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,550 l0,50 l51,25 l0,-50 l-51,-25 Z M663,550" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M867,450 l0,50 l51,25 l0,-50 l-51,-25 Z M867,450" fill="rgb(153,153,191)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M154,150.49 l49,24.02 Z M154,150.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M205,175.49 l49,24.02 Z M205,175.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M154,350.49 l49,24.02 Z M154,350.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M205,375.49 l49,24.02 Z M205,375.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M358,250.49 l49,24.02 Z M358,250.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M409,275.49 l49,24.02 Z M409,275.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M154,550.49 l49,24.02 Z M154,550.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M205,575.49 l49,24.02 Z M205,575.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M154,750.49 l49,24.02 Z M154,750.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M205,775.49 l49,24.02 Z M205,775.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M358,650.49 l49,24.02 Z M358,650.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M409,675.49 l49,24.02 Z M409,675.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M562,350.49 l49,24.02 Z M562,350.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M613,375.49 l49,24.02 Z M613,375.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M562,550.49 l49,24.02 Z M562,550.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M613,575.49 l49,24.02 Z M613,575.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M766,450.49 l49,24.02 Z M766,450.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M817,475.49 l49,24.02 Z M817,475.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,200 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,200" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,400 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,400" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,300 l-51,25 l51,25 l51,-25 l-51,-25 Z M459,300" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,600 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,600" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M255,800 l-51,25 l51,25 l51,-25 l-51,-25 Z M255,800" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M459,700 l-51,25 l51,25 l51,-25 l-51,-25 Z M459,700" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,400 l-51,25 l51,25 l51,-25 l-51,-25 Z M663,400" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M663,600 l-51,25 l51,25 l51,-25 l-51,-25 Z M663,600" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M867,500 l-51,25 l51,25 l51,-25 l-51,-25 Z M867,500" fill="rgb(200,200,217)" stroke="rgb(25,25,25)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M256,200.49 l49,24.02 Z M256,200.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M256,400.49 l49,24.02 Z M256,400.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M460,300.49 l49,24.02 Z M460,300.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M256,600.49 l49,24.02 Z M256,600.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M256,800.49 l49,24.02 Z M256,800.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M460,700.49 l49,24.02 Z M460,700.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M664,400.49 l49,24.02 Z M664,400.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M664,600.49 l49,24.02 Z M664,600.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+ <path d="M868,500.49 l49,24.02 Z M868,500.49" fill="rgb(233,233,250)" stroke="rgb(233,233,250)" stroke-width="1.5" transform="matrix(1,0,0,-1,0,1000)"/>
+</svg>
