@@ -38,8 +38,9 @@ box = content.newBanner()
 # Which studies can we offer you in 2020?
 ~~~
 
-# New workshops in 2020-2021
+# Workshops in 2020-2021
 
+<!--
 ~~~
 section = content.newSection()
 box = section.newMain(cssClass='youtubelink')
@@ -67,7 +68,7 @@ box = section.newSide(cssClass='youtubeside')
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
-<!--
+-->
 
 ~~~
 from pagebot.constants import *
@@ -108,7 +109,7 @@ box = slideshow.side
 # <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
--->
+
 
 ~~~
 box = content.newIntroduction()
@@ -157,15 +158,21 @@ box = section.newMain()
 
 ### Programming
 
-<!-- 
-##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
+<!--
+##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
+##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 -->
-##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
-##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
-##### <span class="tab">2020-11-16</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
-##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
+##### <span class="tab">2020-10-19</span> • [**NOW RUNNING** Coding simple scripted tools (PY3)](#PY3)
+##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface (PY4)](#PY4)
+##### <span class="tab">2020-11-16</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
+##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
+##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
+##### <span class="tab">2021-01-16</span> • [Coding tools with a user interface (PY4)](#PY4)
+##### <span class="tab">2021-02-15</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
+##### <span class="tab">2021-03-01</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
+##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont (PY5)](#PY5)
+##### <span class="tab">2021-03-29</span> • [Coding simple scripted tools (PY3)](#PY3)
+##### <span class="tab">2021-04-12</span> • [Coding tools with a user interface (PY4)](#PY4)
 
 ### Process 
 
@@ -173,67 +180,57 @@ box = section.newMain()
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 -->
-##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
-##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations](#running-a-studio1)
-##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings](#running-a-studio2)
-##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation](#teaching-online)
-##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
-##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
+##### <span class="tab">2020-11-16</span> • [General sketching techniques (SK1)](#SK1)
+##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations (ST1)](#ST1)
+##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings (ST2)](#ST2)
+##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin (VG1)](#VG1)
+##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency (VG2)](#VG2)
 
 ### Type design
 
-##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers](#basic-principles-of-type-design)
-##### <span class="tab">2021-02-01</span> • [Basics of logo design](#logo-design)
-##### <span class="tab">2021-02-15</span> • [Coding advanced logo variations](#coding-advanced-logo-variations)
-##### <span class="tab">2021-03-01</span> • [Sketching, feedback & planning in type design](#sketching-feedback-planning)
+##### <span class="tab">2020-12-14</span> • [Coaching Type Projects (TY5)](#TY5)
+##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers (TY1)](#TY1)
+##### <span class="tab">2021-02-01</span> • [Contrast principles of type design (TY2)](#TY2)
+##### <span class="tab">2021-02-15</span> • [Coaching Type Projects (TY5)](#TY5)
+##### <span class="tab">2021-03-01</span> • [Sketching, feedback & planning in type design (TY4)](#TY4)
+##### <span class="tab">2021-04-26</span> • [Design design spaces for Variable Fonts (TY6)](#TY6)
+##### <span class="tab">2021-05-10</span> • [Design the process and tools for Variable Fonts (TY7)](#TY7)
+##### <span class="tab">2021-06-07</span> • [Sketching type (TY3)](#TY3)
+##### <span class="tab">2021-06-27</span> • [Coaching Type Projects (TY5)](#TY5)
+##### <span class="tab">2021-07-05</span> • [Design a script (TY8)](#TY8)
 
-### Publications for web and print
+### Graphic design
 
-##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout](#basics-of-typography-grids-and-layout)
-##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web](#basics-of-grid-design)
+##### <span class="tab">2021-02-01</span> • [Basics of logo design (LO1)](#LO1)
+##### <span class="tab">2021-03-15</span> • [Coding advanced logo variations (LO2)](#LO2)
+##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout (GD1)](#GD1)
+##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web (GD2)](#GD2)
+##### <span class="tab">2021-05-24</span> • [Selecting typefaces (GD3)](#GD3)
+##### <span class="tab">2021-06-07</span> • [Coding type specimens (GD4)](#GD4)
+##### <span class="tab">2021-06-21</span> • [Design and code info-graphics with databases (IG1)](#IG1)
+
+### Design education
+
+##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation (TD1)](#TD1)
+##### <span class="tab">2021-05-24</span> • [Teaching simulations and design games (TD2)](#TD2)
+
+### Design Game
+
+##### <span class="tab">2020-12-29</span> • [Design Game Pentathlon Rounds 1, 2, 3 (DG1)](#DG1)
+##### <span class="tab">2020-12-30</span> • [Design Game Pentathlon Round 4 and final](#DG1)
+##### <span class="tab">2021-03-09</span> • [Design Game Pentathlon Rounds 1, 2, 3 (DG1)](#DG1)
+##### <span class="tab">2021-03-10</span> • [Design Game Pentathlon Round 4 and final](#DG1)
+
+### Spacial design
+
+##### <span class="tab">2021-07-05</span> • [Basic exhibition design (SD1)](#SD1)
+##### <span class="tab">2021-07-19</span> • [Workspace design (SD2)](#SD2)
+
 
 ~~~
 box = section.newCropped()
 ~~~
 ![cover y=top](images/BK-Interaction-Design.png)
-
-
-
-<!--
-### Process
-
-### Programming 
-
-##### [Version management, testing and creation of automated manuals](#version-management)
-
-### Type design
-
-##### [Design the process and tools for Variable Fonts](#design-process-and-tools-for-variable-fonts)
-##### [Design design spaces for Variable Fonts](#design-design-spaces-for-variable-fonts)
-
-### Typography
-
-##### [Undated • Typography for web and print, how to select typefaces](#typography-for-web-and-print)
-##### [Undated • Coding automated type specimens](#coding-automated-type-specimens)
-
-### Publications for web and print
-
-##### [Undated • Coding grids for print and web](#coding-grids-for-print-and-web)
-##### [Undated • Coding publications as website, Sketch and InDesign](#coding-publications-as-website-sketch-indesign)
-
-
-### Info-graphics
-
-##### [Undated • Basics, models and databases](#basics-models-databases)
-##### [Undated • Coding templates and visual grammar](#coding-templates-and-visual-grammar)
-
-
-### Spacial design
-
-##### [Undated • Floor plan design](#floor-plan-design)
-##### [Undated • Workspace design, running a studio from home](#workspace-design)
-
--->
 
 ~~~
 section = content.newSection()
@@ -248,32 +245,56 @@ box = box.newInfo()
 
 ### 2020
 
-<!-- 
-##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
+<!--
+##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
+##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 -->
-##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools](#coding-simple-scripted-tools)
-##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface](#coding-simple-ui-tools)
-##### <span class="tab">2020-11-16</span> • [General sketching techniques](#general-sketching-techniques)
-##### <span class="tab">2020-11-16</span> • [Basic coding in Python #1: Design by parameters](#coding-in-python1)
-##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes](#coding-in-python2)
-##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations](#running-a-studio1)
-##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings](#running-a-studio2)
+##### <span class="tab">2020-10-19</span> • [**NOW RUNNING** Coding simple scripted tools (PY3)](#PY3)
+##### <span class="tab">2020-11-02</span> • [Coding tools with a user interface (PY4)](#PY4)
+##### <span class="tab">2020-11-16</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
+##### <span class="tab">2020-11-16</span> • [General sketching techniques (SK1)](#SK1)
+##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
+##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations (ST1)](#ST1)
+##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings (ST2)](#ST2)
+##### <span class="tab">2020-12-29</span> • [Design Game Pentathlon Rounds 1, 2, 3 (DG1)](#DG1)
+##### <span class="tab">2020-12-30</span> • [Design Game Pentathlon Round 4 and final](#DG1)
+##### <span class="tab">2020-12-14</span> • [Coaching Type Projects (TY5)](#TY5)
 
-### 2021
+### 2020
 
-##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation](#teaching-online)
-##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers](#basic-principles-of-type-design)
-##### <span class="tab">2021-02-01</span> • [Basics of logo design](#logo-design)
-##### <span class="tab">2021-02-15</span> • [Coding advanced logo variations](#coding-advanced-logo-variations)
-##### <span class="tab">2021-03-01</span> • [Sketching, feedback & planning in type design](#sketching-feedback-planning)
-##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont](#scripting-for-robofont)
-##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout](#basics-of-typography-grids-and-layout)
-##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web](#basics-of-grid-design)
-##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
-##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
+##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
+##### <span class="tab">2021-01-04</span> • [Teaching online, exercises, feedback & evaluation (TD1)](#TD1)
+##### <span class="tab">2021-01-16</span> • [Coding tools with a user interface (PY4)](#PY4)
+##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers (TY1)](#TY1)
+##### <span class="tab">2021-02-01</span> • [Basics of logo design (LO1)](#LO1)
+##### <span class="tab">2021-02-01</span> • [Contrast principles of type design (TY2)](#TY2)
+##### <span class="tab">2021-02-15</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
+##### <span class="tab">2021-02-15</span> • [Coaching Type Projects (TY5)](#TY5)
+##### <span class="tab">2021-03-01</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
+##### <span class="tab">2021-03-01</span> • [Sketching, feedback & planning in type design (TY4)](#TY4)
+##### <span class="tab">2021-03-09</span> • [Design Game Pentathlon Rounds 1, 2, 3 (DG1)](#DG1)
+##### <span class="tab">2021-03-10</span> • [Design Game Pentathlon Round 4 and final](#DG1)
+##### <span class="tab">2021-03-15</span> • [Coding advanced logo variations (LO2)](#LO2)
+##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont (PY5)](#PY5)
+##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout (GD1)](#GD1)
+##### <span class="tab">2021-03-29</span> • [Coding simple scripted tools (PY3)](#PY3)
+##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web (GD2)](#GD2)
+##### <span class="tab">2021-04-12</span> • [Coding tools with a user interface (PY4)](#PY4)
+##### <span class="tab">2021-04-26</span> • [Design design spaces for Variable Fonts (TY6)](#TY6)
+##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin (VG1)](#VG1)
+##### <span class="tab">2021-05-10</span> • [Design the process and tools for Variable Fonts (TY7)](#TY7)
+##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency (VG2)](#VG2)
+##### <span class="tab">2021-05-24</span> • [Selecting typefaces (GD3)](#GD3)
+##### <span class="tab">2021-05-24</span> • [Teaching simulations and design games (TD2)](#TD2)
+##### <span class="tab">2021-06-07</span> • [Coding type specimens (GD4)](#GD4)
+##### <span class="tab">2021-06-07</span> • [Sketching type (TY3)](#TY3)
+##### <span class="tab">2021-06-21</span> • [Design and code info-graphics with databases (IG1)](#IG1)
+##### <span class="tab">2021-06-27</span> • [Coaching Type Projects (TY5)](#TY5)
+##### <span class="tab">2021-07-05</span> • [Basic exhibition design (SD1)](#SD1)
+##### <span class="tab">2021-07-05</span> • [Design a script (TY8)](#TY8)
+##### <span class="tab">2021-07-19</span> • [Workspace design (SD2)](#SD2)
 
 ~~~
 box = section.newCropped()
@@ -286,7 +307,7 @@ section = content.newSection()
 box = section.newMain()
 ~~~
 <a name="coding-simple-scripted-tools"/>
-## Coding simple scripted tools
+## Coding simple scripted tools 
 
 ### Automate repeating tasks in the design process
 
