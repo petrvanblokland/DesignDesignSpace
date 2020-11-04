@@ -7,7 +7,7 @@ box = section.newMain()
 
 <p><a name="GD3"/></p>
 <h2>Selecting typefaces <span class="wcode">(GD3)</span></h2>
-<h3>Learn to recognize and use the values that make typefaces the right choice for a certain task.</h3>
+<h3>Learn to recognize and use the characteristics that make typefaces the right choice for a certain task.</h3>
 <h4>Start May 24<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
@@ -24,4 +24,4 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top x=center" src="images/F5.034.jpeg" /></p></document>
+<p><img alt="cover y=center x=center" src="images/IMG_5941.jpeg" /></p></document>

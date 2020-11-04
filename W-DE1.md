@@ -32,6 +32,6 @@ This workshop is followed up by [Teaching simulations and design games](#DE2).
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/IMG_E8891.jpg)
+![cover y=top x=center](images/SketchingTypeDesign.png)
 
 

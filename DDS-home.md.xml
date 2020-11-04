@@ -79,6 +79,7 @@ box = slideshow.slides
 <p><img alt="Color squares cover y=top x=center" src="images/PepperTomColorSquares.png" /><br />
 <img alt="White painted grid cover y=top x=center" src="images/IMG_1107.jpg" /><br />
 <img alt="Sketched letters cover y=center" src="images/IMG_2848.jpg" /><br />
+<img alt="Writing material makes contrast in type x=center y=center" src="images/IMG_1108.jpg" /><br />
 <img alt="Blue Orange cloth cover y=top x=center" src="images/IMG_3145.jpg" /><br />
 <img alt="G-Cube variables cover y=center x=center" src="images/GN-Cube-Variable-e.png" /><br />
 <img alt="Sketched toys cover y=top x=center" src="images/IMG_4905.jpg" /><br />
@@ -192,7 +193,7 @@ box = section.newMain()
 <h5><span class="tab">2021-06-07</span> • <a href="#GD4">Coding type specimens (GD4)</a></h5>
 <h5><span class="tab">2021-06-21</span> • <a href="#IG1">Design and code info-graphics with databases (IG1)</a></h5>
 <h3>Design education</h3>
-<h5><span class="tab">2021-01-04</span> • <a href="#DE1">Teaching Design Education: online, exercises, feedback &amp; evaluation (DE1)</a></h5>
+<h5><span class="tab">2021-01-04</span> • <a href="#DE1">Teaching Design: online, exercises, feedback &amp; evaluation (DE1)</a></h5>
 <h5><span class="tab">2021-05-24</span> • <a href="#DE2">Teaching simulations and design games (DE2)</a></h5>
 <h3>Design Game</h3>
 <h5><span class="tab">2020-12-29/30</span> • <a href="#DG1"><mark> Free workshop </mark> Design Game Pentathlon 5 Rounds (DG1)</a></h5>
@@ -233,7 +234,7 @@ box = section.newMain()
 <h5><span class="tab">2020-12-29/30</span> • <a href="#DG1"><mark>Free workshop</mark> Design Game Pentathlon 5 Rounds (DG1)</a></h5>
 <h3>2020</h3>
 <h4>January</h4>
-<h5><span class="tab">2021-01-04</span> • <a href="#DE1">Teaching Design Education: online, exercises, feedback &amp; evaluation (DE1)</a></h5>
+<h5><span class="tab">2021-01-04</span> • <a href="#DE1">Teaching Design: online, exercises, feedback &amp; evaluation (DE1)</a></h5>
 <h5><span class="tab">2021-01-04</span> • <a href="#PY3">Coding simple scripted tools (PY3)</a></h5>
 <h5><span class="tab">2021-01-18</span> • <a href="#PY4">Coding tools with a user interface (PY4)</a></h5>
 <h5><span class="tab">2021-01-18</span> • <a href="#TY1">Basic principles of type design: For graphic designers (TY1)</a></h5>

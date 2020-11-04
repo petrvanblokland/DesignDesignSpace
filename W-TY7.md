@@ -28,7 +28,7 @@ This workshop shows methods to develop and run scripts for font production.
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_E8891.jpg)
+![cover y=top](images/NotesOnDesignSpaces.png)
 -->
 
 

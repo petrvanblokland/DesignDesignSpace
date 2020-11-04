@@ -45,5 +45,5 @@ Completion of workshops [Basic coding in Python #1](#PY1) and [Basic coding in P
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/NotesOnDesignSpaces.png)
+![cover y=top x=center](images/CodingSimpleTootls-PY3.png)
 

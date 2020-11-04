@@ -9,7 +9,7 @@ box = section.newMain()
 <a name="TY5"/>
 ## Coaching Type Projects <span class="wcode">(TY5)</span>
 
-### Designing the process
+### Designing the process of feedback on your type projects
 
 #### Start December 14<span class="sup">st</span> 2020 • 2 weeks • €290
 
@@ -17,23 +17,25 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
-Working on type projects can take a long time. It is not always easy to keep the track of progress and quality, if zoomed into so many details.
+Design projects can be take a long time to finish. And since they are based on your individual ideas, it can be hard to get other people involved. Did you make the right decisions back in time? How can you find the way back from deep rabbit holes without the help from others. 
 
-This workshop shows methods to get through lengthy projects, staying focused while keeping an eye on the horizon. Also we’ll look at version management and how to cooperate on the same project with multiple designers and developers.
+This workshop shows methods to share your views with colleagues, without loosing the control of your project.
 
-#### Example exercises
+* Select one of your type designs that is being developed. Or take one of your favourite existing typefaces.
+* We ask questions, you do the work, getting valuable feedback and directions.
+* Develop some proofing tools, using Python and DrawBot.
+* Addressing topics, such as process, methods, variable design spaces, features and tools.
+* Getting ideas how to automate time-consuming parts of your project.
 
-* Learn about sketching techniques, in combination with methods of feedback;
-* Make templates for planning;
-* Automate ongoing checks on the validity of your font sources;
-* Develop testing methods for QA and proofing;
-* Online storage and versioning;
-* Developing code for automoated production of font files.
+Can you apply these methods to your other type projects?
 
+This workshop is a companion of [Sketching, feedback and planning in type design](#TY4)
+
+The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
 <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_5640.jpg)
+![cover y=top](images/upgradetextcenterkerning.png)

@@ -23,7 +23,7 @@ We send an invoice over the total amount.</p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top" src="images/bookCoverPages2_1.png" /></p>
+<p><img alt="y=top x=right" src="animations/bookCoverPages2.gif" /></p>
 <pre><code>section = content.newSection()
 box = section.newMain()
 </code></pre>

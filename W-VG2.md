@@ -13,6 +13,8 @@ box = section.newMain()
 
 #### Start May 10<span class="sup">th</span> 2021 • 2 weeks • €290
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = box.newInfo()
 ~~~
@@ -30,11 +32,9 @@ The excercises of this workshop give insight in the various methods to balance v
 
 Completion of workshop [(V1) Visual grammar #1](#visual-grammar1) is recommended.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
 ~~~
 box = section.newCropped()
 ~~~
 
-![cover y=middle x=center](images/DesignModels2.074.png)
+![cover y=center x=center](images/DesignModels2.074.png)
 

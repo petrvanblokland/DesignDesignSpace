@@ -21,8 +21,9 @@ box = section.newMain()
 </ul>
 <p>The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.</p>
 <p>Completion of workshop <a href="#TY1">Basic coding in Python #1</a> is recommended but not required.</p>
+<p>TYPETR logo animation by Just van Rossum</p>
 <p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top x=center" src="images/IMG_5776.jpg" /></p></document>
+<p><img alt="cover y=top x=center" src="animations/Typetr1.gif" /></p></document>

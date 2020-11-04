@@ -9,7 +9,8 @@ box = section.newMain()
 <h2>Visual grammar #1 <span class="wcode">(VG1)</span></h2>
 <h3>Using the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.</h3>
 <h4>Start April 26<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
-<pre><code>#box = box.newInfo()
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
+<pre><code>box = box.newInfo()
 </code></pre>
 
 <p>Disassemble your graphic design into basic parameters. Why do you choose a color or a typeface? What other options do you have, other than choosing a color by number? How to define the visual grammar of a corporate identity?</p>
@@ -22,9 +23,8 @@ box = section.newMain()
 <li>Make the darkest black on Earth.</li>
 </ul>
 <p>This workshop is followed up by <a href="#VG2">Visual grammar #2</a>.</p>
-<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
-<pre><code>#box = section.newCropped()
-box = section.newSide() # Full visible image, not as cropped background
+<pre><code>box = section.newCropped()
+#box = section.newSide() # Full visible image, not as cropped background
 
 </code></pre>
 
@@ -33,4 +33,6 @@ box = section.newSide() # Full visible image, not as cropped background
 -->
 
 <p><img alt="cover y=top" src="images/IMG_8940.jpg" /></p>
-<h2><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a></h2></document>
+<!--
+## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
+--></document>

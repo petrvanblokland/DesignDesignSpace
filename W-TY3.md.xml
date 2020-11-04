@@ -7,7 +7,7 @@ box = section.newMain()
 
 <p><a name="TY3"/></p>
 <h2>Sketching type <span class="wcode">(TY3)</span></h2>
-<h3>For graphic designers: how to select a typeface. Understanding contrast by writing. Experiment with weight and width variations.</h3>
+<h3>For type designers: Develop sketching techniques as method for “rapid prototyping”</h3>
 <h4>Start June 7<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
@@ -18,7 +18,7 @@ box = section.newMain()
 <li>Write alphabets with a broad nib pencil to experience the construction of <strong>“translation”</strong> contrast;</li>
 <li>Write with sharp pencils to experience the construction of <strong>“expansion”</strong> contrast;</li>
 <li>Learn the behaviour of glyph shapes, varying weight and width </li>
-<li>Study variantions by <a href="http://www.typecooker.com" target="external">Type Cooker</a>;</li>
+<li>Study variations by <a href="http://www.typecooker.com" target="external">Type Cooker</a>;</li>
 <li>Learn the basics about capitals, roman, italic, spacing and kerning.</li>
 <li>Digitize your writings into outlines, using your favourite type editor;</li>
 </ul>
@@ -26,4 +26,4 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top" src="images/IMG_2848.jpg" /></p></document>
+<p><img alt="cover y=center" src="images/IMG_6072.jpeg" /></p></document>

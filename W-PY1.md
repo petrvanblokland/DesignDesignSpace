@@ -7,13 +7,14 @@ box = section.newMain()
 ~~~
 <a name="PY1"/>
 ## Basic coding in Python #1 <span class="wcode">(PY1)</span>
-(PY1)
 
 ### Design by parameters
 
 #### Start November 16<span class="sup">th</span> 2020 • 2 weeks • €290
 
 #### Start February 15<span class="sup">th</span> 2021 • 2 weeks • €290
+
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = box.newInfo()
@@ -35,7 +36,6 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 This workshop is followed up by [Basic coding in Python #2](#PY2).
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

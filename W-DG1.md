@@ -44,6 +44,6 @@ Contact us at info@designdesign.space if you have questions.
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_2848.jpg)
+![cover y=top](images/IMG_8251BW.JPG)
 
 

@@ -21,6 +21,10 @@ Sketching is the basis of every design process. Scribble early ideas to communic
 
 The workshop gives insight in various sketching techniques, using pen on paper as well as digital tools.
 
+* What is your design process like, before you open InDesign or a font editor?
+* We will look into exercises by sketching paper, as well as connecting them to your digital tools. 
+* Learn to appreciate short design cycles and mixed techniques.
+
 #### Example exercises
 
 * Sketch the pages of some future publications;
@@ -34,6 +38,6 @@ The workshop gives insight in various sketching techniques, using pen on paper a
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/PPG_Schetsen_01.png)
+![cover x=center y=top](images/PPG_Schetsen_01.png)
 
 

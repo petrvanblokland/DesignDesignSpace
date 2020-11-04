@@ -10,7 +10,7 @@ box = section.newMain()
 <a name="GD3"/>
 ## Selecting typefaces <span class="wcode">(GD3)</span>
 
-### Learn to recognize and use the values that make typefaces the right choice for a certain task.
+### Learn to recognize and use the characteristics that make typefaces the right choice for a certain task.
 
 #### Start May 24<span class="sup">th</span> 2021 • 2 weeks • €290
 
@@ -34,5 +34,5 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/F5.034.jpeg)
+![cover y=center x=center](images/IMG_5941.jpeg)
 

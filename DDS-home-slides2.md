@@ -690,14 +690,14 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
-Graphic designers work with type all day. It is one of their most important tools. Yet, it may not be obvious to select an appreciate the differences between existing typefaces. Which one to select for a certain task? Which type works best in logos? How to write a brief that communcates with typographers and type designers?
+Graphic designers work with type all day. It is one of their most important tools. Yet, it may not be obvious to select and appreciate the differences between existing typefaces. Which one to select for a certain task? Which type works best in logos? How to write a brief that communcates with typographers and type designers?
 
 #### Example exercises
 
 * Write alphabets with a broad nib pencil to experience the construction of **“translation”** contrast;
 * Write with sharp pencils to experience the construction of **“expansion”** contrast;
 * Learn the behaviour of glyph shapes, varying weight and width 
-* Study variantions by <a href="http://www.typecooker.com" target="external">Type Cooker</a>;
+* Study variations by <a href="http://www.typecooker.com" target="external">Type Cooker</a>;
 * Learn the basics about capitals, roman, italic, spacing and kerning.
 * Digitize your writings into outlines, using your favourite type editor;
 
@@ -903,7 +903,7 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
-This workshop offers two weeks of analysing typography and layours in existing publications. Then take the resulting rules into possible variantions. Study the basics of responsive layouts and generative design. What makes good typography? What is influence of various media on text?
+This workshop offers two weeks of analysing typography and layours in existing publications. Then take the resulting rules into possible variations. Study the basics of responsive layouts and generative design. What makes good typography? What is influence of various media on text?
 
 #### Example exercises
 

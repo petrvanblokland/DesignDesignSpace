@@ -9,6 +9,7 @@ box = section.newMain()
 <h2>Sketching, feedback and planning in type design <span class="wcode">(TY4)</span></h2>
 <h3>Designing the process</h3>
 <h4>Start March 1<span class="sup">st</span> 2021 • 2 weeks • €290</h4>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -21,9 +22,10 @@ box = section.newMain()
 <li>Automate ongoing checks on the validity of your font sources;</li>
 <li>Develop testing methods for QA and proofing;</li>
 <li>Online storage and versioning;</li>
-<li>Developing code for automoated production of font files.</li>
+<li>Developing code for automated production of font files.</li>
 </ul>
-<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
+<p>This workshop is a companion of <a href="#TY5">Coaching Type Projects</a></p>
+<p>The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. </p>
 <pre><code>box = section.newCropped()
 </code></pre>
 

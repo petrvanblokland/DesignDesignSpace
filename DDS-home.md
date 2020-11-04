@@ -79,6 +79,7 @@ box = slideshow.slides
 ![Color squares cover y=top x=center](images/PepperTomColorSquares.png)
 ![White painted grid cover y=top x=center](images/IMG_1107.jpg)
 ![Sketched letters cover y=center](images/IMG_2848.jpg)
+![Writing material makes contrast in type x=center y=center](images/IMG_1108.jpg)
 ![Blue Orange cloth cover y=top x=center](images/IMG_3145.jpg)
 ![G-Cube variables cover y=center x=center](images/GN-Cube-Variable-e.png)
 ![Sketched toys cover y=top x=center](images/IMG_4905.jpg)
@@ -212,7 +213,7 @@ box = section.newMain()
 
 ### Design education
 
-##### <span class="tab">2021-01-04</span> • [Teaching Design Education: online, exercises, feedback & evaluation (DE1)](#DE1)
+##### <span class="tab">2021-01-04</span> • [Teaching Design: online, exercises, feedback & evaluation (DE1)](#DE1)
 ##### <span class="tab">2021-05-24</span> • [Teaching simulations and design games (DE2)](#DE2)
 
 ### Design Game
@@ -266,7 +267,7 @@ box = box.newInfo()
 ### 2020
 
 #### January
-##### <span class="tab">2021-01-04</span> • [Teaching Design Education: online, exercises, feedback & evaluation (DE1)](#DE1)
+##### <span class="tab">2021-01-04</span> • [Teaching Design: online, exercises, feedback & evaluation (DE1)](#DE1)
 ##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
 ##### <span class="tab">2021-01-18</span> • [Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers (TY1)](#TY1)

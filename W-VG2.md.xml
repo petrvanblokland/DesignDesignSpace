@@ -9,6 +9,7 @@ box = section.newMain()
 <h2>Visual grammar #2 <span class="wcode">(VG2)</span></h2>
 <h3>Study the balance between diversity and coherency</h3>
 <h4>Start May 10<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -22,8 +23,7 @@ box = section.newMain()
 <li>Organize a number of objects in a given space. What are your options to make a composition? How to create a structure?</li>
 </ul>
 <p>Completion of workshop <a href="#visual-grammar1">(V1) Visual grammar #1</a> is recommended.</p>
-<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=middle x=center" src="images/DesignModels2.074.png" /></p></document>
+<p><img alt="cover y=center x=center" src="images/DesignModels2.074.png" /></p></document>

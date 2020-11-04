@@ -31,8 +31,7 @@ This pricing is for students, single designers and small studios. Pricing for co
 ~~~
 box = section.newCropped()
 ~~~
-![cover y=top](images/bookCoverPages2_1.png)
-
+![y=center x=right](animations/bookCoverPages2.gif)
 
 
 

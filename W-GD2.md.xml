@@ -6,19 +6,20 @@ box = section.newMain()
 </code></pre>
 
 <p><a name="GD2"/></p>
-<h2>Coding advanced typography and layouts for print and web <span class="wcode">(GD2)</span></h2>
+<h2>Coding advanced typography &amp; layouts for print and web <span class="wcode">(GD2)</span></h2>
 <h3>Parametric design with PageBot for print and web</h3>
 <h4>Start April 12<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
 
-<p>This workshop dpes focus on the coding the <a href="basics-of-typography-grid-and-layout">Basics of typography, grids and layout</a> workshop results. Automate the production of documents for print and convert them into websites. A good understanding of coding in Python is recommended.</p>
+<p>This workshop does focus on coding the <a href="basics-of-typography-grid-and-layout">Basics of typography, grids and layout</a> workshop results. Automate the production of documents for print and convert them into websites. A good understanding of coding in Python is recommended.</p>
 <h4>Example exercises</h4>
 <ul>
-<li>Experiment with the Element classes in PageBot;</li>
+<li>Experiment with the Element classes in <a href="https://github.com/PageBot/PageBot/blob/master/README.md">PageBot</a>;</li>
 <li>Convert the results of earliers workshops into working code;</li>
 <li>Design and write the code for new types of page elements, such as the proofing of Variable Fonts and live info-graphics that depend on web-data;</li>
 <li>Generate the functionality of your code as automated generative manuals for print and web.</li>
+<li>Investigate methods to connect this knowledge with your daily design practice.</li>
 </ul>
 <p>The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.</p>
 <p>Completion of workshops <a href="#PY1">Basic coding in Python #1</a> and <a href="#PY2">Basic coding in Python #1</a> and <a href="#GD1">Basics of typography, grids and layout</a> is recommended, but not required.</p>
@@ -26,4 +27,4 @@ box = section.newMain()
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top x=center" src="images/F5.034.jpeg" /></p></document>
+<p><img alt="cover y=center x=center" src="images/IMG_5662.jpeg" /></p></document>

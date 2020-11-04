@@ -12,8 +12,10 @@ box = section.newMain()
 
 #### Start April 26<span class="sup">th</span> 2021 • 2 weeks • €290
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
-#box = box.newInfo()
+box = box.newInfo()
 ~~~
 
 Disassemble your graphic design into basic parameters. Why do you choose a color or a typeface? What other options do you have, other than choosing a color by number? How to define the visual grammar of a corporate identity?
@@ -29,11 +31,9 @@ In this workshop Jacques Bertin’s model of seven visual parameters (**color, c
 
 This workshop is followed up by [Visual grammar #2](#VG2).
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
-
 ~~~
-#box = section.newCropped()
-box = section.newSide() # Full visible image, not as cropped background
+box = section.newCropped()
+#box = section.newSide() # Full visible image, not as cropped background
 
 ~~~
 
@@ -42,5 +42,6 @@ box = section.newSide() # Full visible image, not as cropped background
 -->
 ![cover y=top](images/IMG_8940.jpg)
 
+<!--
 ## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
-
+-->

@@ -11,7 +11,7 @@ box = section.newMain()
 <h4><mark>NOW RUNNING</mark> Start November 11<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
 <h4>Start January 18<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
 <h4>Start April 12<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
-<pre><code>box = box.newInfo()
+<pre><code>#box = box.newInfo()
 </code></pre>
 
 <p>The focus of this workshop is on how to program user interaction. Extract the various options into menus, popups and checkboxes.</p>
@@ -25,7 +25,7 @@ box = section.newMain()
 <li>Make tools that work inside RoboFont and GlyphsApp</li>
 </ul>
 <p>The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.</p>
-<p>Completion of workshops <a href="#coding-in-python1">Basic coding in Python #1</a> and <a href="#coding-in-python2">Basic coding in Python #1</a> and <a href="#coding-simple-scripted-tools">Coding simple scripted tools</a> is recommended.</p>
+<p>Completion of workshops <a href="#PY1">Basic coding in Python #1 (PY1)</a> and <a href="#PY2">Basic coding in Python #2 (PY2)</a> and <a href="#PY3">Coding simple scripted tools (PY3)</a> is recommended.</p>
 <p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = section.newCropped()
 </code></pre>

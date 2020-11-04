@@ -7,10 +7,10 @@ box = section.newMain()
 
 <p><a name="PY1"/></p>
 <h2>Basic coding in Python #1 <span class="wcode">(PY1)</span></h2>
-<p>(PY1)</p>
 <h3>Design by parameters</h3>
 <h4>Start November 16<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
 <h4>Start February 15<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = box.newInfo()
 </code></pre>
 
@@ -26,7 +26,6 @@ box = section.newMain()
 </ul>
 <p>The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.</p>
 <p>This workshop is followed up by <a href="#PY2">Basic coding in Python #2</a>.</p>
-<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = section.newCropped()
 #box = section.newSide()
 

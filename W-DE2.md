@@ -33,6 +33,6 @@ This workshop is following up on [Teaching Design: online exercises, feedback & 
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/IMG_E8891.jpg)
+![cover y=top x=center](images/L1060019.JPG)
 
 

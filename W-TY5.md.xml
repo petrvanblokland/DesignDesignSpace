@@ -7,24 +7,25 @@ box = section.newMain()
 
 <p><a name="TY5"/></p>
 <h2>Coaching Type Projects <span class="wcode">(TY5)</span></h2>
-<h3>Designing the process</h3>
+<h3>Designing the process of feedback on your type projects</h3>
 <h4>Start December 14<span class="sup">st</span> 2020 • 2 weeks • €290</h4>
 <pre><code>box = box.newInfo()
 </code></pre>
 
-<p>Working on type projects can take a long time. It is not always easy to keep the track of progress and quality, if zoomed into so many details.</p>
-<p>This workshop shows methods to get through lengthy projects, staying focused while keeping an eye on the horizon. Also we’ll look at version management and how to cooperate on the same project with multiple designers and developers.</p>
-<h4>Example exercises</h4>
+<p>Design projects can be take a long time to finish. And since they are based on your individual ideas, it can be hard to get other people involved. Did you make the right decisions back in time? How can you find the way back from deep rabbit holes without the help from others. </p>
+<p>This workshop shows methods to share your views with colleagues, without loosing the control of your project.</p>
 <ul>
-<li>Learn about sketching techniques, in combination with methods of feedback;</li>
-<li>Make templates for planning;</li>
-<li>Automate ongoing checks on the validity of your font sources;</li>
-<li>Develop testing methods for QA and proofing;</li>
-<li>Online storage and versioning;</li>
-<li>Developing code for automoated production of font files.</li>
+<li>Select one of your type designs that is being developed. Or take one of your favourite existing typefaces.</li>
+<li>We ask questions, you do the work, getting valuable feedback and directions.</li>
+<li>Develop some proofing tools, using Python and DrawBot.</li>
+<li>Addressing topics, such as process, methods, variable design spaces, features and tools.</li>
+<li>Getting ideas how to automate time-consuming parts of your project.</li>
 </ul>
-<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
+<p>Can you apply these methods to your other type projects?</p>
+<p>This workshop is a companion of <a href="#TY4">Sketching, feedback and planning in type design</a></p>
+<p>The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. <br />
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top" src="images/IMG_5640.jpg" /></p></document>
+<p><img alt="cover y=top" src="images/upgradetextcenterkerning.png" /></p></document>

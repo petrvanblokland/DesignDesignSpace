@@ -538,9 +538,9 @@ li sup { /* Superior Scale number in Menu */
     /*color: #FC6F08;*/
 }
 .main .text h2 .wcode { /* Workshop code as superior */
-    font-size: 1.5em;
+    font-size: 0.75em;
     vertical-align: super;
-    color: rgba(0, 0, 0, 0.3);
+    color: rgba(0, 0, 0, 0.2);
 }
 .main .text h2 a {
     color: #%(dark3)s;

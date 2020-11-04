@@ -13,6 +13,8 @@ box = section.newMain()
 
 #### Start March 1<span class="sup">st</span> 2021 • 2 weeks • €290
 
+<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+
 ~~~
 box = box.newInfo()
 ~~~
@@ -28,9 +30,11 @@ This workshop shows methods to get through lengthy projects, staying focused whi
 * Automate ongoing checks on the validity of your font sources;
 * Develop testing methods for QA and proofing;
 * Online storage and versioning;
-* Developing code for automoated production of font files.
+* Developing code for automated production of font files.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+This workshop is a companion of [Coaching Type Projects](#TY5)
+
+The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
 
 ~~~
 box = section.newCropped()

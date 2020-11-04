@@ -275,7 +275,7 @@ def makeSite(styles, viewId, context):
     view = doc.view
     view.googleAdsAccount = '579-058-0554' 
     view.googleAnalyticsId = 'UA-138308355-1' #'UA-7015465-2' 
-    view.resourcePaths = ('css','fonts','scaled', 'code', 'js') # ./images/* get copy/scaled
+    view.resourcePaths = ('css','fonts','scaled', 'code', 'js', 'animations') # ./images/* get copy/scaled
     view.jsUrls = (
         URL_JQUERY, 
         'js/jquery.bbslider.min.js',

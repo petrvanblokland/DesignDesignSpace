@@ -7,23 +7,27 @@ box = section.newMain()
 
 <p><a name="SD2"/></p>
 <h2>Workspace design <span class="wcode">(SD2)</span></h2>
-<h3>Learn the basic skills to visualise your ideas</h3>
+<h3>How to design an inspiring workspace inside your home</h3>
 <h4>Start July 19<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
 <p>More information soon here.</p>
-<pre><code>box = box.newInfo()
+<pre><code>#box = box.newInfo()
 </code></pre>
 
-<p>Sketching is the basis of every design process. Scribble early ideas to communicate with yourself and others. It is the ideal method for rapid prototyping, without spending much time on presentations. </p>
-<p>The workshop gives insight in various sketching techniques, using pen on paper as well as digital tools.</p>
-<h4>Example exercises</h4>
-<ul>
-<li>Sketch the pages of some future publications;</li>
-<li>Sketch typefaces, using TypeCooker recipes;</li>
-<li>Sketch a series of info-graphics, visualizing narrative and data;</li>
-<li>Sketch abstract processes, such as a website design.</li>
-</ul>
+<!--
+Sketching is the basis of every design process. Scribble early ideas to communicate with yourself and others. It is the ideal method for rapid prototyping, without spending much time on presentations.
+
+The workshop gives insight in various sketching techniques, using pen on paper as well as digital tools.
+
+#### Example exercises
+
+* Sketch the pages of some future publications;
+* Sketch typefaces, using TypeCooker recipes;
+* Sketch a series of info-graphics, visualizing narrative and data;
+* Sketch abstract processes, such as a website design.
+-->
+
 <p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
 <pre><code>box = section.newCropped()
 </code></pre>
 
-<p><img alt="cover y=top" src="images/PPG_Schetsen_01.png" /></p></document>
+<p><img alt="cover y=center" src="images/IMG_E8927.jpg" /></p></document>

@@ -36,6 +36,6 @@ Completion of workshop [Basic coding in Python #1](#TY1) is recommended but not 
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_2848.jpg)
+![cover y=top](images/IMG_6594.jpeg)
 
 
