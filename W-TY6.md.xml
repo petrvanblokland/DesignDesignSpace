@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><!-- TY6 -->
+
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="TY6"/></p>
+<h2>Design design spaces for Variable Fonts <span class="wcode">(TY6)</span></h2>
+<h3>Sketching, design and implementation of variable axes</h3>
+<h4>Undated • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Making Variable Fonts beyond the standard <strong>width</strong> and <strong>weight</strong> axis can easily become a project of exponential complexity. What is the best approach to solve that problem? Which techniques can be used to keep the amount of work within realistic proportions?</p>
+<p>This workshop shows methods to visualize the complexity, including strategies for sketching and design.</p>
+<ul>
+<li>Sketching various forms of design spaces;</li>
+<li>Adapt your design process to what is needed for Variable Fonts;</li>
+<li>Develop design strategies, using regular type design tools;</li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /></p></document>

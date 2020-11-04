@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><!-- DE1 -->
+
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="DE1"/></p>
+<h2>Teaching Design: online exercises, feedback &amp; evaluation <span class="wcode">(DE1)</span></h2>
+<h3>Methods and examples to get remote students engaged in design projects</h3>
+<h4>Start January 4<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>The world has suddenly changed. Teaching in class rooms is no longer possible. As experienced as you are, educating designers, new skills are required for online teaching. </p>
+<p>This workshop shares our experience of teaching online with DesignDesign.Space workshops for over 4 years now. And also, we love to show how we organized the latest online conference <a href="https://2020.typographics.com/typelab/">TypeLab 2020</a>, in collaboration with <a href="http://coopertype.org">Type Cooper</a> and <a href="https://2020.typographics.com">Typographics</a>.</p>
+<h4>Example exercises</h4>
+<ul>
+<li>Learn to write exercises that can be done through digital media;</li>
+<li>Develop methods for feedback, evaluation and validation of student work;</li>
+<li>An introduction on simulation games, that can be played by students in an online environment.</li>
+</ul>
+<p>This workshop is followed up by <a href="#DE2">Teaching simulations and design games</a>.</p>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top x=center" src="images/IMG_E8891.jpg" /></p></document>

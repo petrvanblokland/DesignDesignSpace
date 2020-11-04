@@ -50,8 +50,8 @@ DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and 
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
 DO_TWITTER = 'Twitter' # Generate banners for each workshop on optimal Twitter size.
 DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Instagram square size.
-EXPORT_TYPES = [DO_GIT]
-#EXPORT_TYPES = [DO_MAMP, DO_GIT]
+#EXPORT_TYPES = [DO_GIT]
+EXPORT_TYPES = [DO_MAMP, DO_GIT]
 #EXPORT_TYPES = [DO_MAMP]
 #EXPORT_TYPES = [DO_INSTAGRAM]
 
@@ -74,6 +74,39 @@ SITE_NAME = 'DesignDesign.Space' # Also used as logo
 
 MD_PATHS = [
     'DDS-home.md',
+        # Import workshop descriptions from separate files, in order of
+        'W-DE1.md', # Teaching Design Education: online, exercises, feedback & evaluation (DE1)
+        'W-DE2.md', # Teaching simulations and design games (DE2)
+        'W-DG1.md', # ==Free workshop== Design Game Pentathlon 5 Rounds (DG1)
+        'W-GD1.md', # Basics of typography, grids & layout (GD1)
+        'W-GD2.md', # Coding advanced typography & layouts for print and web (GD2)
+        'W-GD3.md', # Selecting typefaces (GD3)
+        'W-GD4.md', # Coding type specimens (GD4)
+        'W-IG1.md', # Design and code info-graphics with databases (IG1)
+        'W-LO1.md', # Basics of logo design (LO1)
+        'W-LO2.md', # Coding advanced logo variations (LO2)
+        'W-PY1.md', # Basic coding in Python #1: Design by parameters (PY1)
+        'W-PY2.md', # Basic coding in Python #2: Functions, methods & classes (PY2)
+        'W-PY3.md', # Coding simple scripted tools (PY3)
+        'W-PY4.md', # Coding tools with a user interface (PY4)
+        'W-PY5.md', # Scripting for RoboFont (PY5)
+        'W-SD1.md', # Basic exhibition design (SD1)
+        'W-SD2.md', # Workspace design (SD2)
+        'W-SK1.md', # General sketching techniques (SK1)
+        'W-ST1.md', # Running a small studio #1: Moodboards & presentations (ST1)
+        'W-ST2.md', # Running a small studio #2: Requirements, quotes & plannings (ST2)
+        'W-TY1.md', # Basic principles of type design: For graphic designers (TY1)
+        'W-TY2.md', # Contrast principles of type design (TY2)
+        'W-TY3.md', # Sketching type (TY3)
+        'W-TY4.md', # Sketching, feedback & planning in type design (TY4)
+        'W-TY5.md', # Coaching Type Projects (TY5)
+        'W-TY6.md', # Design design spaces for Variable Fonts (TY6)
+        'W-TY7.md', # Design the process and tools for Variable Fonts (TY7)
+        'W-TY8.md', # Designing a script (TY8)
+        'W-TY9.md', # Coding your spacing/kerning tool (TY9)
+        'W-VG1.md', # Visual grammar #1: The seven parameters of Bertin (VG1)
+        'W-VG2.md', # Visual grammar #2: Balance diversity & coherency (VG2)
+    'DDS-home-footer.md',
     'DDS-studies.md',
     'DDS-studies-type_design.md',
     'DDS-studies-typography.md',
@@ -326,7 +359,7 @@ if DO_MAMP in EXPORT_TYPES:
     doc = makeSite(styles=styles, viewId='Mamp', context=context)
     mampView = doc.view
     #MAMP_PATH = '/Applications/MAMP/htdocs/' 
-    MAMP_PATH = '~/Sites/' 
+    MAMP_PATH = os.path.expanduser('~/Sites/localhost/') 
     filePath = MAMP_PATH + SITE_NAME 
     if VERBOSE:
         print('Site path: %s' % MAMP_PATH)

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><!-- TY7 -->
+
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="TY7"/></p>
+<h2>Design the process and tools for Variable Fonts <span class="wcode">(TY7)</span></h2>
+<h3>Tools to support design and production</h3>
+<h4>Start May 10<span class="sup">th</span> 2021 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Taking the design and production of Variable Fonts outside the scope of your type design application allows more automation. Create scripts that run in the background on your computer to take the production of your TTF/OTF file to an industrial level.<br />
+Automate the creation of proofing documents, output both on web and as PDF.</p>
+<p>This workshop shows methods to develop and run scripts for font production.</p>
+<ul>
+<li>Learn to use the supplied scripts;</li>
+<li>Make yourself accustomed with some dedicated Python libraries;</li>
+<li>Find ways to adapt the optional parameters to your own project.</li>
+</ul>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_E8891.jpg" /><br />
+--&gt;</p></document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><!-- TY5 -->
+
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="TY5"/></p>
+<h2>Coaching Type Projects <span class="wcode">(TY5)</span></h2>
+<h3>Designing the process</h3>
+<h4>Start December 14<span class="sup">st</span> 2020 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Working on type projects can take a long time. It is not always easy to keep the track of progress and quality, if zoomed into so many details.</p>
+<p>This workshop shows methods to get through lengthy projects, staying focused while keeping an eye on the horizon. Also we’ll look at version management and how to cooperate on the same project with multiple designers and developers.</p>
+<h4>Example exercises</h4>
+<ul>
+<li>Learn about sketching techniques, in combination with methods of feedback;</li>
+<li>Make templates for planning;</li>
+<li>Automate ongoing checks on the validity of your font sources;</li>
+<li>Develop testing methods for QA and proofing;</li>
+<li>Online storage and versioning;</li>
+<li>Developing code for automoated production of font files.</li>
+</ul>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_5640.jpg" /></p></document>

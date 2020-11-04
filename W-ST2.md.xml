@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document><!-- ST2 -->
+
+<pre><code>section = content.newSection()
+box = section.newMain()
+</code></pre>
+
+<p><a name="ST2"/></p>
+<h2>Running a studio #2 <span class="wcode">(ST2)</span></h2>
+<h3>The making of quotes, briefings, plannings and requirement lists</h3>
+<h4>Start December 14<span class="sup">th</span> 2020 • 2 weeks • €290</h4>
+<pre><code>box = box.newInfo()
+</code></pre>
+
+<p>Doing administration work is often seen as a boring by-product of running a studio. Planning projects is vital, but is often ignored. Learn to look at these processes as if they were regular design jobs. Doing them can be fun. And they can even become one of your products. </p>
+<p>The workshop shows methods to design the process of administration, as if it was an interesting graphic design project.</p>
+<h4>Example exercises</h4>
+<ul>
+<li>Design templates for quotes and invoices, using spreadsheet applications and Google Docs.</li>
+<li>Learn to distinguish between the “go” and “no-go” requirements of a design;</li>
+<li>Sketch info-graphics that show the iterations of a design process. Visualise the planning for your customer;</li>
+<li>Automate the generation of progress reports.</li>
+</ul>
+<p><a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a></p>
+<pre><code>box = section.newCropped()
+</code></pre>
+
+<p><img alt="cover y=top" src="images/IMG_8963.jpg" /></p></document>

@@ -1,5 +1,5 @@
 The usage of the TYPETR PageBot typefaces is granted exclusively within the context this website. The glyph shapes of the typefaces are derived from TYPETR Upgrade ® (https://upgrade.typenetwork.com), protected under Dutch copyright law.
-The glyph set (ASCII-127), feature set and kerning set of PageBot typefaces are a subset of TYPETR Upgrade ®. The fonts are intended for testing and demonstration purposes only. For a full license, refer to https://store.typenetwork.com/foundry/typetr/series/upgrade.
+The glyphset, feature set and kerning set of PageBot typefaces are a subset of TYPETR Upgrade ®. The fonts are intended for testing and demonstration purposes only. For a full license, refer to https://store.typenetwork.com/foundry/typetr/series/upgrade.
 
 Copyright (c) 2016+ Buro Petr van Blokland + Claudia Mens (http://pagebot.io)
 
