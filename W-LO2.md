@@ -13,7 +13,7 @@ box = section.newMain()
 
 ### Learn to design or extract algorithms to vary logos in time and space. 
 
-#### Start March 15<span class="sup">rd</span> 2021 • 2 weeks • €290
+#### Start March 15<span class="sup">th</span> 2021 • 2 weeks • €290
 
 ~~~
 box = box.newInfo()
@@ -30,7 +30,7 @@ In modern media, logos no longer need to be static. But in traditional logo desi
 
 The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
 
-Completion of workshop [Basic coding in Python #1](#TY1) is recommended but not required.
+Completion of workshop [Basic coding in Python #1 (PY1)](#PY1) is recommended but not required.
 
 TYPETR logo animation by Just van Rossum
 
@@ -40,6 +40,6 @@ TYPETR logo animation by Just van Rossum
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](animations/Typetr1.gif)
+![cover y=center x=center](animations/typetr-logo-square.gif)
 
 

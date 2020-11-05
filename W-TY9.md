@@ -7,7 +7,7 @@ box = section.newMain()
 <a name="TY9"/>
 ## Coding your spacing/kerning tool <span class="wcode">(TY9)</span>
 
-### Tools to support design and production
+### The workshop is a building kit to make your own tools. No prior knowledge of coding is required.
 
 #### Start July 19<span class="sup">th</span> 2021 • 2 weeks • €290
 
@@ -15,14 +15,16 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
-Taking the design and production of Variable Fonts outside the scope of your type design application allows more automation. Create scripts that run in the background on your computer to take the production of your TTF/OTF file to an industrial level.
-Automate the creation of proofing documents, output both on web and as PDF.
+This worksshop is set as a complete building kit. Compare it to a box that includes all materials to build an RC model plane, raw materials for wings and fuselage, as well as the complete electronics and motors are included. 
 
-This workshop shows methods to develop and run scripts for font production.
+Build a spacing/kerning aid tool that lives inside your favourite editor (RoboFont or GlyphsApp), that allows to visualize and alter spacing and kerning at the same time that you draw the glyphs. 
 
-* Learn to use the supplied scripts;
-* Make yourself accustomed with some dedicated Python libraries;
-* Find ways to adapt the optional parameters to your own project.
+The advantage of (guided) building the tool yourself is that you understand how it works. Additions and changes in a later stage can be made by you, instead of the need to wait for updates. 
+
+The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
+It is assumed that you have a legal working version of one of the two font editors.
+
+The workshop doest not require prior knowledge or experience with programming.
 
 ~~~
 box = section.newCropped()

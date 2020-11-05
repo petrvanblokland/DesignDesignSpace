@@ -314,6 +314,9 @@ def makeSite(styles, viewId, context):
     for mdPath in MD_PATHS:
         print('Typeset file', mdPath)
         t.typesetFile(mdPath)
+        # If there was an .xml file created, then delete it.
+        if os.path.exists(mdPath + '.xml'):
+            os.remove(mdPath + '.xml')
     #t.galley.fill = color(1)
 
     # Create a Composer for this document, then create pages and fill content. 

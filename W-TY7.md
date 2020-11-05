@@ -16,6 +16,7 @@ box = box.newInfo()
 ~~~
 
 Taking the design and production of Variable Fonts outside the scope of your type design application allows more automation. Create scripts that run in the background on your computer to take the production of your TTF/OTF file to an industrial level.
+
 Automate the creation of proofing documents, output both on web and as PDF.
 
 This workshop shows methods to develop and run scripts for font production.

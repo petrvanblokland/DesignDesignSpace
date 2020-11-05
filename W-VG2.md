@@ -30,7 +30,7 @@ The excercises of this workshop give insight in the various methods to balance v
 * Design a series of different covers. Why do they visually belong to the same group?
 * Organize a number of objects in a given space. What are your options to make a composition? How to create a structure?
 
-Completion of workshop [(V1) Visual grammar #1](#visual-grammar1) is recommended.
+Completion of workshop [(V1) Visual grammar #1](#VG1) is recommended.
 
 ~~~
 box = section.newCropped()

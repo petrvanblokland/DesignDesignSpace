@@ -7,7 +7,7 @@ box = section.newMain()
 <a name="TY8"/>
 ## Design a script <span class="wcode">(TY8)</span>
 
-### Tools to support design and production
+### The workshop is a building kit to make a working script typeface. No prior knowledge of coding is required.
 
 #### Start July 5<span class="sup">th</span> 2021 • 2 weeks • €290
 
@@ -15,14 +15,16 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
-Taking the design and production of Variable Fonts outside the scope of your type design application allows more automation. Create scripts that run in the background on your computer to take the production of your TTF/OTF file to an industrial level.
-Automate the creation of proofing documents, output both on web and as PDF.
+This worksshop is set as a complete building kit. Compare it to a box that includes all materials to build an RC model plane, raw materials for wings and fuselage, as well as the complete electronics and motors are included. 
 
-This workshop shows methods to develop and run scripts for font production.
+Starting with your handwriting (or another handwritten scripts), design the individual glyphs, including all connection. 
 
-* Learn to use the supplied scripts;
-* Make yourself accustomed with some dedicated Python libraries;
-* Find ways to adapt the optional parameters to your own project.
+We will address writing OT-feature code to make the glyph substitutions for the connectors and the semi-random selection of alternates. 
+
+The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
+It is assumed that you have a legal working version of one of the two font editors.
+
+The workshop doest not require prior knowledge or experience with programming.
 
 ~~~
 box = section.newCropped()
