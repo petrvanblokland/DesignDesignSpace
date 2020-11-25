@@ -64,7 +64,7 @@ box = section.newSide(cssClass='youtubeside')
 * Exercises and feedback
 * 4<span class="sup">th</span> workshop free
 
-# <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+# <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
@@ -107,7 +107,7 @@ box = slideshow.side
 * Exercises and feedback
 * 4<span class="sup">th</span> workshop free
 
-# <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+# <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
@@ -116,7 +116,7 @@ box = slideshow.side
 box = content.newIntroduction()
 ~~~
 
-# Working from home? Studying online in the Corona world? Select the workshops you like. Develop your profession. <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+# Working from home? Studying online in the Corona world? Select the workshops you like. Develop your profession. <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 ~~~ 
 #box = section.newCropped()
 ## ![Sponsoring Typographics2020]()
@@ -138,7 +138,7 @@ Each online workshop runs for 2 weeks, including live lectures, addressing theor
 * The result of the exercises is shared on a closed Slack channel for the duration of the workshop;
 * Feedback comes from the educators and the other students;
 * DesignDesign.Space offers a safe online study environment, where any question can be asked;
-* €290 per workshop;
+* $345 per workshop;
 * Every 4<span class="sup">th</span> workshop is free.
 
 Some workshops combine as a sequence. It is recommended to do them in the right order to get the best continuation.

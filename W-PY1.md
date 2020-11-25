@@ -10,11 +10,11 @@ box = section.newMain()
 
 ### Design by parameters
 
-#### Start November 16<span class="sup">th</span> 2020 • 2 weeks • €290
+#### Start November 16<span class="sup">th</span> 2020 • 2 weeks • $345
 
-#### Start February 15<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start February 15<span class="sup">th</span> 2021 • 2 weeks • $345
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = box.newInfo()
@@ -45,7 +45,7 @@ box = section.newCropped()
 ![cover y=top x=center](images/DrawBotHomePage.png)
 
 <!--
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">
 ![cover y=top x=center](images/01_Instagram_Running_4.jpg)
 </a>
 

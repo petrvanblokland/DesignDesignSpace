@@ -9,7 +9,7 @@ box = section.newMain()
 
 ### How to get your students into testing their designs? How to let them design simulations that answer their design questions?
 
-#### Start May 24<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start May 24<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -27,7 +27,7 @@ This workshop shares our experience of teaching online with DesignDesign.Space w
 
 This workshop is following up on [Teaching Design: online exercises, feedback & evaluation](#DE1).
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

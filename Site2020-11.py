@@ -19,8 +19,7 @@ import shutil
 import webbrowser
 
 from pagebot.contexts import getContext
-from pagebot.publications.publication import Publication
-from pagebot.publications.instagram import InstagramPost
+from pagebot.publication import Publication
 from pagebot.constants import URL_JQUERY, LANGUAGE_EN, InstagramSquare, CENTER
 from pagebot.base.composer import Composer
 from pagebot.base.typesetter import Typesetter
@@ -157,87 +156,6 @@ def makeNavigation(doc):
             if navigation is not None:
                 navigation.pageTree = doc.getPageTree() # Get a fresh one for each page
 
-def makeTwitter(styles=styles):
-    context = getContext('DrawBot')
-    tweets = TwitterPost(styles=styles)
-    doc = tweets.newDocument(name='Tweets', viewId=viewId, autoPages=1, context=context)
-
-    return doc
-
-def makeInstagram(styles=styles):
-    context = getContext('DrawBot')
-    instagram = InstagramPost(styles=styles)
-    w, h = InstagramSquare
-    doc = instagram.newDocument(name='Instagram', w=w, h=h, context=context)
-
-    # By default, the typesetter produces a single Galley with content and code blocks.    
-    t = Typesetter(context, maxImageWidth=MAX_IMAGE_WIDTH)
-    mdPath = MD_PATHS[0] # Only make instagram posts from the home page.
-    t.typesetFile(mdPath)
-
-    # Header styles
-    pad = px(50)
-    tPad = px(25)
-    h2Style = dict(font='Upgrade-Medium', fontSize=px(120), leading=em(1), textFill=color(1))
-    h3Style = dict(font='Upgrade-Regular', fontSize=px(90), leading=em(1), textFill=color(1))
-    h4Style = dict(font='Upgrade-Semibold', fontSize=px(90), leading=em(1), textFill=color(1))
-
-    # Filter all h2/h3/image combinations, to make instagram banners.
-    bannerData = []
-    bs2 = bs3 = bs4 = None
-    for e in t.galley.elements:
-        if e.isText:
-            for run in e.bs.runs:
-                if bs2 is None and run.style.get('name') == 'h2':
-                    bs2 = context.newString(run.s.strip(), h2Style)
-                    bs3 = bs4 = None
-                elif bs3 is None and run.style.get('name') == 'h3':
-                    bs3 = context.newString(run.s.strip(), h3Style)
-                    bs4 = context.newString('', h4Style)
-                elif run.style.get('name') == 'h4':
-                    bs4 += context.newString(run.s.strip(), h4Style)
-                elif run.style.get('name') == 'sup':
-                    bs4 += context.newString(run.s.strip(), h4Style)
-        elif e.isImage:
-            if not None in (bs2, bs3, bs4):            
-                bannerData.append((bs2, bs3, bs4, e.path, e.alt))
-                bs2 = bs3 = bs4 = None
-    
-
-    # Now we have all content, we can create the pages, one per post
-    page = doc[1]
-    for bs2, bs3, bs4, imagePath, alt in bannerData:
-        #print(bs2, bs3, bs4, imagePath)
-        iw, ih = context.imageSize(imagePath)
-        if iw > ih:
-            iw, ih = None, h
-        else:
-            iw, ih = w, None
-        if 'x=center' in alt:
-            xAlign = CENTER
-            x = w/2
-        else:
-            xAlign = None
-            x = 0
-        newImage(path=imagePath, parent=page, x=x, y=0, w=iw, h=ih, xAlign=xAlign)
-
-        if bs2 is not None:
-            tw, th = context.textSize(bs2, w=w-2*pad-2*tPad)
-            newRect(x=pad, y=h-th-2*tPad, fill=color(rgb='red', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
-            newText(bs2, x=pad+tPad, y=h-2*tPad, w=w-2*pad-2*tPad, parent=page)
-
-        if bs3 is not None:
-            tw, th = context.textSize(bs3, w=w-2*pad-2*tPad)
-            newRect(x=pad, y=h/2-3.5*tPad, fill=color(rgb='darkblue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
-            newText(bs3, x=pad+tPad, y=h/2, w=w-2*pad-2*tPad, parent=page)
-
-        if bs4 is not None:
-            tw, th = context.textSize(bs4, w=w-2*pad-2*tPad)
-            newRect(x=pad, y=0, fill=color(rgb='blue', a=0.8), w=w-2*pad, h=th+2*tPad, parent=page)
-            newText(bs4, x=pad+tPad, y=2*tPad, w=w-2*pad-2*tPad, parent=page)
-
-        page = page.next
-    return doc
 
 def makeTemplate(doc):
 

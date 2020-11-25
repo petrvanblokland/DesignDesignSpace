@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### Sketch and design info-graphics, while automating the variations from external data.
 
-#### Start June 21<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start June 21<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -30,7 +30,7 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 Completion of workshop [Basic coding in Python #1](#TY1) is recommended but not required.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

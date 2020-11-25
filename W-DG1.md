@@ -18,27 +18,27 @@ box = section.newMain()
 ~~~
 box = box.newInfo()
 ~~~
+The Design Game has 5 rounds, starting at a specific time on December 29th 2020. Each round has a different design assignment, ranging from respectively the design of a logo, a typographic page, a poster, a (corporate) identity and finally an exhibition.
 
-A typographic “Pentathlon” from 27-31 October.
+There is a strict and limited time frame available for each round, ranging from 1 hour at the start to 3 hours in the finale. Details about each assignment are given just before each round starts.
 
-The Design Game has 5 rounds, starting at a specific time on December 29<span class="sup">th</span>.
-Each round has a different design assignment, ranging from respectively the design of a logo, a typographic page, a poster, a (corporate) identity and finally an exhibition. 
+So, by definition, the finalists will show their skills as if in a sport “Pentathlon” match, expecting assignments for which it is unlikely that they specialized in all. Challenge your luck and speed.
 
-There is a strict and limited time frame available for each round, ranging from 1 hour at the start to 3 hours in the finale. Details about each assignment are given just before a round starts.
+After each round, the results are presented on Instagram, where the number of likes and the judgment of a professional jury will decide who passes to the next round.
 
-So, by definition, the finalists will show their skills as if in a sport “Pentathlon” match, expecting assignments for the design of a logo, a poster, a publication, a corporate identity and an exhibition. Challenge your luck and speed.
+The game needs at least 16 participants to take place, with a maximum of 32.
 
-After each round, the results are presented on Instagram, where the number of likes and the judgment of a professional jury will decide who passes to the next round on the next day. 
+## Free DesignDesign.Space workshops to win.
 
-The game needs at least 20 participants to take place, with a maximum of 50.
+* First prize: two free workshops (value $690) by <a href="https://designdesign.space" target="external">DesignDesign.Space</a>
+* Second prize: one free workshop (value $345) by <a href="https://designdesign.space" target="external">DesignDesign.Space</a>
+* Third prize: a day of feedback on one of your design projects (value $180) by <a href="https://designdesign.space" target="external">DesignDesign.Space</a>
 
-* First prize: two free workshops (value €580) by DesignDesign.Space
-* Second prize: one free workshop (value €290) by DesignDesign.Space
-* Third prize: a day of feedback on one of your design projects (value €180) by DesignDesign.Space
+The winning workshops count for the DesignDesign.Space rule that any 4th workshop that you do is free of charge.
 
-Contact us at info@designdesign.space if you have questions.
+For more information contact <a href="mailto:info@designdesign.space?subject=More information about Free Design Game Pentathlon in 5 Rounds DG1">info@designdesign.space</a>
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+Find related workshops and more on <a href="https://designdesign.space" target="external">DesignDesign.Space</a>
 
 ~~~
 box = section.newCropped()

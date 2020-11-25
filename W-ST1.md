@@ -10,7 +10,7 @@ box = section.newMain()
 
 ### Experience the making of moodboards and presentations
 
-#### Start November 30<span class="sup">th</span> 2020 • 2 weeks • €290
+#### Start November 30<span class="sup">th</span> 2020 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -27,7 +27,7 @@ The workshop gives an overview of making a presentation, using materials, 3D and
 * Present an existing design project in no more than 5 slides. Pay attention to consistency of layout, typegraphy and the use of color.
 * Can you present what makes your design so unique?
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/e/running-a-studio-1-moodboards-presentations-st1-tickets-130140089511" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

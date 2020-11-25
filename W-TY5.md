@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### Designing the process of feedback on your type projects
 
-#### Start December 14<span class="sup">st</span> 2020 • 2 weeks • €290
+#### Start December 14<span class="sup">st</span> 2020 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -32,7 +32,7 @@ Can you apply these methods to your other type projects?
 This workshop is a companion of [Sketching, feedback and planning in type design](#TY4)
 
 The workshop assumes no experience with programming in Python. An Apple computer is required to run the DrawBot application. 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/e/coaching-type-projects-ty5-designing-the-process-of-your-type-projects-tickets-130097462011" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

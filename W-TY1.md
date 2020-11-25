@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### For graphic designers: how to select a typeface. Understanding contrast by writing. Experiment with weight and width variations.
 
-#### Start January 18<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start January 18<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -28,7 +28,7 @@ Graphic designers work with type all day. It is one of their most important tool
 * Learn the basics about capitals, roman, italic, spacing and kerning.
 * Digitize your writings into outlines, using your favourite type editor;
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### How to design an inspiring workspace inside your home
 
-#### Start July 19<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start July 19<span class="sup">th</span> 2021 • 2 weeks • $345
 
 More information soon here.
 
@@ -31,7 +31,7 @@ The workshop gives insight in various sketching techniques, using pen on paper a
 * Sketch abstract processes, such as a website design.
 -->
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

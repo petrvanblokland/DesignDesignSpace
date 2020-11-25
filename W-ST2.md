@@ -10,7 +10,7 @@ box = section.newMain()
 
 ### The making of quotes, briefings, plannings and requirement lists
 
-#### Start December 14<span class="sup">th</span> 2020 • 2 weeks • €290
+#### Start December 14<span class="sup">th</span> 2020 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -27,7 +27,7 @@ The workshop shows methods to design the process of administration, as if it was
 * Sketch info-graphics that show the iterations of a design process. Visualise the planning for your customer;
 * Automate the generation of progress reports.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/e/running-a-studio-2-requirements-quotes-plannings-st2-tickets-130141818683" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

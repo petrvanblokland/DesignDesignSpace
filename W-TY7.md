@@ -9,7 +9,7 @@ box = section.newMain()
 
 ### Tools to support design and production
 
-#### Start May 10<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start May 10<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()

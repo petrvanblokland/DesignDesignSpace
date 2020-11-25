@@ -12,7 +12,7 @@ box = section.newMain()
 
 ### Learn to recognize and use the characteristics that make typefaces the right choice for a certain task.
 
-#### Start May 24<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start May 24<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -28,7 +28,7 @@ What seems to be an infinite amount of availabe typefaces, once examined on thei
 
 The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this workshop requires a MacOS computer.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

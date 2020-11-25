@@ -9,7 +9,7 @@ box = section.newMain()
 
 ### The workshop is a building kit to make a working script typeface. No prior knowledge of coding is required.
 
-#### Start July 5<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start July 5<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()

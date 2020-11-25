@@ -8,7 +8,7 @@ box = section.newMain()
 
 ### Methods and examples to get remote students engaged in design projects
 
-#### Start January 4<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start January 4<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -26,7 +26,7 @@ This workshop shares our experience of teaching online with DesignDesign.Space w
 
 This workshop is followed up by [Teaching simulations and design games](#DE2).
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/e/teaching-design-online-exercises-feedback-evaluation-de1-tickets-130162620903" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

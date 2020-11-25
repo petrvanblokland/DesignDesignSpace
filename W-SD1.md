@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### Learn the basic skills to visualise your ideas in 3D
 
-#### Start July 5<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start July 5<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -27,7 +27,7 @@ The workshop gives insight in various sketching techniques, using pen on paper a
 * Select a topic from the news and visualize the information in a 3D space;
 * Use the scale model as final product, publishing a walk-through online.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

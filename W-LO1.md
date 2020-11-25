@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### Learn the essentials of branding, visual grammar and logo oriented type design.
 
-#### Start Februari 1<span class="sup">st</span> 2021 • 2 weeks • €290
+#### Start Februari 1<span class="sup">st</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -28,7 +28,7 @@ This workshop shows different types of processes to design a logo. Match the lis
 * Study the effects of size and resolution on logos;
 * How to extract the visual grammar of a logo, to be applied separately in publications and manuals.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

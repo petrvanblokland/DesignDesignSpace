@@ -11,7 +11,7 @@ box = section.newMain()
 ### Sketching, design and implementation of variable axes
 
 
-#### Undated • 2 weeks • €290
+#### Undated • 2 weeks • $345
 
 ~~~
 box = box.newInfo()

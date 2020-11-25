@@ -10,9 +10,9 @@ box = section.newMain()
 
 ### Functions, methods and classes
 
-#### Start November 30<span class="sup">th</span> 2020 • 2 weeks • €290
+#### Start November 30<span class="sup">th</span> 2020 • 2 weeks • $345
 
-#### Start March 1<span class="sup">st</span> 2021 • 2 weeks • €290
+#### Start March 1<span class="sup">st</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo() # No popup-arrow for running and upcoming workshops
@@ -33,7 +33,7 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 Completion of workshop [Basic coding in Python #1](#TY1) is recommended.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()
@@ -44,11 +44,11 @@ box = section.newCropped()
 ![cover y=top x=center](images/pageBotCode.png)
 
 <!--
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">
 ![cover y=top x=center](images/01_Instagram_FewSpaces_5.jpg)
 </a>
 
-## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
+## <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" style="color:#F54C0A" target="external">Subscribe here</a>
 
 -->
 

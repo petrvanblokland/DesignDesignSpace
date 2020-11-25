@@ -10,9 +10,9 @@ box = section.newMain()
 
 ### Using the seven parameters of Bertin: position, size, shape, texture, value, orientation and color.
 
-#### Start April 26<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start April 26<span class="sup">th</span> 2021 • 2 weeks • $345
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = box.newInfo()
@@ -43,5 +43,5 @@ box = section.newCropped()
 ![cover y=top](images/IMG_8940.jpg)
 
 <!--
-## <a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" style="color:#F54C0A" target="external">Subscribe here</a>
+## <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" style="color:#F54C0A" target="external">Subscribe here</a>
 -->

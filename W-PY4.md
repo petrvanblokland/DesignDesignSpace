@@ -9,11 +9,11 @@ box = section.newMain()
 
 ### Make your scripted tools more user-friendly
 
-#### ==NOW RUNNING== Start November 11<span class="sup">th</span> 2020 • 2 weeks • €290
+#### ==NOW RUNNING== Start November 11<span class="sup">th</span> 2020 • 2 weeks • $345
 
-#### Start January 18<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start January 18<span class="sup">th</span> 2021 • 2 weeks • $345
 
-#### Start April 12<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start April 12<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 #box = box.newInfo()
@@ -35,7 +35,7 @@ The use of <a href="http://drawbot.com" target="external">DrawBot</a> in this wo
 
 Completion of workshops [Basic coding in Python #1 (PY1)](#PY1) and [Basic coding in Python #2 (PY2)](#PY2) and [Coding simple scripted tools (PY3)](#PY3) is recommended.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

@@ -9,7 +9,7 @@ box = section.newMain()
 
 ### The workshop is a building kit to make your own tools. No prior knowledge of coding is required.
 
-#### Start July 19<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start July 19<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()

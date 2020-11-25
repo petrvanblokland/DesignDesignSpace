@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### Write code to generate type specimens for web and print, using a selection of typefaces.
 
-#### Start June 7<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start June 7<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()

@@ -10,7 +10,7 @@ box = section.newMain()
 
 ### Methods, scripts and templates
 
-#### Start March 15<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start March 15<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()
@@ -27,7 +27,7 @@ This workshop offers two weeks of writing scripts that support your type design 
 
 Completion of workshops [Basic coding in Python #1](#coding-in-python1), [Basic coding in Python #1](#coding-in-python2) and [Coding simple scripted tools](#simple-scripted-tools) is recommended.
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

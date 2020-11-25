@@ -11,9 +11,9 @@ box = section.newMain()
 
 ### Study the balance between diversity and coherency
 
-#### Start May 10<span class="sup">th</span> 2021 • 2 weeks • €290
+#### Start May 10<span class="sup">th</span> 2021 • 2 weeks • $345
 
-<a href="https://docs.google.com/forms/d/1vLKGROUx03Sm3QGWEwuP1f7Uo1v4qQCmG1FlaxOT88A" target="external">Subscribe here</a>
+<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = box.newInfo()
