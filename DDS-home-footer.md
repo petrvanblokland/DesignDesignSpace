@@ -16,8 +16,8 @@ box = section.newMain()
 
 You can subscribe and pay for the workshops one by one. DesignDesign.Space keeps track of the total amount of workshops that you did. 
 
-All payments in Euro's.
-Inside The Netherlands 21% VAT is added.
+All payments in US dollars.
+Inside The Netherlands 21% VAT is added in a separate invoice.
 Inside the rest of Europe no VAT is added, if you have a VAT registration number.
 Outside Europe no VAT is added.
 We send an invoice over the total amount.
