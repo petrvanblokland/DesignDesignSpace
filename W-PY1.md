@@ -10,7 +10,7 @@ box = section.newMain()
 
 ### Design by parameters
 
-#### Start November 16<span class="sup">th</span> 2020 • 2 weeks • $345
+<!--#### Start November 16<span class="sup">th</span> 2020 • 2 weeks • $345-->
 
 #### Start February 15<span class="sup">th</span> 2021 • 2 weeks • $345
 

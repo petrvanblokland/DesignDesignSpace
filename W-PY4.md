@@ -9,7 +9,7 @@ box = section.newMain()
 
 ### Make your scripted tools more user-friendly
 
-#### ==NOW RUNNING== Start November 11<span class="sup">th</span> 2020 • 2 weeks • $345
+<!--#### ==NOW RUNNING== Start November 11<span class="sup">th</span> 2020 • 2 weeks • $345-->
 
 #### Start January 18<span class="sup">th</span> 2021 • 2 weeks • $345
 

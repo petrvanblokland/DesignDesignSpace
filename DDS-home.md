@@ -163,10 +163,10 @@ box = section.newMain()
 ##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
 ##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools (PY3)](#PY3)
--->
 ##### <span class="tab">2020-11-02</span> • [== NOW RUNNING == Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == Basic coding in Python #1: Design by parameters (PY1)](#PY1)
-##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
+-->
+##### <span class="tab">2020-11-30</span> • [== Few spaces left ==Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
 ##### <span class="tab">2021-01-18</span> • [Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2021-02-15</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
@@ -180,9 +180,9 @@ box = section.newMain()
 <!--
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
--->
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == General sketching techniques (SK1)](#SK1)
-##### <span class="tab">2020-11-30</span> • [Running a studio #1: Moodboards & presentations (ST1)](#ST1)
+-->
+##### <span class="tab">2020-11-30</span> • [== Few spaces left == Running a studio #1: Moodboards & presentations (ST1)](#ST1)
 ##### <span class="tab">2020-12-14</span> • [Running a studio #2: Requirements, quotes & plannings (ST2)](#ST2)
 ##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin (VG1)](#VG1)
 ##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency (VG2)](#VG2)
@@ -251,13 +251,13 @@ box = box.newInfo()
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 ##### <span class="tab">2020-10-19</span> • [Coding simple scripted tools (PY3)](#PY3)
--->
-#### November
 ##### <span class="tab">2020-11-02</span> • [== NOW RUNNING == Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == General sketching techniques (SK1)](#SK1)
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == Basic coding in Python #1: Design by parameters (PY1)](#PY1)
-##### <span class="tab">2020-11-30</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
-##### <span class="tab">2020-11-30</span> • [Running a small studio #1: Moodboards & presentations (ST1)](#ST1)
+-->
+#### November
+##### <span class="tab">2020-11-30</span> • [== Few spaces left == Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
+##### <span class="tab">2020-11-30</span> • [== Few spaces left == Running a small studio #1: Moodboards & presentations (ST1)](#ST1)
 
 #### December
 ##### <span class="tab">2020-12-14</span> • [Running a small studio #2: Requirements, quotes & plannings (ST2)](#ST2)
