@@ -254,14 +254,14 @@ box = box.newInfo()
 ##### <span class="tab">2020-11-02</span> • [== NOW RUNNING == Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == General sketching techniques (SK1)](#SK1)
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == Basic coding in Python #1: Design by parameters (PY1)](#PY1)
--->
 #### November
 ##### <span class="tab">2020-11-30</span> • [== Few spaces left == Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2020-11-30</span> • [== Few spaces left == Running a small studio #1: Moodboards & presentations (ST1)](#ST1)
+-->
 
 #### December
-##### <span class="tab">2020-12-14</span> • [Running a small studio #2: Requirements, quotes & plannings (ST2)](#ST2)
-##### <span class="tab">2020-12-14</span> • [Coaching Type Projects (TY5)](#TY5)
+##### <span class="tab">2020-12-14</span> • [== Running == Running a small studio #2: Requirements, quotes & plannings (ST2)](#ST2)
+##### <span class="tab">2020-12-14</span> • [== Running == Coaching Type Projects (TY5)](#TY5)
 ##### <span class="tab">2020-12-29/30</span> • [==Free workshop== Design Game Pentathlon 5 Rounds (DG1)](#DG1)
 
 ### 2020
