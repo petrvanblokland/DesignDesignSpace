@@ -10,7 +10,9 @@ box = section.newMain()
 
 ### Functions, methods and classes
 
+<!--
 #### Start November 30<span class="sup">th</span> 2020 • 2 weeks • $345
+-->
 
 #### Start March 1<span class="sup">st</span> 2021 • 2 weeks • $345
 

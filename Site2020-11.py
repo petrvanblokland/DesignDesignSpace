@@ -74,7 +74,7 @@ SITE_NAME = 'DesignDesign.Space' # Also used as logo
 MD_PATHS = [
     'DDS-home.md',
         # Import workshop descriptions from separate files, in order of
-        'W-DE1.md', # Teaching Design Education: online, exercises, feedback & evaluation (DE1)
+        #'W-DE1.md', # Teaching Design Education: online, exercises, feedback & evaluation (DE1)
         'W-DE2.md', # Teaching simulations and design games (DE2)
         'W-DG1.md', # ==Free workshop== Design Game Pentathlon 5 Rounds (DG1)
         'W-GD1.md', # Basics of typography, grids & layout (GD1)
@@ -91,14 +91,14 @@ MD_PATHS = [
         'W-PY5.md', # Scripting for RoboFont (PY5)
         'W-SD1.md', # Basic exhibition design (SD1)
         'W-SD2.md', # Workspace design (SD2)
-        'W-SK1.md', # General sketching techniques (SK1)
-        'W-ST1.md', # Running a small studio #1: Moodboards & presentations (ST1)
-        'W-ST2.md', # Running a small studio #2: Requirements, quotes & plannings (ST2)
+        #'W-SK1.md', # General sketching techniques (SK1)
+        #'W-ST1.md', # Running a small studio #1: Moodboards & presentations (ST1)
+        #'W-ST2.md', # Running a small studio #2: Requirements, quotes & plannings (ST2)
         'W-TY1.md', # Basic principles of type design: For graphic designers (TY1)
         'W-TY2.md', # Contrast principles of type design (TY2)
         'W-TY3.md', # Sketching type (TY3)
         'W-TY4.md', # Sketching, feedback & planning in type design (TY4)
-        'W-TY5.md', # Coaching Type Projects (TY5)
+        #'W-TY5.md', # Coaching Type Projects (TY5)
         'W-TY6.md', # Design design spaces for Variable Fonts (TY6)
         'W-TY7.md', # Design the process and tools for Variable Fonts (TY7)
         'W-TY8.md', # Designing a script (TY8)

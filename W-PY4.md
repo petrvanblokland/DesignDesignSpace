@@ -11,7 +11,9 @@ box = section.newMain()
 
 <!--#### ==NOW RUNNING== Start November 11<span class="sup">th</span> 2020 • 2 weeks • $345-->
 
+<!--
 #### Start January 18<span class="sup">th</span> 2021 • 2 weeks • $345
+-->
 
 #### Start April 12<span class="sup">th</span> 2021 • 2 weeks • $345
 

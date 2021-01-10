@@ -8,7 +8,9 @@ box = section.newMain()
 
 ### Automate repeating tasks in the design process
 
+<!--
 #### Start January 4<span class="sup">th</span> 2021 • 2 weeks • $345
+-->
 
 #### Start March 29<span class="sup">th</span> 2021 • 2 weeks • $345
 

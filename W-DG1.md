@@ -11,7 +11,9 @@ box = section.newMain()
 
 ### In 5 rounds designers prove their skill in all round design practice.
 
+<!--
 #### Start December 29-30<span class="sup">th</span> 2020 • 2 days • Free • Limited subscriptions
+-->
 
 #### Start March 09-10<span class="sup">th</span> 2021 • 2 days • Free • Limited subscriptions
 

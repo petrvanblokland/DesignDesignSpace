@@ -11,7 +11,7 @@ box = section.newMain()
 
 ### For type designers: understanding the principles of contrast by writing. Experiment with weight and width variations.
 
-#### Start January 1<span class="sup">st</span> 2021 • 2 weeks • $345
+#### Start February 1<span class="sup">st</span> 2021 • 2 weeks • $345
 
 ~~~
 box = box.newInfo()

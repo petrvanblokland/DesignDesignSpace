@@ -166,8 +166,8 @@ box = section.newMain()
 ##### <span class="tab">2020-11-02</span> • [== NOW RUNNING == Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == Basic coding in Python #1: Design by parameters (PY1)](#PY1)
 ##### <span class="tab">2020-11-30</span> • [== Few spaces left ==Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
--->
 ##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
+-->
 ##### <span class="tab">2021-01-18</span> • [Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2021-02-15</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
 ##### <span class="tab">2021-03-01</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
@@ -182,14 +182,16 @@ box = section.newMain()
 ##### <span class="tab">2020-10-05</span> • [Visual grammar #2: Balance diversity & coherency](#visual-grammar2)
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == General sketching techniques (SK1)](#SK1)
 ##### <span class="tab">2020-11-30</span> • [== Few spaces left == Running a studio #1: Moodboards & presentations (ST1)](#ST1)
--->
 ##### <span class="tab">2020-12-14</span> • [== Running == Running a studio #2: Requirements, quotes & plannings (ST2)](#ST2)
+-->
 ##### <span class="tab">2021-04-26</span> • [Visual grammar #1: The seven parameters of Bertin (VG1)](#VG1)
 ##### <span class="tab">2021-05-10</span> • [Visual grammar #2: Balance diversity & coherency (VG2)](#VG2)
 
 ### Type design
 
+<!--
 ##### <span class="tab">2020-12-14</span> • [== Running == Coaching Type Projects (TY5)](#TY5)
+-->
 ##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers (TY1)](#TY1)
 ##### <span class="tab">2021-02-01</span> • [Contrast principles of type design (TY2)](#TY2)
 ##### <span class="tab">2021-02-15</span> • [Coaching Type Projects (TY5)](#TY5)
@@ -218,7 +220,9 @@ box = section.newMain()
 
 ### Design Game
 
+<!--
 ##### <span class="tab">2020-12-29/30</span> • [== Free workshop == Design Game Pentathlon 5 Rounds (DG1)](#DG1)
+-->
 ##### <span class="tab">2021-03-09/10</span> • [== Free workshop == Design Game Pentathlon 5 Rounds (DG1)](#DG1)
 
 ### Spacial design
@@ -257,18 +261,20 @@ box = box.newInfo()
 #### November
 ##### <span class="tab">2020-11-30</span> • [== Few spaces left == Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2020-11-30</span> • [== Few spaces left == Running a small studio #1: Moodboards & presentations (ST1)](#ST1)
--->
 
 #### December
 ##### <span class="tab">2020-12-14</span> • [== Running == Running a small studio #2: Requirements, quotes & plannings (ST2)](#ST2)
 ##### <span class="tab">2020-12-14</span> • [== Running == Coaching Type Projects (TY5)](#TY5)
 ##### <span class="tab">2020-12-29/30</span> • [==Free workshop== Design Game Pentathlon 5 Rounds (DG1)](#DG1)
+-->
 
-### 2020
+### 2021
 
 #### January
+<!--
 ##### <span class="tab">2021-01-04</span> • [Teaching Design: online, exercises, feedback & evaluation (DE1)](#DE1)
 ##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
+-->
 ##### <span class="tab">2021-01-18</span> • [Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers (TY1)](#TY1)
 
