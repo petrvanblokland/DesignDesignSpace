@@ -249,9 +249,9 @@ box = section.newMain()
 box = box.newInfo()
 ~~~
 
+<!--
 ### 2020
 
-<!--
 ##### <span class="tab">2020-08-24</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
 ##### <span class="tab">2020-09-07</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2020-09-21</span> • [Visual grammar #1: The seven parameters of Bertin](#visual-grammar1)

@@ -1,4 +1,5 @@
-# Python scripting for type designers 2018-03
+
+# Python scripting for type designers (PY1)  2018-03
 ## June Shin
 
 Hi Petr,

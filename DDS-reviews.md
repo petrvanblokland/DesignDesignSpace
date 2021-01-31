@@ -11,7 +11,7 @@ page.url = 'reviews.html'
 content = page.select('Content')
 box = content.newBanner()
 ~~~
-# What happened in before
+# What happened before
 
 ~~~
 box = content.newIntroduction()
@@ -37,6 +37,7 @@ box = section.newMain()
 * Mapping the profession in detail, for type design students (12 days)
 * Various individual coaching projects, ranging from type-crit to support at the background of regular design studies
 * Six free workshops in Corona time (12 weeks)
+* A series of 2-week workshops about various topics, starting August 2019
 
 ~~~
 box = section.newCropped()
@@ -55,6 +56,51 @@ box = content.newIntroduction()
 section = content.newSection()
 box = mainBox = section.newMain()
 ~~~ 
+
+### “This practice made the process of creating letter shapes more productive.”
+
+~~~
+box = mainBox.newInfo()
+~~~
+
+*“TY1 was an excellent learning experience, in two complementary directions: to deepen the practice of manual sketching and to understand the constructive principles of glyph design with Bezier curves.*
+
+*This practice made the process of creating letter shapes more productive, more rational and effective. The program’s methodology and flexibility, combined with Petr’s experience, helped a lot in solving specific design problems I was experiencing in my personal work.”* **- Claudio Rocha**
+
+~~~
+box = mainBox
+~~~
+---
+
+### “I recommend these workshops!”
+
+~~~
+box = mainBox.newInfo()
+~~~
+
+*“I have really enjoyed the two workshops on visual grammar that I took with Petr van Blokland.  The exercises we did pushed me to think about design in ways I hadn't approached it before.  Although I am neither a type designer nor, for the most part, a graphic designer, I know that these workshops are going to lead me to think about my arts practice in new ways that will emerge over time.*
+ 
+*Petr has been a pleasure to learn from. He is very responsive, and any time you post new work on in Slack channel, he will give you feedback within a few hours.  At times, of course, that can feel like a never-ending process – no matter what you have done so far, there will always be new questions to ask and new ways to approach your product differently!  But that's how anything creative is.  The more iterations you go through on any particular exercise, the more you will learn from it, and you simply have to decide when you are ready to move onto the next thing and stop working on the previous one.*
+ 
+*I recommend these workshops! I also recommend taking them when you are going to have time to put into the exercises.  It is more enriching for everyone in the workshop if all the participants put effort into the exercises.  You will learn not only from your own work, but also from that of your fellow students, and you will all learn from having the opportunity to discuss what you see both in your own work and in each other's.  So do sign up when you have enough time to be an active participant.”* **- Joy Hecht**
+
+~~~
+box = mainBox
+~~~
+---
+
+### “I really enjoyed the workshop.”
+
+~~~
+box = mainBox.newInfo()
+~~~
+
+*“I really enjoyed the workshop. I have already learnt a lot from the first video session and the first task! I applied for the workshop to understand coding, which I think you explained very well. While coding is not the easiest language for me, I grasped quite a bit due to the way you explained things during the video session. The code files and the conversations on Slack were great too.”* **– Yesha Goshar**
+
+~~~
+box = mainBox
+~~~
+---
 
 ### “I appreciated that everyone was able to swim at their own pace.” 
 
@@ -101,6 +147,7 @@ box = mainBox.newInfo()
 ~~~
 
 *“This is my first time to have a formal Latin Design class. I am very lucky that I can learn from Petr because there are only a few Latin design classes in Taiwan.* 
+
 *Petr is always teaching design knowledge enthusiastically, using all he knows, when you have questions. Petr not only taught us how to design Latin fonts, but also how to think about the effect of every design and how to adjust them to become a better one. The most important thing is that you don't have to be afraid, if you are a starter because Petr will give a tailored class for everyone. I can promise that you can get a lot of treasures from Petr. I appreciate a lot that I could gain this experience from DD.S.”* **- Tom Kuo**
 
 ~~~
@@ -114,7 +161,8 @@ box = mainBox.newInfo()
 ~~~
 
 *“The aspect that fascinated me most about this program was the idea of building your own design tools to address design issues/problems. Although coding and programming was something I was always curious about, it was something I imagined to be a very separate and ‘complicated’ activity from my own. But the experience with Petr made me even more curious and eager to learn further. This was a very important foundation for me not only to further learning and integrating programming/coding into my design activities but also and more importantly rethink about my own design approach in a very fundamental way.*
-*Thank you so much, Petr, for this amazing experience and I look forward to interacting further”.* **– Andy Naorem**
+
+*Thank you so much, Petr, for this amazing experience and I look forward to interacting further.”* **– Andy Naorem**
 
 ~~~ 
 box = section.newSide()

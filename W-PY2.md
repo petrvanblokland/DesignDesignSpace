@@ -17,7 +17,7 @@ box = section.newMain()
 #### Start March 1<span class="sup">st</span> 2021 • 2 weeks • $345
 
 ~~~
-box = box.newInfo() # No popup-arrow for running and upcoming workshops
+#box = box.newInfo() # No popup-arrow for running and upcoming workshops
 ~~~
 
 After finishing [Basic coding in Python #1](#PY1), you have made a program that is doing one specific task. Great as that may be, it is hard to reuse that code for other projects. How nice would it be, to create a **“library”** with knowledge, that can be called for similar designs, without writing everything from scratch again?
