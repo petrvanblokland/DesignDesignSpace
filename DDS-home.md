@@ -167,8 +167,8 @@ box = section.newMain()
 ##### <span class="tab">2020-11-16</span> • [== Few spaces left == Basic coding in Python #1: Design by parameters (PY1)](#PY1)
 ##### <span class="tab">2020-11-30</span> • [== Few spaces left ==Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
--->
 ##### <span class="tab">2021-01-18</span> • [Coding tools with a user interface (PY4)](#PY4)
+-->
 ##### <span class="tab">2021-02-15</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
 ##### <span class="tab">2021-03-01</span> • [Basic coding in Python #2: Functions, methods & classes (PY2)](#PY2)
 ##### <span class="tab">2021-03-15</span> • [Scripting for RoboFont (PY5)](#PY5)
@@ -191,9 +191,9 @@ box = section.newMain()
 
 <!--
 ##### <span class="tab">2020-12-14</span> • [== Running == Coaching Type Projects (TY5)](#TY5)
+##### <span class="tab">2021-01-18</span> • [== Running == Basic principles of type design: For graphic designers (TY1)](#TY1)
 -->
-##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers (TY1)](#TY1)
-##### <span class="tab">2021-02-01</span> • [Contrast principles of type design (TY2)](#TY2)
+##### <span class="tab">2021-02-01</span> • [== Running == Contrast principles of type design (TY2)](#TY2)
 ##### <span class="tab">2021-02-15</span> • [Coaching Type Projects (TY5)](#TY5)
 ##### <span class="tab">2021-03-01</span> • [Sketching, feedback & planning in type design (TY4)](#TY4)
 ##### <span class="tab">2021-04-26</span> • [Design design spaces for Variable Fonts (TY6)](#TY6)
@@ -201,11 +201,13 @@ box = section.newMain()
 ##### <span class="tab">2021-06-07</span> • [Sketching type (TY3)](#TY3)
 ##### <span class="tab">2021-06-21</span> • [Coaching Type Projects (TY5)](#TY5)
 ##### <span class="tab">2021-07-05</span> • [Designing a script (TY8](#TY8)
-##### <span class="tab">2021-07-19</span> • [Coding your spacing/kerning tool (TY9)](#TY9)
+##### <span class="tab">2021-07-19</span> • [Coding your spacing/kerning assistant (TY9)](#TY9)
 
 ### Graphic design
 
+<!--
 ##### <span class="tab">2021-02-01</span> • [Basics of logo design (LO1)](#LO1)
+-->
 ##### <span class="tab">2021-03-15</span> • [Coding advanced logo variations (LO2)](#LO2)
 ##### <span class="tab">2021-03-29</span> • [Basics of typography, grids & layout (GD1)](#GD1)
 ##### <span class="tab">2021-04-12</span> • [Coding advanced typography & layouts for print and web (GD2)](#GD2)
@@ -270,17 +272,19 @@ box = box.newInfo()
 
 ### 2021
 
-#### January
 <!--
+#### January
 ##### <span class="tab">2021-01-04</span> • [Teaching Design: online, exercises, feedback & evaluation (DE1)](#DE1)
 ##### <span class="tab">2021-01-04</span> • [Coding simple scripted tools (PY3)](#PY3)
--->
 ##### <span class="tab">2021-01-18</span> • [Coding tools with a user interface (PY4)](#PY4)
 ##### <span class="tab">2021-01-18</span> • [Basic principles of type design: For graphic designers (TY1)](#TY1)
+-->
 
 #### February
+<!--
 ##### <span class="tab">2021-02-01</span> • [Basics of logo design (LO1)](#LO1)
-##### <span class="tab">2021-02-01</span> • [Contrast principles of type design (TY2)](#TY2)
+-->
+##### <span class="tab">2021-02-01</span> • [== Running == Contrast principles of type design (TY2)](#TY2)
 ##### <span class="tab">2021-02-15</span> • [Coaching Type Projects (TY5)](#TY5)
 ##### <span class="tab">2021-02-15</span> • [Basic coding in Python #1: Design by parameters (PY1)](#PY1)
 

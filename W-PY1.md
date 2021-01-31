@@ -17,7 +17,7 @@ box = section.newMain()
 <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
-box = box.newInfo()
+#box = box.newInfo()
 ~~~
 
 Take one of your designs and try to find the rules that are behind the composition. Learn to express that information in Python code. Then discover how the program can generate alternative versions of your original design, by the use of color themes, different page sizes and other parameters.

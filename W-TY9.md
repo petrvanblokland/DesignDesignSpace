@@ -5,7 +5,7 @@ section = content.newSection()
 box = section.newMain()
 ~~~
 <a name="TY9"/>
-## Coding your spacing/kerning tool <span class="wcode">(TY9)</span>
+## Coding your spacing/kerning assistant <span class="wcode">(TY9)</span>
 
 ### The workshop is a building kit to make your own tools. No prior knowledge of coding is required.
 

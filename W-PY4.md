@@ -18,7 +18,7 @@ box = section.newMain()
 #### Start April 12<span class="sup">th</span> 2021 • 2 weeks • $345
 
 ~~~
-#box = box.newInfo()
+box = box.newInfo()
 ~~~
 
 The focus of this workshop is on how to program user interaction. Extract the various options into menus, popups and checkboxes.
