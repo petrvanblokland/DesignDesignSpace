@@ -16,7 +16,7 @@ box = content.newBanner()
 ~~~
 box = content.newIntroduction()
 ~~~
-# Around 200 students have joined one or more of the workshops and studies since we started in 2017. Read some of their testimonials. 
+# Over 250 students have joined one or more of the workshops and studies since we started in 2017. Read some of their testimonials. 
 
 ~~~
 section = content.newSection()
@@ -28,16 +28,16 @@ box = section.newMain()
 * Scripting Variable Font specimens for type designers using PageBot (1 day)
 * Variable Fonts: design strategies and tool development (3 days)
 * Python scripting for graphic designers (4 weeks)
-* TypeLab, during Typographics 2018 (3 days)
+* TypeLab, during Typographics 2018, 2019 and 2020 (3 days)
 * Python scripting for graphic designers: public workshop (1 day)
 * The design of Latin type, for non-Latin type designers (8 weeks)
 * Scripting for non-Latin type (6 weeks)
 * Scripting the visual grammar for graphic design (4 weeks)
 * Design the design process (10 days)
 * Mapping the profession in detail, for type design students (12 days)
-* Various individual coaching projects, ranging from type-crit to support at the background of regular design studies
+* Various individual coaching projects, ranging from type-crit to background support of regular design studies
 * Six free workshops in Corona time (12 weeks)
-* A series of 2-week workshops about various topics, starting August 2019
+* The 2020-2021 program of 2-week workshops addressing various topics, which started at August 2019
 
 ~~~
 box = section.newCropped()
