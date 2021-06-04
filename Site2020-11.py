@@ -49,8 +49,8 @@ DO_MAMP = 'Mamp' # Generate website in /Applications/Mamp/htdocs/SimpleSite and 
 DO_GIT = 'Git' # Generate website and commit to git (so site is published in git docs folder.
 DO_TWITTER = 'Twitter' # Generate banners for each workshop on optimal Twitter size.
 DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Instagram square size.
-#EXPORT_TYPES = [DO_GIT]
-EXPORT_TYPES = [DO_MAMP]
+EXPORT_TYPES = [DO_GIT]
+#EXPORT_TYPES = [DO_MAMP]
 #EXPORT_TYPES = [DO_MAMP, DO_GIT]
 #EXPORT_TYPES = [DO_INSTAGRAM]
 
@@ -71,8 +71,8 @@ assert context is not None
 
 SITE_NAME = 'DesignDesign.Space' # Also used as logo
 
-MD_PATHS = [
-    'DDS-home.md',
+"""     Program 2021
+
         # Import workshop descriptions from separate files, in order of
         'W-PY1.md', # Basic coding in Python #1: Design by parameters (PY1)
         'W-PY2.md', # Basic coding in Python #2: Functions, methods & classes (PY2)
@@ -105,7 +105,10 @@ MD_PATHS = [
         'W-ST2.md', # Running a small studio #2: Requirements, quotes & plannings (ST2)
         'W-VG1.md', # Visual grammar #1: The seven parameters of Bertin (VG1)
         'W-VG2.md', # Visual grammar #2: Balance diversity & coherency (VG2)
-    'DDS-home-footer.md',
+"""
+
+MD_PATHS = [
+    'DDS-home.md',    'DDS-home-footer.md',
     'DDS-studies.md',
     'DDS-studies-type_design.md',
     'DDS-studies-typography.md',
