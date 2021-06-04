@@ -38,7 +38,22 @@ box = content.newBanner()
 # Which studies can we offer you in 2020?
 ~~~
 
-# Workshops in 2020-2021
+# Masterclasses in 2020-2021
+
+~~~
+box = content.newIntroduction()
+~~~
+
+![cover y=top x=center](images/TypeLab2021-Twitter.png)
+
+# TypeLab 2021 (June 17-19) is about to happen. And still open for contributions. This year focus is on workspaces. What does yours look like? Give us a tour. What are those interesting books on your shelf? Share them with us. Submitting is easy, just tell us what you would like to do. TypeLab is informal among friends. No need to be shy.
+
+~~~
+section = content.newSection()
+box = section.newMain()
+~~~
+
+## <a href="https://2021.typographics.com/typelab/" target="external">Read more here.</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd8rMhZB3dLn5yd7tjCy0Hc1mJoHYSDLdsdzMwRYuvtB6lsQ/viewform" target="external">Subscribe here.</a>
 
 <!--
 ~~~
@@ -110,11 +125,6 @@ box = slideshow.side
 
 # [Contact us](mailto:info@designdesign.space?subject=Subscribing%20for%20the%20free%20DesignDesign.Space%20workshop)
 
-~~~
-box = content.newIntroduction()
-~~~
-
-![cover y=top x=center](images/TypeLab2021Background.png)
 
 ~~~
 box = content.newIntroduction()
