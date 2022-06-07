@@ -54,8 +54,6 @@ box = section.newSide()
 * [Design education](scales-design_education_700.html)
 * [Type design](scales-type_design-1000.html)
 
-(Will be extended soon)
-
 ~~~
 """
 * [Research](scales-research-200.html)

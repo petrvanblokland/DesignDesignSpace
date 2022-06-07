@@ -1,23 +1,6 @@
 
 
 
-~~~
-section = content.newSection()
-box = section.newMain()
-~~~
-## $120 per one week masterclass
-
-All payments in US dollars.
-Inside The Netherlands 21% VAT is added in a separate invoice.
-Inside the rest of Europe no VAT is added, if you have a VAT registration number.
-Outside Europe no VAT is added.
-We send an invoice over the total amount.
-
-Your place in a masterclass is confirmed, once the payment is received.
-
-This pricing is for students, single designers and small studios. Pricing for corporate usage and custom made masterclass is upon request.
-
-<a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">Subscribe here</a>
 
 ~~~
 box = section.newCropped()

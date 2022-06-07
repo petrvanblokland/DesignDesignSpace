@@ -122,7 +122,7 @@ MD_PATHS = [
     'DDS-scales-programming_coding.md',
     'DDS-scales-design_education.md',
     'DDS-reviews.md',
-    'DDS-pricing.md',
+    #'DDS-pricing.md',
     'DDS-contact.md',
 ]
 EXPORT_PATH = '_export/' + SITE_NAME # Export path for DO_FILE
