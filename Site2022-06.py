@@ -51,7 +51,7 @@ DO_TWITTER = 'Twitter' # Generate banners for each workshop on optimal Twitter s
 DO_INSTAGRAM = 'Instagram' # Generate banners for each workshop on optimal Instagram square size.
 #EXPORT_TYPES = [DO_GIT]
 EXPORT_TYPES = [DO_MAMP]
-#EXPORT_TYPES = [DO_MAMP, DO_GIT]
+EXPORT_TYPES = [DO_MAMP, DO_GIT]
 #EXPORT_TYPES = [DO_INSTAGRAM]
 
 DDS_LOGO = spotColor(165)
