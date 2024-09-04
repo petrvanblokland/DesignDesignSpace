@@ -38,7 +38,7 @@ box = content.newBanner()
 # Which studies can we offer you in 2020?
 ~~~
 
-# Start your study project in 2022
+# Start your study project in 2025
 
 
 
