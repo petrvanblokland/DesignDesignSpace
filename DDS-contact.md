@@ -66,10 +66,9 @@ box = section.newSide()
 
 * [E-mail tptr@petr.com](mailto:buro@petr.com) 
 * Mobile +31 6 24 219 502
-* Address Boomsluiterskade 372/367 2511 VH The Hague NL
-* Twitter @petrvanblokland
+* Address Rotterdamseweg 150-d 2628AP Delft NL
 * [Instagram @petrvanblokland](https://www.instagram.com/petrvanblokland/)
-* Other links [TYPETR](https://typetr.typenetwork.com) and [TYPE-TRY](https://wwww.typetry.com)
+* Other links [TYPETR](https://typetr.typenetwork.com)
 
 [Photo: Suzanne Liem Photography](https://suzanneliem.com?language=2)
 
