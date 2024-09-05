@@ -95,7 +95,7 @@ box = slideshow.side
 box = content.newIntroduction()
 ~~~
 
-# Working from home? Studying online in the Corona world? Define a project you would like to do, but cannot find a way to start. Develop your profession. 
+# Working from home? Studying online in post-Corona world? Define a project you would like to do, but cannot find a way to start. Develop your profession. 
 
 ~~~ 
 #box = section.newCropped()

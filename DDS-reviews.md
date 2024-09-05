@@ -36,7 +36,7 @@ box = section.newMain()
 * Design the design process (10 days)
 * Mapping the profession in detail, for type design students (12 days)
 * Various individual coaching projects, ranging from type-crit to background support of regular design studies
-* Six free workshops in Corona time (12 weeks)
+* Six free workshops during Corona (12 weeks)
 * The 2020-2021 program of 2-week workshops addressing various topics, which started at August 2019
 
 ~~~
