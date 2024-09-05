@@ -39,6 +39,7 @@ box = content.newBanner()
 ~~~
 
 # Start your study project in 2025 (or even now)
+## Or maybe even this year!
 
 
 
