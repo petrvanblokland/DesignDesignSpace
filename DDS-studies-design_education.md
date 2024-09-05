@@ -77,7 +77,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_2391Cropped.jpg)
+![cover y=top](images/img_2391Cropped.jpg)
 
 ~~~
 box = section.newMain()
@@ -96,4 +96,4 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![cover y=bottom](images/BK-Interactive-Design.png)
+![cover y=bottom](images/bk-interactive-design.png)

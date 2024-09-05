@@ -41,21 +41,21 @@ TITLE2 = 'for graphic designers'
 PATH = '../docs/images/'
 
 IMAGES1 = (
-    ('F5.034.jpeg', (Fit2WidthSides(), Top2TopSide())),
-    ('IMG_1520BWLow.jpg', (Fit2WidthSides(), Top2TopSide())),
-    ('DesignModels2.038.png', (Fit2WidthSides(), Top2TopSide())),
-    ('IMG_4037.jpg', (Fit2WidthSides(), Top2TopSide())),
-    ('pageBotCode.png', (Fit2WidthSides(), Top2TopSide())),
-    ('IMG_1488.jpg', (Fit2WidthSides(), Middle2Middle())),
-    ('IMG_1132.jpg', (Fit2WidthSides(), Top2TopSide())),
+    ('fs.034.jpeg', (fit2widthsides(), Top2TopSide())),
+    ('img_1520bwlow.jpg', (fit2widthsides(), Top2TopSide())),
+    ('designmodels2.038.png', (fit2widthsides(), Top2TopSide())),
+    ('img_4037.jpg', (fit2widthsides(), Top2TopSide())),
+    ('pagebotcode.png', (fit2widthsides(), Top2TopSide())),
+    ('img_1488.jpg', (fit2widthsides(), Middle2Middle())),
+    ('img_1132.jpg', (fit2widthsides(), Top2TopSide())),
 )FRAMES = len(IMAGES1)
 IMAGES2 = (
-    ('IMG_1487.jpg', (Fit2WidthSides(), Top2TopSide())),
-    ('IMG_1520.jpg', (Fit2WidthSides(), Top2TopSide())),
-    ('DSGNWK_0665BW.jpg', (Fit2WidthSides(), Top2TopSide())),
-    ('IMG_1520BWLow.jpg', (Fit2WidthSides(), Top2TopSide())),
-    ('IMG_1132.jpg', (Fit2WidthSides(), Top2TopSide())),
-    ('pageBotCode.png', (Fit2WidthSides(), Top2TopSide())),
+    ('img_1487.jpg', (fit2widthsides(), Top2TopSide())),
+    ('img_1520.jpg', (fit2widthsides(), Top2TopSide())),
+    ('dsgnwk_0665bw.jpg', (fit2widthsides(), Top2TopSide())),
+    ('img_1520bwlow.jpg', (fit2widthsides(), Top2TopSide())),
+    ('img_1132.jpg', (fit2widthsides(), Top2TopSide())),
+    ('pagebotcode.png', (fit2widthsides(), Top2TopSide())),
 )
 
 #BANNER_DATA = [

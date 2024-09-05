@@ -33,6 +33,6 @@ The workshop gives insight in various sketching techniques, using pen on paper a
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_3917.jpeg)
+![cover y=top](images/img_3917.jpeg)
 
 

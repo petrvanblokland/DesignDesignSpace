@@ -39,7 +39,7 @@ Some workshops combine as a sequence. It is recommended to do them in the right 
 ~~~
 box = section.newCropped()
 ~~~
-![cover y=top](images/IMG_8940.jpg)
+![cover y=top](images/img_8940.jpg)
 
 ~~~
 section = content.newSection()
@@ -73,4 +73,4 @@ Pricing for corporate usage and custom made workshops is upon request.
 box = section.newCropped()
 ~~~
 
-![IMG_5840.jpg cover y=center x=center](images/IMG_5840.jpg)
+![img_5840.jpg cover y=center x=center](images/img_5840.jpg)

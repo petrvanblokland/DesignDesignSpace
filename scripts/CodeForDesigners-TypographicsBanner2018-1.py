@@ -42,7 +42,7 @@ TITLE3 = '\nLight coding. Simple examples. Small tools.\nFor starters and experi
 PATH = '../docs/images/'
 
 IMAGES1 = (
-    ('pageBotCode.png', [Fit2WidthSides()]),
+    ('pagebotcode.png', [fit2widthsides()]),
 )FRAMES = 14
 
 BANNER_DATA = [

@@ -46,6 +46,6 @@ Find related workshops and more on <a href="https://designdesign.space" target="
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_8251BW.JPG)
+![cover y=top](images/img_8251BW.JPG)
 
 

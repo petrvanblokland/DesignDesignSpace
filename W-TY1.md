@@ -34,6 +34,6 @@ Graphic designers work with type all day. It is one of their most important tool
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_2848.jpg)
+![cover y=top](images/img_2848.jpg)
 
 

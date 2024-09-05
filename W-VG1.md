@@ -38,9 +38,9 @@ box = section.newCropped()
 ~~~
 
 <!--
-![cover y=top](images/01_Instagram_FewSpaces_6.jpg)
+![cover y=top](images/01_instagram_fewspaces_6.jpg)
 -->
-![cover y=top](images/IMG_8940.jpg)
+![cover y=top](images/img_8940.jpg)
 
 <!--
 ## <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" style="color:#F54C0A" target="external">Subscribe here</a>

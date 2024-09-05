@@ -34,5 +34,5 @@ This workshop shows different types of processes to design a logo. Match the lis
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/IMG_5776.jpg)
+![cover y=top x=center](images/img_5776.jpg)
 

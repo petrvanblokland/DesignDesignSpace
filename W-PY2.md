@@ -43,7 +43,7 @@ box = section.newCropped()
 
 ~~~
 
-![cover y=top x=center](images/pageBotCode.png)
+![cover y=top x=center](images/pagebotcode.png)
 
 <!--
 <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">

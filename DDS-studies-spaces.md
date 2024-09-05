@@ -25,7 +25,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![cover y=center](images/BK-Environmental-Design.png)
+![cover y=center](images/bk-environmental-design.png)
 
 ~~~
 box = section.newMain()
@@ -50,7 +50,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_8940.jpg)
+![cover y=top](images/img_8940.jpg)
 
 ~~~
 box = section.newMain()
@@ -75,7 +75,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_8690.jpg)
+![cover y=top](images/img_8690.jpg)
 
 ~~~
 box = section.newMain()
@@ -99,7 +99,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/IMG_9439.jpg)
+![cover y=top](images/img_9439.jpg)
 
 ~~~
 box = section.newMain()
@@ -122,7 +122,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=bottom](images/IMG_2831.jpg)
+![cover y=bottom](images/img_2831.jpg)
 
 ~~~
 box = section.newMain()
@@ -146,7 +146,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_1132.jpg cover y=center x=center](images/IMG_8963.jpg)
+![img_1132.jpg cover y=center x=center](images/img_8963.jpg)
 
 ~~~
 box = section.newMain()
@@ -170,7 +170,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_1520.jpg cover y=top](images/IMG_1520.jpg)
+![img_1520.jpg cover y=top](images/img_1520.jpg)
 
 ~~~
 box = section.newMain()
@@ -196,7 +196,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=center x=center](images/IMG_E8927.jpg)
+![cover y=center x=center](images/img_e8927.jpg)
 
 ~~~
 box = section.newMain()
@@ -219,7 +219,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![IMG_1132.jpg cover y=top](images/IMG_1132.jpg)
+![img_1132.jpg cover y=top](images/img_1132.jpg)
 
 ~~~
 box = section.newMain()
