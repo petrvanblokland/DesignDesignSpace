@@ -39,5 +39,5 @@ For more information contact <a href="mailto:info@designdesign.space?subject=Sel
 box = section.newCropped()
 ~~~
 
-![cover y=center x=center](images/img_5941.jpeg)
+![cover y=center x=center](images/IMG_5941.jpeg)
 

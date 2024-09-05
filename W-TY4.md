@@ -40,4 +40,4 @@ The workshop assumes no experience with programming in Python. An Apple computer
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/img_5640.jpg)
+![cover y=top](images/IMG_5640.jpg)

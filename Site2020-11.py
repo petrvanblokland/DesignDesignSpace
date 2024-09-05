@@ -126,7 +126,7 @@ MD_PATHS = [
     'DDS-contact.md',
 ]
 EXPORT_PATH = '_export/' + SITE_NAME # Export path for DO_FILE
-INSTAGRAM_PATH = '_export/instagram.jpg'
+INSTAGRAM_PATH = '_export/Instagram.jpg'
 
 CLEAR_MAMP = False # If True, make a clean copy by removing all old files first.
 

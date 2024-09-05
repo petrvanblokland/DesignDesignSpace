@@ -98,7 +98,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![TYPETR-Upgrade-Screen.png cover y=top x=center ](images/typetr-upgrade-screen.png)
+![TYPETR-Upgrade-Screen.png cover y=top x=center ](images/TYPETR-Upgrade-Screen.png)
 
 ~~~ 
 box = section.newMain()
@@ -117,5 +117,5 @@ box = section.newMain()
 box = section.newCropped()
 ~~~
 
-![img_6120.jpg cover x=center y=center](images/img_6120.jpg)
+![IMG_6120.jpg cover x=center y=center](images/IMG_6120.jpg)
 

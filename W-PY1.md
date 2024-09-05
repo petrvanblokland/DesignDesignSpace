@@ -46,7 +46,7 @@ box = section.newCropped()
 
 <!--
 <a href="https://www.eventbrite.com/d/online/designdesign/?q=designdesign" target="external">
-![cover y=top x=center](images/01_instagram_running_4.jpg)
+![cover y=top x=center](images/01_Instagram_Running_4.jpg)
 </a>
 
 -->

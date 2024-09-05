@@ -38,5 +38,5 @@ Completion of workshops [Basic coding in Python #1](#PY1) and [Basic coding in P
 box = section.newCropped()
 ~~~
 
-![cover y=center x=center](images/img_5662.jpeg)
+![cover y=center x=center](images/IMG_5662.jpeg)
 

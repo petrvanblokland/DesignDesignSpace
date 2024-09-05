@@ -62,7 +62,7 @@ box = section.newSide()
 ~~~
 
 
-![Petr van Blokland_30x40_hi-res_3.jpg cover y=top](images/petr_van_blokland_30x40_hi-res_3_square.jpg)
+![Petr van Blokland_30x40_hi-res_3.jpg cover y=top](images/Petr_van_Blokland_30x40_hi-res_3_square.jpg)
 
 * [E-mail tptr@petr.com](mailto:buro@petr.com) 
 * Mobile +31 6 24 219 502

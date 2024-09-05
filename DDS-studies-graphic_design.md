@@ -23,7 +23,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![cover wi=1200 y=center](images/bk-graphic-design.png)
+![cover wi=1200 y=center](images/BK-Graphic-Design.png)
 
 ~~~
 box = section.newMain()
@@ -47,7 +47,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/img_e8891.jpg)
+![cover y=top](images/IMG_E8891.jpg)
 
 ~~~
 box = section.newMain()
@@ -99,7 +99,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![img_4925.jpg cover y=top x=center](images/img_4925.jpg)
+![IMG_4925.jpg cover y=top x=center](images/IMG_4925.jpg)
 
 ~~~
 box = section.newMain()
@@ -125,7 +125,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![fs.034.jpeg y=top w=100% cover](images/biercoverpages2_1.png)
+![F5.034.jpeg y=top w=100% cover](images/bierCoverPages2_1.png)
 
 ~~~
 box = section.newMain()
@@ -176,7 +176,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![img_2848.jpg cover x=center y=top](images/img_2848.jpg)
+![IMG_2848.jpg cover x=center y=top](images/IMG_2848.jpg)
 
 ~~~
 box = section.newMain()
@@ -204,7 +204,7 @@ box = box.newInfo()
 box = section.newSide()
 ~~~
 
-![pagebotcode.png cover y=top](images/pagebotcode.png)
+![pageBotCode.png cover y=top](images/pageBotCode.png)
 *[[Using the programming language Python during the design process is a logical choice. Yet, Design Design Space studies assume no pre-existing knowledge or experience. We start at your level.]]*
 
 ---

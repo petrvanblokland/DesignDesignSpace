@@ -87,14 +87,14 @@ Students that finish a training adequately, automatically get accepted for a nex
 
 *DesignDesign.Space* taps into 35 years of studio projects and over 50 years of combined experience of design education. Projects ranging from corporate identities, type design, typographic software, interiors, environmental design and running Design Games.
 
-![DSGNWK_0582BWLow.jpg](docs/images/dsgnwk_0582bwlow.jpg)
+![DSGNWK_0582BWLow.jpg](docs/images/DSGNWK_0582BWLow.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Although the online training obviously doesn’t include this direct way of working together, it is the aim to offer the best possible online design space, using the latest technology.*
 
 ~~~Python
 box = page['Main']['Side']
 ~~~
 
-![DesignModels2.009.png](docs/images/designmodels2.009.png)
+![DesignModels2.009.png](docs/images/DesignModels2.009.png)
 *What does your design profession look like 5 years from now? Or 20? Will your current skill set still be sufficient? How to make yourself independent from the changes in design that are likely to happen? Or better, how can you use them to our advantage?* Read what *DesignDesign.Space* has to offer.
 
 ~~~Python
@@ -237,10 +237,10 @@ You are disciplined to work hard between online sessions, and more interested in
 box = page['Main']['Side']
 ~~~
 
-![DSGNWK_0468BWLow.jpg](docs/images/dsgnwk_0468bwlow.jpg)
+![DSGNWK_0468BWLow.jpg](docs/images/DSGNWK_0468BWLow.jpg)
 *Many of the assignments need collaborating with other online students, who – throughout the process – can have different roles, ranging from colleague to client to user.*
 
-![DSGNWK_0665BWLow.jpg](docs/images/dsgnwk_0665bwlow.jpg)
+![DSGNWK_0665BWLow.jpg](docs/images/DSGNWK_0665BWLow.jpg)
 *Design Game on location at <a href="https://www.otis.edu" target="External">OTIS College of Art and Design</a>. Besides the development of sketching techniques, the design of feedback methods is an important and integral part of every DesignDesign.Space study.*
 
 ~~~Python
@@ -257,7 +257,7 @@ box = page['Introduction']
 ~~~Python
 box = page['Main']['Side']
 ~~~
-![img_1520bwlow.jpg](docs/images/img_1520bwlow.jpg)
+![IMG_1520BWLow.jpg](docs/images/IMG_1520BWLow.jpg)
 *Design Game on location at <a href="http://coopertype.org/nyc" target="External">Cooper Union</a>. Besides the development of presentation techniques, the design of feedback methods is an important and integral part of every DesignDesign.Space study.*
 
 ~~~Python
@@ -339,7 +339,7 @@ box = page['Introduction']
 box = page['Main']['Side']
 ~~~
 
-![docs/images/designmodels2.038.png](docs/images/designmodels2.038.png)
+![docs/images/DesignModels2.038.png](docs/images/DesignModels2.038.png)
 *Sketching is the process of eliminating unwanted options from the tree of all possibilities, without visualizing every single one of them.*
 
 ![docs/images/DesignModels2.037.png](docs/images/DesignModels2.037.png)
@@ -472,7 +472,7 @@ box = page['Section']['1']
 box = page['OtherMain']['Side']
 ~~~
 ![docs/images/pagebot_promo.png](docs/images/pagebot_promo.png)
-![docs/images/fs.034.jpeg](docs/images/fs.034.jpeg)
+![docs/images/F5.034.jpeg](docs/images/F5.034.jpeg)
 *PageBot is a library of Python classes, that can be used for the automated production of publications. Learning to use PageBot is an optional topic of the DesignDesign.Space study.*
 
 ![docs/images/TheEndOfCss015M1.050.jpeg](docs/images/TheEndOfCss015M1.050.jpeg)

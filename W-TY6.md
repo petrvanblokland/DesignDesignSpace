@@ -29,4 +29,4 @@ This workshop shows methods to visualize the complexity, including strategies fo
 box = section.newCropped()
 ~~~
 
-![cover y=center](images/img_6148.jpeg)
+![cover y=center](images/IMG_6148.jpeg)

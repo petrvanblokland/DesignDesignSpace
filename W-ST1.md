@@ -33,6 +33,6 @@ The workshop gives an overview of making a presentation, using materials, 3D and
 box = section.newCropped()
 ~~~
 
-![cover y=top x=center](images/img_6704.jpg)
+![cover y=top x=center](images/IMG_6704.jpg)
 
 

@@ -25,7 +25,7 @@ box = section.newIntroduction()
 box = section.newCropped()
 ~~~
 
-![cover y=center](images/bk-interaction-design.png)
+![cover y=center](images/BK-Interaction-Design.png)
 
 ~~~
 box = section.newMain()
@@ -124,7 +124,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/dsgnwk_0665bwcropped.jpg)
+![cover y=top](images/DSGNWK_0665BWCropped.jpg)
 
 ~~~
 box = section.newMain()
@@ -147,7 +147,7 @@ box = box.newInfo()
 box = section.newCropped()
 ~~~
 
-![Do you really need a designer cover y=top](images/doyoureallyneedadesigner.png)
+![Do you really need a designer cover y=top](images/DoYouReallyNeedADesigner.png)
 
 ~~~
 box = section.newMain()

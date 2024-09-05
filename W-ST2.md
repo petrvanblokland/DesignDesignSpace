@@ -33,6 +33,6 @@ The workshop shows methods to design the process of administration, as if it was
 box = section.newCropped()
 ~~~
 
-![cover y=top](images/img_8963.jpg)
+![cover y=top](images/IMG_8963.jpg)
 
 
