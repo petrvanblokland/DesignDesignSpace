@@ -1,18 +1,3 @@
-for name in installedFonts():
-    if 'Presti' in name:
-        print(name)
-W = 1000
-H = W*5/4
-newPage(W, H)
-fill(0.9, 0.9, 0.9)
-rect(0, 0, W, H)
-translate(0, 110)
-
-fs = FormattedString('Impossible Sierpinski-triangle', font='ProformaPro-Regular', fontSize=64, align='center')
-text(fs, (W/2, 1000))
-fs = FormattedString('Download real DrawBot code (no vibe) from\ndesigndesign.space/scales-programming_coding_400', font='ProformaPro-Regular', fontSize=40, align='center')
-text(fs, (W/2, 0))
-# https://designdesign.space/code/dds432/dds432-drawbot-sierpinski-triangle.py
 
 if 1: # Some sizing. Tweak for other sizes.
     SIZE = 33 # Size of vertex in cubes
